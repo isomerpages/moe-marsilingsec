@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Realise Your Potential, Make/Outstanding Former Students.md
-      - Realise Your Potential, Make/Featured in News.md
-      - Realise Your Potential, Make/Realise Your Potential, Make Your Mark.md
       - Realise Your Potential, Make/.keep
+      - Realise Your Potential, Make/Realise Your Potential, Make Your Mark.md
+      - Realise Your Potential, Make/Featured in News.md
+      - Realise Your Potential, Make/Outstanding Former Students.md
       - Our Strategic Thrusts.md
       - Our Guiding Principle.md
       - Our Motto.md
