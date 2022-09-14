@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Rules and Regulations/Student Conduct.md
       - Our Rules and Regulations/Internet Usage and Proper Use of School
         Facilities.md
       - Our Rules and Regulations/Personal Items and Mobile Phones.md
