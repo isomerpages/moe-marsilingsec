@@ -2,7 +2,20 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
+      - Message From Our Principal.md
+      - Our Philosophy.md
+      - Our Vision, Mission and Values.md
+      - Our Motto.md
+      - Our Guiding Principle.md
+      - Our Strategic Thrusts.md
+      - Realise Your Potential, Make/.keep
+      - Realise Your Potential, Make/Realise Your Potential, Make Your Mark.md
+      - Realise Your Potential, Make/Featured in News.md
+      - Realise Your Potential, Make/Outstanding Former Students.md
+      - Our Marsiling Secondary School Advisory Committee (SAC) Awards.md
+      - Our School Crest.md
+      - Our Profile.md
+      - Our Facilities.md
       - Our Rules and Regulations/.keep
       - Our Rules and Regulations/Our Rules and Regulations.md
       - Our Rules and Regulations/Attendance Policy.md
@@ -12,17 +25,4 @@ collections:
       - Our Rules and Regulations/Internet Usage and Proper Use of School
         Facilities.md
       - Our Rules and Regulations/Student Conduct.md
-      - Our Facilities.md
-      - Our Profile.md
-      - Our School Crest.md
-      - Our Marsiling Secondary School Advisory Committee (SAC) Awards.md
-      - Realise Your Potential, Make/.keep
-      - Realise Your Potential, Make/Realise Your Potential, Make Your Mark.md
-      - Realise Your Potential, Make/Featured in News.md
-      - Realise Your Potential, Make/Outstanding Former Students.md
-      - Our Strategic Thrusts.md
-      - Our Guiding Principle.md
-      - Our Motto.md
-      - Our Vision, Mission and Values.md
-      - Our Philosophy.md
-      - Message From Our Principal.md
+      - Contact Us.md
