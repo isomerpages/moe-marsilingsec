@@ -4,7 +4,7 @@ permalink: /uniform-and-grooming/
 description: ""
 third_nav_title: Our Rules and Regulations
 ---
-**School Uniform**
+#### **School Uniform**
 
 1.  The prescribed uniform consists of the following:
     1.  Old uniform
@@ -22,8 +22,7 @@ third_nav_title: Our Rules and Regulations
 
 Please refer to the last page of the student handbook for illustrations of the prescribed school uniform. Attire that does not follow the design of the school uniform is not acceptable.
 
-Grooming
---------
+#### Grooming
 
 1.  General Grooming
 
@@ -53,7 +52,7 @@ Girls’ hairstyle:
 *   Long fringe need to be pinned to the sides.
 *   Hair bands and pins need to be dark blue or black in colour.
 
-3.  Accessories
+3.  <u>Accessories</u>
 
 *   Only girls are allowed to wear a pair of simple studs at the ear lobes. Only one stud at each ear lobe is allowed.
 *   Ear rings are not allowed.
@@ -61,7 +60,7 @@ Girls’ hairstyle:
 *   Students are not allowed to wear friendship bands, rings, chains, jewellery or other fashion accessory items.
 *   Religious objects should be kept out of sight at all times.
 
-4.  Body Piercing and Tattoos
+4.  <u>Body Piercing and Tattoos</u>
 
 *   Body piercing and their associated accessories (e.g. studs, rings or small plastic sticks) are not allowed.
 *   Students are not allowed to sport tattoos on their bodies, whether visible or not.
