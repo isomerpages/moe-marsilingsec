@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Realise Your Potential, Make/Realise Your Potential, Make Your Mark.md
       - Realise Your Potential, Make/.keep
       - Our Strategic Thrusts.md
       - Our Guiding Principle.md
