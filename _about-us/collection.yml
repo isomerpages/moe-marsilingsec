@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Rules and Regulations/Our Rules and Regulations.md
       - Our Rules and Regulations/.keep
       - Our Facilities.md
       - Our Profile.md
