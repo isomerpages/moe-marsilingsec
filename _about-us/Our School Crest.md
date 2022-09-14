@@ -5,6 +5,17 @@ description: ""
 ---
 ![](/images/cropped-MSS-new-logo.jpeg)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/cropped-MSS-new-logo.jpeg" alt="Our School Crest" style="width:50%;">  
+  
+</body>
+
 The **TREE** figure represents constant personal growth and resilience. It also symbolises responsibility to the environment and its sustainability.
 
 The **HEART** formed by two hands symbolises Respect and Care for others, as well as Responsibility in carrying out our roles in family, school and community.
