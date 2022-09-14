@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Profile.md
       - Our School Crest.md
       - Our Marsiling Secondary School Advisory Committee (SAC) Awards.md
       - Realise Your Potential, Make/.keep
