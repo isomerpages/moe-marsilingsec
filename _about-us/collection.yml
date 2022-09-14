@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Our Vision, Mission and Values.md
       - Our Philosophy.md
       - Message From Our Principal.md
