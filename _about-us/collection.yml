@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Rules and Regulations/.keep
-      - Our Rules and Regulations.md
       - Our Facilities.md
       - Our Profile.md
       - Our School Crest.md
