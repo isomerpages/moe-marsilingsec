@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Marsiling Secondary School Advisory Committee (SAC) Awards.md
       - Realise Your Potential, Make/.keep
       - Realise Your Potential, Make/Realise Your Potential, Make Your Mark.md
       - Realise Your Potential, Make/Featured in News.md
