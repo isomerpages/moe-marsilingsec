@@ -2,15 +2,15 @@ collections:
   about-us:
     output: true
     order:
-      - Our Rules and Regulations/Student Conduct.md
+      - Our Rules and Regulations/.keep
+      - Our Rules and Regulations/Our Rules and Regulations.md
+      - Our Rules and Regulations/Attendance Policy.md
+      - Our Rules and Regulations/Routines and Procedures.md
+      - Our Rules and Regulations/Uniform and Grooming.md
+      - Our Rules and Regulations/Personal Items and Mobile Phones.md
       - Our Rules and Regulations/Internet Usage and Proper Use of School
         Facilities.md
-      - Our Rules and Regulations/Personal Items and Mobile Phones.md
-      - Our Rules and Regulations/Uniform and Grooming.md
-      - Our Rules and Regulations/Routines and Procedures.md
-      - Our Rules and Regulations/Attendance Policy.md
-      - Our Rules and Regulations/Our Rules and Regulations.md
-      - Our Rules and Regulations/.keep
+      - Our Rules and Regulations/Student Conduct.md
       - Our Facilities.md
       - Our Profile.md
       - Our School Crest.md
