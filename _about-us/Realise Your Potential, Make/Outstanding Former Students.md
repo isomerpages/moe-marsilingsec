@@ -20,10 +20,10 @@ Our heartiest congratulations to our former students.
 
 **4\. <u>Outstanding Graduates from Junior Colleges</u>**
 
-![](https://marsilingsec.moe.edu.sg/wp-content/uploads/2018/10/JC-2-1024x598.jpg)
+![Outstanding Graduates from Junior Colleges](/images/JC-2-1024x598.jpeg)
 
-![](https://marsilingsec.moe.edu.sg/wp-content/uploads/2018/10/JC-1-1024x629.jpg)
+![Outstanding Graduates from Junior Colleges](/images/JC-1-1024x629.jpeg)
 
 **5\. <u>Peter Lim Scholarship</u>**
 
-[![Nurin](https://marsilingsec.moe.edu.sg/wp-content/uploads/2021/06/Nurin-724x1024.jpg)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2021/06/Nurin-scaled.jpg)
+![Nurin](/images/Nurin-1448x2048.jpeg)
