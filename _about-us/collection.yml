@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Strategic Thrusts.md
       - Our Guiding Principle.md
       - Our Motto.md
       - Our Vision, Mission and Values.md
