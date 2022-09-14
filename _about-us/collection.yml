@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Rules and Regulations/Routines and Procedures.md
       - Our Rules and Regulations/Attendance Policy.md
       - Our Rules and Regulations/Our Rules and Regulations.md
       - Our Rules and Regulations/.keep
