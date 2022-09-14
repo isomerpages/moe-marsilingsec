@@ -14,15 +14,15 @@ third_nav_title: Our Rules and Regulations
         *   Students are not allowed to bring personal sports equipment to school. Otherwise, they may safe-keep them with the P.E department.
 2.  Prohibited Items <br><br>
     a.  **Students are not allowed to have in their possession any weapon. This includes any weapon-like item which can be used or intended to be used to cause harm to others.** <br><br>
-    b.  In addition, the following items are also prohibited on school premises: <br>
-        *   Electronic entertainment devices, including handheld computer games, MP3/4 players, CD players, and FM radio sets <br>
-        *   Poker/Magic cards<br>
-        *   Sharp objects and hardware tools which may cause injury such as pen knives and scissors<br>
-        *   Cigarette lighters/boxes or any smoking/vaping-related items<br>
-        *   Hair sprays and perfumes<br>
-        *   Games and toys<br><br>
-    c.  Pornography and Tobacco products<br>
-        *   It is a major offence for students to be found in possession of pornographic materials or tobacco products.
+    b.  In addition, the following items are also prohibited on school premises: <br><br>
+        •   Electronic entertainment devices, including handheld computer games, MP3/4 players, CD players, and FM radio sets <br>
+        •   Poker/Magic cards<br>
+        •   Sharp objects and hardware tools which may cause injury such as pen knives and scissors<br>
+        •   Cigarette lighters/boxes or any smoking/vaping-related items<br>
+        •   Hair sprays and perfumes<br>
+        •   Games and toys<br><br>
+    c.  Pornography and Tobacco products<br><br>
+        •   It is a major offence for students to be found in possession of pornographic materials or tobacco products.
 
 #### **Mobile Phones**
 
