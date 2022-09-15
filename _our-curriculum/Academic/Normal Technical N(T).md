@@ -71,18 +71,18 @@ Students are given the opportunity to participate in Work Experience Programme i
 <table>
 <thead>
   <tr>
-    <th><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>HAHAHAH</th>
-    <th></th>
+    <th><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"></th>
+    <th><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td></td>
-    <td></td>
+    <td><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"></td>
+    <td><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"></td>
+    <td><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"></td>
   </tr>
 </tbody>
 </table>
