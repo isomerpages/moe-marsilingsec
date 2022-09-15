@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Academic/Physical Education.md
       - Academic/Science.md
       - Academic/.keep
       - Full Subject Based Banding.md
