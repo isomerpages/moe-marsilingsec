@@ -107,13 +107,11 @@ Students will gain knowledge, understanding and application of concepts and skil
 *   Multimedia Communication (MMC)
 *   Media Computing (MEC)
 
-![Computer Applications](/images/Computer%20Applications.jpg)
-
 <table>
 <thead>
   <tr>
-    <td><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>HAHAHAH</td>
-    <td><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>HAHAHAH</td>
+    <td><img src="/images/Group-Leaders-and-classmates-during-CPA-lesson-768x470.jpeg" alt="Group Leaders And Classmates During CPA Lesson" width="55" height="17"><br>Group Leaders And Classmates During CPA Lesson</td>
+    <td><img src="/images/Group-work-during-CPA-projects.jpeg" alt="Group Work During CPA Projects" width="55" height="17"><br>Group Work During CPA Projects</td>
   </tr>
 </thead>
 </table>
