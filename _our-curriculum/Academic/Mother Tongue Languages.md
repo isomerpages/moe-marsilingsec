@@ -98,7 +98,7 @@ style="width:40%">
 <table>
 <thead>
   <tr>
-    <th><img src="https://www.tablesgenerator.com/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>HAHAHAH</th>
+    <th><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>HAHAHAH</th>
     <th></th>
     <th></th>
   </tr>
