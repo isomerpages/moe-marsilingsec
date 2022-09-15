@@ -83,21 +83,21 @@ Key programmes/participations:
 <table>
 <thead>
   <tr>
-    <th><img src="/images/IMG_7173-768x512.jpeg" width="55" height="17"></th>
-    <th><img src="/images/IMG_7288-768x512.jpeg" alt="Physical Education" width="55" height="17"></th>
-    <th><img src="/images/IMG_7268-768x512.jpeg" alt="Physical Education" width="55" height="17"></th>
+    <th><img src="/images/SCI_1-768x576.jpeg" width="55" height="17"></th>
+    <th><img src="/images/SCI_2-768x432.jpeg" alt="Science" width="55" height="17"></th>
+    <th><img src="/images/SCI_3-768x432.jpeg" alt="Science" width="55" height="17"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/IMG_7081-768x512.jpeg" alt="Physical Education" width="55" height="17"></td>
-    <td><img src="/images/IMG_7228-768x512.jpeg" alt="Physical Education" width="55" height="17"></td>
-    <td><img src="/images/IMG_7220-1-768x527.jpeg" alt="Physical Education" width="55" height="17"></td>
+    <td><img src="/images/SCI_4-768x576.jpeg" alt="Science" width="55" height="17"></td>
+    <td><img src="/images/SCI_5.jpeg" alt="Science" width="55" height="17"></td>
+    <td><img src="/images/SCI_6.jpeg" alt="Science" width="55" height="17"></td>
   </tr>
   
   <tr>
-    <td><img src="/images/IMG_7226-768x490.jpeg" alt="Rakan Bahasa Museum Guide At ACM" width="55" height="17"></td>
-		<td><img src="/images/IMG_7289-768x743.jpeg" alt="Physical Education" width="55" height="17"></td>
+    <td><img src="/images/SCI_7-768x661.jpeg" alt="Science" width="55" height="17"></td>
+		<td><img src="/images/SCI_8-768x576.jpeg" alt="Science" width="55" height="17"></td>
   </tr>
 </tbody>
 </table>
