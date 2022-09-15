@@ -44,9 +44,9 @@ Analytical thinkers; problem solving individuals
 <table>
 <tbody>
   <tr>
-    <th><img src="/images/SCI_1-768x576.jpeg" width="55" height="17"></th>
-    <th><img src="/images/SCI_2-768x432.jpeg" alt="Science" width="55" height="17"></th>
-    <th><img src="/images/SCI_3-768x432.jpeg" alt="Science" width="55" height="17"></th>
+    <th><img src="![](/images/01-5.jpeg)" width="55" height="17"></th>
+    <th><img src="![](/images/02-6.jpeg)" alt="Science" width="55" height="17"></th>
+    <th><img src="![](/images/03-6.jpeg)" alt="Science" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
