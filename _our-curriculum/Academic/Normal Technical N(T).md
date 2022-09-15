@@ -68,7 +68,24 @@ img {
 
 Students are given the opportunity to participate in Work Experience Programme in the hospitality industry. Students are exposed to the travel and tourism and hospitality industries in Singapore through learning journeys so that they can relate what they learnt in class with the reality in Singapore.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSiEuxKhVYJAUSourIclLCIYFmKJ5MeYzGrEUaGjFWBfAmr7ajh4u7WY4bGyRie-iM9D5cCbYh-pqEb/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<table>
+<thead>
+  <tr>
+    <th><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>HAHAHAH</th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
 
 **<u>Computer Applications</u>**
 
@@ -93,5 +110,3 @@ Students will gain knowledge, understanding and application of concepts and skil
 ![Computer Applications](/images/Computer%20Applications.jpg)
 
 ### Photographs
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRqgi6mkzgUnRhSWpxjy4gMyz-t1bkqlIfIZK0OAVzqpd7DhDCAtZH9OPdvu4y22q4h9925MSkQFS-y/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
