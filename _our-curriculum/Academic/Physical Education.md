@@ -34,24 +34,25 @@ Through the rigours of the department’s programmes, our students will be able 
 <table>
 <thead>
   <tr>
-    <th><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="From Reading To Making Puppets & Dialogue" width="55" height="17"></th>
-    <th><img src="/images/20190306_172412_Dikir-Barat-during-Sec-1-Culture-Camp-768x576.jpeg" alt="Dikir Barat Session (Sec 1 Culture Camp)" width="55" height="17"></th>
-    <th><img src="/images/IMG_7867_The-Mask-768x512.jpeg" alt="The Mask" width="55" height="17"></th>
+    <th><img src="![](/images/IMG_7173-768x512.jpeg)" width="55" height="17"></th>
+    <th><img src="![](/images/IMG_7288-768x512.jpeg)" alt="Dikir Barat Session (Sec 1 Culture Camp)" width="55" height="17"></th>
+    <th><img src="![](/images/IMG_7268-768x512.jpeg)" alt="The Mask" width="55" height="17"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/IMG-20190115-WA0020_Kolum-by-TL-Unit-768x576.jpeg" alt="Kolum" width="55" height="17"></td>
-    <td><img src="/images/IMG-20190703-WA0030_Wujiang-768x576.jpeg" alt="Twinning Programme" width="55" height="17"></td>
-    <td><img src="/images/IMG-20190916-WA0025_Photo-with-MOS-@-Bulan-Bahasa-768x511.jpeg" alt="Bulan Bahasa" width="55" height="17"></td>
+    <td><img src="![](/images/IMG_7081-768x512.jpeg)" alt="Kolum" width="55" height="17"></td>
+    <td><img src="![](/images/IMG_7228-768x512.jpeg)" alt="Twinning Programme" width="55" height="17"></td>
+    <td><img src="![](/images/IMG_7220-1-768x527.jpeg)" alt="Bulan Bahasa" width="55" height="17"></td>
   </tr>
   <tr>
-    <td><img src="/images/Learning_Journey_Little_India2018-768x576.jpeg" alt="Learning Journey Little India" width="55" height="17"></td>
-    <td><img src="/images/IMG-20190919-WA0024_N5-Cluster-Sharing-At-MSS-768x576.jpeg" alt="N5 Cluster Sharing At MSS" width="55" height="17"></td>
-    <td><img src="/images/IMG-20190914-WA0048_ML-Booth-@-Bulan-Bahasa-Marsiling--768x576.jpeg" alt="Malay Traditional Kuih Booth (Bulan Bahsa Marsiling)" width="55" height="17"></td>
+    <td><img src="![](/images/21-768x551.jpeg)" alt="Learning Journey Little India" width="55" height="17"></td>
+    <td><img src="![](/images/IMG_7199-768x512.jpeg)" alt="N5 Cluster Sharing At MSS" width="55" height="17"></td>
+    <td><img src="![](/images/IMG_7211-768x610.jpeg)" alt="Malay Traditional Kuih Booth (Bulan Bahsa Marsiling)" width="55" height="17"></td>
   </tr>
   <tr>
-    <td><img src="/images/IMG-20190907-WA0017_Rakan-Bahasa-Museum-Guide-at-ACM-768x1024.jpeg" alt="Rakan Bahasa Museum Guide At ACM" width="55" height="17"></td>
+    <td><img src="![](/images/IMG_7226-768x490.jpeg)" alt="Rakan Bahasa Museum Guide At ACM" width="55" height="17"></td>
+		<td><img src="![](/images/IMG_7289-768x743.jpeg)" alt="Rakan Bahasa Museum Guide At ACM" width="55" height="17"></td>
   </tr>
 </tbody>
 </table>
