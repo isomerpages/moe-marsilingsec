@@ -106,3 +106,28 @@ Sec 2 Normal (Technical): Maths Learning Journey @ Bowling Alley
   </tr>
 </tbody>
 </table>
+
+**Competitions**
+
+*   Singapore Secondary Mathematics Competition for Normal Course Students (Secondary 2 & 3 Normal \[Academic\]/\[Technical\] students)
+*   Zonal Mathematics Challenge (Problem in real World Context) Competition
+*   National Financial literacy Competition
+
+**Achievement**
+
+Singapore Secondary Mathematics Competition for Normal Course Students (Secondary 2 & 3 Normal \[Academic\]/\[Technical\] students)  
+2019: 12th position Tan May Ying Secondary 2N2  
+2018: 14th position Lee Huey Xin Secondary 2N2
+
+2019 Overall Champion Zonal Mathematics Challenge (Problem in real World Context) Competition
+
+<table>
+<tbody>
+  <tr>
+    <th><img src="/images/SCI_1-768x576.jpeg" width="55" height="17"></th>
+    <th><img src="/images/SCI_2-768x432.jpeg" alt="Science" width="55" height="17"></th>
+  </tr>
+</tbody>
+</table>
+
+2019 First Runner-Up + 2 Top 10 Individuals National Financial Literacy Competition
