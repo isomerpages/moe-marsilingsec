@@ -92,4 +92,6 @@ Students will gain knowledge, understanding and application of concepts and skil
 
 ![Computer Applications](/images/Computer%20Applications.jpg)
 
+### Photographs
+
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRqgi6mkzgUnRhSWpxjy4gMyz-t1bkqlIfIZK0OAVzqpd7DhDCAtZH9OPdvu4y22q4h9925MSkQFS-y/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
