@@ -54,7 +54,7 @@ To provide quality science curriculum to enable our students to be scientificall
 
 **Curriculum Programmes:**
 
-The Science Department adopts the inquiry approach in the teaching and learning of Science. The is in line with the Science Curriculum Framework that develops domains that support inquiry, namely, scientific content, skills, attitudes and knowledge. The customised Science curriculum promotes subject mastery and opportunities to support the development of 21st CC and digital literacies. The use of the students’ personal learning device helps to further strengthen the joy of learning and deep learning through learning Supported by our Applied Learning Programme we aim to provide strong science fundamentals for students to innovate and pursue STEM for future learning and work.
+The Science Department adopts the inquiry approach in the teaching and learning of Science. The is in line with the Science Curriculum Framework that develops domains that support inquiry, namely, scientific content, skills, attitudes and knowledge. The customised Science curriculum promotes subject mastery and opportunities to support the development of 21st&nbsp;CC and digital literacies. The use of the students’ personal learning device helps to further strengthen the joy of learning and deep learning through learning Supported by our Applied Learning Programme we aim to provide strong science fundamentals for students to innovate and pursue STEM for future learning and work.
 
 For Lower Secondary Science, we have adopted a thematic approach where the lessons are designed to spark and enflame the students’ interest in Science. With the implementation of the new syllabus, we envision students to inquire, innovate and be inspired about Science. The thematic approach reflects real-world complexities, and provides greater opportunities for students to connect across disciplines and work on interdisciplinary problems. Our customised thematic curriculum ensures broad-based foundation to help students develop the domains that are integral to the conduct of Science Inquiry. Our Science department aims to progressively develop our students by engaging the students from their Lower Secondary years, enriching them with deeper learning as they advance, and culminate in enabling the students to apply content mastery and application of skills at Upper Secondary level.
 
@@ -77,3 +77,7 @@ Key programmes/participations:
 *   Sec 3 Advanced Elective Modules
 *   Sec 3 Shell STEM Challenge
 *   Sec 2NT/3NT ignITE Skills Challenge
+
+**Gallery**
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWtJMaDiUtpLJ85Bnk2HSyxsXvy4CVOFzqdDDlgcw1SwrQCkMQOwzHNddMXPDu2ulVHAWRDwMO52Vb/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
