@@ -44,14 +44,25 @@ Analytical thinkers; problem solving individuals
 <table>
 <tbody>
   <tr>
-    <th><img src="![](/images/01-5.jpeg)" width="55" height="17"></th>
-    <th><img src="![](/images/02-6.jpeg)" alt="Science" width="55" height="17"></th>
-    <th><img src="![](/images/03-6.jpeg)" alt="Science" width="55" height="17"></th>
+    <th><img src="/images/01-5.jpeg" width="55" height="17"></th>
+    <th><img src="/images/02-6.jpeg" alt="Mathematics" width="55" height="17"></th>
+    <th><img src="/images/03-6.jpeg" alt="Mathematics" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
 
 <table width="799" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; color: rgb(34, 34, 34); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; height: 117px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 38px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 391.5px; height: 38px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;"><strong style="box-sizing: inherit; font-weight: bold;">Secondary 2</strong></span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 391.5px; height: 38px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;"><strong style="box-sizing: inherit; font-weight: bold;">Key Programme</strong></span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 34.5px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 391.5px; height: 34.5px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">To develop Thinking, Reasoning and Communication Skills</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 391.5px; height: 34.5px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">Pathway to Reasoning and Communication (P2RC)</span></td></tr></tbody></table>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/04-6.jpeg" alt="Mathematics" style="width:35%;">  
+  
+</body>
 
 <table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; color: rgb(34, 34, 34); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; height: 170px; width: 799px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 459.5px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;"><strong style="box-sizing: inherit; font-weight: bold;">Secondary 3</strong></span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 324.5px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;"><strong style="box-sizing: inherit; font-weight: bold;">Key Programme</strong></span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 459.5px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">To make Connection in Mathematics</span><p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">To apply Mathematics in Thinking, Reasoning and Communication while making Connection in Real World Context.</span></p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 324.5px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">Collaborative Learning</span><br style="box-sizing: inherit;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">– Inter-Disciplinary Project&nbsp;(with Social Studies)&nbsp;Diagnostic Assessment</span></td></tr></tbody></table>
 
@@ -63,8 +74,8 @@ Analytical thinkers; problem solving individuals
 <thead>
   <tr>
     <th><img src="/images/SCI_1-768x576.jpeg" width="55" height="17"></th>
-    <th><img src="/images/SCI_2-768x432.jpeg" alt="Science" width="55" height="17"></th>
-    <th><img src="/images/SCI_3-768x432.jpeg" alt="Science" width="55" height="17"></th>
+    <th><img src="/images/SCI_2-768x432.jpeg" alt="Mathematics" width="55" height="17"></th>
+    <th><img src="/images/SCI_3-768x432.jpeg" alt="Mathematics" width="55" height="17"></th>
   </tr>
 </thead>
 </table>
@@ -77,7 +88,7 @@ Analytical thinkers; problem solving individuals
 <tbody>
   <tr>
     <th><img src="/images/SCI_1-768x576.jpeg" width="55" height="17"></th>
-    <th><img src="/images/SCI_2-768x432.jpeg" alt="Science" width="55" height="17"></th>
+    <th><img src="/images/SCI_2-768x432.jpeg" alt="Mathematics Enrichment Programmes " width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
@@ -90,8 +101,8 @@ Sec 2 Normal (Technical): Maths Learning Journey @ Bowling Alley
 <tbody>
   <tr>
     <th><img src="/images/SCI_1-768x576.jpeg" width="55" height="17"></th>
-    <th><img src="/images/SCI_2-768x432.jpeg" alt="Science" width="55" height="17"></th>
-    <th><img src="/images/SCI_3-768x432.jpeg" alt="Science" width="55" height="17"></th>
+    <th><img src="/images/SCI_2-768x432.jpeg" alt="Mathematics Learning Journey" width="55" height="17"></th>
+    <th><img src="/images/SCI_3-768x432.jpeg" alt="Mathematics Learning Journey" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
@@ -102,7 +113,7 @@ Sec 2 Normal (Technical): Maths Learning Journey @ Bowling Alley
 <tbody>
   <tr>
     <th><img src="/images/SCI_1-768x576.jpeg" width="55" height="17"></th>
-    <th><img src="/images/SCI_2-768x432.jpeg" alt="Science" width="55" height="17"></th>
+    <th><img src="/images/SCI_2-768x432.jpeg" alt="Financial Literacy (Praxis) Board Game" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
