@@ -74,12 +74,12 @@ Analytical thinkers; problem solving individuals
 **Task Design**
 
 <table>
-<thead>
+<tbody>
   <tr>
     <th><img src="/images/SCI_1-768x576.jpeg" width="55" height="17"></th>
     <th><img src="/images/SCI_2-768x432.jpeg" alt="Science" width="55" height="17"></th>
   </tr>
-</thead>
+</tbody>
 </table>
 
 **Learning Journey**  
@@ -87,11 +87,22 @@ Sec 2 Express & Normal (Academic): Amazing Race @ Changi Airport
 Sec 2 Normal (Technical): Maths Learning Journey @ Bowling Alley
 
 <table>
-<thead>
+<tbody>
   <tr>
     <th><img src="/images/SCI_1-768x576.jpeg" width="55" height="17"></th>
     <th><img src="/images/SCI_2-768x432.jpeg" alt="Science" width="55" height="17"></th>
     <th><img src="/images/SCI_3-768x432.jpeg" alt="Science" width="55" height="17"></th>
   </tr>
-</thead>
+</tbody>
+</table>
+
+**Financial Literacy (Praxis) Board Game**
+
+<table>
+<tbody>
+  <tr>
+    <th><img src="/images/SCI_1-768x576.jpeg" width="55" height="17"></th>
+    <th><img src="/images/SCI_2-768x432.jpeg" alt="Science" width="55" height="17"></th>
+  </tr>
+</tbody>
 </table>
