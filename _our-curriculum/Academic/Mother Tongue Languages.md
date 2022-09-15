@@ -74,22 +74,22 @@ To nurture confident learners and caring individuals proficient in their Mother 
     *   Learning Journey to Little India for Pongal Festival
     *   TL e-Newsletter Part 1 (April 2019), please click [here](http://online.pubhtml5.com/qdpk/ojze/#p=1) or use the following QR code
     *   <img src="/images/TL-e-Newsletter.jpeg"  
-style="width:40%">
+style="width:25%">
     *   TL e-Newsletter Part 2 (October 2019), please click [here](http://online.pubhtml5.com/ciju/kutc/) or use the following QR code 
     *    <img src="/images/TL-Newsletter-Edition-2-QR-Code.png"  
-style="width:40%">
+style="width:25%">
     *   TL e-Newsletter Part 3 (2020), please click [here](https://online.pubhtml5.com/syqh/tple/) or use the following QR code
     *   <img src="/images/TL-Newsletter-Edition-3-QR-Code.png"  
-style="width:40%">
+style="width:25%">
     *   TL e-Newsletter Part 4 (2020), please click [here](https://online.pubhtml5.com/syqh/hzyy/) or use the following QR code
     *   <img src="/images/TL-Newsletter-Edition-4-QR-Code-e1598425753172.jpeg"  
-style="width:40%">
+style="width:25%">
     *   TL e-Newsletter Part 5 (2021), please click [here](https://online.pubhtml5.com/qlbe/viwi/) or use the following QR code
     *   <img src="/images/QR-Code-5-150x150.jpeg"  
-style="width:40%">
+style="width:25%">
     *   TL e-Newsletter Part 6 (2021), please click [here](https://online.pubhtml5.com/qlbe/vhjp/) or use the following QR code
     *   <img src="/images/QR-Code-6-150x150.jpeg"  
-style="width:40%">
+style="width:25%">
 
 **Gallery**
 
