@@ -117,3 +117,22 @@ Students will gain knowledge, understanding and application of concepts and skil
 </table>
 
 ### Photographs
+
+<table>
+<thead>
+  <tr>
+    <th><img src="![](/images/3-768x576.jpeg)" alt="Image" width="55" height="17"></th>
+    <th><img src="![](/images/5-768x1024.jpeg)" alt="Image" width="55" height="17"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><img src="![](/images/9-768x576.jpeg)" alt="Image" width="55" height="17"></td>
+    <td><img src="![](/images/11-768x576.jpeg)" alt="Image" width="55" height="17"></td>
+  </tr>
+  <tr>
+    <td><img src="![](/images/13-768x576.jpeg)" alt="Image" width="55" height="17"></td>
+    <td><img src="![](/images/15-768x576.jpeg)" alt="Image" width="55" height="17"></td>
+  </tr>
+</tbody>
+</table>
