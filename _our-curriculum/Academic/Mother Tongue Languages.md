@@ -79,10 +79,10 @@ To nurture confident learners and caring individuals proficient in their Mother 
     *   TL e-Newsletter Part 3 (2020), please click [here](https://online.pubhtml5.com/syqh/tple/) or use the following QR code
     *   ![TL e-Newsletter Part 3](/images/TL-Newsletter-Edition-3-QR-Code.png)
     *   TL e-Newsletter Part 4 (2020), please click [here](https://online.pubhtml5.com/syqh/hzyy/) or use the following QR code
-    *   [![Tl Newsletter Edition 4 Qr Code](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/08/TL-Newsletter-Edition-4-QR-Code-e1598425753172.jpg)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/08/TL-Newsletter-Edition-4-QR-Code-e1598425753172.jpg)
+    *   ![Tl Newsletter Edition 4 Qr Code](/images/TL-Newsletter-Edition-4-QR-Code-e1598425753172.jpeg)
     *   TL e-Newsletter Part 5 (2021), please click [here](https://online.pubhtml5.com/qlbe/viwi/) or use the following QR code
-    *   [![](https://marsilingsec.moe.edu.sg/wp-content/uploads/2021/10/QR-Code-5-150x150.jpg)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2021/10/QR-Code-5.jpg)
+    *   ![TL e-Newsletter Part 5](/images/QR-Code-5-150x150.jpeg)
     *   TL e-Newsletter Part 6 (2021), please click [here](https://online.pubhtml5.com/qlbe/vhjp/) or use the following QR code
-    *   [![](https://marsilingsec.moe.edu.sg/wp-content/uploads/2021/10/QR-Code-6-150x150.jpg)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2021/10/QR-Code-6.jpg)
+    *   ![TL e-Newsletter Part 6](/images/QR-Code-6-150x150.jpeg)
 
 **Gallery**
