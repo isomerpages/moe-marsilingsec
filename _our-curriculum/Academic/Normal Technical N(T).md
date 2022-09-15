@@ -55,4 +55,13 @@ The subject intend to develop students’ knowledge and understanding of:
 *   basic marketing that focuses on understanding the needs and wants of customers and the marketing mix; and
 *   basic customer relations focusing on communicating with customers and providing customer service.
 
-![](/images/01-e1577424075923.jpeg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/01-e1577424075923.jpeg" alt="Elements of Business Skills" style="width:70%;">  
+  
+</body>
