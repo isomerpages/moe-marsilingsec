@@ -80,4 +80,24 @@ Key programmes/participations:
 
 **Gallery**
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWtJMaDiUtpLJ85Bnk2HSyxsXvy4CVOFzqdDDlgcw1SwrQCkMQOwzHNddMXPDu2ulVHAWRDwMO52Vb/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<table>
+<thead>
+  <tr>
+    <th><img src="/images/IMG_7173-768x512.jpeg" width="55" height="17"></th>
+    <th><img src="/images/IMG_7288-768x512.jpeg" alt="Physical Education" width="55" height="17"></th>
+    <th><img src="/images/IMG_7268-768x512.jpeg" alt="Physical Education" width="55" height="17"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><img src="/images/IMG_7081-768x512.jpeg" alt="Physical Education" width="55" height="17"></td>
+    <td><img src="/images/IMG_7228-768x512.jpeg" alt="Physical Education" width="55" height="17"></td>
+    <td><img src="/images/IMG_7220-1-768x527.jpeg" alt="Physical Education" width="55" height="17"></td>
+  </tr>
+  
+  <tr>
+    <td><img src="/images/IMG_7226-768x490.jpeg" alt="Rakan Bahasa Museum Guide At ACM" width="55" height="17"></td>
+		<td><img src="/images/IMG_7289-768x743.jpeg" alt="Physical Education" width="55" height="17"></td>
+  </tr>
+</tbody>
+</table>
