@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Academic
 ---
 **Head of Department**  
-Mdm Sharifah Afifah
+Mdm&nbsp;Sharifah Afifah
 
 **Teachers**  
 Mdm Sumiati  
@@ -62,6 +62,30 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/01-e1577424075923.jpeg" alt="Elements of Business Skills" style="width:70%;">  
+<img style="width:70%;" alt="Elements of Business Skills" src="/images/01-e1577424075923.jpeg">  
   
-</body>
+
+
+Students are given the opportunity to participate in Work Experience Programme in the hospitality industry. Students are exposed to the travel and tourism and hospitality industries in Singapore through learning journeys so that they can relate what they learnt in class with the reality in Singapore.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSiEuxKhVYJAUSourIclLCIYFmKJ5MeYzGrEUaGjFWBfAmr7ajh4u7WY4bGyRie-iM9D5cCbYh-pqEb/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+**Computer Applications**
+
+The Computer Applications syllabus aims to prepare students to be technologically adept citizens, and to function and contribute effectively in an increasingly technologically-driven world. The syllabus emphasizes fundamental knowledge and skills, and includes the appreciation and use of several software application packages for word processing, computer drawing and image editing, multimedia presentations and documents, spreadsheet calculations and charts, game design, programming; as well as, applications on the Internet.
+
+Specifically, the aims of the syllabus are to enable students to:
+
+1.  Acquire skills in using a variety of application software and associated computer hardware to accomplish tasks, communicate, and facilitate activities.
+2.  Develop an awareness of how computing technology is used in the home, school, workplace and community
+3.  Appreciate the role computers play in everyday life and recognise the impact computers have on society and people
+4.  Develop critical thinking and problem-solving skills.
+
+Students will gain knowledge, understanding and application of concepts and skills in all the six modules:
+
+*   Computer Fundamentals (CPF)
+*   Media Elements (MEL)
+*   Document Processing (DOP)
+*   Spreadsheets (SST)
+*   Multimedia Communication (MMC)
+*   Media Computing (MEC)
