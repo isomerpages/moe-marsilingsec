@@ -109,4 +109,13 @@ Students will gain knowledge, understanding and application of concepts and skil
 
 ![Computer Applications](/images/Computer%20Applications.jpg)
 
+<table>
+<thead>
+  <tr>
+    <td><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>HAHAHAH</td>
+    <td><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>HAHAHAH</td>
+  </tr>
+</thead>
+</table>
+
 ### Photographs
