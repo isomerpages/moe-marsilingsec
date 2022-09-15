@@ -23,11 +23,11 @@ To nurture each child in both mind and morals and allowing each child to reach t
 
 **Curriculum Programmes**
 
-**Experience ITE Programme (EIP)**
+**<u>Experience ITE Programme (EIP)</u>**
 
 To instill interest in skills and build aptitude, the Secondary 2 N(T) students will visit the Institute of Technical Education (ITE) for two days in an Experience ITE Programme (EIP).
 
-**Elective Modules**
+**<u>Elective Modules</u>**
 
 To broaden student’s perspectives of career prospects and opportunities, students are provided with unique learning experiences when they take elective modules. In Marsiling, students get to go through 2 Categories or elective modules which are the Category A Electives and Category B Electives.
 
@@ -39,7 +39,7 @@ To broaden student’s perspectives of career prospects and opportunities, stude
 
 Students in Marsiling Secondary School have shown potential in various career industries. The learning they have undergone through these taster modules have instilled a renewed sense of passion for learning and a desire to work towards their areas of interests.
 
-**Music Syllabus T**
+**<u>Music Syllabus T</u>**
 
 The Normal (Technical) Music syllabus aims to provide students with a broad-based music education that is relevant to new developments in the music and music-related industries. It recognises the use of music technology in contemporary musical expression and experience, and integrates music technology in developing basic skills and creativity. It fosters students’ musicianship and understanding through exposure to a wide range of music.
 
@@ -47,7 +47,7 @@ The syllabus provides opportunities for students to develop and extend their mus
 
 Through the syllabus, students learn to appreciate the function of music in the larger society and to develop a lifelong love for music.
 
-**Elements of Business Skills**
+**<u>Elements of Business Skills</u>**
 
 The subject intend to develop students’ knowledge and understanding of:
 
@@ -62,15 +62,15 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="Elements of Business Skills" src="/images/01-e1577424075923.jpeg">  
+<body><img src="/images/01-e1577424075923.jpeg" alt="Elements of Business Skills" style="width:70%;">  
   
-
+</body>
 
 Students are given the opportunity to participate in Work Experience Programme in the hospitality industry. Students are exposed to the travel and tourism and hospitality industries in Singapore through learning journeys so that they can relate what they learnt in class with the reality in Singapore.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSiEuxKhVYJAUSourIclLCIYFmKJ5MeYzGrEUaGjFWBfAmr7ajh4u7WY4bGyRie-iM9D5cCbYh-pqEb/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSiEuxKhVYJAUSourIclLCIYFmKJ5MeYzGrEUaGjFWBfAmr7ajh4u7WY4bGyRie-iM9D5cCbYh-pqEb/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
-**Computer Applications**
+**<u>Computer Applications</u>**
 
 The Computer Applications syllabus aims to prepare students to be technologically adept citizens, and to function and contribute effectively in an increasingly technologically-driven world. The syllabus emphasizes fundamental knowledge and skills, and includes the appreciation and use of several software application packages for word processing, computer drawing and image editing, multimedia presentations and documents, spreadsheet calculations and charts, game design, programming; as well as, applications on the Internet.
 
@@ -89,3 +89,5 @@ Students will gain knowledge, understanding and application of concepts and skil
 *   Spreadsheets (SST)
 *   Multimedia Communication (MMC)
 *   Media Computing (MEC)
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRqgi6mkzgUnRhSWpxjy4gMyz-t1bkqlIfIZK0OAVzqpd7DhDCAtZH9OPdvu4y22q4h9925MSkQFS-y/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
