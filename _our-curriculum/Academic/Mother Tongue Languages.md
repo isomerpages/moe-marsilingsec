@@ -97,13 +97,13 @@ style="width:40%">
 <thead>
   <tr>
     <th><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>From Reading To Making Puppets & Dialogue</th>
-    <th><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>Dikir Barat Session (Sec 1 Culture Camp)</th>
-    <th><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>The Mask</th>
+    <th><img src="/images/20190306_172412_Dikir-Barat-during-Sec-1-Culture-Camp-768x576.jpeg" alt="Image" width="55" height="17"><br>Dikir Barat Session (Sec 1 Culture Camp)</th>
+    <th><img src="/images/IMG_7867_The-Mask-768x512.jpeg" alt="Image" width="55" height="17"><br>The Mask</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>Kolum</td>
+    <td><img src="![](/images/IMG-20190115-WA0020_Kolum-by-TL-Unit-768x576.jpeg)" alt="Image" width="55" height="17"><br>Kolum</td>
     <td><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>Twinning Programme</td>
     <td><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>Bulan Bahasa</td>
   </tr>
