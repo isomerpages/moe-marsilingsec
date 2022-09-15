@@ -71,13 +71,13 @@ img {
 <table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; color: rgb(34, 34, 34); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; height: 212px; width: 811px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 15.5px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 428.5px; height: 15.5px;"><strong style="box-sizing: inherit; font-weight: bold;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">Secondary 4</span></strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 368.5px; height: 15.5px;"><strong style="box-sizing: inherit; font-weight: bold;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">Key Programme</span></strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 127px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 428.5px; height: 127px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">To apply Mathematics in Thinking, Reasoning and Communication while making Connection in Real World Context.</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 368.5px; height: 127px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">Collaborative Learning</span><br style="box-sizing: inherit;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">Diagnostic Assessment</span></td></tr></tbody></table>
 
 <table>
-<thead>
+<tbody>
   <tr>
-    <th><img src="![](/images/11-2.jpeg)" width="55" height="17"></th>
-    <th><img src="![](/images/10-1.jpeg)" alt="Mathematics" width="55" height="17"></th>
-    <th><img src="![](/images/13-1.jpeg)" alt="Mathematics" width="55" height="17"></th>
+    <th><img src="/images/11-2.jpeg" width="55" height="17"></th>
+    <th><img src="/images/10-1.jpeg" alt="Mathematics" width="55" height="17"></th>
+    <th><img src="/images/13-1.jpeg" alt="Mathematics" width="55" height="17"></th>
   </tr>
-</thead>
+</tbody>
 </table>
 
 **Enrichment Programmes**
@@ -87,8 +87,8 @@ img {
 <table>
 <tbody>
   <tr>
-    <th><img src="![](/images/20.jpeg)" width="55" height="17"></th>
-    <th><img src="![](/images/21-1.jpeg)" alt="Mathematics Enrichment Programmes " width="55" height="17"></th>
+    <th><img src="/images/20.jpeg" width="55" height="17"></th>
+    <th><img src="/images/21-1.jpeg" alt="Mathematics Enrichment Programmes " width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
@@ -100,9 +100,9 @@ Sec 2 Normal (Technical): Maths Learning Journey @ Bowling Alley
 <table>
 <tbody>
   <tr>
-    <th><img src="![](/images/01.jpeg)" width="55" height="17"></th>
-    <th><img src="![](/images/_02.jpeg)" alt="Mathematics Learning Journey" width="55" height="17"></th>
-    <th><img src="![](/images/_03.jpeg)" alt="Mathematics Learning Journey" width="55" height="17"></th>
+    <th><img src="/images/01.jpeg" width="55" height="17"></th>
+    <th><img src="/images/_02.jpeg" alt="Mathematics Learning Journey" width="55" height="17"></th>
+    <th><img src="/images/_03.jpeg" alt="Mathematics Learning Journey" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
@@ -112,8 +112,8 @@ Sec 2 Normal (Technical): Maths Learning Journey @ Bowling Alley
 <table>
 <tbody>
   <tr>
-    <th><img src="![](/images/31.jpeg)" width="55" height="17"></th>
-    <th><img src="![](/images/32.jpeg)" alt="Financial Literacy (Praxis) Board Game" width="55" height="17"></th>
+    <th><img src="/images/31.jpeg" width="55" height="17"></th>
+    <th><img src="/images/32.jpeg" alt="Financial Literacy (Praxis) Board Game" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
@@ -135,8 +135,8 @@ Singapore Secondary Mathematics Competition for Normal Course Students (Secondar
 <table>
 <tbody>
   <tr>
-    <th><img src="![](/images/11.jpeg)" width="55" height="17"></th>
-    <th><img src="![](/images/_12.jpeg)" alt="Science" width="55" height="17"></th>
+    <th><img src="/images/11.jpeg" width="55" height="17"></th>
+    <th><img src="/images/_12.jpeg" alt="Mathematics Achievement" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
