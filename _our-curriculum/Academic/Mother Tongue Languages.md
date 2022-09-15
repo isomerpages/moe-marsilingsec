@@ -73,11 +73,11 @@ To nurture confident learners and caring individuals proficient in their Mother 
     *   Touch Typing Workshop for Secondary One
     *   Learning Journey to Little India for Pongal Festival
     *   TL e-Newsletter Part 1 (April 2019), please click [here](http://online.pubhtml5.com/qdpk/ojze/#p=1) or use the following QR code
-    *   [![Tl E Newsletter](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/07/TL-e-Newsletter.jpg)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/07/TL-e-Newsletter.jpg)
+    *   ![Tl E Newsletter](/images/TL-e-Newsletter.jpeg)
     *   TL e-Newsletter Part 2 (October 2019), please click [here](http://online.pubhtml5.com/ciju/kutc/) or use the following QR code 
-    *    [![](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/08/TL-Newsletter-Edition-2-QR-Code.png)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/08/TL-Newsletter-Edition-2-QR-Code.png)
+    *    ![TL e-Newsletter Part 2](/images/TL-Newsletter-Edition-2-QR-Code.png)
     *   TL e-Newsletter Part 3 (2020), please click [here](https://online.pubhtml5.com/syqh/tple/) or use the following QR code
-    *   [![](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/08/TL-Newsletter-Edition-3-QR-Code.png)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/08/TL-Newsletter-Edition-3-QR-Code.png)
+    *   ![TL e-Newsletter Part 3](/images/TL-Newsletter-Edition-3-QR-Code.png)
     *   TL e-Newsletter Part 4 (2020), please click [here](https://online.pubhtml5.com/syqh/hzyy/) or use the following QR code
     *   [![Tl Newsletter Edition 4 Qr Code](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/08/TL-Newsletter-Edition-4-QR-Code-e1598425753172.jpg)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/08/TL-Newsletter-Edition-4-QR-Code-e1598425753172.jpg)
     *   TL e-Newsletter Part 5 (2021), please click [here](https://online.pubhtml5.com/qlbe/viwi/) or use the following QR code
