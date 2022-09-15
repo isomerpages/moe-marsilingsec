@@ -93,29 +93,27 @@ style="width:40%">
 
 **Gallery**
 
-![](/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg)
-
 <table>
 <thead>
   <tr>
     <th><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>HAHAHAH</th>
-    <th></th>
-    <th></th>
+    <th><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>HAHAHAH</th>
+    <th><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>HAHAHAH</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>HAHAHAH</td>
+    <td><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>HAHAHAH</td>
+    <td><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>HAHAHAH</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>HAHAHAH</td>
+    <td><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>HAHAHAH</td>
+    <td><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>HAHAHAH</td>
   </tr>
   <tr>
-    <td colspan="3"></td>
+    <td colspan="3"><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>HAHAHAH</td>
   </tr>
 </tbody>
 </table>
