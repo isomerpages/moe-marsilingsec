@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Academic/Normal Technical N(T).md
       - Academic/Physical Education.md
       - Academic/Science.md
       - Academic/.keep
