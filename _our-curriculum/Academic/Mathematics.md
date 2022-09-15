@@ -75,7 +75,7 @@ img {
   <tr>
     <th><img src="![](/images/11-2.jpeg)" width="55" height="17"></th>
     <th><img src="![](/images/10-1.jpeg)" alt="Mathematics" width="55" height="17"></th>
-    <th><img src="/images/SCI_3-768x432.jpeg" alt="Mathematics" width="55" height="17"></th>
+    <th><img src="![](/images/13-1.jpeg)" alt="Mathematics" width="55" height="17"></th>
   </tr>
 </thead>
 </table>
@@ -87,8 +87,8 @@ img {
 <table>
 <tbody>
   <tr>
-    <th><img src="/images/SCI_1-768x576.jpeg" width="55" height="17"></th>
-    <th><img src="/images/SCI_2-768x432.jpeg" alt="Mathematics Enrichment Programmes " width="55" height="17"></th>
+    <th><img src="![](/images/20.jpeg)" width="55" height="17"></th>
+    <th><img src="![](/images/21-1.jpeg)" alt="Mathematics Enrichment Programmes " width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
@@ -100,9 +100,9 @@ Sec 2 Normal (Technical): Maths Learning Journey @ Bowling Alley
 <table>
 <tbody>
   <tr>
-    <th><img src="/images/SCI_1-768x576.jpeg" width="55" height="17"></th>
-    <th><img src="/images/SCI_2-768x432.jpeg" alt="Mathematics Learning Journey" width="55" height="17"></th>
-    <th><img src="/images/SCI_3-768x432.jpeg" alt="Mathematics Learning Journey" width="55" height="17"></th>
+    <th><img src="![](/images/01.jpeg)" width="55" height="17"></th>
+    <th><img src="![](/images/_02.jpeg)" alt="Mathematics Learning Journey" width="55" height="17"></th>
+    <th><img src="![](/images/_03.jpeg)" alt="Mathematics Learning Journey" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
@@ -112,8 +112,8 @@ Sec 2 Normal (Technical): Maths Learning Journey @ Bowling Alley
 <table>
 <tbody>
   <tr>
-    <th><img src="/images/SCI_1-768x576.jpeg" width="55" height="17"></th>
-    <th><img src="/images/SCI_2-768x432.jpeg" alt="Financial Literacy (Praxis) Board Game" width="55" height="17"></th>
+    <th><img src="![](/images/31.jpeg)" width="55" height="17"></th>
+    <th><img src="![](/images/32.jpeg)" alt="Financial Literacy (Praxis) Board Game" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
@@ -135,8 +135,8 @@ Singapore Secondary Mathematics Competition for Normal Course Students (Secondar
 <table>
 <tbody>
   <tr>
-    <th><img src="/images/SCI_1-768x576.jpeg" width="55" height="17"></th>
-    <th><img src="/images/SCI_2-768x432.jpeg" alt="Science" width="55" height="17"></th>
+    <th><img src="![](/images/11.jpeg)" width="55" height="17"></th>
+    <th><img src="![](/images/_12.jpeg)" alt="Science" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
