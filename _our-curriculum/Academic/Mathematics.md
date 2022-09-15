@@ -73,8 +73,8 @@ img {
 <table>
 <thead>
   <tr>
-    <th><img src="/images/SCI_1-768x576.jpeg" width="55" height="17"></th>
-    <th><img src="/images/SCI_2-768x432.jpeg" alt="Mathematics" width="55" height="17"></th>
+    <th><img src="![](/images/11-2.jpeg)" width="55" height="17"></th>
+    <th><img src="![](/images/10-1.jpeg)" alt="Mathematics" width="55" height="17"></th>
     <th><img src="/images/SCI_3-768x432.jpeg" alt="Mathematics" width="55" height="17"></th>
   </tr>
 </thead>
