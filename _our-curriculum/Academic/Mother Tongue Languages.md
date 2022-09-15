@@ -96,24 +96,24 @@ style="width:40%">
 <table>
 <thead>
   <tr>
-    <th><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>HAHAHAH</th>
-    <th><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>HAHAHAH</th>
-    <th><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>HAHAHAH</th>
+    <th><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>From Reading To Making Puppets & Dialogue</th>
+    <th><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>Dikir Barat Session (Sec 1 Culture Camp)</th>
+    <th><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>The Mask</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>HAHAHAH</td>
-    <td><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>HAHAHAH</td>
-    <td><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>HAHAHAH</td>
+    <td><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>Kolum</td>
+    <td><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>Twinning Programme</td>
+    <td><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>Bulan Bahasa</td>
   </tr>
   <tr>
-    <td><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>HAHAHAH</td>
-    <td><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>HAHAHAH</td>
-    <td><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>HAHAHAH</td>
+    <td><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>Learning Journey Little India</td>
+    <td><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>N5 Cluster Sharing At MSS</td>
+    <td><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>Malay Traditional Kuih Booth (Bulan Bahsa Marsiling)</td>
   </tr>
   <tr>
-    <td colspan="3"><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>HAHAHAH</td>
+    <td><img src="/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Image" width="55" height="17"><br>Rakan Bahasa Museum Guide At ACM</td>
   </tr>
 </tbody>
 </table>
