@@ -209,22 +209,33 @@ You may click [here](http://www.moe.gov.sg/education/programmes/social-emotiona
 
 **Secondary 5**
 
-| **UNIT** | **LESSONS / DURATION** | **Lesson Objectives**
-**At the end of the lesson, students will be able to:**
-
- | **TIME PERIOD** |
-| --- | --- | --- | --- |
-| Respectful Relationships & Safety | 1
-
-(60 mins)
-
- | ·       Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.
-
-·       Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.
-
-·       Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.
-
- | Term 3 |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xbro{background-color:#C2C2C2;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-xbro"><span style="font-weight:bold">UNIT</span></th>
+    <th class="tg-xbro"><span style="font-weight:bold">LESSONS / DURATION</span></th>
+    <th class="tg-xbro"><span style="font-weight:bold">Lesson Objectives</span><br><br><span style="font-weight:bold">At the end of the lesson, students will be able to:</span></th>
+    <th class="tg-xbro"><span style="font-weight:bold">TIME PERIOD</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Respectful Relationships &amp; Safety</span></td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">1</span><br><br>(60 mins)</td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">·       Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.</span><br><br>·       Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br>·       Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Term 3</span></td>
+  </tr>
+</tbody>
+</table>
 
 _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the Ground” from the unit, “Respectful Relationship and Safety”._
 
