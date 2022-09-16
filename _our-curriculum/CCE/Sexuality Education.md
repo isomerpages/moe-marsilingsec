@@ -32,7 +32,7 @@ You may click [here](http://www.moe.gov.sg/education/programmes/social-emotiona
     1.  Science
     2.  Character and Citizenship Education (CCE)
 
-**Sexuality Education Lessons**:
+**<u>Sexuality Education Lessons</u>**:
 
 6.  The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly. Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.
 
@@ -42,38 +42,43 @@ You may click [here](http://www.moe.gov.sg/education/programmes/social-emotiona
 
 **Secondary 1**
 
-| **UNIT** | **LESSONS / DURATION** | **Lesson Objectives**
-**At the end of the lesson, students will be able to:**
-
- | **TIME PERIOD** |
-| --- | --- | --- | --- |
-| Respectful Relationships & Safety | 1
-
-(60 mins)
-
- | ·       Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles
-
-·       Recognise that there are different forms of love (e.g. familial, platonic, romantic love)
-
-·       Recognise the importance and understand what builds healthy and supportive relationships, both online and offline
-
-·       Understand what dating is, and recognise that the readiness and interest in dating vary among individuals
-
- | Term 3 |
-| 2
-
-(60 mins)
-
- | ·       Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept | Term 3 |
-| 3
-
-(60 mins)
-
- | ·       Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences
-
-·       Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)
-
- | Term 4 |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xbro{background-color:#C2C2C2;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-xbro"><span style="font-weight:bold">UNIT</span></th>
+    <th class="tg-xbro"><span style="font-weight:bold">LESSONS / DURATION</span></th>
+    <th class="tg-xbro"><span style="font-weight:bold">Lesson Objectives</span><br><br><span style="font-weight:bold">At the end of the lesson, students will be able to:</span></th>
+    <th class="tg-xbro"><span style="font-weight:bold">TIME PERIOD</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1ppo" rowspan="3">Respectful Relationships &amp; Safety</td>
+    <td class="tg-1ppo">1<br><br>(60 mins)</td>
+    <td class="tg-1ppo">·       Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br><br>·       Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br>·       Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>·       Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</td>
+    <td class="tg-1ppo">Term 3</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"><span style="background-color:#FFF">2</span><br><br>(60 mins)</td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">·       Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</span></td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Term 3</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">3<br><br>(60 mins)</td>
+    <td class="tg-1ppo">·       Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br><br>·       Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</td>
+    <td class="tg-1ppo">Term 4</td>
+  </tr>
+</tbody>
+</table>
 
 **Secondary 2**
 
