@@ -28,23 +28,35 @@ The Secondary 3 students visited Westlite Dormitory Woodlands as part of their a
 
 The purpose of this LJ is to provide an experiential learning opportunity for students to gain a deeper understanding on the daily lives of migrant workers before they embark on the investigation.
 
-[![1](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/1-1-300x225.jpg)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/1-1.jpg)
+![](/images/1-1-768x576.jpeg)
 
 **Stage 2: Crafting Questions, Training of using ICT tools (Excel, Google Forms, etc.) and Conducting Surveys at Toa Payoh & Ang Mo Kio**  
 At this stage, students work in groups to craft suitable and valid survey questions to collect data. Students attended a workshop to train them to use ICT platforms such as Microsoft Excel and Google Forms, including the setting up of QR codes. Following that, students went out to public areas in Toa Payoh and Ang Mo Kio to conduct the surveys, gathering data for their project.
 
-[![04](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/04-300x225.jpg)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/04.jpg)
-
-[![03](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/03-146x300.jpg)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/03.jpg)
+<table>
+<tbody>
+  <tr>
+    <th><img src="/images/01-5.jpeg" width="55" height="17"></th>
+    <th><img src="/images/02-6.jpeg" alt="Mathematics" width="55" height="17"></th>
+    <th><img src="/images/03-6.jpeg" alt="Mathematics" width="55" height="17"></th>
+  </tr>
+</tbody>
+</table>
 
   
 
 **Stage 3: Data Analysis**  
 Exemplars of students’ work
 
-[![01](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/01-4-300x183.jpg)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/01-4.jpg)
-
-[![02](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/02-5-267x300.jpg)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/02-5.jpg)
+<table>
+<tbody>
+  <tr>
+    <th><img src="/images/01-5.jpeg" width="55" height="17"></th>
+    <th><img src="/images/02-6.jpeg" alt="Mathematics" width="55" height="17"></th>
+    <th><img src="/images/03-6.jpeg" alt="Mathematics" width="55" height="17"></th>
+  </tr>
+</tbody>
+</table>
 
   
 
@@ -63,16 +75,16 @@ Newsletter
 
 **Stage 5: Presentation**
 
-Video Player
-
-00:00
-
-05:53
+*video to be embedded here!*
 
 **Stage 6: Reflective Thinking and Consolidation/Conclusion**
 
-[![4](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/4-1-225x300.jpg)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/4-1.jpg)
-
-[![5](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/5-225x300.jpg)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/5.jpg)
-
-[![6](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/6-225x300.jpg)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/6.jpg)
+<table>
+<tbody>
+  <tr>
+    <th><img src="/images/01-5.jpeg" width="55" height="17"></th>
+    <th><img src="/images/02-6.jpeg" alt="Mathematics" width="55" height="17"></th>
+    <th><img src="/images/03-6.jpeg" alt="Mathematics" width="55" height="17"></th>
+  </tr>
+</tbody>
+</table>
