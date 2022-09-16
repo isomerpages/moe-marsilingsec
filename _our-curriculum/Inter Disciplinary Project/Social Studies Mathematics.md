@@ -81,9 +81,9 @@ At this stage, students are expected to come up with a proposal to suggest a str
 <table>
 <tbody>
   <tr>
-    <th><img src="/images/01-5.jpeg" width="55" height="17"></th>
-    <th><img src="/images/03-6.jpeg" width="55" height="17"></th>
-    <th><img src="/images/03-6.jpeg" width="55" height="17"></th>
+    <th><img src="![](/images/4-1-768x1024.jpeg)" width="55" height="17"></th>
+    <th><img src="![](/images/5-768x1024_.jpeg)" width="55" height="17"></th>
+    <th><img src="![](/images/6-768x1024.jpeg)" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
