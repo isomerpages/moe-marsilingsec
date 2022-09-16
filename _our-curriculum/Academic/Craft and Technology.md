@@ -86,32 +86,32 @@ Support for SWBC and PiE Programmes
 <table>
 <tbody>
   <tr>
-    <th><img src="![](/images/MG_0360-768x512.jpeg)" width="55" height="17"></th>
-    <th><img src="![](/images/2018_IDP_Lit-Art02-768x509.jpeg)" width="55" height="17"></th>
-		<th><img src="![](/images/2018_IDP_Lit-Art03.jpeg)" width="55" height="17"></th>
+    <th><img src="/images/MG_0360-768x512.jpeg" width="55" height="17"></th>
+    <th><img src="/images/2018_IDP_Lit-Art02-768x509.jpeg" width="55" height="17"></th>
+		<th><img src="/images/2018_IDP_Lit-Art03.jpeg" width="55" height="17"></th>
   </tr>
 	<tr>
-    <th><img src="![](/images/01-768x1024.jpeg)" width="55" height="17"></th>
-    <th><img src="![](/images/02-768x1024.jpeg)" width="55" height="17"></th>
-		<th><img src="![](/images/10-768x1024.jpeg)" width="55" height="17"></th>
+    <th><img src="/images/01-768x1024.jpeg" width="55" height="17"></th>
+    <th><img src="/images/02-768x1024.jpeg" width="55" height="17"></th>
+		<th><img src="/images/10-768x1024.jpeg" width="55" height="17"></th>
   </tr>
 	<tr>
-    <th><img src="![](/images/05-2-768x373.jpeg)" width="55" height="17"></th>
-    <th><img src="![](/images/06-768x373.jpeg)" width="55" height="17"></th>
-		<th><img src="![](/images/07-768x373.jpeg)" width="55" height="17"></th>
+    <th><img src="/images/05-2-768x373.jpeg" width="55" height="17"></th>
+    <th><img src="/images/06-768x373.jpeg" width="55" height="17"></th>
+		<th><img src="/images/07-768x373.jpeg" width="55" height="17"></th>
   </tr>
 	<tr>
-    <th><img src="![](/images/08-768x576.jpeg)" width="55" height="17"></th>
-    <th><img src="![](/images/09-768x576.jpeg)" width="55" height="17"></th>
-		<th><img src="![](/images/12-1-768x576.jpeg)" width="55" height="17"></th>
+    <th><img src="/images/08-768x576.jpeg" width="55" height="17"></th>
+    <th><img src="/images/09-768x576.jpeg" width="55" height="17"></th>
+		<th><img src="/images/12-1-768x576.jpeg" width="55" height="17"></th>
   </tr>
 	<tr>
-    <th><img src="![](/images/11-1-768x576.jpeg)" width="55" height="17"></th>
-    <th><img src="![](/images/13-576x1024.jpeg)" width="55" height="17"></th>
-		<th><img src="![](/images/14-682x1024.jpeg)" width="55" height="17"></th>
+    <th><img src="/images/11-1-768x576.jpeg" width="55" height="17"></th>
+    <th><img src="/images/13-576x1024.jpeg" width="55" height="17"></th>
+		<th><img src="/images/14-682x1024.jpeg" width="55" height="17"></th>
   </tr>
 	<tr>
-    <th><img src="![](/images/15-768x452.jpeg)" width="55" height="17"></th>
+    <th><img src="/images/15-768x452.jpeg" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
