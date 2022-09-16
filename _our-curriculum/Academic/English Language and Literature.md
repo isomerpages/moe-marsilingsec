@@ -90,7 +90,7 @@ The top borrower for the Class Award is 1E2.
     <th><img src="![](/images/MG_3949-669x1024.jpeg)" width="55" height="17"></th>
     <th><img src="![](/images/MG_3951-621x1024.jpeg)" width="55" height="17"></th>
 		<th><img src="![](/images/MG_3950-717x1024.jpeg)" width="55" height="17"></th>
-    <th><img src="/images/02-3-768x354.jpeg" width="55" height="17"></th>
+    <th><img src="![](/images/MG_3952-711x1024.jpeg)" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
@@ -102,6 +102,8 @@ This inaugural book giveaway event was extremely well-received by students. Thro
 **Book Giveaway event 2020**
 
 This is the second time year we are having this event and throughout the three days, we gave away a total of **112 books** to staff and students. We hope that students will continue to find the joy and pleasure of reading, thereby contributing to the building of a strong reading culture in our school.
+
+![](/images/01-6.jpeg)
 
 **Accolades**
 
