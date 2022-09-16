@@ -67,12 +67,8 @@ A total of 11,213 works from 72 countries entered this year’s competition on t
 <table>
 <tbody>
   <tr>
-    <th><img src="/images/1-768x373.jpeg" width="55" height="17"></th>
-    <th><img src="/images/3-768x373.jpeg" width="55" height="17"></th>
-  </tr>
-	<tr>
-    <th><img src="/images/4-768x452.jpeg" width="55" height="17"></th>
-    <th><img src="/images/2-e1570418457505-498x1024.jpeg" width="55" height="17"></th>
+    <th><img src="/images/Andrea.jpeg" width="55" height="17"><br>Andrea</th>
+    <th><img src="/images/Nurhidayat.jpeg" width="55" height="17"><br>Nurhidayat</th>
   </tr>
 </tbody>
 </table>
