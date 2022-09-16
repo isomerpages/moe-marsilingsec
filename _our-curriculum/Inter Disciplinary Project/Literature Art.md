@@ -10,27 +10,42 @@ The inaugural Lit-Art Inter-Disciplinary Project (IDP) which made its debut in 2
 **Typography**  
 The students learnt typography where they produce artistic arrangement of language and visuals to convey a message. Students use adjectives that best describe themselves. These adjectives also represent their impressions of some of the characters that they are learning in Literature lessons.
 
-[![01](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/01-3-e1571270563532-197x300.jpg)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/01-3-e1571270563532.jpg)
-
-[![02](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/02-4-e1571270571857-282x300.jpg)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/02-4-e1571270571857.jpg)
+<table>
+<tbody>
+  <tr>
+    <th><img src="/images/04-768x576.jpeg" width="55" height="17"></th>
+    <th><img src="/images/03-497x1024.jpeg" width="55" height="17"></th>
+  </tr>
+</tbody>
+</table>
 
   
 
 **Caricatures**  
 In Lit-Art, students learnt caricatures to magnify and exaggerate specific features that best represent the traits that are dominant to themselves. This is to draw parallel to the study of the characters in the text _Stepping Up_ where there are certain character traits that are dominant in the different protagonists that they are learning.
 
-[![03](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/03-4-300x201.jpg)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/03-4.jpg)
-
-[![04](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/04-4-e1571270732737-222x300.jpg)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/04-4-e1571270732737.jpg)
+<table>
+<tbody>
+  <tr>
+    <th><img src="/images/04-768x576.jpeg" width="55" height="17"></th>
+    <th><img src="/images/03-497x1024.jpeg" width="55" height="17"></th>
+  </tr>
+</tbody>
+</table>
 
   
 
 **Mind-maps**  
 Using knowledge of colours, lines and typography, the students created mind-maps to summarise visually their understanding of the characters in _Stepping Up_.
 
-[![05](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/05-3-300x220.jpg)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/05-3.jpg)
-
-[![06](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/06-1-300x202.jpg)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/06-1.jpg)
+<table>
+<tbody>
+  <tr>
+    <th><img src="/images/04-768x576.jpeg" width="55" height="17"></th>
+    <th><img src="/images/03-497x1024.jpeg" width="55" height="17"></th>
+  </tr>
+</tbody>
+</table>
 
   
 
