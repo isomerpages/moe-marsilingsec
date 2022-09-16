@@ -19,67 +19,14 @@ In support of the SG Green Plan 2030, the school endeavors to reduce carbon emis
 
 Our Environment Councillors (student leaders) serve as green ambassadors and become responsible stewards of the environment. Through various leadership opportunities, the Environment Councillors help to advocate sustainability mindsets and practices among their peers.
 
-<table>
-<tbody>
-  <tr>
-    <th><img src="/images/01-3-e1571270563532.jpeg" width="55" height="17"></th>
-    <th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
-		<th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
-  </tr>
-	<tr>
-    <th><img src="/images/01-3-e1571270563532.jpeg" width="55" height="17"></th>
-    <th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
-		<th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
-  </tr>
-	<tr>
-    <th><img src="/images/01-3-e1571270563532.jpeg" width="55" height="17"></th>
-    <th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
-		<th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
-  </tr>
-	<tr>
-    <th><img src="/images/01-3-e1571270563532.jpeg" width="55" height="17"></th>
-    <th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
-		<th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
-  </tr>
-	<tr>
-    <th><img src="/images/01-3-e1571270563532.jpeg" width="55" height="17"></th>
-    <th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
-		<th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
-  </tr>
-	<tr>
-    <th><img src="/images/01-3-e1571270563532.jpeg" width="55" height="17"></th>
-    <th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
-		<th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
-  </tr>
-	<tr>
-    <th><img src="/images/01-3-e1571270563532.jpeg" width="55" height="17"></th>
-    <th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
-		<th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
-  </tr>
-	<tr>
-    <th><img src="/images/01-3-e1571270563532.jpeg" width="55" height="17"></th>
-    <th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
-		<th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
-  </tr>
-	<tr>
-    <th><img src="/images/01-3-e1571270563532.jpeg" width="55" height="17"></th>
-    <th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
-		<th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
-  </tr>
-	<tr>
-    <th><img src="/images/01-3-e1571270563532.jpeg" width="55" height="17"></th>
-    <th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
-		<th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
-  </tr>
-	<tr>
-    <th><img src="/images/01-3-e1571270563532.jpeg" width="55" height="17"></th>
-    <th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
-		<th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
-  </tr>
-	<tr>
-    <th><img src="/images/01-3-e1571270563532.jpeg" width="55" height="17"></th>
-    <th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
-		<th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
-  </tr>
-</tbody>
-</table>
+![](/images/Eco-Sustainability%20through%20Inquiry-based%20Learning_1.jpg)
+
+![](/images/Eco-Sustainability%20through%20Inquiry-based%20Learning_2.jpg)
+
+![](/images/Eco-Sustainability%20through%20Inquiry-based%20Learning_3.jpg)
+
+![](/images/Eco-Sustainability%20through%20Inquiry-based%20Learning_4.jpg)
+
+![](/images/Eco-Sustainability%20through%20Inquiry-based%20Learning_5.jpg)
+
+![](/images/Eco-Sustainability%20through%20Inquiry-based%20Learning_6.jpg)
