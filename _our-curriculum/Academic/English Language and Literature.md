@@ -46,6 +46,16 @@ Some of the benefits and outcomes of the The MSS TeenTalk include:
 2.  intensive mentoring structure by respective EL teachers who train Secondary Three cohort in research and public speaking skills on a public platform (in-class presentation and assembly programme)
 3.  students’ increased level of confidence in public speaking.
 
+<table>
+<tbody>
+  <tr>
+    <th><img src="/images/01-2-473x1024.jpeg" width="55" height="17"></th>
+    <th><img src="/images/02-3-768x354.jpeg" width="55" height="17"></th>
+		<th><img src="/images/01-2-473x1024.jpeg" width="55" height="17"></th>
+  </tr>
+</tbody>
+</table>
+
 **Learning Hub (Library)**
 
 The Marsiling Bibliophile Award is introduced in 2019 to encourage Marsilians to develop the joy of reading. Reading develops critical thinking skills and aids in the mastery of the English Language. The Bibliophile Award is divided into two categories:  
@@ -56,6 +66,15 @@ For the Individual Award, the top three borrowers of the month will receive a pr
 
 **August Awardees**
 
+<table>
+<tbody>
+  <tr>
+    <th><img src="/images/01-2-473x1024.jpeg" width="55" height="17"></th>
+    <th><img src="/images/02-3-768x354.jpeg" width="55" height="17"></th>
+  </tr>
+</tbody>
+</table>
+
 **September Awardees**  
 Category 1: Individual Award  
 1st: Pang Chi Ling (1E2)  
@@ -64,6 +83,17 @@ Category 1: Individual Award
 
 Category 2: Class Award  
 The top borrower for the Class Award is 1E2.
+
+<table>
+<tbody>
+  <tr>
+    <th><img src="/images/01-2-473x1024.jpeg" width="55" height="17"></th>
+    <th><img src="/images/02-3-768x354.jpeg" width="55" height="17"></th>
+		<th><img src="/images/01-2-473x1024.jpeg" width="55" height="17"></th>
+    <th><img src="/images/02-3-768x354.jpeg" width="55" height="17"></th>
+  </tr>
+</tbody>
+</table>
 
 **Book Giveaway event 2019**
 
