@@ -33,4 +33,9 @@ On 21 July each year, schools commemorate Racial Harmony Day (RHD) to mark the a
 
 ![Racial Harmony Day “The Singapore Connection”](/images/Racial%20Harmony%20Day%20“The%20Singapore%20Connection”_1.jpg)
 
-![Racial Harmony Day “The Singapore Connection”](/images/Racial%20Harmony%20Day%20“The%20Singapore%20Connection”_2.jpg)
+**National Day Celebrations “Our Singapore”**  
+We celebrated this special day with elderly from Christalite Methodist Home and pre-school students from Skool4Kidz.
+
+![National Day Celebrations “Our Singapore”](/images/National%20Day%20Celebrations%20“Our%20Singapore”_1.jpg)
+
+![National Day Celebrations “Our Singapore”](/images/National%20Day%20Celebrations%20“Our%20Singapore”_2.jpg)
