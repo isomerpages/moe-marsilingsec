@@ -35,9 +35,9 @@ The Social Studies Curriculum aims to develop students to be informed, concerned
 <table>
 <tbody>
   <tr>
-    <th><img src="/images/31.jpeg" width="55" height="17"><br>adsv</th>
-    <th><img src="/images/32.jpeg" alt="Financial Literacy (Praxis) Board Game" width="55" height="17"><br>adsv</th>
-		<th><img src="/images/32.jpeg" alt="Financial Literacy (Praxis) Board Game" width="55" height="17"></th>
+    <th><img src="/images/01-768x576.jpeg" width="55" height="17"><br>Secondary 4 students who participated in Model UN 2019 at River Valley High School</th>
+    <th><img src="/images/02-768x576.jpeg" alt="Secondary 3 students at Westlite Dormitory Woodlands as part of their authentic learning in completing an Issues Investigation project in 2019" width="55" height="17"><br>Secondary 3 students at Westlite Dormitory Woodlands as part of their authentic learning in completing an Issues Investigation project in 2019</th>
+		<th><img src="/images/04-768x576.jpeg" alt="Social Studies" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
@@ -53,15 +53,15 @@ Under the supervision of teachers, Geography lessons encourage first-hand experi
 <table>
 <tbody>
   <tr>
-    <th><img src="/images/31.jpeg" width="55" height="17"></th>
-    <th><img src="/images/32.jpeg" alt="Financial Literacy (Praxis) Board Game" width="55" height="17"></th>
+    <th><img src="/images/01-e1570060774546-768x1024.png" width="55" height="17"><br>The Geographical Investigation (GI) at Marina Bay area required the students to interact with members of the public as well as to observe the environments in order to test their hypotheses.</th>
+    <th><img src="/images/02-1-768x576.jpeg" alt="The GIs have harnessed the joy in the learning of the subject as students were engaged in their tasks were encouraged to question what they observed in the process." width="55" height="17"><br>The GIs have harnessed the joy in the learning of the subject as students were engaged in their tasks were encouraged to question what they observed in the process.</th>
   </tr>
 	<tr>
-    <td><img src="/images/IMG-20190907-WA0017_Rakan-Bahasa-Museum-Guide-at-ACM-768x1024.jpeg" alt="Rakan Bahasa Museum Guide At ACM" width="55" height="17"><br>Rakan Bahasa Museum Guide At ACM</td>
-		<td><img src="/images/IMG-20190907-WA0017_Rakan-Bahasa-Museum-Guide-at-ACM-768x1024.jpeg" alt="Rakan Bahasa Museum Guide At ACM" width="55" height="17"><br>Rakan Bahasa Museum Guide At ACM</td>
+    <td><img src="/images/03-1-768x576.jpeg" alt="At the Mac Ritchie Reservoir, the GI provided the students with an avenue to better understand the environment around us by bridging the gaps between theoretical ideas learnt in class with real-life experiences." width="55" height="17"><br>At the Mac Ritchie Reservoir, the GI provided the students with an avenue to better understand the environment around us by bridging the gaps between theoretical ideas learnt in class with real-life experiences.</td>
+		<td><img src="/images/04-1-768x576.jpeg" alt="Back to class, the students had the chance to analyse and present real data." width="55" height="17"><br>Back to class, the students had the chance to analyse and present real data.</td>
   </tr>
 	<tr>
-    <td><img src="/images/IMG-20190907-WA0017_Rakan-Bahasa-Museum-Guide-at-ACM-768x1024.jpeg" alt="Rakan Bahasa Museum Guide At ACM" width="55" height="17"><br>Rakan Bahasa Museum Guide At ACM</td>
+    <td><img src="/images/05-717x1024.jpeg" alt="Product" width="55" height="17"><br>Product</td>
   </tr>
 </tbody>
 </table>
@@ -87,6 +87,10 @@ In this Historical Investigation (HI), the students were divided into groups and
 <table>
 <tbody>
   <tr>
+    <th><img src="/images/31.jpeg" width="55" height="17"></th>
+    <th><img src="/images/32.jpeg" alt="Financial Literacy (Praxis) Board Game" width="55" height="17"></th>
+  </tr>
+	<tr>
     <th><img src="/images/31.jpeg" width="55" height="17"></th>
     <th><img src="/images/32.jpeg" alt="Financial Literacy (Praxis) Board Game" width="55" height="17"></th>
   </tr>
