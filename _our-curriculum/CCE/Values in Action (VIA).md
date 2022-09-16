@@ -38,3 +38,5 @@ The school participated in HDB Project Sphere, where students can interact with 
 The Secondary 4 and 5 classes were guided by their Form Teachers to reach out to various community needs. Each class discussed and identified an area of concern, did their own research and planning before the actual VIA. From beach cleaning, packing of goodie bags to home visits, our beneficiaries included Singapore Cancer Society, Swami Home, Bright Vision Hospital and Singapore Christian Home.
 
 ##### **Gallery**
+
+![Values in Action (VIA)](/images/Values%20in%20Action%20(VIA).jpg)
