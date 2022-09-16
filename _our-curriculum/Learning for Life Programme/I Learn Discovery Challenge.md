@@ -22,6 +22,6 @@ This is a self-directed programme where students can choose to complete the vari
 
 Should you have any concerns regarding this programme, please call Tel. 68941413 to speak to Mr Er Siong Chye or Mr Dhillon Singh.
 
-You may download the briefing slides for students [here.](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/11/I-Learn-Discovery-Challenge-Briefing-to-students.pptx) **<--** **pptx file**
+You may download the briefing slides for students [here.](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/11/I-Learn-Discovery-Challenge-Briefing-to-students.pptx) **<--** **pptx file!**
 
 Attached is the map:  [Navigator of the North]()
