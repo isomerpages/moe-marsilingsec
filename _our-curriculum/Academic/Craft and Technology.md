@@ -63,3 +63,13 @@ Learning Journeys to Singapore Art Museum
 **LIDICE Competition 2021 (Honourable Mention)**
 
 A total of 11,213 works from 72 countries entered this year’s competition on the theme “ROBOT and artificial intelligence”.
+
+**Nutrition & Food Science**  
+Lower Sec Customised NFS Programme  
+Normal (Academic)/(Technical) Advanced Elective Modules  
+Learning Journeys to Science Centre  
+BITC Food Science Investigative Tasks organised by Science Kitchen @ Science Centre  
+Workshop on Food Additives organised by Nanyang Polytechnic   
+Support for SWBC and PiE Programmes
+
+**Gallery**
