@@ -163,51 +163,49 @@ You may click [here](http://www.moe.gov.sg/education/programmes/social-emotiona
 
 **Secondary 4**
 
-| **UNIT** | **LESSONS / DURATION** | **Lesson Objectives**
-**At the end of the lesson, students will be able to:**
-
- | **TIME PERIOD** |
-| --- | --- | --- | --- |
-| Respectful Relationships & Safety | 1
-
-(60 mins)
-
- | ·       Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.
-
-·       Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.
-
-·       Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.
-
- | Term 3 |
-| 2
-
-(60 mins)
-
- | ·       Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.
-
-·       Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.
-
-·       Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.
-
-·       Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.
-
- | Term 3 |
-| 3
-
-(60 mins)
-
- | ·       Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.
-
-·       Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.
-
-·       Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.
-
- | Term 3 |
-|  | 4
-
-(60 mins)
-
- | ·       Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs. | Term 3 |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xbro{background-color:#C2C2C2;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-xbro"><span style="font-weight:bold">UNIT</span></th>
+    <th class="tg-xbro"><span style="font-weight:bold">LESSONS / DURATION</span></th>
+    <th class="tg-xbro"><span style="font-weight:bold">Lesson Objectives</span><br><br><span style="font-weight:bold">At the end of the lesson, students will be able to:</span></th>
+    <th class="tg-xbro"><span style="font-weight:bold">TIME PERIOD</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1ppo" rowspan="3"><span style="background-color:#FFF">Respectful Relationships &amp; Safety</span></td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">1</span><br><br>(60 mins)</td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">·       Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.</span><br><br>·       Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br>·       Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Term 3</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"><span style="background-color:#FFF">2</span><br><br>(60 mins)</td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">·       Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.</span><br><br>·       Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.<br>·       Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.<br>·       Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.</td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Term 3</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"><span style="background-color:#FFF">3</span><br><br>(60 mins)</td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">·       Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.</span><br><br>·       Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.<br>·       Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.</td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Term 3</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"></td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">4</span><br><br>(60 mins)</td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">·       Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</span></td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Term 3</span></td>
+  </tr>
+</tbody>
+</table>
 
 **Secondary 5**
 
