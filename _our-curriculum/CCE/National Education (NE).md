@@ -27,3 +27,10 @@ While we appreciate and celebrate diversity, we must also maintain the social co
 
 ![International Friendship Day](/images/2-2.jpeg)
 <p style="text-align:center;">International Friendship Day</p>
+
+**Racial Harmony Day “The Singapore Connection”**  
+On 21 July each year, schools commemorate Racial Harmony Day (RHD) to mark the anniversary of the 1964 racial riots. RHD serves as a reminder that promoting social cohesion and racial harmony requires collaborative efforts from everyone.
+
+![Racial Harmony Day “The Singapore Connection”](/images/Racial%20Harmony%20Day%20“The%20Singapore%20Connection”_1.jpg)
+
+![Racial Harmony Day “The Singapore Connection”](/images/Racial%20Harmony%20Day%20“The%20Singapore%20Connection”_2.jpg)
