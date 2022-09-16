@@ -52,8 +52,8 @@ Exemplars of students’ work
 <tbody>
   <tr>
     <th><img src="/images/01-5.jpeg" width="55" height="17"></th>
-    <th><img src="/images/02-6.jpeg" alt="Mathematics" width="55" height="17"></th>
-    <th><img src="/images/03-6.jpeg" alt="Mathematics" width="55" height="17"></th>
+    <th><img src="/images/03-6.jpeg" width="55" height="17"></th>
+    <th><img src="/images/03-6.jpeg" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
@@ -63,13 +63,15 @@ Exemplars of students’ work
 **Stage 4: Sample Proposal & Inventive Thinking**  
 At this stage, students are expected to come up with a proposal to suggest a strategy to promote greater acceptance of migrant workers in Singapore society. Students are expected to present their findings and final proposal at the end of the project.
 
-[![03](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/03-5-300x213.jpg)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/03-5.jpg)
-
-Brochure
-
-[![04](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/04-5-300x211.jpg)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/04-5.jpg)
-
-Newsletter
+<table>
+<tbody>
+  <tr>
+    <th><img src="/images/01-5.jpeg" width="55" height="17"></th>
+    <th><img src="/images/03-6.jpeg" width="55" height="17"></th>
+    <th><img src="/images/03-6.jpeg" width="55" height="17"></th>
+  </tr>
+</tbody>
+</table>
 
   
 
@@ -83,8 +85,9 @@ Newsletter
 <tbody>
   <tr>
     <th><img src="/images/01-5.jpeg" width="55" height="17"></th>
-    <th><img src="/images/02-6.jpeg" alt="Mathematics" width="55" height="17"></th>
-    <th><img src="/images/03-6.jpeg" alt="Mathematics" width="55" height="17"></th>
+    <th><img src="/images/03-6.jpeg" width="55" height="17"></th>
+    <th><img src="/images/03-6.jpeg" width="55" height="17"></th>
+		<th><img src="/images/03-6.jpeg" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
