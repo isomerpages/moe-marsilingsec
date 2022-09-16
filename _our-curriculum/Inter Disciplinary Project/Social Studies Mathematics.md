@@ -28,7 +28,16 @@ The Secondary 3 students visited Westlite Dormitory Woodlands as part of their a
 
 The purpose of this LJ is to provide an experiential learning opportunity for students to gain a deeper understanding on the daily lives of migrant workers before they embark on the investigation.
 
-![](/images/1-1-768x576.jpeg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/1-1-768x576.jpeg" alt="Stage 1: Sparking Curiosity through Learning Journey to Westlite Dormitory" style="width:70%;">  
+  
+</body>
 
 **Stage 2: Crafting Questions, Training of using ICT tools (Excel, Google Forms, etc.) and Conducting Surveys at Toa Payoh & Ang Mo Kio**  
 At this stage, students work in groups to craft suitable and valid survey questions to collect data. Students attended a workshop to train them to use ICT platforms such as Microsoft Excel and Google Forms, including the setting up of QR codes. Following that, students went out to public areas in Toa Payoh and Ang Mo Kio to conduct the surveys, gathering data for their project.
@@ -36,8 +45,8 @@ At this stage, students work in groups to craft suitable and valid survey questi
 <table>
 <tbody>
   <tr>
-    <th><img src="![](/images/04-768x576.jpeg)" width="55" height="17"></th>
-    <th><img src="![](/images/03-497x1024.jpeg)" width="55" height="17"></th>
+    <th><img src="/images/04-768x576.jpeg" width="55" height="17"></th>
+    <th><img src="/images/03-497x1024.jpeg" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
@@ -50,8 +59,8 @@ Exemplars of students’ work
 <table>
 <tbody>
   <tr>
-    <th><img src="![](/images/01-4-768x469.jpeg)" width="55" height="17"></th>
-    <th><img src="![](/images/02-5.jpeg)" width="55" height="17"></th>
+    <th><img src="/images/01-4-768x469.jpeg" width="55" height="17"></th>
+    <th><img src="/images/02-5.jpeg" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
@@ -64,8 +73,8 @@ At this stage, students are expected to come up with a proposal to suggest a str
 <table>
 <tbody>
   <tr>
-    <th><img src="![](/images/03-5.jpeg)" width="55" height="17"><br>Brochure</th>
-    <th><img src="![](/images/04-5.jpeg)" width="55" height="17"><br>Newsletter</th>
+    <th><img src="/images/03-5.jpeg" width="55" height="17"><br>Brochure</th>
+    <th><img src="/images/04-5.jpeg" width="55" height="17"><br>Newsletter</th>
   </tr>
 </tbody>
 </table>
@@ -81,9 +90,9 @@ At this stage, students are expected to come up with a proposal to suggest a str
 <table>
 <tbody>
   <tr>
-    <th><img src="![](/images/4-1-768x1024.jpeg)" width="55" height="17"></th>
-    <th><img src="![](/images/5-768x1024_.jpeg)" width="55" height="17"></th>
-    <th><img src="![](/images/6-768x1024.jpeg)" width="55" height="17"></th>
+    <th><img src="/images/4-1-768x1024.jpeg" width="55" height="17"></th>
+    <th><img src="/images/5-768x1024_.jpeg" width="55" height="17"></th>
+    <th><img src="/images/6-768x1024.jpeg" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
