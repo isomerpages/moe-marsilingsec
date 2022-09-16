@@ -13,8 +13,8 @@ The students learnt typography where they produce artistic arrangement of langua
 <table>
 <tbody>
   <tr>
-    <th><img src="/images/04-768x576.jpeg" width="55" height="17"></th>
-    <th><img src="/images/03-497x1024.jpeg" width="55" height="17"></th>
+    <th><img src="![](/images/01-3-e1571270563532.jpeg)" width="55" height="17"></th>
+    <th><img src="![](/images/02-4-e1571270571857.jpeg)" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
@@ -27,8 +27,8 @@ In Lit-Art, students learnt caricatures to magnify and exaggerate specific featu
 <table>
 <tbody>
   <tr>
-    <th><img src="/images/04-768x576.jpeg" width="55" height="17"></th>
-    <th><img src="/images/03-497x1024.jpeg" width="55" height="17"></th>
+    <th><img src="![](/images/03-4-768x516.jpeg)" width="55" height="17"></th>
+    <th><img src="![](/images/04-4-e1571270732737.jpeg)" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
@@ -41,8 +41,8 @@ Using knowledge of colours, lines and typography, the students created mind-maps
 <table>
 <tbody>
   <tr>
-    <th><img src="/images/04-768x576.jpeg" width="55" height="17"></th>
-    <th><img src="/images/03-497x1024.jpeg" width="55" height="17"></th>
+    <th><img src="![](/images/05-3-768x564.jpeg)" width="55" height="17"></th>
+    <th><img src="![](/images/06-1-768x517.jpeg)" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
@@ -52,8 +52,8 @@ Using knowledge of colours, lines and typography, the students created mind-maps
 **Reflections**  
 The Lit-Art Project concluded with students writing their reflection on the entire learning process, articulating the choices that they have made in designing their caricature and the ways in which they relate to the characters in the text _Stepping Up._
 
-[![001](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/001-1024x715.jpg)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/001.jpg)
+![Reflections](/images/001.jpeg)
 
   
 
-[![002](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/002-1024x586.jpg)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/10/002.jpg)
+![Reflections](/images/002.jpeg)
