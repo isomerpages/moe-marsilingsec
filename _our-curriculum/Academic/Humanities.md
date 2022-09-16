@@ -23,7 +23,7 @@ Developing Learners with a curious and caring mind.
 **Department’s Mission**  
 To nurture students to be critical thinkers who can contribute to society.
 
-##### **Social Studies**  
+##### **<u>Social Studies</u>**  
 The Social Studies Curriculum aims to develop students to be informed, concerned and participative citizens, competent in decision-making, who will contribute responsibly to the society and the world they live in.
 
 *   Social Studies-Mathematics Interdisciplinary Project (IDP) has been a feature since 2018. Please click [here](/social-studies-mathematics/) to find out more
@@ -42,7 +42,7 @@ The Social Studies Curriculum aims to develop students to be informed, concerned
 </tbody>
 </table>
 
-##### **Geography**  
+##### **<u>Geography</u>**  
 Under the supervision of teachers, Geography lessons encourage first-hand experiences outside the classroom. As a more student-centered inquiry-based activity, the students first form their guiding questions and hypotheses on geographical issues they learn in class. During the fieldwork and post-fieldwork stages, teachers facilitate deep learning where students play a more active role in making sense of knowledge. The following are some examples of geographical issues that the students investigated this year:
 
 **Secondary 1:** Is the quality of water at Mac Ritchie Reservoir good?  
@@ -66,7 +66,7 @@ Under the supervision of teachers, Geography lessons encourage first-hand experi
 </tbody>
 </table>
 
-##### **History**  
+##### **<u>History</u>**  
 History allows students to draw connections between the past and present by understanding how the nature and impact of past developments explain today’s world.
 
 **Lower Secondary History**  
@@ -137,10 +137,10 @@ The students were tasked to do 2 mini-projects a year. The mini-project is part 
 
 By engaging in this mini-project, the teachers want students to:
 
-1.  activate your critical thinking skills
-2.  demonstrate empathy and perspective-taking
-3.  showcase your artistic talents
-4.  build up your confidence and presentation skills
+1.  activate your <u>critical thinking</u> skills
+2.  demonstrate <u>empathy and perspective-taking</u>
+3.  showcase your <u>artistic talents</u>
+4.  build up your <u>confidence and presentation skills</u>
 
 **Mini-project 1 (Political Cartoon)**  
 Students to create a political cartoon based on what they have learned in Term One which were the impact of World War One on many European countries as well as the reasons for and weaknesses of the League of Nations.
