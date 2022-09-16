@@ -18,24 +18,24 @@ In 2019, students are given the revised task to _'create a prototype aimed at r
 <table>
 <tbody>
   <tr>
-    <th><img src="![](/images/2-1.jpeg)" width="55" height="17"></th>
-    <th><img src="![](/images/3-1.jpeg)" width="55" height="17"></th>
+    <th><img src="/images/2-1.jpeg" width="55" height="17"></th>
+    <th><img src="/images/3-1.jpeg" width="55" height="17"></th>
   </tr>
 	<tr>
-    <th><img src="![](/images/4-1.jpeg)" width="55" height="17"></th>
-    <th><img src="![](/images/6-1.jpeg)" width="55" height="17"></th>
+    <th><img src="/images/4-1.jpeg" width="55" height="17"></th>
+    <th><img src="/images/6-1.jpeg" width="55" height="17"></th>
   </tr>
 	<tr>
-    <th><img src="![](/images/1-1.jpeg)" width="55" height="17"></th>
-    <th><img src="![](/images/5_.png)" width="55" height="17"></th>
+    <th><img src="/images/1-1.jpeg" width="55" height="17"></th>
+    <th><img src="/images/5_.png" width="55" height="17"></th>
   </tr>
 	<tr>
-    <th><img src="![](/images/8-1.jpeg)" width="55" height="17"></th>
-    <th><img src="![](/images/9-1.jpeg)" width="55" height="17"></th>
+    <th><img src="/images/8-1.jpeg" width="55" height="17"></th>
+    <th><img src="/images/9-1.jpeg" width="55" height="17"></th>
   </tr>
 	<tr>
-    <th><img src="![](/images/7_.png)" width="55" height="17"></th>
-    <th><img src="![](/images/10-1_.jpeg)" width="55" height="17"></th>
+    <th><img src="/images/7_.png" width="55" height="17"></th>
+    <th><img src="/images/10-1_.jpeg" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
