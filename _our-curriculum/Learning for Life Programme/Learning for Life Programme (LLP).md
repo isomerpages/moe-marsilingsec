@@ -18,7 +18,7 @@ In the **_VALOUR_** programme, students are provided with opportunities to pro
 
 Altogether, there are six student leadership groups for Marsilians to choose from. Each group represents an important area defined by the school for students to contribute and grow. They are the class Council, Student Council, Character and Citizenship (CCE) Council, Co-Curricular (CCA) Council, Environment Council (EC) and Outdoor Education Council (OE). Interested students can select their choice at Secondary One before being appointed at Secondary Two.
 
-[![](https://marsilingsec.moe.edu.sg/wp-content/uploads/2018/10/MSS-student-leadership-1024x576.jpg)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2018/10/MSS-student-leadership.jpg)
+![Learning for Life Programme (LLP)](/images/MSS-student-leadership-1024x576.jpeg)
 
 **Mountain Trekking in Taiwan 2019**
 
