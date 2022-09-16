@@ -49,14 +49,14 @@ Some of the benefits and outcomes of the The MSS TeenTalk include:
 <table>
 <tbody>
   <tr>
-    <th><img src="![](/images/MG_0770-768x512.jpeg)" width="55" height="17"></th>
-    <th><img src="![](/images/MG_0737-768x512.jpeg)" width="55" height="17"></th>
-		<th><img src="![](/images/MG_0711-768x512.jpeg)" width="55" height="17"></th>
+    <th><img src="/images/MG_0770-768x512.jpeg" width="55" height="17"></th>
+    <th><img src="/images/MG_0737-768x512.jpeg" width="55" height="17"></th>
+		<th><img src="/images/MG_0711-768x512.jpeg" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
 
-**Learning Hub (Library)**
+##### **Learning Hub (Library)**
 
 The Marsiling Bibliophile Award is introduced in 2019 to encourage Marsilians to develop the joy of reading. Reading develops critical thinking skills and aids in the mastery of the English Language. The Bibliophile Award is divided into two categories:  
 Category 1: Individual Award  
@@ -69,43 +69,43 @@ For the Individual Award, the top three borrowers of the month will receive a pr
 <table>
 <tbody>
   <tr>
-    <th><img src="![](/images/IMG_0324-646x1024.jpeg)" width="55" height="17"></th>
-    <th><img src="![](/images/IMG_0327-637x1024.jpeg)" width="55" height="17"></th>
+    <th><img src="/images/IMG_0324-646x1024.jpeg" width="55" height="17"></th>
+    <th><img src="/images/IMG_0327-637x1024.jpeg" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
 
 **September Awardees**  
-Category 1: Individual Award  
+<u>Category 1: Individual Award</u>  
 1st: Pang Chi Ling (1E2)  
 2nd: Vennela Chitrada (1E2)  
 3rd: Nigel Seow En Ze (1N2)
 
-Category 2: Class Award  
+<u>Category 2: Class Award</u>  
 The top borrower for the Class Award is 1E2.
 
 <table>
 <tbody>
   <tr>
-    <th><img src="![](/images/MG_3949-669x1024.jpeg)" width="55" height="17"></th>
-    <th><img src="![](/images/MG_3951-621x1024.jpeg)" width="55" height="17"></th>
-		<th><img src="![](/images/MG_3950-717x1024.jpeg)" width="55" height="17"></th>
-    <th><img src="![](/images/MG_3952-711x1024.jpeg)" width="55" height="17"></th>
+    <th><img src="/images/MG_3949-669x1024.jpeg" width="55" height="17"></th>
+    <th><img src="/images/MG_3951-621x1024.jpeg" width="55" height="17"></th>
+		<th><img src="/images/MG_3950-717x1024.jpeg" width="55" height="17"></th>
+    <th><img src="/images/MG_3952-711x1024.jpeg" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
 
 **Book Giveaway event 2019**
 
-This inaugural book giveaway event was extremely well-received by students. Throughout the three days, we gave away a total of **251 books** to staff and students. Through the giveaway, we hope that students could find the joy and pleasure of reading, thereby building a strong reading culture in our school.
+This inaugural book giveaway event was extremely well-received by students. Throughout the three days, we gave away a total of **<u>251 books</u>** to staff and students. Through the giveaway, we hope that students could find the joy and pleasure of reading, thereby building a strong reading culture in our school.
 
 **Book Giveaway event 2020**
 
-This is the second time year we are having this event and throughout the three days, we gave away a total of **112 books** to staff and students. We hope that students will continue to find the joy and pleasure of reading, thereby contributing to the building of a strong reading culture in our school.
+This is the second time year we are having this event and throughout the three days, we gave away a total of **<u>112 books</u>** to staff and students. We hope that students will continue to find the joy and pleasure of reading, thereby contributing to the building of a strong reading culture in our school.
 
 ![](/images/01-6.jpeg)
 
-**Accolades**
+##### **Accolades**
 
 **2020 MOE Innergy Award**  
 Lit-Art Interdisciplinary Project
