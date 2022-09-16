@@ -36,9 +36,8 @@ At this stage, students work in groups to craft suitable and valid survey questi
 <table>
 <tbody>
   <tr>
-    <th><img src="/images/01-5.jpeg" width="55" height="17"></th>
-    <th><img src="/images/02-6.jpeg" alt="Mathematics" width="55" height="17"></th>
-    <th><img src="/images/03-6.jpeg" alt="Mathematics" width="55" height="17"></th>
+    <th><img src="![](/images/04-768x576.jpeg)" width="55" height="17"></th>
+    <th><img src="![](/images/03-497x1024.jpeg)" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
@@ -51,9 +50,8 @@ Exemplars of students’ work
 <table>
 <tbody>
   <tr>
-    <th><img src="/images/01-5.jpeg" width="55" height="17"></th>
-    <th><img src="/images/03-6.jpeg" width="55" height="17"></th>
-    <th><img src="/images/03-6.jpeg" width="55" height="17"></th>
+    <th><img src="![](/images/01-4-768x469.jpeg)" width="55" height="17"></th>
+    <th><img src="![](/images/02-5.jpeg)" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
@@ -66,9 +64,8 @@ At this stage, students are expected to come up with a proposal to suggest a str
 <table>
 <tbody>
   <tr>
-    <th><img src="/images/01-5.jpeg" width="55" height="17"></th>
-    <th><img src="/images/03-6.jpeg" width="55" height="17"></th>
-    <th><img src="/images/03-6.jpeg" width="55" height="17"></th>
+    <th><img src="![](/images/03-5.jpeg)" width="55" height="17"><br>Brochure</th>
+    <th><img src="![](/images/04-5.jpeg)" width="55" height="17"><br>Newsletter</th>
   </tr>
 </tbody>
 </table>
@@ -87,7 +84,6 @@ At this stage, students are expected to come up with a proposal to suggest a str
     <th><img src="/images/01-5.jpeg" width="55" height="17"></th>
     <th><img src="/images/03-6.jpeg" width="55" height="17"></th>
     <th><img src="/images/03-6.jpeg" width="55" height="17"></th>
-		<th><img src="/images/03-6.jpeg" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
