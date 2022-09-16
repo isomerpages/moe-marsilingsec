@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Learning for Life Programme/Applications to download.md
       - Learning for Life Programme/I Learn Champion.md
       - Learning for Life Programme/Safety.md
       - Learning for Life Programme/Learning for Life Programme (LLP).md
