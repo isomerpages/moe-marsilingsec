@@ -82,78 +82,84 @@ You may click [here](http://www.moe.gov.sg/education/programmes/social-emotiona
 
 **Secondary 2**
 
-| **UNIT** | **LESSONS / DURATION** | **Lesson Objectives**
-**At the end of the lesson, students will be able to:**
-
- | **TIME PERIOD** |
-| --- | --- | --- | --- |
-| Respectful Relationships & Safety | 1
-
-(60  mins)
-
- | ·      Know that one’s understanding of gender roles should not be limited by gender stereotypes
-
-·      Develop an appreciation of one’s own unique qualities and characteristics as a male or female
-
-·      Understand what sexual orientation entails
-
- | Term 3 |
-| 2A
-
-(60 mins)
-
- | ·      Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline | Term 3 |
-| 2B
-
-(60 mins)
-
- | ·     Recognise the importance of self-respect and respect for others in relating to members of the opposite gender
-
-·     Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online
-
- | Term 4 |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xbro{background-color:#C2C2C2;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-xbro"><span style="font-weight:bold">UNIT</span></th>
+    <th class="tg-xbro"><span style="font-weight:bold">LESSONS / DURATION</span></th>
+    <th class="tg-xbro"><span style="font-weight:bold">Lesson Objectives</span><br><br><span style="font-weight:bold">At the end of the lesson, students will be able to:</span></th>
+    <th class="tg-xbro"><span style="font-weight:bold">TIME PERIOD</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1ppo" rowspan="3"><span style="background-color:#FFF">Respectful Relationships &amp; Safety</span></td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">1</span><br><br>(60  mins)</td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">·      Know that one’s understanding of gender roles should not be limited by gender stereotypes</span><br><br>·      Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>·      Understand what sexual orientation entails</td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Term 3</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"><span style="background-color:#FFF">2A</span><br><br>(60 mins)</td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">·      Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</span></td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Term 3</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"><span style="background-color:#FFF">2B</span><br><br>(60 mins)</td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">·     Recognise the importance of self-respect and respect for others in relating to members of the opposite gender</span><br><br>·     Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Term 4</span></td>
+  </tr>
+</tbody>
+</table>
 
 **Secondary 3**
 
-| **UNIT** | **LESSONS / DURATION** | **Lesson Objectives**
-**At the end of the lesson, students will be able to:**
-
- | **TIME PERIOD** |
-| --- | --- | --- | --- |
-| Respectful Relationships & Safety | 1A
-
-(60 mins)
-
- | ·       Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.
-
-·       Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.
-
-·       Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.
-
- | Term 3 |
-| 1B
-
-(60 mins)
-
- | ·       Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.
-
-·       Know that a decision to end a relationship will have consequences on oneself and others.
-
-·       Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.
-
-·       Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.
-
- |  Term 3 |
-| 2
-
-(60 mins)
-
- | 
-
-*   Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.
-*   Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.
-
- | Term 4 |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xbro{background-color:#C2C2C2;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-xbro"><span style="font-weight:bold">UNIT</span></th>
+    <th class="tg-xbro"><span style="font-weight:bold">LESSONS / DURATION</span></th>
+    <th class="tg-xbro"><span style="font-weight:bold">Lesson Objectives</span><br><br><span style="font-weight:bold">At the end of the lesson, students will be able to:</span></th>
+    <th class="tg-xbro"><span style="font-weight:bold">TIME PERIOD</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1ppo" rowspan="3"><span style="background-color:#FFF">Respectful Relationships &amp; Safety</span></td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">1A</span><br><br>(60 mins)</td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">·       Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.</span><br><br>·       Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br>·       Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.</td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Term 3</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"><span style="background-color:#FFF">1B</span><br><br>(60 mins)</td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">·       Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.</span><br><br>·       Know that a decision to end a relationship will have consequences on oneself and others.<br>·       Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.<br>·       Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.</td>
+    <td class="tg-1ppo"><span style="background-color:#FFF"> Term 3</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"><span style="background-color:#FFF">2</span><br><br>(60 mins)</td>
+    <td class="tg-tsok">Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.<br>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Term 4</span></td>
+  </tr>
+</tbody>
+</table>
 
 **Secondary 4**
 
