@@ -35,8 +35,9 @@ The Social Studies Curriculum aims to develop students to be informed, concerned
 <table>
 <tbody>
   <tr>
-    <th><img src="/images/31.jpeg" width="55" height="17"></th>
-    <th><img src="/images/32.jpeg" alt="Financial Literacy (Praxis) Board Game" width="55" height="17"></th>
+    <th><img src="/images/31.jpeg" width="55" height="17"><br>adsv</th>
+    <th><img src="/images/32.jpeg" alt="Financial Literacy (Praxis) Board Game" width="55" height="17"><br>adsv</th>
+		<th><img src="/images/32.jpeg" alt="Financial Literacy (Praxis) Board Game" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
