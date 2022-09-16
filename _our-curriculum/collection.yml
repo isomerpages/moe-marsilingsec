@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - CCE/Sexuality Education.md
       - CCE/Values in Action (VIA).md
       - CCE/Character and Citizenship Education.md
       - CCE/.keep
