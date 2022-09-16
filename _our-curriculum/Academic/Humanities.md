@@ -108,8 +108,8 @@ The exhibits and artefacts at the museum provided interesting insights about lif
 <table>
 <tbody>
   <tr>
-    <th><img src="/images/31.jpeg" width="55" height="17"></th>
-    <th><img src="/images/32.jpeg" alt="Financial Literacy (Praxis) Board Game" width="55" height="17"></th>
+    <th><img src="/images/01-2-473x1024.jpeg" width="55" height="17"></th>
+    <th><img src="/images/02-3-768x354.jpeg" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
@@ -118,6 +118,17 @@ The exhibits and artefacts at the museum provided interesting insights about lif
 The use of History Inquiry provides the students a way of thinking about the past. The use of historical inquiry shows students a way to inquire into, organise and explain events that have happened. Historical inquiry is the process of “doing history”. It is a cyclical process (shown below) that begins with the asking of guiding historical questions. This is followed by locating and analysing historical sources to establish historical evidence. The historical evidence is then used to construct historical interpretations that seek to answer the guiding historical questions.
 
 **Cycle of Historical Inquiry**
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/03-3.jpeg" alt="Cycle of Historical Inquiry" style="width:70%;">  
+  
+</body>
 
 The use of historical inquiry is thus at the heart of history instruction and learning, and students must be provided with the opportunities to learn the skills required through practice and engagement in historical inquiry.
 
