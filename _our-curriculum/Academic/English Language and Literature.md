@@ -51,7 +51,7 @@ Some of the benefits and outcomes of the The MSS TeenTalk include:
   <tr>
     <th><img src="![](/images/MG_0770-768x512.jpeg)" width="55" height="17"></th>
     <th><img src="![](/images/MG_0737-768x512.jpeg)" width="55" height="17"></th>
-		<th><img src="/images/01-2-473x1024.jpeg" width="55" height="17"></th>
+		<th><img src="![](/images/MG_0711-768x512.jpeg)" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
@@ -69,8 +69,8 @@ For the Individual Award, the top three borrowers of the month will receive a pr
 <table>
 <tbody>
   <tr>
-    <th><img src="/images/01-2-473x1024.jpeg" width="55" height="17"></th>
-    <th><img src="/images/02-3-768x354.jpeg" width="55" height="17"></th>
+    <th><img src="![](/images/IMG_0324-646x1024.jpeg)" width="55" height="17"></th>
+    <th><img src="![](/images/IMG_0327-637x1024.jpeg)" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
@@ -87,9 +87,9 @@ The top borrower for the Class Award is 1E2.
 <table>
 <tbody>
   <tr>
-    <th><img src="/images/01-2-473x1024.jpeg" width="55" height="17"></th>
-    <th><img src="/images/02-3-768x354.jpeg" width="55" height="17"></th>
-		<th><img src="/images/01-2-473x1024.jpeg" width="55" height="17"></th>
+    <th><img src="![](/images/MG_3949-669x1024.jpeg)" width="55" height="17"></th>
+    <th><img src="![](/images/MG_3951-621x1024.jpeg)" width="55" height="17"></th>
+		<th><img src="![](/images/MG_3950-717x1024.jpeg)" width="55" height="17"></th>
     <th><img src="/images/02-3-768x354.jpeg" width="55" height="17"></th>
   </tr>
 </tbody>
