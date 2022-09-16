@@ -57,3 +57,37 @@ Teachers have designed a Department designed a learning journey for the Secondar
 
 **Brief description of the Event:**  
 In this Historical Investigation (HI), the students were divided into groups and were tasked to research on how transformation of Singapore as a British port  followed by the influx of immigrants to Singapore have impacted the area around the Singapore river in the aspects of jobs, infrastructure, entertainment, people and the Singapore river itself. Subsequently, students embarked on this learning journey to experience the current makeover of the area around the Singapore River in order to identify the changes and continues from the past. The deliverable for this project was to create a poster to display the changes and continuities in the area around the Singapore River.
+
+**Secondary Two**  
+The History and English department curricula place great emphasis on crafting authentic learning experiences to enrich learning for students. With this in mind, the two departments collaborated and designed a meaningful learning journey for the Secondary 2 cohort to the Former Ford Factory museum. The objective of the Learning Journey was to provide opportunities for the students to skillfully apply the knowledge gathered from the museum to evaluate historical ambiguities and design a brochure.
+
+**Brief description of the Event:**  
+The exhibits and artefacts at the museum provided interesting insights about life during the Japanese Occupation. Students were able to visualise the sufferings of people and ponder deeply about moral issues of war and control which fortunately, are not experienced by the younger generations in Singapore. The accompanying reflective worksheets deepen their understanding of how the Japanese Occupation developed resilience in people and the importance of maintaining the peace we have fought so hard to achieve.
+
+**Students furiously reading and writing the required information on the British surrender and the Japanese Occupation of Singapore.**
+
+**Upper Secondary History**  
+The use of History Inquiry provides the students a way of thinking about the past. The use of historical inquiry shows students a way to inquire into, organise and explain events that have happened. Historical inquiry is the process of “doing history”. It is a cyclical process (shown below) that begins with the asking of guiding historical questions. This is followed by locating and analysing historical sources to establish historical evidence. The historical evidence is then used to construct historical interpretations that seek to answer the guiding historical questions.
+
+**Cycle of Historical Inquiry**
+
+The use of historical inquiry is thus at the heart of history instruction and learning, and students must be provided with the opportunities to learn the skills required through practice and engagement in historical inquiry.
+
+**Secondary Three Mini-Projects**  
+The students were tasked to do 2 mini-projects a year. The mini-project is part of Sec Three Alternative Assessment. By engaging in this mini-project, the students will have a better understanding of what they have learnt in their history lessons.
+
+By engaging in this mini-project, the teachers want students to:
+
+1.  activate your critical thinking skills
+2.  demonstrate empathy and perspective-taking
+3.  showcase your artistic talents
+4.  build up your confidence and presentation skills
+
+**Mini-project 1 (Political Cartoon)**  
+Students to create a political cartoon based on what they have learned in Term One which were the impact of World War One on many European countries as well as the reasons for and weaknesses of the League of Nations.
+
+**Student’s perceptions of the Impact of the Treaty of Versailles on Germany**
+
+**  
+Mini Project 2 (Letter-Writing)**  
+The students were tasked to do letter writing based on the inter-war years (between WWI and WWII). By engaging in this project, they will have an opportunity to demonstrate their historical narrative writing skills, including infusion of contextual knowledge and empathy, artistic talents as well as dramatic oratorical skills.
