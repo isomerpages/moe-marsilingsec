@@ -18,3 +18,68 @@ Beyond projects, a vertical vegetable farm amidst the school’s lush environmen
 In support of the SG Green Plan 2030, the school endeavors to reduce carbon emissions. Other than the vertical farm, our school campus is also enhanced with sustainability features such as the solar panels, rainwater harvesting system and the biodiversity landscape. These features serve as learning infrastructures that are integrated into the overall ALP curriculum. These features help students to better appreciate issues related to sustainability and it provides the necessary experiential learning.
 
 Our Environment Councillors (student leaders) serve as green ambassadors and become responsible stewards of the environment. Through various leadership opportunities, the Environment Councillors help to advocate sustainability mindsets and practices among their peers.
+
+<table>
+<tbody>
+  <tr>
+    <th><img src="/images/01-3-e1571270563532.jpeg" width="55" height="17"></th>
+    <th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
+		<th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
+  </tr>
+	<tr>
+    <th><img src="/images/01-3-e1571270563532.jpeg" width="55" height="17"></th>
+    <th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
+		<th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
+  </tr>
+	<tr>
+    <th><img src="/images/01-3-e1571270563532.jpeg" width="55" height="17"></th>
+    <th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
+		<th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
+  </tr>
+	<tr>
+    <th><img src="/images/01-3-e1571270563532.jpeg" width="55" height="17"></th>
+    <th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
+		<th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
+  </tr>
+	<tr>
+    <th><img src="/images/01-3-e1571270563532.jpeg" width="55" height="17"></th>
+    <th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
+		<th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
+  </tr>
+	<tr>
+    <th><img src="/images/01-3-e1571270563532.jpeg" width="55" height="17"></th>
+    <th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
+		<th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
+  </tr>
+	<tr>
+    <th><img src="/images/01-3-e1571270563532.jpeg" width="55" height="17"></th>
+    <th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
+		<th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
+  </tr>
+	<tr>
+    <th><img src="/images/01-3-e1571270563532.jpeg" width="55" height="17"></th>
+    <th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
+		<th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
+  </tr>
+	<tr>
+    <th><img src="/images/01-3-e1571270563532.jpeg" width="55" height="17"></th>
+    <th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
+		<th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
+  </tr>
+	<tr>
+    <th><img src="/images/01-3-e1571270563532.jpeg" width="55" height="17"></th>
+    <th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
+		<th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
+  </tr>
+	<tr>
+    <th><img src="/images/01-3-e1571270563532.jpeg" width="55" height="17"></th>
+    <th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
+		<th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
+  </tr>
+	<tr>
+    <th><img src="/images/01-3-e1571270563532.jpeg" width="55" height="17"></th>
+    <th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
+		<th><img src="/images/02-4-e1571270571857.jpeg" width="55" height="17"></th>
+  </tr>
+</tbody>
+</table>
