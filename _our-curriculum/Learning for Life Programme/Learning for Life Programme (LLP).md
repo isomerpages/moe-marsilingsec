@@ -23,3 +23,13 @@ Altogether, there are six student leadership groups for Marsilians to choose fro
 **Mountain Trekking in Taiwan 2019**
 
 Our Secondary 4 and five students were given the opportunity to go for a 5 days 4 nights overseas trip to climb the highest peak in Taipei. Students enjoyed camping under the stars in tents and cooking sumptuous meals in the outdoors. The unique experience enhanced their ability to work together effectively as a team and enriched their personal leadership qualities.
+
+![Mountain Trekking in Taiwan 2019](/images/Mountain%20Trekking%20in%20Taiwan%202019_1.jpg)
+
+![Mountain Trekking in Taiwan 2019](/images/Mountain%20Trekking%20in%20Taiwan%202019_2.jpg)
+
+**Hong Kong Trip 2018**
+
+![Hong Kong Trip 2018](/images/Hong%20Kong%20Trip%202018_1.jpg)
+
+![Hong Kong Trip 2018](/images/Hong%20Kong%20Trip%202018_2.jpg)
