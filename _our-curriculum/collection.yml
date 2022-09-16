@@ -2,11 +2,11 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Inter Disciplinary Project/.keep
+      - Inter Disciplinary Project/21 CC Inter Disciplinary Project (IDP).md
       - "Inter Disciplinary Project/ALP: Design & Technology Project.md"
       - Inter Disciplinary Project/Literature Art.md
       - Inter Disciplinary Project/Social Studies Mathematics.md
-      - Inter Disciplinary Project/21 CC Inter Disciplinary Project (IDP).md
-      - Inter Disciplinary Project/.keep
       - Academic/Craft and Technology.md
       - Academic/English Language and Literature.md
       - Academic/Humanities.md
