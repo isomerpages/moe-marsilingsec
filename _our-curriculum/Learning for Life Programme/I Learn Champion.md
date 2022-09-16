@@ -18,10 +18,7 @@ The route can be downloaded at this [link](/files/Navigator-of-the-North.pdf).
 
 The upcoming phases are:
 
-Explorer of the East (Second Phase)
-
-Seeker of the South (Third Phase)
-
-Wanderer of the West (Fourth Phase)
-
+Explorer of the East (Second Phase) <br>
+Seeker of the South (Third Phase) <br>
+Wanderer of the West (Fourth Phase) <br>
 Central Champion (Final Phase)
