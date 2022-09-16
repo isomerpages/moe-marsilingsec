@@ -26,11 +26,20 @@ To nurture students to be critical thinkers who can contribute to society.
 ##### **Social Studies**  
 The Social Studies Curriculum aims to develop students to be informed, concerned and participative citizens, competent in decision-making, who will contribute responsibly to the society and the world they live in.
 
-*   Social Studies-Mathematics Interdisciplinary Project (IDP) has been a feature since 2018. Please click [here](https://marsilingsec.moe.edu.sg/social-studies-mathematics/) to find out more
+*   Social Studies-Mathematics Interdisciplinary Project (IDP) has been a feature since 2018. Please click [here](/social-studies-mathematics/) to find out more
 *   Learning Journey to Jalan Besar Trail (exploring diversity in SG)
 *   Learning Journey to Westlite Dormitory (exploring issue of having migrant workers in SG)
 *   Infusion of ICT-based platforms such as Edmodo and Student Learning Spaces (SLS) to develop self-directed learning
 *   Model United Nations (UN) participation since 2015
+
+<table>
+<tbody>
+  <tr>
+    <th><img src="/images/31.jpeg" width="55" height="17"></th>
+    <th><img src="/images/32.jpeg" alt="Financial Literacy (Praxis) Board Game" width="55" height="17"></th>
+  </tr>
+</tbody>
+</table>
 
 ##### **Geography**  
 Under the supervision of teachers, Geography lessons encourage first-hand experiences outside the classroom. As a more student-centered inquiry-based activity, the students first form their guiding questions and hypotheses on geographical issues they learn in class. During the fieldwork and post-fieldwork stages, teachers facilitate deep learning where students play a more active role in making sense of knowledge. The following are some examples of geographical issues that the students investigated this year:
@@ -39,6 +48,15 @@ Under the supervision of teachers, Geography lessons encourage first-hand experi
 **Secondary 2:** Do Marsiling residents feel a sense of belonging to their neighbourhood?  
 **Secondary 3:** Do different places in the school have varied temperatures?  
 **Secondary 4:** Is Marina Bay an attractive tourist destination?
+
+<table>
+<tbody>
+  <tr>
+    <th><img src="/images/31.jpeg" width="55" height="17"></th>
+    <th><img src="/images/32.jpeg" alt="Financial Literacy (Praxis) Board Game" width="55" height="17"></th>
+  </tr>
+</tbody>
+</table>
 
 ##### **History**  
 History allows students to draw connections between the past and present by understanding how the nature and impact of past developments explain today’s world.
@@ -58,6 +76,15 @@ Teachers have designed a Department designed a learning journey for the Secondar
 **Brief description of the Event:**  
 In this Historical Investigation (HI), the students were divided into groups and were tasked to research on how transformation of Singapore as a British port  followed by the influx of immigrants to Singapore have impacted the area around the Singapore river in the aspects of jobs, infrastructure, entertainment, people and the Singapore river itself. Subsequently, students embarked on this learning journey to experience the current makeover of the area around the Singapore River in order to identify the changes and continues from the past. The deliverable for this project was to create a poster to display the changes and continuities in the area around the Singapore River.
 
+<table>
+<tbody>
+  <tr>
+    <th><img src="/images/31.jpeg" width="55" height="17"></th>
+    <th><img src="/images/32.jpeg" alt="Financial Literacy (Praxis) Board Game" width="55" height="17"></th>
+  </tr>
+</tbody>
+</table>
+
 **Secondary Two**  
 The History and English department curricula place great emphasis on crafting authentic learning experiences to enrich learning for students. With this in mind, the two departments collaborated and designed a meaningful learning journey for the Secondary 2 cohort to the Former Ford Factory museum. The objective of the Learning Journey was to provide opportunities for the students to skillfully apply the knowledge gathered from the museum to evaluate historical ambiguities and design a brochure.
 
@@ -65,6 +92,15 @@ The History and English department curricula place great emphasis on crafting au
 The exhibits and artefacts at the museum provided interesting insights about life during the Japanese Occupation. Students were able to visualise the sufferings of people and ponder deeply about moral issues of war and control which fortunately, are not experienced by the younger generations in Singapore. The accompanying reflective worksheets deepen their understanding of how the Japanese Occupation developed resilience in people and the importance of maintaining the peace we have fought so hard to achieve.
 
 **Students furiously reading and writing the required information on the British surrender and the Japanese Occupation of Singapore.**
+
+<table>
+<tbody>
+  <tr>
+    <th><img src="/images/31.jpeg" width="55" height="17"></th>
+    <th><img src="/images/32.jpeg" alt="Financial Literacy (Praxis) Board Game" width="55" height="17"></th>
+  </tr>
+</tbody>
+</table>
 
 **Upper Secondary History**  
 The use of History Inquiry provides the students a way of thinking about the past. The use of historical inquiry shows students a way to inquire into, organise and explain events that have happened. Historical inquiry is the process of “doing history”. It is a cyclical process (shown below) that begins with the asking of guiding historical questions. This is followed by locating and analysing historical sources to establish historical evidence. The historical evidence is then used to construct historical interpretations that seek to answer the guiding historical questions.
@@ -88,6 +124,23 @@ Students to create a political cartoon based on what they have learned in Term O
 
 **Student’s perceptions of the Impact of the Treaty of Versailles on Germany**
 
-**  
-Mini Project 2 (Letter-Writing)**  
+<table>
+<tbody>
+  <tr>
+    <th><img src="/images/31.jpeg" width="55" height="17"></th>
+    <th><img src="/images/32.jpeg" alt="Financial Literacy (Praxis) Board Game" width="55" height="17"></th>
+  </tr>
+</tbody>
+</table>
+
+**Mini Project 2 (Letter-Writing)**  
 The students were tasked to do letter writing based on the inter-war years (between WWI and WWII). By engaging in this project, they will have an opportunity to demonstrate their historical narrative writing skills, including infusion of contextual knowledge and empathy, artistic talents as well as dramatic oratorical skills.
+
+<table>
+<tbody>
+  <tr>
+    <th><img src="/images/31.jpeg" width="55" height="17"></th>
+    <th><img src="/images/32.jpeg" alt="Financial Literacy (Praxis) Board Game" width="55" height="17"></th>
+  </tr>
+</tbody>
+</table>
