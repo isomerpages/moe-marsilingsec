@@ -39,3 +39,5 @@ We celebrated this special day with elderly from Christalite Methodist Home and 
 ![National Day Celebrations “Our Singapore”](/images/National%20Day%20Celebrations%20“Our%20Singapore”_1.jpg)
 
 ![National Day Celebrations “Our Singapore”](/images/National%20Day%20Celebrations%20“Our%20Singapore”_2.jpg)
+
+![](/images/Singapore%20Bicentennial%20Experience%20at%20Fort%20Canning%20Centre.jpg)
