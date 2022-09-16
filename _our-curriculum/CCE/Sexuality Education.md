@@ -246,33 +246,36 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 
 **At Marsiling Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
 
-| **Topics/Lessons** | **Programme Learning Objectives** | **Time Period** |
-| --- | --- | --- |
-| Mass Talk by HPB appointed vendor | ·       Awareness of the different STIs and HIV/AIDS
-·       Modes of transmission
-
-·       Modes of protection, specifically on how the condom is used
-
-·       Consequences and impact of STIs/HIV
-
- | Term 1 Week 5
-
-(Sec 4)
-
-Term 2 Week 7
-
-(Sec 3)
-
- |
-| Classroom-based Lesson | ·       Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making | Term 1 Week 6
-
-(Sec 4)
-
-Term 2 Week 8
-
-(Sec 3)
-
- |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-l2bf"><span style="font-weight:bold">Topics/Lessons</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">Programme Learning Objectives</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">Time Period</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1ppo">Mass Talk by HPB appointed vendor</td>
+    <td class="tg-1ppo">·       Awareness of the different STIs and HIV/AIDS<br><br>·       Modes of transmission<br>·       Modes of protection, specifically on how the condom is used<br>·       Consequences and impact of STIs/HIV</td>
+    <td class="tg-1ppo">Term 1 Week 5<br><br>(Sec 4)<br>Term 2 Week 7<br>(Sec 3)</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Classroom-based Lesson</span></td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">·       Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</span></td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Term 1 Week 6</span><br><br>(Sec 4)<br>Term 2 Week 8<br>(Sec 3)</td>
+  </tr>
+</tbody>
+</table>
 
 **Information for Parents**
 
