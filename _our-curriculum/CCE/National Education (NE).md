@@ -21,3 +21,9 @@ Singapore is facing a wider range of challenges and threats. They are complex an
 
 ![Commemoration of Total Defence Day](/images/1-3.jpeg)
 <p style="text-align:center;">Commemoration of Total Defence Day</p>
+
+**International Friendship Day “Connected Communities”**  
+While we appreciate and celebrate diversity, we must also maintain the social cohesion that is vital to peace and progress in a multi-cultural society. The significance of migrant workers and the controversial issue on Nationality Stereotypes were being discussed during CCE lessons and through the TDD assembly platform.
+
+![International Friendship Day](/images/2-2.jpeg)
+<p style="text-align:center;">International Friendship Day</p>
