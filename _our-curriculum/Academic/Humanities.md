@@ -150,8 +150,8 @@ Students to create a political cartoon based on what they have learned in Term O
 <table>
 <tbody>
   <tr>
-    <th><img src="![](/images/04-3.jpeg)" width="55" height="17"></th>
-    <th><img src="![](/images/05-1.jpeg)" width="55" height="17"></th>
+    <th><img src="/images/04-3.jpeg" width="55" height="17"></th>
+    <th><img src="/images/05-1.jpeg" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
@@ -162,8 +162,8 @@ The students were tasked to do letter writing based on the inter-war years (betw
 <table>
 <tbody>
   <tr>
-    <th><img src="![](/images/10.jpeg)" width="55" height="17"><br>Letter Written to a Mother</th>
-    <th><img src="![](/images/_11.jpeg)" width="55" height="17"><br>Letter written to a brother living in the USA</th>
+    <th><img src="images/10.jpeg" width="55" height="17"><br>Letter Written to a Mother</th>
+    <th><img src="/images/_11.jpeg" width="55" height="17"><br>Letter written to a brother living in the USA</th>
   </tr>
 </tbody>
 </table>
