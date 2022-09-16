@@ -56,6 +56,13 @@ Under the supervision of teachers, Geography lessons encourage first-hand experi
     <th><img src="/images/31.jpeg" width="55" height="17"></th>
     <th><img src="/images/32.jpeg" alt="Financial Literacy (Praxis) Board Game" width="55" height="17"></th>
   </tr>
+	<tr>
+    <td><img src="/images/IMG-20190907-WA0017_Rakan-Bahasa-Museum-Guide-at-ACM-768x1024.jpeg" alt="Rakan Bahasa Museum Guide At ACM" width="55" height="17"><br>Rakan Bahasa Museum Guide At ACM</td>
+		<td><img src="/images/IMG-20190907-WA0017_Rakan-Bahasa-Museum-Guide-at-ACM-768x1024.jpeg" alt="Rakan Bahasa Museum Guide At ACM" width="55" height="17"><br>Rakan Bahasa Museum Guide At ACM</td>
+  </tr>
+	<tr>
+    <td><img src="/images/IMG-20190907-WA0017_Rakan-Bahasa-Museum-Guide-at-ACM-768x1024.jpeg" alt="Rakan Bahasa Museum Guide At ACM" width="55" height="17"><br>Rakan Bahasa Museum Guide At ACM</td>
+  </tr>
 </tbody>
 </table>
 
