@@ -37,3 +37,7 @@ The Scrabble Club prides itself on equipping players with resilience, adaptabili
 The traits imbued into the players were all evident on display despite the challenging circumstances in 2020. Despite the disruptions to CCA programmes, swift training changes adopted by the Scrabble Club together with the commitment, perseverance and adaptability displayed by players producing stellar results during the **2021 inaugural National Schools Scrabble Games e-Series tournament** for Upper Secondary students, clinching 10 out of 14 medals on offer for the Secondary 4 category.
 
 **Gallery**
+
+![Scrabble Club](/images/Scrabble%20Club_1.jpg)
+
+![Scrabble Club](/images/Scrabble%20Club_2.jpg)
