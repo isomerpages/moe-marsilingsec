@@ -10,7 +10,7 @@ Cyberthreats are malicious or criminal attempts to damage or disrupt a computer 
 
 For more information on Cyberthreats, please click on this link below.
 
-[Tip Sheet for Cyberthreats](https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/10/Tip-Sheet-for-Parents-Cyberthreats.pdf)
+[Tip Sheet for Cyberthreats](/files/Tip-Sheet-for-Parents-Cyberthreats.pdf)
 
 #### What is Cyber Bullying?
 
@@ -18,7 +18,7 @@ Cyber bullying occurs when electronic gadgets, such as mobile phones and compute
 
 For more information on Cyber Bullying, please click on this link below.
 
-[Tip Sheet on Cyber Bullying](https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/10/Tip-Sheet-on-Cyber-Bullying.pdf)
+[Tip Sheet on Cyber Bullying](/files/Tip-Sheet-on-Cyber-Bullying.pdf)
 
 #### What is Excessive Internet Use?
 
@@ -26,7 +26,7 @@ Excessive Internet Use happens when an individual who uses the Internet to the e
 
 For more information on Excessive Internet Use, please click on this link below.
 
-[Tip sheet for Excessive Internet Use](https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/10/Tip-sheet-for-Excessive-Internet-Use.pdf)
+[Tip sheet for Excessive Internet Use](/files/Tip-sheet-for-Excessive-Internet-Use.pdf)
 
 **What is Positive Peer Influence ?**
 
@@ -34,18 +34,18 @@ Peer influence is a critical factor in shaping students’ habits and behaviour
 
 For more information on how parents can guide their children to be a Positive Peer Influence online, please click the link below:
 
-[Tip Sheet on Positive Peer Influence](https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/10/Tip-Sheet-on-Postivie-Peer-Influence.pdf)
+[Tip Sheet on Positive Peer Influence](/files/Tip-Sheet-on-Postivie-Peer-Influence.pdf)
 
 **Helping your child handle online content**
 
 For more information on how parents can guide their children to handle online content, please click the link below:
 
-[Tip Sheet on helping your child handle online content](https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/10/3B-2018-T2-Parents-Tip-Sheet.pdf)
+[Tip Sheet on helping your child handle online content](/files/3B-2018-T2-Parents-Tip-Sheet.pdf)
 
 **Helping Your Children with Appropriate Online Expression**
 
-[T1 Parents Tipsheet](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/05/2019-Connect-T1-Parents-Tipsheet.pdf)
+[T1 Parents Tipsheet](/files/2019-Connect-T1-Parents-Tipsheet.pdf)
 
 **Helping Your Children Be Discerning About Online Information**
 
-[T2 Parents Tipsheet](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/05/2019-Connect-T2-Parents-Tipsheet.pdf)
+[T2 Parents Tipsheet](/files/2019-Connect-T2-Parents-Tipsheet.pdf)
