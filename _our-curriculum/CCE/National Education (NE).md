@@ -31,7 +31,9 @@ While we appreciate and celebrate diversity, we must also maintain the social co
 **Racial Harmony Day “The Singapore Connection”**  
 On 21 July each year, schools commemorate Racial Harmony Day (RHD) to mark the anniversary of the 1964 racial riots. RHD serves as a reminder that promoting social cohesion and racial harmony requires collaborative efforts from everyone.
 
-![Racial Harmony Day “The Singapore Connection”](/images/Racial%20Harmony%20Day%20“The%20Singapore%20Connection”_1.jpg)
+![Racial Harmony Day “The Singapore Connection”](/images/Racial%20Harmony%20Day%20“The%20Singapore%20Connection”_01.jpg)
+
+![Racial Harmony Day “The Singapore Connection”](/images/Racial%20Harmony%20Day%20“The%20Singapore%20Connection”_02.jpg)
 
 **National Day Celebrations “Our Singapore”**  
 We celebrated this special day with elderly from Christalite Methodist Home and pre-school students from Skool4Kidz.
