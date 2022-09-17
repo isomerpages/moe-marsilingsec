@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - CCA Visual and Performing Arts/Chinese Orchestra.md
       - CCA Visual and Performing Arts/Drama Society.md
       - CCA Visual and Performing Arts/International Dance.md
       - CCA Visual and Performing Arts/Malay Dance.md
