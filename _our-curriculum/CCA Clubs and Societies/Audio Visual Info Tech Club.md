@@ -37,3 +37,7 @@ Thursday: 3.30 p.m. to 5.30 p.m. (2nd CCA)
 *   JUPOD competition in 2016: 1st 8 Runner up
 
 **Gallery**
+
+![Audio Visual Info Tech Club](/images/Audio%20Visual%20Info%20Tech%20Club_1.jpg)
+
+![Audio Visual Info Tech Club](/images/Audio%20Visual%20Info%20Tech%20Club.jpg)
