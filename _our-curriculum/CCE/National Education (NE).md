@@ -38,9 +38,9 @@ On 21 July each year, schools commemorate Racial Harmony Day (RHD) to mark the a
 **National Day Celebrations “Our Singapore”**  
 We celebrated this special day with elderly from Christalite Methodist Home and pre-school students from Skool4Kidz.
 
-![National Day Celebrations “Our Singapore”](/images/National%20Day%20Celebrations%20“Our%20Singapore”_1.jpg)
+![National Day Celebrations “Our Singapore”](/images/National%20Day%20Celebrations%20“Our%20Singapore”_01.jpg)
 
-![National Day Celebrations “Our Singapore”](/images/National%20Day%20Celebrations%20“Our%20Singapore”_2.jpg)
+![National Day Celebrations “Our Singapore”](/images/National%20Day%20Celebrations%20“Our%20Singapore”_02.jpg)
 
 Our Secondary 2 classes went back in time to witness key moments in Singapore’s transformation at the Singapore Bicentennial Experience at Fort Canning Centre. It was a multimedia sensory feast for our students!
 
