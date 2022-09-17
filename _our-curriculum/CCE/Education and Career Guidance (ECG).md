@@ -40,7 +40,6 @@ In Marsiling Secondary School, we believe in providing our students with meaning
 
 ![Early Admission Exercise (EAE) Writing and Interview Skills Workshop ](/images/7-1-768x576.jpeg)
 
-
 **Early Admission Exercise (EAE) Talk / Course Counselling Session** **(Polytechnic)**
 
 ![Early Admission Exercise (EAE) Talk / Course Counselling Session (Polytechnic)](/images/Early%20Admission%20Exercise%20(EAE)%20Talk%20Course%20Counselling%20Session%20(Polytechnic)_1.jpg)
@@ -48,6 +47,8 @@ In Marsiling Secondary School, we believe in providing our students with meaning
 ![Early Admission Exercise (EAE) Talk / Course Counselling Session (Polytechnic)](/images/Early%20Admission%20Exercise%20(EAE)%20Talk%20Course%20Counselling%20Session%20(Polytechnic)_2.jpg)
 
 **Early Admission Exercise (EAE) Talk / Course Counselling Session** **(ITE)**
+
+![Early Admission Exercise (EAE) Talk / Course Counselling Session (ITE)](/images/Early%20Admission%20Exercise%20(EAE)%20Talk%20Course%20Counselling%20Session%20(ITE).jpg)
 
 **4 Normal (Academic) and (Technical) Interview Skills Workshop**
 
