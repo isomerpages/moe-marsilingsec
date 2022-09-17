@@ -52,6 +52,8 @@ In Marsiling Secondary School, we believe in providing our students with meaning
 
 **4 Normal (Academic) and (Technical) Interview Skills Workshop**
 
+![4 Normal (Academic) and (Technical) Interview Skills Workshop](/images/4%20Normal%20(Academic)%20and%20(Technical)%20Interview%20Skills%20Workshop.jpg)
+
 **Education and Career Guidance Counselling Session**  
 Students are given the opportunity to discuss their future education and career plans with our school ECG Counsellor on Wednesdays during School Term.
 
