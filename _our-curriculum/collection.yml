@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - CCA Physical Sports/Safety in PE & CCA.md
       - CCA Physical Sports/.keep
       - CCA Clubs and Societies/Art Club.md
       - CCA Clubs and Societies/Audio Visual Info Tech Club.md
