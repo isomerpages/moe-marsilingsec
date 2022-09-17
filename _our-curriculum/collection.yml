@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - CCA Uniformed Groups/Red Cross Youth.md
       - CCA Uniformed Groups/.keep
       - CCA Physical Sports/Badminton (Boys and Girls).md
       - CCA Physical Sports/Sepak Takraw.md
