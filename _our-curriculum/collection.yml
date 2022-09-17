@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - CCA Visual and Performing Arts/Malay Dance.md
       - CCA Visual and Performing Arts/.keep
       - CCA Uniformed Groups/Boys’ Brigade.md
       - CCA Uniformed Groups/National Cadet Corps (SEA).md
