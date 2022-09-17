@@ -49,3 +49,5 @@ For more information on how parents can guide their children to handle online co
 **Helping Your Children Be Discerning About Online Information**
 
 [T2 Parents Tipsheet](/files/2019-Connect-T2-Parents-Tipsheet.pdf)
+
+***video to be embedded here!***
