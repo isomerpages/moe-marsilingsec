@@ -63,3 +63,7 @@ Activities:
 2017 Singapore Youth Festival Arts Presentation (English Drama): Certificate of Distinction
 
 **Gallery**
+
+![Drama Society](/images/Drama%20Society_1.jpg)
+
+![Drama Society](/images/Drama%20Society_2.jpg)
