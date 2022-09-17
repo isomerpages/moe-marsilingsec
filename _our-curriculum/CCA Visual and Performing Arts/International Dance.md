@@ -40,3 +40,7 @@ International dancers learn Hip Hop Moves and dance techniques during practice s
 2017 SYF Arts Presentation: Certificate of Accomplishment
 
 **Gallery**
+
+![International Dance](/images/International%20Dance_1.jpg)
+
+![International Dance](/images/International%20Dance_2.jpg)
