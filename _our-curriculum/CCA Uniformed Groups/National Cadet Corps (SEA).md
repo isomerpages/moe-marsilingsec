@@ -44,3 +44,7 @@ Best Unit Competition 2017: Silver Award
 Best Unit Competition 2016: Silver Award
 
 **Gallery**
+
+![National Cadet Corps (SEA)](/images/National%20Cadet%20Corps%20(SEA)_1.jpg)
+
+![National Cadet Corps (SEA)](/images/National%20Cadet%20Corps%20(SEA)_2.jpg)
