@@ -48,14 +48,16 @@ Our Secondary 2 classes went back in time to witness key moments in Singapore’
 
 Our Secondary 3 classes went on an enriching and insightful Outdoor Religious Trail at Chinatown and Kampong Glam. Students learnt the importance of respecting all religions and appreciate the multi-cultural aspect of Singapore.
 
-![Outdoor Religious Trail at Chinatown and Kampong Glam](/images/Outdoor%20Religious%20Trail%20at%20Chinatown%20and%20Kampong%20Glam.jpg)
+![Outdoor Religious Trail at Chinatown and Kampong Glam](/images/Outdoor%20Religious%20Trail%20at%20Chinatown%20and%20Kampong%20Glam_.jpg)
 
 **NRIC Presentation Ceremony**  
 15-year-old students receive their NRICs in a special ceremony and are encouraged to reflect on what it means to be Singaporeans through the NRIC presentation ceremonies. Despite their different backgrounds, these 15-year-old students must stand together and understand the shared privileges and responsibilities of being Singaporean.
 
 ![NRIC Presentation Ceremony](/images/NRIC%20Presentation%20Ceremony.jpg)
 
-**Staff Professional** **Development**  
+**Staff Professional Development**  
 Discussion on contemporary issues.
 
-![Staff Professional Development](/images/Staff%20Professional%20Development.jpg)
+![Staff Professional Development](/images/Staff%20Professional%20Development_01.jpg)
+
+![Staff Professional Development](/images/Staff%20Professional%20Development_02.jpg)
