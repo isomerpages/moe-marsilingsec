@@ -44,3 +44,7 @@ Brass Ensemble: Certificate of Accomplishment
 _SYF Arts Presentation 2021_ – Certificate of Accomplishment
 
 **Gallery**
+
+![Concert Band](/images/Concert%20Band_1.jpg)
+
+![Concert Band](/images/Concert%20Band_2.jpg)
