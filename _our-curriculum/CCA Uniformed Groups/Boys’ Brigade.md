@@ -76,3 +76,5 @@ Bronze Honour Roll
 ![Boys’ Brigade](/images/Boys’%20Brigade_3.jpg)
 
 ![Boys’ Brigade](/images/Boys’%20Brigade_4.jpg)
+
+![Boys’ Brigade](/images/Boys’%20Brigade_5.jpg)
