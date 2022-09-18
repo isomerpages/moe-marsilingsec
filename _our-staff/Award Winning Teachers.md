@@ -29,6 +29,10 @@ img {
 </body>
 <p style="text-align:center;"> <strong>Mr Anil Vasudevan</strong> (left of the photo) <br>2016 President’s Award for Teachers</p>
 
+The President’s Award for Teachers (PAT) is an annual award that seeks to recognise excellent teachers for their role in moulding the future of our nation.
+
+Mr Anil Vasudevan is one of the six recipients of this prestigious award in 2016. He strongly believes that every child can not only learn but they can also make a difference to those around them. Through designing with empathy, his students not only empower others, they are also empowered too in the process.
+
 ![](/images/Mrs-Tan-Puay-Hoon-683x1024.jpeg)
 
 <style>  
