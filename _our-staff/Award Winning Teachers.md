@@ -3,6 +3,9 @@ title: Award Winning Teachers
 permalink: /events-highlights/awards-winning-teachers/
 description: ""
 ---
+Marsiling Secondary is also proud to announce that we have awards-winning teachers in our midst and this is truly the Marsiling Advantage!
+
+
 ![](/images/Mdm-Sumathy-Thirumaran-200x300.jpeg)
 
 <style>  
