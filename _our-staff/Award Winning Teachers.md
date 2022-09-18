@@ -64,17 +64,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr-Zaki-Zufakar-683x1024.jpeg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Mr-Zaki-Zufakar-683x1024.jpeg" alt="Mr Zaki Zulfarkar" style="width:50%;">  
   
 </body>
 <p style="text-align:center;"> <strong>Mr Zaki Zulfarkar</strong><br><br>
 2021 Our Schools, Our Stories (OSOS) My School Community MOE Staff Honourable Mention<br><br>Click <a href="https://www.moe.gov.sg/our-schools-our-stories/winning-stories-2021/my-school-community/moe-staff">here</a> to view the entry.<br><br>
 2019 Academy Award for Professional Development (Associate Award)<br>
 2013 Academy Award for Professional Development (Associate Award)</p>
-
-
-
-![](/images/Mdm-Rita-Zarina-Mohd-Nazeer-683x1024.jpeg)
 
 <style>  
 img {  
@@ -83,10 +79,14 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Mdm-Rita-Zarina-Mohd-Nazeer-683x1024.jpeg" alt="Mdm Rita Zarina Mohd Nazeer" style="width:50%;">  
   
 </body>
-<p style="text-align:center;"> <strong>8 am to 5 pm</strong></p>
+<p style="text-align:center;"> <strong>Mdm Rita Zarina Mohd Nazeer</strong>
+2021 The Commendation Medal (National Day Award)
+2018 Anugerah Guru Arif Budiman (AGAB) Malay Language Teachers Award
+2018 Academy Award for Professional Development (Associate Award)
+2017 Academy Award for Professional Development (Associate Award)</p>
 
 ![](/images/Mdm-Rashidah-Binte-Abdullah-683x1024.jpeg)
 
