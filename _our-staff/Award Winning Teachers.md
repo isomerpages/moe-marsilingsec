@@ -94,6 +94,4 @@ img {
 <body><img src="/images/Mdm-Rashidah-Binte-Abdullah-683x1024.jpeg" alt="Mdm Rashidah Binte Abdullah" style="width:50%;">  
   
 </body>
-<p style="text-align:center;"> <strong>Mdm Rashidah Binte Abdullah</strong>
-2018 The Commendation Medal (National Day Award)
-2016 Anugerah Guru Arif Budiman (AGAB) Malay Language Teachers Award</p>
+<p style="text-align:center;"> <strong>Mdm Rashidah Binte Abdullah</strong><br>2018 The Commendation Medal (National Day Award)<br>2016 Anugerah Guru Arif Budiman (AGAB) Malay Language Teachers Award</p>
