@@ -82,11 +82,7 @@ img {
 <body><img src="/images/Mdm-Rita-Zarina-Mohd-Nazeer-683x1024.jpeg" alt="Mdm Rita Zarina Mohd Nazeer" style="width:50%;">  
   
 </body>
-<p style="text-align:center;"> <strong>Mdm Rita Zarina Mohd Nazeer</strong>
-2021 The Commendation Medal (National Day Award)
-2018 Anugerah Guru Arif Budiman (AGAB) Malay Language Teachers Award
-2018 Academy Award for Professional Development (Associate Award)
-2017 Academy Award for Professional Development (Associate Award)</p>
+<p style="text-align:center;"> <strong>Mdm Rita Zarina Mohd Nazeer</strong><br>2021 The Commendation Medal (National Day Award)<br>2018 Anugerah Guru Arif Budiman (AGAB) Malay Language Teachers Award<br>2018 Academy Award for Professional Development (Associate Award)<br>2017 Academy Award for Professional Development (Associate Award)</p>
 
 ![](/images/Mdm-Rashidah-Binte-Abdullah-683x1024.jpeg)
 
