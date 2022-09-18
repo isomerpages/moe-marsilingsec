@@ -2,6 +2,7 @@ collections:
   events-and-highlights:
     output: true
     order:
+      - Direct School Admission 2022.md
       - 2022 Secondary 2 Virtual Parent Teacher Conference (PTC) and Secondary 3
         Subject Combinations 2023.md
       - 2022 Secondary 1 Principal Talk cum E CCA Sharing.md
