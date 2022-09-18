@@ -7,8 +7,7 @@ The Direct School Admission (DSA) Exercise is an admission exercise to allow par
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
-Click [here](http://go.gov.sg/apply-dsa-sec) to apply for DSA.
---------------------------------------------------------------
+<h4 style="color:red" align="left">Click <a href="http://go.gov.sg/apply-dsa-sec">here</a> to apply for DSA.</h4>
 
 **Marsiling Secondary School offers** **DSA in the following areas:**
 
