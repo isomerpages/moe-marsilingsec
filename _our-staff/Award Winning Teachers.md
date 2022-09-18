@@ -15,8 +15,7 @@ img {
 <body><img src="/images/Mdm-Sumathy-Thirumaran-200x300.jpeg" alt="School Uniform" style="width:50%;">  
   
 </body>
-<p style="text-align:center;"> <strong>Mrs Sumathy Thirumaran</strong><br>2021 Most Inspiring Tamil Teacher
-Click [here](https://www.straitstimes.com/singapore/parenting-education/tamil-teacher-who-made-students-produce-school-newsletter-among-those) to read the news article on Straits Times.</p>
+<p style="text-align:center;"> <strong>Mrs Sumathy Thirumaran</strong><br>2021 Most Inspiring Tamil Teacher<br>Click <a href="https://www.straitstimes.com/singapore/parenting-education/tamil-teacher-who-made-students-produce-school-newsletter-among-those">here</a> to read the news article on Straits Times.</p>
 
 
 ![](/images/Mr%20Anil%20Vasudevan.jpeg)
