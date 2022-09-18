@@ -217,3 +217,36 @@ During periods of competition, there will be additional training sessions to suf
 *   Must be in Primary 6 at the point of application or equivalent.
 *   Demonstrates aptitude and potential during interview.
 *   General conduct indicated in school report book and CCA records.
+
+**<u>8\. Concert Band</u>**
+
+_**“When words fail, music speaks.”**_
+
+Marsiling Secondary School offers DSA to eligible students via Band. This is in line with our Learning for Life Programme which aims to build leadership, resilience and persons of good character.
+
+<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 1240px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 413.328px;"><p style="box-sizing: inherit; font-size: 1em;"><a href="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/Band2.jpg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(241, 174, 22);"><img class="alignnone wp-image-8400 size-medium" src="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/Band2-300x200.jpg" alt="Band2" width="300" height="200" srcset="/wp-content/uploads/2017/05/Band2-300x200.jpg 300w, /wp-content/uploads/2017/05/Band2-768x512.jpg 768w, /wp-content/uploads/2017/05/Band2.jpg 785w" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a></p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 413.328px;"><p style="box-sizing: inherit; font-size: 1em;"><a href="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/Band3.jpg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(241, 174, 22);"><img class="alignnone wp-image-8401 size-medium" src="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/Band3-300x174.jpg" alt="Band3" width="300" height="174" srcset="/wp-content/uploads/2017/05/Band3-300x174.jpg 300w, /wp-content/uploads/2017/05/Band3-1024x593.jpg 1024w, /wp-content/uploads/2017/05/Band3-768x445.jpg 768w, /wp-content/uploads/2017/05/Band3-1536x890.jpg 1536w, /wp-content/uploads/2017/05/Band3-2048x1187.jpg 2048w, /wp-content/uploads/2017/05/Band3-1350x782.jpg 1350w" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a></p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 413.344px;"><p style="box-sizing: inherit; font-size: 1em;"><a href="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/Band1.jpg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(241, 174, 22);"><img class="alignnone wp-image-8402 size-medium" src="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/Band1-300x224.jpg" alt="Band1" width="300" height="224" srcset="/wp-content/uploads/2017/05/Band1-300x224.jpg 300w, /wp-content/uploads/2017/05/Band1-1024x765.jpg 1024w, /wp-content/uploads/2017/05/Band1-768x574.jpg 768w, /wp-content/uploads/2017/05/Band1-1536x1148.jpg 1536w, /wp-content/uploads/2017/05/Band1-1350x1009.jpg 1350w, /wp-content/uploads/2017/05/Band1.jpg 1920w" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a></p></td></tr></tbody></table>
+
+**Background:**
+
+Marsiling Secondary School Concert Band (MSSCB) provides you with creative environment to express your musical talent.
+
+Ever since its inception, over the years, MSSCB has provided our students with multiple opportunities to participate in the prestigious nation-wide Singapore Youth Festival Arts Presentation and to perform at other schools, public concerts and several school events and concerts.
+
+To date the school has retained our skilled and experienced instructors under whose guidance, almost around 30 students spanning across Sec1 to Sec 5 are not only trained to be well-versed in several musical instrument but are also coached to execute foot drills thus giving them a flavour of being in a uniformed group. Furthermore, MSSCB organises camp annually to foster camaraderie and team spirit. Apart from providing various leadership opportunities, MSSCB is an excellent place for develop values like responsibility and resilience.
+
+**Training Programme**
+
+This programme ensures that all players are competent to play at least one musical instrument.
+
+During periods of competition, there will be additional training sessions to sufficiently prepare the students. Friendly matches will also be arranged to help the players gain more game experience.
+
+<u>Training Frequency:</u> 2 sessions (3 hours each) per week
+
+**<u>Selection Criteria</u>**
+
+*   A member of music CCA (band, choir, Chinese orchestra) in primary school is preferred.
+*   Students with external music experience in learning any musical instrument (keyboard, drums etc) are also welcome
+*   Must show keen interest in music and commitment for the CCA.
+*   Must be in Primary 6 at the point of application or equivalent.
+*   Demonstrates aptitude and potential during interview.
+*   General conduct indicated in school report book and CCA records
