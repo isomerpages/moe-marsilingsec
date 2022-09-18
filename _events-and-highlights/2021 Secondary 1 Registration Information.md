@@ -18,9 +18,9 @@ For parents who do not use PG or would like to find out more about the school an
 
 **Thank you for joining our Principal, Mr Goh Aik Choon’s address to the Secondary 1 Marsilians and parents on Zoom.**
 
-**The PowerPoint slides can be accessed by clicking on this [LINK](/files/Sec-one-registration-2021-virtual.pdf)**
+**The PowerPoint slides can be accessed by clicking on this [LINK](/files/Sec-one-registration-2021-virtual.pdf).**
 
-**The Q&A asked during the address can be accessed by clicking on this [LINK](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/12/QA.pdf)**
+**The Q&A asked during the address can be accessed by clicking on this [LINK](/files/QA.pdf).**
 
 **EVENT ENDED**
 
