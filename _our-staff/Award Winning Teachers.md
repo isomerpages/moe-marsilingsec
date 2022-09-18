@@ -33,8 +33,6 @@ The President’s Award for Teachers (PAT) is an annual award that seeks to reco
 
 Mr Anil Vasudevan is one of the six recipients of this prestigious award in 2016. He strongly believes that every child can not only learn but they can also make a difference to those around them. Through designing with empathy, his students not only empower others, they are also empowered too in the process.
 
-![](/images/Mrs-Tan-Puay-Hoon-683x1024.jpeg)
-
 <style>  
 img {  
   display: block;  
@@ -42,10 +40,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Mrs-Tan-Puay-Hoon-683x1024.jpeg" alt="Mrs Tan Puay Hoon" style="width:50%;">  
   
 </body>
-<p style="text-align:center;"> <strong>8 am to 5 pm</strong></p>
+<p style="text-align:center;"> <strong>Mrs Tan Puay Hoon</strong>2020 The Commendation Medal (National Day Award)</p>
 
 ![](/images/Mrs-Karen-Ong-683x1024.jpeg)
 
