@@ -14,11 +14,11 @@ For parents who do not use PG or would like to find out more about the school an
 *   Call us: 68941413
 *   Please do click on the other links on our website for more information on Secondary 1 Registration.
 
-**Principal’s Address**
+**<u>Principal’s Address</u>**
 
 **Thank you for joining our Principal, Mr Goh Aik Choon’s address to the Secondary 1 Marsilians and parents on Zoom.**
 
-**The PowerPoint slides can be accessed by clicking on this** [LINK](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/12/Sec-one-registration-2021-virtual.pdf)**.**
+**The PowerPoint slides can be accessed by clicking on this [LINK](/files/Sec-one-registration-2021-virtual.pdf)**
 
 **The Q&A asked during the address can be accessed by clicking on this [LINK](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/12/QA.pdf)**
 
