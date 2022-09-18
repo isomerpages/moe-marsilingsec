@@ -35,9 +35,11 @@ Parents and students are encouraged to choose schools wisely based on the studen
 
 **VALOUR – Sports and Outdoor Education Programme**
 
-![VALOUR – Sports and Outdoor Education Programme](/images/VALOUR_01.jpeg)
+<img src="/images/VALOUR_01.jpeg"  
+style="width:60%">
 
-![VALOUR – Sports and Outdoor Education Programme](/images/VALOUR_02.jpeg)
+<img src="/images/VALOUR_02.jpeg"  
+style="width:60%">
 
 Marsiling Secondary School’s Learning for Life Programme (LLP) in Sports and Outdoor Education is also known as **_V_**_alues **A**nd **L**eadership Development Through **OU**tdoor Cu**R**riculum (**VALOUR).**_ It has become a distinctive programme in the school since its establishment in 2014. Outdoor Education provides rich learning experiences outside the classroom that can help our students develop holistically, building up their resilience, ruggedness and leadership attributes. Many of these experiences cannot be replicated in the classroom but are very important in helping our students develop 21st century competencies as well as competencies for sustainable, active and healthy living.
 
