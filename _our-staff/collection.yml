@@ -2,6 +2,7 @@ collections:
   our-staff:
     output: true
     order:
+      - Year Heads.md
       - Teachers.md
       - Admin & Support Staff.md
       - Award Winning Teachers.md
