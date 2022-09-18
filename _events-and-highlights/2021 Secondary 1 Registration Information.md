@@ -92,13 +92,13 @@ For selected students who are offered and are eligible to take subject at a high
 
 **[Link to LMS log in for SBB reply (NOTE: PASSWORD must be in ALL CAPS)](https://lms.asknlearn.com/MARSILING_SS/login.aspx)**
 
-**Application for 3rd Language**
+**<u>Application for 3rd Language</u>**
 
 Results for the application will be informed to the selected students before 24 December 2020.
 
 Students whose application are approved will have to register online with the respective centres: MOE Language Centre (MOELC) or Malay/Chinese Special Programme (MSP/CSP) Zonal Centres.
 
-**Information on School Reporting and First Week of School**
+**<u>Information on School Reporting and First Week of School</u>**
 
 Reporting: Monday 4 January 2021 @ 7:20am
 
@@ -106,7 +106,7 @@ Attire: School PE shirt/ school shorts for boys/ school skirt for girls
 
 <table border="1" width="817" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 510px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 135.278px;">4 Jan<p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;">Monday</p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 261.204px;">7:20am to 2:20pm<p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;">Recess: 9:20am to 10am</p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 400.463px;">-Start It Right</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 135.278px;">5 Jan<p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;">Tuesday</p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 261.204px;">7:20am to 3:40pm<p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;">Recess: 8:40am to 9:20am</p><p style="box-sizing: inherit; font-size: 1em;">Lunch: 1pm to 1:40pm (Lunch Provided)</p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 400.463px;">-Start It Right<p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;">&nbsp;</p><p style="box-sizing: inherit; font-size: 1em;">-Sec 1 Orientation</p></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 135.278px;">6 Jan<p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;">Wednesday</p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 261.204px;">7:20am to 2pm<p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;">Recess: 9:20am to 10am</p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 400.463px;">-Sec 1 Orientation</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 135.278px;">7 Jan<p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;">Thursday</p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 261.204px;">7:20am to 1:40pm<p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;">Recess: 9:20am to 10am</p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 400.463px;">Smart Study Skills</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 135.278px;">8 Jan<p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;">Friday</p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 261.204px;">7:20am to 12:50pm</td><td style="box-sizing: inherit; padding: 5px 10px; width: 400.463px;">Normal School Timetable</td></tr></tbody></table>
 
-**School Rules and Regulations**
+**<u>School Rules and Regulations</u>**
 
 Students’ discipline is paramount in creating a safe and conducive environment for effective teaching and learning to take place. The school rules and regulations are put in place so as to achieve this purpose. The school rules and regulations will take reference from MSS Student’s Handbook.
 
@@ -121,7 +121,7 @@ General Expectations:
 
 [Please click for further information on school rules and regulation](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/12/School-Rules-and-Regulation.pdf)
 
-**School Information**
+**<u>School Information</u>**
 
  **INFORMATION** 
 
@@ -176,7 +176,7 @@ These are stalls available in the canteen:
 
 **Email:** [palanivelu\_panchatcharam@schools.gov.sg](mailto:palanivelu_panchatcharam@schools.gov.sg)
 
-**Financial Matters**
+**<u>Financial Matters</u>**
 
 For parents who would like to find out more with regards to financial matters,you may reach out to us via:
 
@@ -188,7 +188,7 @@ Types of Assistance
 
 <table border="1" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 975px; width: 1080.44px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 35px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 57px; height: 35px;"></td><td style="box-sizing: inherit; padding: 5px 10px; width: 301px; height: 35px;"><strong style="box-sizing: inherit; font-weight: bold;">Financial Assistance awarded by</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 702.444px; height: 35px;"></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 616.889px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 57px; height: 616.889px;">1.</td><td style="box-sizing: inherit; padding: 5px 10px; width: 301px; height: 616.889px;">Ministry of Education (MOE)<p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;">&nbsp;</p><p style="box-sizing: inherit; font-size: 1em;"><a href="https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/12/MOE-FAS-Application-Form-2020.pdf" target="_blank" rel="noopener" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(241, 174, 22);">MOE FAS form: PDF</a></p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 702.444px; height: 616.889px;"><strong style="box-sizing: inherit; font-weight: bold;">Eligibility</strong><p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The student must be a Singapore citizen.</p><p style="box-sizing: inherit; font-size: 1em;">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The student’s family receives social welfare aid, OR</p><p style="box-sizing: inherit; font-size: 1em;">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gross family income does not exceed:</p><p style="box-sizing: inherit; font-size: 1em;">$2750 per month per family</p><p style="box-sizing: inherit; font-size: 1em;">or</p><p style="box-sizing: inherit; font-size: 1em;">$690 per capita.</p><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Nature of assistance</strong></p><p style="box-sizing: inherit; font-size: 1em;">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Full waiver of school fees</p><p style="box-sizing: inherit; font-size: 1em;">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Full waiver of standard miscellaneous fees</p><p style="box-sizing: inherit; font-size: 1em;">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Textbook grant – textbooks and writing materials in the approved book list</p><p style="box-sizing: inherit; font-size: 1em;">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School Attire grant – 2 sets of uniform and PE attire, 2 pairs of socks and 1 pair of shoes</p><p style="box-sizing: inherit; font-size: 1em;">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Transport</p><p style="box-sizing: inherit; font-size: 1em;">i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students taking School Bus: 50% of school bus fares</p><p style="box-sizing: inherit; font-size: 1em;">ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students taking public transport: $120 transport credit per annum</p></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 131px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 57px; height: 131px;">2.</td><td style="box-sizing: inherit; padding: 5px 10px; width: 301px; height: 131px;">The School Advisory Committee (SAC)</td><td style="box-sizing: inherit; padding: 5px 10px; width: 702.444px; height: 131px;">Assistance is given to students facing financial hardship. The nature of assistance varies, depending on the financial position of the student. It ranges from giving a financial grant for the payment of textbooks and school uniform, fees and other school-related expenses (meal coupons and transport allowance).</td></tr></tbody></table>
 
-**Parent Support Group (PSG) and Family Service Centre**
+**<u>Parent Support Group (PSG) and Family Service Centre</u>**
 
 Marsiling Secondary School’s Parents’ Support Group would like to extend it’s warm wishes to all Marsilian Parents.
 
