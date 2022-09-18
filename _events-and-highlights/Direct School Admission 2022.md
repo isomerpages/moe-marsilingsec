@@ -30,6 +30,16 @@ Click [here](http://go.gov.sg/apply-dsa-sec) to apply for DSA.
 *   Drama Society
 *   International Dance
 
+-----
+
+**<u>1\. Outdoor Adventure</u>**
+
+**VALOUR – Sports and Outdoor Education Programme**
+
+![VALOUR – Sports and Outdoor Education Programme](/images/VALOUR_01.jpeg)
+
+![VALOUR – Sports and Outdoor Education Programme](/images/VALOUR_02.jpeg)
+
 Marsiling Secondary School’s Learning for Life Programme (LLP) in Sports and Outdoor Education is also known as **_V_**_alues **A**nd **L**eadership Development Through **OU**tdoor Cu**R**riculum (**VALOUR).**_ It has become a distinctive programme in the school since its establishment in 2014. Outdoor Education provides rich learning experiences outside the classroom that can help our students develop holistically, building up their resilience, ruggedness and leadership attributes. Many of these experiences cannot be replicated in the classroom but are very important in helping our students develop 21st century competencies as well as competencies for sustainable, active and healthy living.
 
 **_VALOUR_**  steers students to move out of their comfort zone to be engaged in activities and expeditions that create conditions for rich and positive experiences. Such experiences of success often lead to change that will impact them throughout their lives.
