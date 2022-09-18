@@ -4,13 +4,13 @@ title: 2022 Secondary 2 Virtual Parent Teacher Conference (PTC) and Secondary 3
 permalink: /2022-secondary-2-virtual-parents-teacher-conference-ptc-and-secondary-3-subject-combinations-2023/
 description: ""
 ---
-**Secondary 2 Virtual Parent-Teacher Conference (PTC) (via Zoom Webinar)** 
+**<u>Secondary 2 Virtual Parent-Teacher Conference (PTC) (via Zoom Webinar)</u>** 
 
  **(Extended invitation to Secondary 1 parents and students)** 
 
 Dear Parents/Guardians,
 
-We are pleased to inform you that the school is holding a Virtual Secondary 2 PTC (via Zoom Webinar) for parents/guardians and our Secondary 2 students. We would like to invite **all** parents/guardians and our Secondary 2 students to attend this session.
+We are pleased to inform you that the school is holding a Virtual Secondary 2 PTC (via Zoom Webinar) for parents/guardians and our Secondary 2 students. We would like to invite **<u>all</u>** parents/guardians and our Secondary 2 students to attend this session.
 
 We would also like to extend our invitation to our Secondary 1 parents/guardians and students to join us for the Webinar session to find out more about the Secondary 2 experience.
 
@@ -32,15 +32,15 @@ The Form Teachers have shared the E-Booklet with your child/ward. Kindly go thro
 
 **Remarks:** Identified parents/guardians and students will be invited by the Form Teachers for Parents-Teacher Meeting (PTM).
 
-**Principal’s Presentation Slides**
+**<u>Principal’s Presentation Slides</u>**
 
 The Principal’s slides will be posted on the school website after the virtual Parents-Teacher Conference.
 
-**Questions during PTC**
+**<u>Questions during PTC</u>**
 
 Once the response to the queries are collated, it will be posted in this segment.
 
-**Elective Subjects Presentation**
+**<u>Elective Subjects Presentation</u>**
 
 Watch the videos to find out more about the elective subjects offered in Upper Secondary.
 
