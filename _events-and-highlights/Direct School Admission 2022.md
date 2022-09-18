@@ -101,3 +101,31 @@ Training Frequency: 2 sessions (3 hours each) per week
 *   Must be in Primary 6 at the point of application or equivalent.
 *   Demonstrates aptitude and potential during interview.
 *   General conduct indicated in school report book and CCA records.
+
+**4\. Sepaktakraw (Boys Only)**
+
+Marsiling Secondary School also offers DSA to eligible students via Sepaktakraw (Boys only). This is in line with our Learning for Life Programme which aims to build leadership, resilience and persons of good character.
+
+<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 1240px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 385.539px;"><p style="box-sizing: inherit; font-size: 1em;"><a href="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/ST1.jpg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(241, 174, 22);"><img class="wp-image-8458 size-medium aligncenter" src="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/ST1-169x300.jpg" alt="St1" width="169" height="300" srcset="/wp-content/uploads/2017/05/ST1-169x300.jpg 169w, /wp-content/uploads/2017/05/ST1-576x1024.jpg 576w, /wp-content/uploads/2017/05/ST1-768x1365.jpg 768w, /wp-content/uploads/2017/05/ST1-864x1536.jpg 864w, /wp-content/uploads/2017/05/ST1.jpg 900w" sizes="(max-width: 169px) 100vw, 169px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin: auto; display: block; clear: both;"></a></p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 441.125px;"><p style="box-sizing: inherit; font-size: 1em;"><a href="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/ST2-scaled.jpg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(241, 174, 22);"><img class="size-medium wp-image-8459" src="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/ST2-300x225.jpg" alt="St2" width="300" height="225" srcset="/wp-content/uploads/2017/05/ST2-300x225.jpg 300w, /wp-content/uploads/2017/05/ST2-1024x768.jpg 1024w, /wp-content/uploads/2017/05/ST2-768x576.jpg 768w, /wp-content/uploads/2017/05/ST2-1536x1152.jpg 1536w, /wp-content/uploads/2017/05/ST2-2048x1536.jpg 2048w, /wp-content/uploads/2017/05/ST2-1350x1013.jpg 1350w" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a></p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 413.336px;"><p style="box-sizing: inherit; font-size: 1em;"><a href="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/ST3.jpg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(241, 174, 22);"><img class="size-medium wp-image-8460" src="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/ST3-200x300.jpg" alt="St3" width="200" height="300" srcset="/wp-content/uploads/2017/05/ST3-200x300.jpg 200w, /wp-content/uploads/2017/05/ST3-683x1024.jpg 683w, /wp-content/uploads/2017/05/ST3-768x1152.jpg 768w, /wp-content/uploads/2017/05/ST3-1024x1536.jpg 1024w, /wp-content/uploads/2017/05/ST3.jpg 1080w" sizes="(max-width: 200px) 100vw, 200px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a></p></td></tr></tbody></table>
+
+**Background**
+
+Sepaktakraw is an exciting indoor sport that requires quickness of mind, tenacity, speed, agility, communication and teamwork. It is an exciting team sport that appeals to many. Marsiling’s Sepaktakraw was formed in 2020 to cater to students’ interest. We aim to create a dynamic environment for the young men where they can excel. Trainings are of high intensity and yet fun. We hope to attract more young men to come forward and train with us and make their mark during their stay with us and beyond.
+
+To date, the sport has nearly 40 students. The sport has had a huge appeal since the new Indoor Sports Hall was completed in early 2021. We have an excellent training facility and a very strong environment to nurture the players; even if they have little or no background in the sport. The Sepaktakraw programme has proven to be an effective way to help our students develop personal qualities such as teamwork, self-discipline and leadership skills.
+
+**Training Programme**
+
+This programme ensures that all players are competent with Sepaktakraw skills and play (skills to trap the ball, pass, juggle and defend, as well as fitness training to improve endurance and footwork).
+
+During periods of competition, there will be additional training sessions to sufficiently prepare the boys for the tournament. Friendly matches will also be arranged to help the players gain more game experience.
+
+Training Frequency: 2 sessions (3 hours each) per week
+
+**Selection Criteria**
+
+*   *   A member of sports CCA in primary school is preferred.
+    *   Must show keen interest and commitment for the CCA.
+    *   Must be in Primary 6 at the point of application or equivalent.
+    *   Demonstrates aptitude and potential during interview.
+    *   General conduct indicated in school report book and CCA records.
