@@ -17,9 +17,6 @@ img {
 </body>
 <p style="text-align:center;"> <strong>Mrs Sumathy Thirumaran</strong><br>2021 Most Inspiring Tamil Teacher<br>Click <a href="https://www.straitstimes.com/singapore/parenting-education/tamil-teacher-who-made-students-produce-school-newsletter-among-those">here</a> to read the news article on Straits Times.</p>
 
-
-![](/images/Mr%20Anil%20Vasudevan.jpeg)
-
 <style>  
 img {  
   display: block;  
@@ -27,10 +24,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Mr%20Anil%20Vasudevan.jpeg" alt="School Uniform" style="width:70%;">  
   
 </body>
-<p style="text-align:center;"> <strong>8 am to 5 pm</strong></p>
+<p style="text-align:center;"> <strong>Mr Anil Vasudevan</strong> (left of the photo) <br>2016 President’s Award for Teachers</p>
 
 ![](/images/Mrs-Tan-Puay-Hoon-683x1024.jpeg)
 
