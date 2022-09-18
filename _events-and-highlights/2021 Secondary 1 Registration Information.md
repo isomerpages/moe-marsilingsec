@@ -57,9 +57,9 @@ Parents will also be able to use this app to stay updated on school’s programm
 
 We strongly encourage all parents to download and use the PG APP as the school will be using the PG APP as its primary channel to disseminate information.
 
-[More Information on Parents Gateway](https://marsilingsec.moe.edu.sg/resources/for-parents/pg/)
+[More Information on Parents Gateway](/resources/for-parents/pg/)
 
-**Allocation of Classes**
+**<u>Allocation of Classes</u>**
 
 Information with regards to the Secondary 1 students’ class allocation with be communicated through Parents’ Gateway (PG) by Thursday, 24 December 2020.
 
@@ -68,15 +68,15 @@ For parents who do not use PG or would like to find out about the class allocati
 *   Email: [marsiling\_ss@moe.edu.sg](mailto:marsiling_ss@moe.edu.sg) or
 *   Call us: 68941413
 
-**Information on Secondary 1 Booklist, Bookshop and Uniform Purchase**
+**<u>Information on Secondary 1 Booklist, Bookshop and Uniform Purchase</u>**
 
 Click on the links for the booklists for the respective streams.
 
-[Secondary 1 Express](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/12/MSS-S1-EXP.pdf)
+[Secondary 1 Express](/files/MSS-S1-EXP.pdf)
 
-[Secondary 1 Normal (Academic)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/12/MSS-S1-NA.pdf)
+[Secondary 1 Normal (Academic)](/files/MSS-S1-NA.pdf)
 
-[Secondary 1 Normal (Technical)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/12/MSS-S1-NT.pdf)
+[Secondary 1 Normal (Technical)](/files/MSS-S1-NT.pdf)
 
 Please refer to the schedule for the purchasing of books and uniforms.
 
