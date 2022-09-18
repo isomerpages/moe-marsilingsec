@@ -47,7 +47,7 @@ If you have any questions during the Zoom session, please do fill them using our
 **Forms for submission:**
 
 *   Student Profile Check-In: [https://form.gov.sg/5fa4c327d99a1b0011e75200](https://form.gov.sg/5fa4c327d99a1b0011e75200)
-*   [HPB Online dental consent form: PDF](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/12/HPB-Online-consent-dental-Secondary.pdf)
+*   [HPB Online dental consent form: PDF](/files/HPB-Online-consent-dental-Secondary.pdf)
 
 **Parent Gateway App (PG APP)**
 
