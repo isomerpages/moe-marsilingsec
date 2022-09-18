@@ -187,3 +187,33 @@ During periods of preparation for performances, there will be additional practic
 *   Must be in Primary 6 at the point of application or equivalent.
 *   Demonstrates aptitude and potential during interview.
 *   General conduct indicated in school report book and CCA records.
+
+**<u>7\. Malay Dance</u>**
+
+Marsiling Secondary School offers DSA to eligible students via Malay Dance. This is in line with our Learning for Life Programme which aims to build leadership, resilience and persons of good character.
+
+<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 1240px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 413.328px;"><p style="box-sizing: inherit; font-size: 1em;"><a href="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/MD1.jpg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(241, 174, 22); font-weight: inherit; display: inline !important;"><img class="alignnone wp-image-8394 size-medium" src="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/MD1-300x154.jpg" alt="Md1" width="300" height="154" srcset="/wp-content/uploads/2017/05/MD1-300x154.jpg 300w, /wp-content/uploads/2017/05/MD1.jpg 576w" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a></p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 413.328px;"><p style="box-sizing: inherit; font-size: 1em;"><a href="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/MD2.jpg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(241, 174, 22);"><img class="alignnone wp-image-8395 size-medium" src="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/MD2-300x215.jpg" alt="Md2" width="300" height="215" srcset="/wp-content/uploads/2017/05/MD2-300x215.jpg 300w, /wp-content/uploads/2017/05/MD2-768x550.jpg 768w, /wp-content/uploads/2017/05/MD2.jpg 775w" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a></p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 413.344px;"><p style="box-sizing: inherit; font-size: 1em;"><a href="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/MD3.jpg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(241, 174, 22);"><img class="alignnone wp-image-8396 size-medium" src="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/MD3-300x200.jpg" alt="Md3" width="300" height="200" srcset="/wp-content/uploads/2017/05/MD3-300x200.jpg 300w, /wp-content/uploads/2017/05/MD3.jpg 767w" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a></p></td></tr></tbody></table>
+
+**Background**
+
+Malay Dance is a dynamic performing arts CCA which requires passion, stamina, teamwork and commitment. Marsiling Malay dance was formed since the school started and has competed in dance competitions and represented the school in the Singapore Youth festivals. The dance group focusses on both traditional and contemporary Malay dance.
+
+We have achieved the certificate of distinction since 2017 and aims to maintain the quality and standard of our dancers and dance program. Our CCA welcomes interested students from all races and gender.
+
+To date we have about 30 dancers and an experience dance instructor who has almost 20 years of experience and an excellent team of teachers to bring out the best in the dancers. The Malay Dance programme has proven to be an effective way to help our students develop personal qualities such as teamwork, self-discipline and leadership skills.
+
+**Training Programme**
+
+This programme ensures that all dancers are competent with Malay Dance skills (Inang, Zapin, Masri, Joget and Asli) and building up their stamina through physical exercises and warm up.
+
+During periods of competition, there will be additional training sessions to sufficiently prepare the dancers.
+
+<u>Training Frequency:</u> 2 sessions (3 hours each) per week
+
+**<u>Selection Criteria</u>**
+
+*   A member of the performing arts CCA in primary school is preferred.
+*   Must show keen interest and commitment for the CCA.
+*   Must be in Primary 6 at the point of application or equivalent.
+*   Demonstrates aptitude and potential during interview.
+*   General conduct indicated in school report book and CCA records.
