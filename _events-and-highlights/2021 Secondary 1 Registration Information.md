@@ -3,7 +3,7 @@ title: 2021 Secondary 1 Registration Information
 permalink: /2021-secondary-1-registration-information/
 description: ""
 ---
-**Secondary 1 Registration**
+**<u>Secondary 1 Registration</u>**
 
 *   Welcome to Marsiling Secondary School and congratulations on your journey as a Marsilian!
 *   Following ministry’s advice in view of the current situation, students and parents are not required to physically report to their posted secondary school. All information with regards to the Secondary 1 Registration will be communicated through Parents Gateway (PG) and the school’s website.
