@@ -17,12 +17,12 @@ Please join the Principal Talk via Zoom as per follows:
 
 **Zoom ID and password as per on Parents Gateway/SMS.**
 
-**Overview of page**
+**<u>Overview of page</u>**
 
 1.  Subjects
 2.  CCA
 3.  Student Leadership
 
-**1\. Subjects**
+**<u>1\. Subjects</u>**
 
 Watch the videos and click on the links to find out more about the subjects your child/ward will be taking this year.
