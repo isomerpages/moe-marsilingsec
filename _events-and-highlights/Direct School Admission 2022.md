@@ -92,7 +92,7 @@ This programme ensures that all players are competent with Floorball skills and 
 
 During periods of competition, there will be additional training sessions to sufficiently prepare the girls for the tournament. Friendly matches will also be arranged to help the players gain more game experience.
 
-Training Frequency: 2 sessions (3 hours each) per week
+<u>Training Frequency:</u> 2 sessions (3 hours each) per week
 
 **<u>Selection Criteria</u>**
 
@@ -120,7 +120,7 @@ This programme ensures that all players are competent with Sepaktakraw skills an
 
 During periods of competition, there will be additional training sessions to sufficiently prepare the boys for the tournament. Friendly matches will also be arranged to help the players gain more game experience.
 
-Training Frequency: 2 sessions (3 hours each) per week
+<u>Training Frequency:</u> 2 sessions (3 hours each) per week
 
 **<u>Selection Criteria</u>**
 
@@ -148,9 +148,9 @@ The training is led by Mr Wong Shoon Soo, who represented Singapore at the 1985 
 
 During periods of competition, there will be additional training sessions to sufficiently prepare the players for the tournament. Friendly matches will also be arranged to help the players gain more game experience.
 
-Training Frequency: 2 sessions (3 hours each) per week during non-competition period. Up to 4 sessions each week during competition period for students representing the school.
+<u>Training Frequency:</u> 2 sessions (3 hours each) per week during non-competition period. Up to 4 sessions each week during competition period for students representing the school.
 
-**Selection Criteria**
+**<u>Selection Criteria</u>**
 
 *   A member of sports CCA in primary school is preferred.
 *   Must show keen interest and commitment for the CCA.
