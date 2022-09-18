@@ -202,3 +202,12 @@ Please scan the QR code below for the registration **by Wednesday 30 December 2
 
 <img src="/images/QR_Sec-1.jpeg"  
 style="width:40%">
+
+[Sec 1 Parents_info_slides](/files/Sec-1-Parents_info_slides.pdf)
+
+[Care Corner Outreach](/files/Care-Corner-Outreach.pdf)
+
+**For other matters, please**
+
+Email: marsiling\_ss@moe.edu.sg or  
+Call us: 68941413
