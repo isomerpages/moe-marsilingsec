@@ -2,4 +2,5 @@ collections:
   our-staff:
     output: true
     order:
+      - Admin & Support Staff.md
       - Award Winning Teachers.md
