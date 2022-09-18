@@ -119,7 +119,7 @@ General Expectations:
 *   Students are reminded not to bring prohibited items to school.
 *   Mobile phones: Students are allowed to bring mobile phones to school however they are NOT ALLOWED to use their mobile phones in school except during recess at only designated areas.
 
-[Please click for further information on school rules and regulation](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/12/School-Rules-and-Regulation.pdf)
+[Please click for further information on school rules and regulation](/files/School-Rules-and-Regulation.pdf)
 
 **<u>School Information</u>**
 
@@ -139,7 +139,7 @@ Students are to report to school **by 7.20 am.**
 
 **3) Subjects Offered at Secondary 1:**
 
-[![Table](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/12/Table.png)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/12/Table.png)
+![Subjects Offered at Secondary 1](/images/Table.png)
 
 **4) CCAs offered in Marsiling Secondary School:**
 
