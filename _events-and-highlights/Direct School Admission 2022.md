@@ -279,7 +279,7 @@ During periods of competition, there will be additional training sessions to suf
 *   Demonstrates aptitude and potential during interview.
 *   General conduct indicated in school report book and CCA records.
 
-**10\. International Dance**
+**<u>10\. International Dance</u>**
 
 Marsiling Secondary School offers DSA to eligible students via International Dance. This is in line with our Learning for Life Programme which aims to build leadership, resilience and persons of good character.
 
@@ -297,9 +297,9 @@ This programme ensures that all dancers are competent from the warm-ups, to the 
 
 During periods of competitions and performances, there will be additional training sessions to sufficiently prepare the dancers.
 
-Training Frequency: 2 sessions (2.5 hours each) per week
+<u>Training Frequency:</u> 2 sessions (2.5 hours each) per week
 
-**Selection Criteria**
+**<u>Selection Criteria</u>**
 
 *   A member of the performing arts CCA in primary school is preferred.
 *   Must show keen interest and commitment for the CCA.
