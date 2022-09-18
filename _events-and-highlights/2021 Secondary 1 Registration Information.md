@@ -199,3 +199,6 @@ We would like to invite all newly Secondary 1 parents to join for a parenting ta
 **Monday 4 January 2021 @ 9 am**
 
 Please scan the QR code below for the registration **by Wednesday 30 December 2020**
+
+<img src="/images/QR_Sec-1.jpeg"  
+style="width:40%">
