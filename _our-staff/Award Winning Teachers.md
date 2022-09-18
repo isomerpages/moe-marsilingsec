@@ -5,9 +5,6 @@ description: ""
 ---
 Marsiling Secondary is also proud to announce that we have awards-winning teachers in our midst and this is truly the Marsiling Advantage!
 
-
-![](/images/Mdm-Sumathy-Thirumaran-200x300.jpeg)
-
 <style>  
 img {  
   display: block;  
@@ -15,10 +12,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Mdm-Sumathy-Thirumaran-200x300.jpeg" alt="School Uniform" style="width:50%;">  
   
 </body>
-<p style="text-align:center;"> <strong>8 am to 5 pm</strong></p>
+<p style="text-align:center;"> <strong>Mrs Sumathy Thirumaran</strong><br>2021 Most Inspiring Tamil Teacher
+Click [here](https://www.straitstimes.com/singapore/parenting-education/tamil-teacher-who-made-students-produce-school-newsletter-among-those) to read the news article on Straits Times.</p>
+
 
 ![](/images/Mr%20Anil%20Vasudevan.jpeg)
 
