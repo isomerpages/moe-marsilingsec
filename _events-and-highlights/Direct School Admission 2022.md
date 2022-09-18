@@ -157,3 +157,33 @@ During periods of competition, there will be additional training sessions to suf
 *   Must be in Primary 6 at the point of application or equivalent.
 *   Demonstrates aptitude and potential during interview.
 *   General conduct indicated in school report book and CCA records.
+
+**6\. Chinese Orchestra**
+
+Marsiling Secondary School offers DSA to eligible students via Chinese orchestra. This is in line with our Learning for Life Programme which aims to build leadership, resilience and persons of good character.
+
+<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 1240px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 413.328px;"><p style="box-sizing: inherit; font-size: 1em;"><a href="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/CO1.jpg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(241, 174, 22);"><img class="alignnone wp-image-8389 size-medium" src="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/CO1-300x194.jpg" alt="Co1" width="300" height="194" srcset="/wp-content/uploads/2017/05/CO1-300x194.jpg 300w, /wp-content/uploads/2017/05/CO1-1024x663.jpg 1024w, /wp-content/uploads/2017/05/CO1-768x497.jpg 768w, /wp-content/uploads/2017/05/CO1.jpg 1236w" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a></p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 413.328px;"><p style="box-sizing: inherit; font-size: 1em;"><a href="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/CO3.jpg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(241, 174, 22);"><img class="alignnone wp-image-8391 size-medium" src="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/CO3-300x200.jpg" alt="Co3" width="300" height="200" srcset="/wp-content/uploads/2017/05/CO3-300x200.jpg 300w, /wp-content/uploads/2017/05/CO3-1024x683.jpg 1024w, /wp-content/uploads/2017/05/CO3-768x512.jpg 768w, /wp-content/uploads/2017/05/CO3-1350x900.jpg 1350w, /wp-content/uploads/2017/05/CO3.jpg 1431w" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a></p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 413.344px;"><p style="box-sizing: inherit; font-size: 1em;"><a href="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/CO2.jpg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(241, 174, 22);"><img class="alignnone wp-image-8390 size-medium" src="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/CO2-300x197.jpg" alt="Co2" width="300" height="197" srcset="/wp-content/uploads/2017/05/CO2-300x197.jpg 300w, /wp-content/uploads/2017/05/CO2-768x504.jpg 768w, /wp-content/uploads/2017/05/CO2.jpg 976w" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a></p></td></tr></tbody></table>
+
+**Background**
+
+Marsiling Secondary School Chinese Orchestra is a fun-loving CCA for students who are passionate about Chinese instrumental music. Students get the chance to put up performances for school and external events, and thus have the opportunity to hone their musicians’ calibre and promote a greater appreciation for Chinese music.
+
+Since its founding, our Orchestra has been taking part in the biennial SYF Arts Presentation. We are proud to achieve Certificate of Distinction in the SYF AP 2019 and Certificate of Accomplishment in the SYF AP 2021.
+
+To date, Chinese orchestra has about 40 students. We have an excellent soundproof room for our daily practices and a very strong environment to nurture the students; even if they have little or no background in music. The Chinese orchestra programme has proven to be an effective way to help our students develop personal qualities such as teamwork, self-discipline and leadership skills.
+
+**Training Programme**
+
+This programme ensures that all members can master the playing of one musical instrument.
+
+During periods of preparation for performances, there will be additional practices to sufficiently prepare the members.
+
+Training Frequency: 2 sessions (2.5 hours each) per week
+
+**Selection Criteria**
+
+*   A member of musical CCA e.g. Chinese orchestra or instrumental ensemble in primary school is preferred.
+*   Must show keen interest and commitment for the CCA.
+*   Must be in Primary 6 at the point of application or equivalent.
+*   Demonstrates aptitude and potential during interview.
+*   General conduct indicated in school report book and CCA records.
