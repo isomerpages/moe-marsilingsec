@@ -129,3 +129,31 @@ Training Frequency: 2 sessions (3 hours each) per week
     *   Must be in Primary 6 at the point of application or equivalent.
     *   Demonstrates aptitude and potential during interview.
     *   General conduct indicated in school report book and CCA records.
+
+**5\. Badminton (Boys and Girls)**
+
+Marsiling Secondary School also offers DSA to eligible students via Badminton for both Boys and Girls. This is in line with our Learning for Life Programme which aims to build leadership, resilience and persons of good character.
+
+<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 1240px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 413.328px;"><p style="box-sizing: inherit; font-size: 1em;"><a href="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/B1.jpg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(241, 174, 22);"><img class="size-medium wp-image-8469" src="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/B1-300x142.jpg" alt="B1" width="300" height="142" srcset="/wp-content/uploads/2017/05/B1-300x142.jpg 300w, /wp-content/uploads/2017/05/B1-1024x485.jpg 1024w, /wp-content/uploads/2017/05/B1-768x364.jpg 768w, /wp-content/uploads/2017/05/B1-1350x639.jpg 1350w, /wp-content/uploads/2017/05/B1.jpg 1379w" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a></p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 413.328px;"><p style="box-sizing: inherit; font-size: 1em;"><a href="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/B2.jpg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(241, 174, 22);"><img class="size-medium wp-image-8470" src="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/B2-300x142.jpg" alt="B2" width="300" height="142" srcset="/wp-content/uploads/2017/05/B2-300x142.jpg 300w, /wp-content/uploads/2017/05/B2.jpg 602w" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a></p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 413.344px;"><p style="box-sizing: inherit; font-size: 1em;"><a href="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/B3.jpg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(241, 174, 22);"><img class="size-medium wp-image-8468" src="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/B3-300x240.jpg" alt="B3" width="300" height="240" srcset="/wp-content/uploads/2017/05/B3-300x240.jpg 300w, /wp-content/uploads/2017/05/B3.jpg 469w" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a></p></td></tr></tbody></table>
+
+**Background**
+
+Badminton is an indoor sport that is widely played around the world and of all age groups. Immensely popular in Singapore, it is exciting and requires speed, agility, communication, teamwork and resilience. It can be played solo or as a team. Marsiling’s Badminton CCA was formed during the founding of the school. We aim to create a dynamic environment for students to excel. Trainings are of high intensity and yet fun. We hope to attract more talented students to come forward and train with us and make their mark during their stay with us and beyond.
+
+To date, the CCA has more than 60 students across all levels. The sport has had a huge appeal since the new Indoor Sports Hall was completed in early 2021. We have an excellent training facility and a very strong environment to nurture the players; even if they have little or no background in the sport. The Badminton programme has proven to be an effective way to help our students develop personal qualities such as resilience, respect, responsibility, teamwork, self-discipline and leadership skills.
+
+**Training Programme**
+
+The training is led by Mr Wong Shoon Soo, who represented Singapore at the 1985 SEA Games and has immense experience as a competitor and a coach.
+
+During periods of competition, there will be additional training sessions to sufficiently prepare the players for the tournament. Friendly matches will also be arranged to help the players gain more game experience.
+
+Training Frequency: 2 sessions (3 hours each) per week during non-competition period. Up to 4 sessions each week during competition period for students representing the school.
+
+**Selection Criteria**
+
+*   A member of sports CCA in primary school is preferred.
+*   Must show keen interest and commitment for the CCA.
+*   Must be in Primary 6 at the point of application or equivalent.
+*   Demonstrates aptitude and potential during interview.
+*   General conduct indicated in school report book and CCA records.
