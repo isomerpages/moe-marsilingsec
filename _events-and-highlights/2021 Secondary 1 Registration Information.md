@@ -209,5 +209,5 @@ style="width:40%">
 
 **For other matters, please**
 
-Email: marsiling\_ss@moe.edu.sg or  
+Email: marsiling_ss@moe.edu.sg or  
 Call us: 68941413
