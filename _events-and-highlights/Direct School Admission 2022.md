@@ -73,3 +73,31 @@ As a school offering a distinctive programme on Environmental Science and Sustai
 *   Must be in Primary 6 at the point of application or equivalent.
 *   Demonstrates aptitude and potential during interview.
 *   General conduct indicated in school report book and CCA records.
+
+**3\. Floorball (Girls Only)**
+
+Marsiling Secondary School offers DSA to eligible students via Floorball (Girls only). This is in line with our Learning for Life Programme which aims to build leadership, resilience and persons of good character.
+
+<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 1237.86px; height: 6px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 34px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 193px; height: 34px;"><p style="box-sizing: inherit; font-size: 1em;"><a href="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/FB1.jpg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(241, 174, 22);"><img class="size-medium wp-image-8505" src="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/FB1-300x225.jpg" alt="Fb1" width="300" height="225" srcset="/wp-content/uploads/2017/05/FB1-300x225.jpg 300w, /wp-content/uploads/2017/05/FB1-1024x768.jpg 1024w, /wp-content/uploads/2017/05/FB1-768x576.jpg 768w, /wp-content/uploads/2017/05/FB1-1536x1152.jpg 1536w, /wp-content/uploads/2017/05/FB1-1350x1013.jpg 1350w, /wp-content/uploads/2017/05/FB1.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a></p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 193px; height: 34px;"><p style="box-sizing: inherit; font-size: 1em;"><a href="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/FB2.jpg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(241, 174, 22);"><img class="size-medium wp-image-8503" src="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/FB2-300x300.jpg" alt="Fb2" width="300" height="300" srcset="/wp-content/uploads/2017/05/FB2-300x300.jpg 300w, /wp-content/uploads/2017/05/FB2-150x150.jpg 150w, /wp-content/uploads/2017/05/FB2.jpg 618w" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a></p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 193px; height: 34px;"><p style="box-sizing: inherit; font-size: 1em;"><a href="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/FB3.jpg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(241, 174, 22);"><img class=" wp-image-8504" src="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/FB3-300x135.jpg" alt="Fb3" width="373" height="168" srcset="/wp-content/uploads/2017/05/FB3-300x135.jpg 300w, /wp-content/uploads/2017/05/FB3-1024x461.jpg 1024w, /wp-content/uploads/2017/05/FB3-768x346.jpg 768w, /wp-content/uploads/2017/05/FB3-1536x691.jpg 1536w, /wp-content/uploads/2017/05/FB3-1350x608.jpg 1350w, /wp-content/uploads/2017/05/FB3.jpg 1600w" sizes="(max-width: 373px) 100vw, 373px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a></p></td></tr></tbody></table>
+
+**Background**
+
+Floorball is a fast-paced indoor sport that requires quickness of mind, tenacity, speed, agility, fitness and teamwork. It is an exciting team sport that appeals to many. Marsiling’s Floorball was formed in 2020 to cater to students’ interest. We aim to create a dynamic environment for the young ladies where they can excel. Trainings are of high intensity and yet fun. We hope to have more young ladies come forward to train with us and make their mark during their stay with us and beyond.
+
+To date the school has some 50 students training in the sport. We have state of the art Floorball equipment housed within a new Indoor Sports Hall and a very strong environment to nurture the players; even if they have little or no background in the sport. The girls are well equipped with their own floorball sticks, shoes, jerseys and an excellent team of teachers and coaches to bring out the best in the girls. The Floorball programme has proven to be an effective way to help our students develop personal qualities such as teamwork, self-discipline and leadership skills.
+
+**Training Programme**
+
+This programme ensures that all players are competent with Floorball skills and play (skills to dribble, pass, shoot and defend, as well as fitness training to improve endurance and footwork).
+
+During periods of competition, there will be additional training sessions to sufficiently prepare the girls for the tournament. Friendly matches will also be arranged to help the players gain more game experience.
+
+Training Frequency: 2 sessions (3 hours each) per week
+
+**Selection Criteria**
+
+*   A member of sports CCA in primary school is preferred.
+*   Must show keen interest and commitment for the CCA.
+*   Must be in Primary 6 at the point of application or equivalent.
+*   Demonstrates aptitude and potential during interview.
+*   General conduct indicated in school report book and CCA records.
