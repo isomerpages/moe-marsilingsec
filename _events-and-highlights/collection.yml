@@ -2,4 +2,5 @@ collections:
   events-and-highlights:
     output: true
     order:
+      - Annual Cross Country.md
       - Health Promotion Board.md
