@@ -278,3 +278,51 @@ During periods of competition, there will be additional training sessions to suf
 *   Must be in Primary 6 at the point of application or equivalent.
 *   Demonstrates aptitude and potential during interview.
 *   General conduct indicated in school report book and CCA records.
+
+**10\. International Dance**
+
+Marsiling Secondary School offers DSA to eligible students via International Dance. This is in line with our Learning for Life Programme which aims to build leadership, resilience and persons of good character.
+
+<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 1240px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 413.328px;"><p style="box-sizing: inherit; font-size: 1em;"><a href="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/ID3.jpg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(241, 174, 22);"><img class="size-medium wp-image-8420" src="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/ID3-300x200.jpg" alt="Id3" width="300" height="200" srcset="/wp-content/uploads/2017/05/ID3-300x200.jpg 300w, /wp-content/uploads/2017/05/ID3-768x512.jpg 768w, /wp-content/uploads/2017/05/ID3.jpg 847w" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a></p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 413.328px;"><p style="box-sizing: inherit; font-size: 1em;"><a href="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/ID1.jpg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(241, 174, 22);"><img class="size-medium wp-image-8418" src="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/ID1-300x200.jpg" alt="Id1" width="300" height="200" srcset="/wp-content/uploads/2017/05/ID1-300x200.jpg 300w, /wp-content/uploads/2017/05/ID1-768x512.jpg 768w, /wp-content/uploads/2017/05/ID1.jpg 840w" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a></p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 413.344px;"><p style="box-sizing: inherit; font-size: 1em;"><a href="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/ID2.jpg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(241, 174, 22);"><img class="size-medium wp-image-8419" src="https://marsilingsec.moe.edu.sg/wp-content/uploads/2017/05/ID2-300x225.jpg" alt="Id2" width="300" height="225" srcset="/wp-content/uploads/2017/05/ID2-300x225.jpg 300w, /wp-content/uploads/2017/05/ID2-768x576.jpg 768w, /wp-content/uploads/2017/05/ID2.jpg 869w" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a></p></td></tr></tbody></table>
+
+**Background**
+
+International Dance is a dynamic performing arts CCA which requires passion, stamina, teamwork and commitment. Marsiling International dance, Hypesters, was formed when the Marsiling Secondary School merged with Si Ling Secondary School in 2017. Hypesters has competed in dance competitions, performed at community events and represented the school in the Singapore Youth festivals. The dance group focuses on Hip Hop and Street Jazz.
+
+We have achieved the certificate of achievement since 2017 and aim to maintain the quality and standard of our dancers and dance program. Our CCA welcomes interested students from all races and gender. To date we have about 40 dancers and an experienced dance instructor to bring out the best in the dancers. The International Dance programme has proven to be an effective way to help our students develop personal qualities such as teamwork, self-discipline and leadership skills.
+
+**Training Programme**
+
+This programme ensures that all dancers are competent from the warm-ups, to the techniques, and eventually choreographies. Stamina building and strength training are  core components built through various exercises.
+
+During periods of competitions and performances, there will be additional training sessions to sufficiently prepare the dancers.
+
+Training Frequency: 2 sessions (2.5 hours each) per week
+
+**Selection Criteria**
+
+*   A member of the performing arts CCA in primary school is preferred.
+*   Must show keen interest and commitment for the CCA.
+*   Must be in Primary 6 at the point of application or equivalent.
+*   Demonstrates aptitude and potential during interview.
+*   General conduct indicated in school report book and CCA records.
+
+**Key Dates**
+
+**a. Application (5 May 2022 – 1 June 2022)**
+
+All applicants will apply for DSA-Sec through a centralised DSA-Sec Portal. Schools are to note the following regarding application through the centralised DSA-Sec Portal:
+
+*   Accessing the DSA Portal. **Applicants from MOE mainstream primary schools**: Parent may log in directly to DSA-Sec Portal. Only one parent’s Singpass is required. Parents/ guardians who are unable to apply online can approach their child’s primary school for assistance.
+*   **Other applicants not studying in MOE mainstream primary schools**: They need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Schools may refer them to MOE website at: https://go.gov.sg/nmsdsa-sec-application.
+
+Click [here](http://go.gov.sg/apply-dsa-sec) to apply for DSA.
+--------------------------------------------------------------
+
+**b. Selection (June 2022 – September 2022)**
+
+Amid the recent increase in the number of local COVID-19 cases and to ensure the safety and well-being of our students and school personnel, DSA-Sec schools and Primary Schools will continue to use **e-modes for the selection process of all talent areas during this year’s DSA exercises (i.e. similar to last year’s DSA exercises)**.
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**The school** **offers vacancies of up to 20% of the 2023 Secondary 1 cohort and we welcome interested students to apply to join the school through the Direct School Admission (DSA) process.**
