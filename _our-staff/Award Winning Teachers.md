@@ -68,9 +68,11 @@ img {
   
 </body>
 <p style="text-align:center;"> <strong>Mr Zaki Zulfarkar</strong><br><br>
-2021 Our Schools, Our Stories (OSOS) My School Community MOE Staff Honourable Mention<br><br>Click here to view the entry.<br><br>
+2021 Our Schools, Our Stories (OSOS) My School Community MOE Staff Honourable Mention<br><br>Click <a href="https://www.moe.gov.sg/our-schools-our-stories/winning-stories-2021/my-school-community/moe-staff">here</a> to view the entry.<br><br>
 2019 Academy Award for Professional Development (Associate Award)<br>
 2013 Academy Award for Professional Development (Associate Award)</p>
+
+
 
 ![](/images/Mdm-Rita-Zarina-Mohd-Nazeer-683x1024.jpeg)
 
