@@ -15,6 +15,7 @@ img {
 <body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
   
 </body>
+<p style="text-align:center;"> <strong>8 am to 5 pm</strong></p>
 
 ![](/images/Mr%20Anil%20Vasudevan.jpeg)
 
@@ -28,6 +29,7 @@ img {
 <body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
   
 </body>
+<p style="text-align:center;"> <strong>8 am to 5 pm</strong></p>
 
 ![](/images/Mrs-Tan-Puay-Hoon-683x1024.jpeg)
 
@@ -41,6 +43,7 @@ img {
 <body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
   
 </body>
+<p style="text-align:center;"> <strong>8 am to 5 pm</strong></p>
 
 ![](/images/Mrs-Karen-Ong-683x1024.jpeg)
 
@@ -54,6 +57,7 @@ img {
 <body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
   
 </body>
+<p style="text-align:center;"> <strong>8 am to 5 pm</strong></p>
 
 ![](/images/Mr-Zaki-Zufakar-683x1024.jpeg)
 
@@ -67,6 +71,7 @@ img {
 <body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
   
 </body>
+<p style="text-align:center;"> <strong>8 am to 5 pm</strong></p>
 
 ![](/images/Mdm-Rita-Zarina-Mohd-Nazeer-683x1024.jpeg)
 
@@ -80,6 +85,7 @@ img {
 <body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
   
 </body>
+<p style="text-align:center;"> <strong>8 am to 5 pm</strong></p>
 
 ![](/images/Mdm-Rashidah-Binte-Abdullah-683x1024.jpeg)
 
@@ -93,3 +99,4 @@ img {
 <body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
   
 </body>
+<p style="text-align:center;"> <strong>8 am to 5 pm</strong></p>
