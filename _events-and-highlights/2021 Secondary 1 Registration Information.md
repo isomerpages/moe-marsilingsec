@@ -84,6 +84,6 @@ Please refer to the schedule for the purchasing of books and uniforms.
 
 _For selected Subject Based Banding (SBB) students, please be reminded to purchase higher streamed books for the SBB subjects. (For the SBB subjects, do not buy for both streams)_ 
 
-**Subject Based Banding (SBB)**
+**<u>Subject Based Banding (SBB)</u>**
 
 For selected students who are offered and are eligible to take subject at a higher stream, our school personnel will be reaching out to each individual student after 22 December 2020 for further information with regards to SBB.
