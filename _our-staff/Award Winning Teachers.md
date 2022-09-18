@@ -52,12 +52,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mrs-Karen-Ong-683x1024.jpeg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Mrs-Karen-Ong-683x1024.jpeg" alt="Mrs Karen Ong" style="width:50%;">  
   
 </body>
 <p style="text-align:center;"> <strong>Mrs Karen Ong</strong><br>2019 The Commendation Medal (National Day Award)</p>
-
-![](/images/Mr-Zaki-Zufakar-683x1024.jpeg)
 
 <style>  
 img {  
@@ -66,10 +64,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Mr-Zaki-Zufakar-683x1024.jpeg" alt="School Uniform" style="width:50%;">  
   
 </body>
-<p style="text-align:center;"> <strong>8 am to 5 pm</strong></p>
+<p style="text-align:center;"> <strong>Mr Zaki Zulfarkar</strong><br><br>
+2021 Our Schools, Our Stories (OSOS) My School Community MOE Staff Honourable Mention<br><br>Click here to view the entry.<br><br>
+2019 Academy Award for Professional Development (Associate Award)<br>
+2013 Academy Award for Professional Development (Associate Award)</p>
 
 ![](/images/Mdm-Rita-Zarina-Mohd-Nazeer-683x1024.jpeg)
 
