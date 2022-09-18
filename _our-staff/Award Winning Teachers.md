@@ -43,9 +43,7 @@ img {
 <body><img src="/images/Mrs-Tan-Puay-Hoon-683x1024.jpeg" alt="Mrs Tan Puay Hoon" style="width:50%;">  
   
 </body>
-<p style="text-align:center;"> <strong>Mrs Tan Puay Hoon</strong>2020 The Commendation Medal (National Day Award)</p>
-
-![](/images/Mrs-Karen-Ong-683x1024.jpeg)
+<p style="text-align:center;"> <strong>Mrs Tan Puay Hoon</strong><br>2020 The Commendation Medal (National Day Award)</p>
 
 <style>  
 img {  
@@ -54,10 +52,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Mrs-Karen-Ong-683x1024.jpeg" alt="School Uniform" style="width:50%;">  
   
 </body>
-<p style="text-align:center;"> <strong>8 am to 5 pm</strong></p>
+<p style="text-align:center;"> <strong>Mrs Karen Ong</strong><br>2019 The Commendation Medal (National Day Award)</p>
 
 ![](/images/Mr-Zaki-Zufakar-683x1024.jpeg)
 
