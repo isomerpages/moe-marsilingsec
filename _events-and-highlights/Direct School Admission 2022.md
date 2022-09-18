@@ -307,22 +307,23 @@ During periods of competitions and performances, there will be additional traini
 *   Demonstrates aptitude and potential during interview.
 *   General conduct indicated in school report book and CCA records.
 
-**Key Dates**
+**<u>Key Dates</u>**
 
-**a. Application (5 May 2022 – 1 June 2022)**
+**<u>a. Application (5 May 2022 – 1 June 2022)</u>**
 
 All applicants will apply for DSA-Sec through a centralised DSA-Sec Portal. Schools are to note the following regarding application through the centralised DSA-Sec Portal:
 
 *   Accessing the DSA Portal. **Applicants from MOE mainstream primary schools**: Parent may log in directly to DSA-Sec Portal. Only one parent’s Singpass is required. Parents/ guardians who are unable to apply online can approach their child’s primary school for assistance.
 *   **Other applicants not studying in MOE mainstream primary schools**: They need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Schools may refer them to MOE website at: https://go.gov.sg/nmsdsa-sec-application.
 
-Click [here](http://go.gov.sg/apply-dsa-sec) to apply for DSA.
---------------------------------------------------------------
 
-**b. Selection (June 2022 – September 2022)**
+<h4 style="color:red" align="left">Click <a href="http://go.gov.sg/apply-dsa-sec">here</a> to apply for DSA.</h4>
 
-Amid the recent increase in the number of local COVID-19 cases and to ensure the safety and well-being of our students and school personnel, DSA-Sec schools and Primary Schools will continue to use **e-modes for the selection process of all talent areas during this year’s DSA exercises (i.e. similar to last year’s DSA exercises)**.
+**<u>b. Selection (June 2022 – September 2022)</u>**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+Amid the recent increase in the number of local COVID-19 cases and to ensure the safety and well-being of our students and school personnel, DSA-Sec schools and Primary Schools will continue to use **<u>e-modes</u> for the selection process of all talent areas during this year’s DSA exercises (i.e. similar to last year’s DSA exercises)**.
+
+-----
+
 
 **The school** **offers vacancies of up to 20% of the 2023 Secondary 1 cohort and we welcome interested students to apply to join the school through the Direct School Admission (DSA) process.**
