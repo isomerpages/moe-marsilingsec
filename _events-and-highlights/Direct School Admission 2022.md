@@ -251,7 +251,7 @@ During periods of competition, there will be additional training sessions to suf
 *   Demonstrates aptitude and potential during interview.
 *   General conduct indicated in school report book and CCA records
 
-**9\. Drama Society**
+**<u>9\. Drama Society<u>**
 
 Marsiling Secondary School offers DSA to eligible students via Drama. This is in line with our Learning for Life Programme which aims to build leadership, resilience and persons of good character.
 
@@ -269,9 +269,9 @@ This programme ensures that all drama members are competent with basic and advan
 
 During periods of competition, there will be additional training sessions to sufficiently prepare the drama members.
 
-Training Frequency: 2 sessions (2.5 hours each) per week
+<u>Training Frequency:</u> 2 sessions (2.5 hours each) per week
 
-**Selection Criteria**
+**<u>Selection Criteria</u>**
 
 *   A member of the performing arts CCA in primary school is preferred.
 *   Must show keen interest and commitment for the CCA.
