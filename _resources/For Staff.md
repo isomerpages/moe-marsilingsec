@@ -3,10 +3,8 @@ title: For Staff
 permalink: /resources/for-staff/
 description: ""
 ---
+<p><small><em>Please ensure that you are logged on to the MOE iCON2 email before clicking on the link below.</em></small></p\>
 
-<p><small><em>Please ensure that you are logged on to the MOE iCON2 email before clicking on the link below.</em></small\></p\>
-
-[Try it Yourself »](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_small)
 **Application for Relief Teaching**  
 [Relief Teaching form](https://docs.google.com/forms/d/e/1FAIpQLSeD6boRPhJk5vUyMbKpr8OgFjj5rN9o80B4Mw3QjP2STD2Reg/viewform?usp=sf_link)
 
