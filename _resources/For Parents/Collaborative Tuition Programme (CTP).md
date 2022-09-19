@@ -10,11 +10,11 @@ The Collaborative Tuition Programme (CTP) was introduced as part of collaboratio
 
  The CTP centres offer quality and affordable tuition to primary school students of all races and religion. Classes under Yayasan MENDAKI are conducted in more than 20 schools andcommunity centres island wide. The Self-Help Groups grant the tuition fee subsidy to the respective students according to race.
 
-**Details**  
+##### **Details**  
 Day: Saturday  
 Time: 9 a.m. – 12.15 p.m.
 
-**Who can join?**
+##### **Who can join?**
 
 *   Singaporean and Singapore Permanent Residents (All races)
 *   One who obtained between 35 and 65 marks for each tuition subject for SA2
@@ -24,7 +24,7 @@ Time: 9 a.m. – 12.15 p.m.
 
 Applications for student who are not in the above categories will be reviewed on a case-by-case basis.
 
-**When to register?**
+##### **When to register?**
 
 **Phase 1: For existing students only**  
 14 October 2019 – 10 November 2019
@@ -32,6 +32,5 @@ Applications for student who are not in the above categories will be reviewed on
 **Phase 2: For new students only**  
 18 November 2019 – 15 December 2019
 
-**How to register?**
-
+##### **How to register?** <br>
 Click [here](https://oprs.mendaki.org.sg/) to register.
