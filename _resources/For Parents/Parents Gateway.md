@@ -50,3 +50,17 @@ Step-by-Step Guide – Setting up the PG Mobile App
 | Singpass | 2FA |
 | --- | --- |
 | ![Singpass registration](/images/Singpass%20registration.png) | ![2FA Activation](/images/tn%202FA%20Activation_png2.jpg) |
+
+**<u>Step 2 – Download the Parents Gateway Mobile App</u>**
+
+1.  Open the [Apple App Store](https://itunes.apple.com/sg/app/parents-gateway/id1267198708?mt=8) or [Google Play Store](https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en_SG) app on your mobile phone.
+2.  Search for the ‘Parents Gateway’ mobile app
+3.  Download and install the app onto your phone.
+4.  Enable **‘Allow Notifications’** to receive push notifications.  
+    _**Note: Supported OS Versions – Android 6.0 or later & iOS 9.1 or later**_
+
+You may also scan the QR codes below to access the respective portals
+
+| Android | iOS |
+| --- | --- |
+| ![QR Code PG Android](/images/QR%20Code%20PG%20Android.png) | ![QR Code PG IOS](/images/QR%20Code%20PG%20IOS.png) |
