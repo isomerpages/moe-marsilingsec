@@ -29,3 +29,7 @@ To work in partnership with the school and parents to nurture the holistic devel
 FATHERS@SCHOOL: DINING IN THE DARK
 
 ![FATHERS@SCHOOL: DINING IN THE DARK](/images/IMG-20190329-WA0011.jpeg)
+
+For more information and sign up, please contact FM@S coordinator, Mdm Eileen Tay on this number: 98622652
+
+![Parent Support Group](/images/parent%20support%20group.jpg)
