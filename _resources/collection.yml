@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - For Parents/Collaborative Tuition Programme (CTP).md
       - For Parents/OBS Course Information.md
       - For Parents/Parents Gateway.md
       - For Parents/Travel Declaration.md
