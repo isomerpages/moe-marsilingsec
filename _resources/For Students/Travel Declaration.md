@@ -16,7 +16,7 @@ Dear parents/students,
 
 If you are intending to travel overseas during the school holidays, you can declare your travel plans via the following methods:
 
-**1)          Using Parents Gateway APP (iOS/Android) – Travel Declaration    function.**
+**1)          Using Parents Gateway APP (iOS/Android) – Travel Declaration function.**
 
 The guide to installing the Parents Gateway APP can be found [here](/resources/for-parents/pg/).
 
