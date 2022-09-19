@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - For Students/MOE Edusave Awards for Secondary Schools.md
       - For Students/Learning Resources for Students.md
       - For Students/GCE O, NA and NT E Examination Interactive Tutorial.md
       - For Students/.keep
