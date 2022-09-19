@@ -24,6 +24,6 @@ MSS PSG strives to:
 
 To work in partnership with the school and parents to nurture the holistic development of our children.
 
-### **Workshop and activities for parents [here](https://marsilingsec.moe.edu.sg/wp-content/uploads/2019/02/Letter-to-parents-for-Level-2-seminars.pdf)**
+### **Workshop and activities for parents [here](/files/Letter-to-parents-for-Level-2-seminars.pdf)**
 
 FATHERS@SCHOOL: DINING IN THE DARK
