@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - For Parents/Timetable.md
       - For Parents/2022 Post Examinations Timetable.md
       - For Parents/Transition and Parenting Talk.md
       - For Parents/Collaborative Tuition Programme (CTP).md
