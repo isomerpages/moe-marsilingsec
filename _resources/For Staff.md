@@ -30,11 +30,9 @@ description: ""
 [Declaration form](https://form.gov.sg/5e28f7413acc0e0011419cde)
 
 **Staff Professional Development Site**
-
 [https://sites.google.com/moe.edu.sg/msspdsite/home](https://sites.google.com/moe.edu.sg/msspdsite/home)
 
-**MOE Websites**
-
+**MOE Websites** <br>
 [HRP](https://www.hrp.gov.sg/hrp/#/) | <br>
 [IAMS 2.0 (SSOE2 account management)](https://identity.moe.edu.sg/identity)  
 [iExams2](https://iexams.seab.gov.sg/login)  
