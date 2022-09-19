@@ -13,7 +13,7 @@ Operating hours:
 
 Tel : 6874 1413  
 Fax : 68946156  
-Email : marsiling\_ss@moe.edu.sg
+Email : marsiling_ss@moe.edu.sg
 
 ### Edusave Account Balance
 
