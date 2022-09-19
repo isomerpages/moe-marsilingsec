@@ -68,22 +68,27 @@ You may also scan the QR codes below to access the respective portals
 **Step 3 – One-Time On-boarding**
 
 
-1\. Tap on “Log in with SingPass”
+**1\. Tap on “Log in with SingPass”**
 
-![PG_Setup_step1](/images/PG%20step%201.jpg)
+<img src="/images/PG%20step%201.jpg"  
+style="width:40%">
 
 <table class="ive_eobj_left iveo_table ives_tab_simple" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 672px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 10px; text-align: center;"></td><td style="box-sizing: inherit; padding: 5px 10px; width: 660px; text-align: left;"><strong style="box-sizing: inherit; font-weight: bold;">&nbsp;2. Log in with your SingPass (2FA)</strong></td></tr></tbody></table>
 
-![PG_Setup_step2](/images/PG%20step%202.jpg)
+<img src="/images/PG%20step%202.jpg"  
+style="width:40%">
 
 <table class="ive_eobj_left iveo_table ives_tab_simple" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 672px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 10px; text-align: left;"></td><td style="box-sizing: inherit; padding: 5px 10px; width: 666px; text-align: left;"><strong style="box-sizing: inherit; font-weight: bold;">3. Tap on “Retrieve” to retrieve your child’s information.</strong></td></tr></tbody></table>
 
-![PG_Setup_step3](/images/PG%20step%203.jpg)
+<img src="/images/PG%20step%203.jpg"  
+style="width:40%">
 
 <table class="ive_eobj_left iveo_table ives_tab_simple" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 512px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 4px; text-align: left;"></td><td style="box-sizing: inherit; padding: 5px 10px; width: 496px; text-align: left;"><strong style="box-sizing: inherit; font-weight: bold;">4. Tap on “Done” to complete the registration process.</strong></td></tr></tbody></table>
 
-![PG_Setup_step4](/images/PG%20step%204.jpg)
+<img src="/images/PG%20step%204.jpg"  
+style="width:40%">
 
 <table class="ive_eobj_left iveo_table ives_tab_simple alignleft" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; float: left; margin-right: 10px; width: 661px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 657px;"><strong style="box-sizing: inherit; font-weight: bold;">&nbsp; &nbsp; &nbsp; 5. You should see your child’s school announcements and activities.</strong></td></tr></tbody></table>
 
-![PG_Setup_step5](/images/PG%20step%205.jpg)
+<img src="/images/PG%20step%205.jpg"  
+style="width:40%">
