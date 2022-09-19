@@ -34,3 +34,15 @@ We **strongly encourage** all parents to **download and use the PG App** as 
 [Frequently Asked Questions About Parent Gateway](/files/8a-PG-FAQs-for-Parents-31112018-For-Circulation.pdf)
 
 Currently, we send letters to parents through hard-copies that students pass to their parents. These include letters about termly / ad-hoc activities, as well as letters from the General Office about finance or billing matters.  **From 2019**, the school will communicate with parents through **MOE’s Parents Gateway (PG) Mobile App**.
+
+Step-by-Step Guide – Setting up the PG Mobile App
+-------------------------------------------------
+
+**Step 1 – Setup your SingPass and 2FA** 
+
+*   **SingPass** and **2-Factor Verification (2FA)** is required to access the PG App.
+    
+    SingPass is available to all Singapore Citizens and Singapore Permanent Resident parents. If you have not yet registered for SingPass, or 2FA, please visit the [SingPass website](https://www.singpass.gov.sg/) to do so. If you are not a Singapore Citizen or Singapore Permanent Resident (PR), you may also visit the SingPass website to find out if you are eligible for SingPass.
+    
+
+*   You may also scan the QR codes below to access the respective portals
