@@ -70,9 +70,7 @@ You may also scan the QR codes below to access the respective portals
 
 1\. Tap on “Log in with SingPass”
 
-
-
-![PG_Setup_step1.png](https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/Portals/Parent%20Gateway/.tn.PG_Setup_step1.png.2.jpg)
+![](/images/PG%20step%201.jpg)
 
 <table class="ive_eobj_left iveo_table ives_tab_simple" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 672px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 10px; text-align: center;"></td><td style="box-sizing: inherit; padding: 5px 10px; width: 660px; text-align: left;"><strong style="box-sizing: inherit; font-weight: bold;">&nbsp;2. Log in with your SingPass (2FA)</strong></td></tr></tbody></table>
 
