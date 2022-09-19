@@ -27,3 +27,5 @@ To work in partnership with the school and parents to nurture the holistic devel
 ### **Workshop and activities for parents [here](/files/Letter-to-parents-for-Level-2-seminars.pdf)**
 
 FATHERS@SCHOOL: DINING IN THE DARK
+
+![FATHERS@SCHOOL: DINING IN THE DARK](/images/IMG-20190329-WA0011.jpeg)
