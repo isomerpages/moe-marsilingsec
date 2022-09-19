@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - For Parents/Useful Contact.md
       - For Parents/School Fees.md
       - For Parents/Edusave & Financial Assistance Schemes.md
       - For Parents/IDA’s NEU PC Plus Programme.md
