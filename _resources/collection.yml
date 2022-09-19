@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - For Parents/.keep
       - For Staff.md
       - For Students/Assessment Schedule.md
       - For Students/Timetable.md
