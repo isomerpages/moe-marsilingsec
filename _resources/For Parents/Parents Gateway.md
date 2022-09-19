@@ -46,3 +46,7 @@ Step-by-Step Guide – Setting up the PG Mobile App
     
 
 *   You may also scan the QR codes below to access the respective portals
+
+| Singpass | 2FA |
+| --- | --- |
+| ![Singpass registration](/images/Singpass%20registration.png) | ![2FA Activation](/images/tn%202FA%20Activation_png2.jpg) |
