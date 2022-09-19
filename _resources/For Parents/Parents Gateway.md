@@ -38,7 +38,7 @@ Currently, we send letters to parents through hard-copies that students pass to 
 Step-by-Step Guide – Setting up the PG Mobile App
 -------------------------------------------------
 
-**Step 1 – Setup your SingPass and 2FA** 
+**<u>Step 1 – Setup your SingPass and 2FA</u>** 
 
 *   **SingPass** and **2-Factor Verification (2FA)** is required to access the PG App.
     
