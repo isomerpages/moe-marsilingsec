@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - For Parents/Parents Gateway.md
       - For Parents/Travel Declaration.md
       - For Parents/Letter on New Uniform.md
       - For Parents/MOE Edusave Awards for Secondary Schools.md
