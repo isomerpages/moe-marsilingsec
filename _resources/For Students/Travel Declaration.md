@@ -6,13 +6,13 @@ third_nav_title: For Students
 ---
 **Travel Declaration**
 
-**Travel Related Matters/ Declaration**
+**<u>Travel Related Matters/ Declaration</u>**
 
 Dear parents/students,
 
 **Please read the Principal’s Letter on  “Travel Declaration for Mid-Year Holiday 2022” and its attached advisories before proceeding with Travel Declarations** 
 
-[Travel Declaration for Mid-Year Holiday 2022](https://marsilingsec.moe.edu.sg/wp-content/uploads/2022/05/Travel-Declaration-for-Mid-Year-Holiday-2022.pdf)
+[Travel Declaration for Mid-Year Holiday 2022](/files/Travel-Declaration-for-Mid-Year-Holiday-2022.pdf)
 
 If you are intending to travel overseas during the school holidays, you can declare your travel plans via the following methods:
 
