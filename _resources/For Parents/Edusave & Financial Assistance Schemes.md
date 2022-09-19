@@ -19,6 +19,6 @@ The following schemes are available to students who require financial help in th
 Application forms are obtainable from the General Office.  
 Application can be made at any time of the school year but is renewable on a yearly basis at the end of the school year.
 
-[**IDA’s NEU PC Plus Programme**](https://marsilingsec.moe.edu.sg/resources/for-parents/idas-neu-pc-plus-programme/)
+[**IDA’s NEU PC Plus Programme**](/resources/for-parents/idas-neu-pc-plus-programme/)
 
 The NEU PC Plus Programme offers students and persons with disabilities from low income households the opportunity to own a brand new computer at an affordable price.
