@@ -21,7 +21,4 @@ third_nav_title: For Students
 
 4. [iMTL](https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&func=login)
 
-5. [Travel Declarations](https://marsilingsec.moe.edu.sg/travel-declaration/)
-
-[  
-](https://marsilingsec.moe.edu.sg/resources/for-students/learning-management-systems/#top)
+5. [Travel Declarations](/travel-declaration/)
