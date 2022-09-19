@@ -14,7 +14,7 @@ third_nav_title: For Students
 
 2\. Student iCON Email  
 [Student iCON Email Login  (http://workspace.google.com/dashboard)](https://workspace.google.com/dashboard)  
-[Student iCON Onboarding Guide](https://marsilingsec.moe.edu.sg/wp-content/uploads/2021/04/Student-iCON-Onboarding-Guide.pdf)  
+[Student iCON Onboarding Guide](/files/Student-iCON-Onboarding-Guide.pdf)  
 [Student iCON Password/Account Lock Form](https://go.gov.sg/mss-icon-help)
 
 3. [Pride Highlights](http://tinyurl.com/MSSpridehighlights2019)
