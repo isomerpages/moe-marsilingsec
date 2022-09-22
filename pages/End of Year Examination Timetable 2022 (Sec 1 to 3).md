@@ -16,8 +16,8 @@ This event finished on 13 October 2022
 
 Please click on the following links for the End of Year Examination Timetable.
 
-Secondary 1: Click [here.](https://marsilingsec.moe.edu.sg/wp-content/uploads/2022/08/Sec-1-EYE-Timetable-2022.pdf)
+Secondary 1: Click [here.](/files/Sec-1-EYE-Timetable-2022.pdf)
 
-Secondary 2: Click [here.](https://marsilingsec.moe.edu.sg/wp-content/uploads/2022/08/Sec-2-EYE-Timetable-2022.pdf)
+Secondary 2: Click [here.](/files/Sec-2-EYE-Timetable-2022.pdf)
 
-Secondary 3: Click [here.](https://marsilingsec.moe.edu.sg/wp-content/uploads/2022/08/Sec-3-EYE-Timetable-2022.pdf)
+Secondary 3: Click [here.](/files/Sec-3-EYE-Timetable-2022.pdf)
