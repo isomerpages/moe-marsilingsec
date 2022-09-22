@@ -18,9 +18,9 @@ sections:
         - title: Our Teachers
           description: President's Award for Teachers (PAT)
           url: /events-highlights/awards-winning-teachers/
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+        - title: Our Commitment
+          description: Adding values to our students
+          url: /learning-for-life-programme-llp/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
