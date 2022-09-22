@@ -16,6 +16,6 @@ Click on the links below to access the **ODD** week and **EVEN** week of the
 
 e.g. The first week of Semester 2 (27/6 to 1/7) is considered as Week 1, i.e. **ODD** Week.
 
-[2022 Sem 2 Timetable Odd Week\_Class](https://marsilingsec.moe.edu.sg/wp-content/uploads/2022/07/2022-Sem-2-Timetable-Odd-Week_Class-w-SRP-30Jun.pdf)
+[2022 Sem 2 Timetable Odd Week\_Class](/files/2022-Sem-2-Timetable-Odd-Week_Class-w-SRP-30Jun.pdf)
 
-[2022 Sem 2 Timetable Even Week\_Class](https://marsilingsec.moe.edu.sg/wp-content/uploads/2022/07/2022-Sem-2-Timetable-Even-Week_Class-w-SRP-30Jun.pdf)
+[2022 Sem 2 Timetable Even Week\_Class](/files/2022-Sem-2-Timetable-Even-Week_Class-w-SRP-30Jun.pdf)
