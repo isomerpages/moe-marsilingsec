@@ -109,7 +109,7 @@ b)  [Parent Handbook (I) on Learning with a PLD\_8 Dec 21](/files/Parent-Handb
 
 c)   [Parent Handbook (II) on Learning with a PLD\_8 Dec 21](/files/Parent-Handbook-II-on-Learning-with-a-PLD_8-Dec-21.pdf)
 
-d)  [Annex F Authorisation Form](https://marsilingsec.moe.edu.sg/wp-content/uploads/2022/01/Annex-F-Authorisation-Form.pdf)  
+d)  [Annex F Authorisation Form](/files/Annex-F-Authorisation-Form.pdf)  
 
 e)  [Online Forms (By 19 January 2022)](https://go.gov.sg/pdlpadmin)      
 
