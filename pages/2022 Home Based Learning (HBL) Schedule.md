@@ -12,4 +12,4 @@ description: ""
 
 Dear Marsilians
 
-Please click [here](https://marsilingsec.moe.edu.sg/2022-home-based-learning-hbl-schedule/) to download the schedule for this year’s Home-Based Learning.
+Please click [here](/2022-home-based-learning-hbl-schedule/) to download the schedule for this year’s Home-Based Learning.
