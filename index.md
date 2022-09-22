@@ -36,4 +36,13 @@ sections:
       url: /about-us/message-from-principal/
       image: /images/Mr-Goh-Aik-Choon-Principal.jpeg
       alt: Image alt text
+  - infopic:
+      title: Applied Learning Programme (ALP)
+      description: Eco-Sustainability through Inquiry-based Learning DEVELOPING FUTURE
+        PROBLEM SOLVERS – Nurturing the Next Generation of Green Leaders. The
+        school’s […]
+      button: Read More
+      url: /curriculum/applied-learning-programme/
+      image: /images/Homepage_Vertical-Farm_2022-scaled.jpeg
+      alt: Image alt text
 ---
