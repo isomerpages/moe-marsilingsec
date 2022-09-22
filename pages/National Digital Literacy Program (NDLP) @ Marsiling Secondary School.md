@@ -113,6 +113,6 @@ d)  [Annex F Authorisation Form](/files/Annex-F-Authorisation-Form.pdf)  
 
 e)  [Online Forms (By 19 January 2022)](https://go.gov.sg/pdlpadmin)      
 
-g) [Appendix 1 – Student Device Information Kit](https://marsilingsec.moe.edu.sg/wp-content/uploads/2021/05/Appendix-1-Student-Device-Information-Kit.pdf)
+g) [Appendix 1 – Student Device Information Kit](/files/Appendix-1-Student-Device-Information-Kit.pdf)
 
 g) [Marsiling Secondary ICT Acceptable Use Policy](https://go.gov.sg/mss-ict-aup)
