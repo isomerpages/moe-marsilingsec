@@ -37,7 +37,7 @@ If your child/ward is a Singapore citizen, you can use your child’s/ward’s E
 
 ### **Financial Assistance**
 
-Subsidies are available for students who require financial assistance to purchase a PLD. Please refer to the [parent briefing slides](https://marsilingsec.moe.edu.sg/wp-content/uploads/2021/01/NDLP-Briefing-for-Parents-20-Jan-2021.pdf) for further details on funding support. Students under the MOE Financial Assistance Scheme for the year will automatically be subsidized for the PLD. Students who are currently not under the MOE Financial Assistance Scheme may approach the school’s General Office to apply for additional subsidy if their Gross Household Income (GHI) is $4,000 or less, or Per Capita Income (PCI) is $1,000 or less. “**PCI**” refers to the Gross Household Income divided by the total number of family members in the household.
+Subsidies are available for students who require financial assistance to purchase a PLD. Please refer to the [parent briefing slides](/files/NDLP-Briefing-for-Parents-20-Jan-2021.pdf) for further details on funding support. Students under the MOE Financial Assistance Scheme for the year will automatically be subsidized for the PLD. Students who are currently not under the MOE Financial Assistance Scheme may approach the school’s General Office to apply for additional subsidy if their Gross Household Income (GHI) is $4,000 or less, or Per Capita Income (PCI) is $1,000 or less. “**PCI**” refers to the Gross Household Income divided by the total number of family members in the household.
 
 ### **Device Management Application**
 
