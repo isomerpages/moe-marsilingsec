@@ -103,11 +103,11 @@ Parents/guardians will be purchasing the PLD directly from the vendor, not MOE. 
 
 ### Resources/Forms/Links
 
-a)  [Parent Engagement Deck\_11 Jan 2022](https://marsilingsec.moe.edu.sg/wp-content/uploads/2022/01/Parent-Engagement-Deck_11-Jan-2022.pdf)
+a)  [Parent Engagement Deck\_11 Jan 2022](/files/Parent-Engagement-Deck_11-Jan-2022.pdf)
 
-b)  [Parent Handbook (I) on Learning with a PLD\_8 Dec 21](https://marsilingsec.moe.edu.sg/wp-content/uploads/2022/01/Parent-Handbook-I-on-Learning-with-a-PLD_8-Dec-21.pdf)
+b)  [Parent Handbook (I) on Learning with a PLD\_8 Dec 21](/files/Parent-Handbook-I-on-Learning-with-a-PLD_8-Dec-21.pdf)
 
-c)   [Parent Handbook (II) on Learning with a PLD\_8 Dec 21](https://marsilingsec.moe.edu.sg/wp-content/uploads/2022/01/Parent-Handbook-II-on-Learning-with-a-PLD_8-Dec-21.pdf)
+c)   [Parent Handbook (II) on Learning with a PLD\_8 Dec 21](/files/Parent-Handbook-II-on-Learning-with-a-PLD_8-Dec-21.pdf)
 
 d)  [Annex F Authorisation Form](https://marsilingsec.moe.edu.sg/wp-content/uploads/2022/01/Annex-F-Authorisation-Form.pdf)  
 
