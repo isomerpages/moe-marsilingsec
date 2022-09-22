@@ -27,4 +27,13 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - infopic:
+      title: Message From Our Principal
+      description: Mr Goh Aik Choon Principal’s Message 2022 Progressing with Values
+        and Knowledge Marsiling Secondary School is making steady progress with
+        values and […]
+      button: Read More
+      url: /about-us/message-from-principal/
+      image: /images/Mr-Goh-Aik-Choon-Principal.jpeg
+      alt: Image alt text
 ---
