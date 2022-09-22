@@ -12,9 +12,9 @@ sections:
         - title: Welcome to our website!
           description: Click here for more information.
           url: /about-us/message-from-principal/
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: Character Building
+          description: Learning today, leading tomorrow
+          url: /featured-in-news/
         - title: Page A
           description: Page A is important too
           url: /privacy/
