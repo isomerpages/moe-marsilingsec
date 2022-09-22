@@ -15,9 +15,9 @@ sections:
         - title: Character Building
           description: Learning today, leading tomorrow
           url: /featured-in-news/
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Our Teachers
+          description: President's Award for Teachers (PAT)
+          url: /events-highlights/awards-winning-teachers/
         - title: Key Highlight Title
           description: Key Highlight description
           url: ""
