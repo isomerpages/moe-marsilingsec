@@ -20,7 +20,7 @@ sections:
           url: /events-highlights/awards-winning-teachers/
         - title: Our Commitment
           description: Adding values to our students
-          url: /learning-for-life-programme-llp/
+          url: /curriculum/learning-for-life-programme/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
