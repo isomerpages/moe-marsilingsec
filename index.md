@@ -45,4 +45,12 @@ sections:
       url: /curriculum/applied-learning-programme/
       image: /images/Homepage_Vertical-Farm_2022-scaled.jpeg
       alt: Image alt text
+  - infopic:
+      title: Learning for Life Programme (LLP)
+      description: BUILDING LIFE SKILLS VALOUR – Values and Leadership development
+        through Outdoor Curriculum The school’s VALOUR programme develops our
+        […]
+      button: Read More
+      url: /curriculum/learning-for-life-programme/
+      alt: Image alt text
 ---
