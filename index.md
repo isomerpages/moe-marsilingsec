@@ -53,4 +53,5 @@ sections:
       button: Read More
       url: /curriculum/learning-for-life-programme/
       alt: Image alt text
+      image: /images/IMG_1275.jpeg
 ---
