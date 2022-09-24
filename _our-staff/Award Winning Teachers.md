@@ -12,7 +12,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mdm-Sumathy-Thirumaran-200x300.jpeg" alt="Mrs Sumathy Thirumaran" style="width:30%;">  
+<body><img src="/images/Mdm-Sumathy-Thirumaran-200x300.jpeg" alt="Mrs Sumathy Thirumaran" style="width:27%;">  
   
 </body>
 <p style="text-align:center;"> <strong>Mrs Sumathy Thirumaran</strong><br>2021 Most Inspiring Tamil Teacher<br>Click <a href="https://www.straitstimes.com/singapore/parenting-education/tamil-teacher-who-made-students-produce-school-newsletter-among-those">here</a> to read the news article on Straits Times.</p>
