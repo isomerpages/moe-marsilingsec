@@ -2,8 +2,8 @@ title: Marsiling Secondary School
 url: https://marsilingsec.moe.edu.sg
 favicon: /images/cropped-MSS-new-logo.jpeg
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#e7ab41"
+  secondary-color: "#f6c74c"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d1rfz3yiaa405u.amplifyapp.com
 prod: https://master.d1rfz3yiaa405u.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/cropped-MSS-new-logo.jpeg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
