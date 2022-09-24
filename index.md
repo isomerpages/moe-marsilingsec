@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/marsilingsec.gif
+      background: /images/marsilingsecsch.gif
       key_highlights:
         - title: Welcome to our website!
           description: Click here for more information.
