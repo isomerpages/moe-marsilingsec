@@ -14,7 +14,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/PG%20Gateway%20App%20Screenshot.png" alt="Parents Gateway Mobile App" style="width:50%;">  
+<body><img src="/images/PG%20Gateway%20App%20Screenshot.png" alt="Parents Gateway Mobile App" style="width:25%;">  
   
 </body>
 
