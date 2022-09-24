@@ -3,7 +3,6 @@ title: Our School Crest
 permalink: /about-us/the-school-crest/
 description: ""
 ---
-![](/images/cropped-MSS-new-logo.jpeg)
 
 <style>  
 img {  
@@ -12,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/cropped-MSS-new-logo.jpeg" alt="Our School Crest" style="width:50%;">  
+<body><img src="/images/cropped-MSS-new-logo.jpeg" alt="Our School Crest" style="width:37%;">  
   
 </body>
 
