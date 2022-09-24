@@ -11,7 +11,7 @@ description: ""
 
 **Progressing with Values and Knowledge**
 
-Marsiling Secondary School ![](/images/MSS_chinese-6.jpeg) is making steady progress with _values and knowledge_! We are honoured to be given the approval and had successfully implemented Full Subject Based Banding (**FSBB**) for the Secondary One cohort this year, two years ahead of the deadline sets for all secondary schools in Singapore.
+Marsiling Secondary School is making steady progress with _values and knowledge_! We are honoured to be given the approval and had successfully implemented Full Subject Based Banding (**FSBB**) for the Secondary One cohort this year, two years ahead of the deadline sets for all secondary schools in Singapore.
 
 Another key event for the school this year was the official opening of the **Indoor Sports Hall** by Mr. Zaqy Mohamad, Senior Minister of State, Ministry of Defence and Manpower and Adviser to Marsiling-Yew Tee GRC GROs on 25th March. Our Uniformed Groups Co-Curricular Activities (CCAs) members had the opportunity to put on their smart number one uniforms and our performing arts CCAs members were also extremely elated to be able to showcase their talents during the event. I am confident that such an impressive addition to our up-to-date facilities will benefit both the students and the Woodlands community as a dual-use scheme facility in the estate.
 
