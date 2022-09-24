@@ -24,7 +24,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr%20Anil%20Vasudevan.jpeg" alt="Mr Anil Vasudevan" style="width:70%;">  
+<body><img src="/images/Mr%20Anil%20Vasudevan.jpeg" alt="Mr Anil Vasudevan" style="width:50%;">  
   
 </body>
 <p style="text-align:center;"> <strong>Mr Anil Vasudevan</strong> (left of the photo) <br>2016 President’s Award for Teachers</p>
