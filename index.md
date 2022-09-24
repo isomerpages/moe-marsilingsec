@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Marsiling Secondary School
+description: Marsiling Secondary School
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -53,3 +53,4 @@ sections:
       alt: Image alt text
       image: /images/IMG_1275.jpeg
 ---
+
