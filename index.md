@@ -2,7 +2,7 @@
 layout: homepage
 title: Marsiling Secondary School
 description: Marsiling Secondary School
-image: /images/isomer-logo.svg
+image: /images/cropped-MSS-new-logo.jpeg
 permalink: /
 notification: ""
 sections:
@@ -53,4 +53,5 @@ sections:
       alt: Image alt text
       image: /images/IMG_1275.jpeg
 ---
+
 
