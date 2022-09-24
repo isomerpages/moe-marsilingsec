@@ -3,7 +3,10 @@ title: Message From Our Principal
 permalink: /about-us/message-from-principal/
 description: ""
 ---
-![Mr Goh Aik Choon](/images/Mr-Goh-Aik-Choon-Principal.jpeg)
+
+
+<img src="/images/Mr-Goh-Aik-Choon-Principal.jpeg"  
+style="width:40%">
 
 #### **Mr Goh Aik Choon**
 
