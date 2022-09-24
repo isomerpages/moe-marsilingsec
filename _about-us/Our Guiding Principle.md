@@ -19,7 +19,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/1-2-300x208.jpeg" alt="Our Guiding Principle" style="width:50%;">  
+<body><img src="/images/1-2-300x208.jpeg" alt="Our Guiding Principle" style="width:40%;">  
   
 </body>
 
