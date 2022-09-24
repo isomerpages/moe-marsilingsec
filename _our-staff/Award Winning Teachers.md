@@ -40,7 +40,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mrs-Tan-Puay-Hoon-683x1024.jpeg" alt="Mrs Tan Puay Hoon" style="width:50%;">  
+<body><img src="/images/Mrs-Tan-Puay-Hoon-683x1024.jpeg" alt="Mrs Tan Puay Hoon" style="width:30%;">  
   
 </body>
 <p style="text-align:center;"> <strong>Mrs Tan Puay Hoon</strong><br>2020 The Commendation Medal (National Day Award)</p>
@@ -52,7 +52,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mrs-Karen-Ong-683x1024.jpeg" alt="Mrs Karen Ong" style="width:50%;">  
+<body><img src="/images/Mrs-Karen-Ong-683x1024.jpeg" alt="Mrs Karen Ong" style="width:30%;">  
   
 </body>
 <p style="text-align:center;"> <strong>Mrs Karen Ong</strong><br>2019 The Commendation Medal (National Day Award)</p>
@@ -64,7 +64,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr-Zaki-Zufakar-683x1024.jpeg" alt="Mr Zaki Zulfarkar" style="width:50%;">  
+<body><img src="/images/Mr-Zaki-Zufakar-683x1024.jpeg" alt="Mr Zaki Zulfarkar" style="width:30%;">  
   
 </body>
 <p style="text-align:center;"> <strong>Mr Zaki Zulfarkar</strong><br><br>
@@ -79,7 +79,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mdm-Rita-Zarina-Mohd-Nazeer-683x1024.jpeg" alt="Mdm Rita Zarina Mohd Nazeer" style="width:50%;">  
+<body><img src="/images/Mdm-Rita-Zarina-Mohd-Nazeer-683x1024.jpeg" alt="Mdm Rita Zarina Mohd Nazeer" style="width:30%;">  
   
 </body>
 <p style="text-align:center;"> <strong>Mdm Rita Zarina Mohd Nazeer</strong><br>2021 The Commendation Medal (National Day Award)<br>2018 Anugerah Guru Arif Budiman (AGAB) Malay Language Teachers Award<br>2018 Academy Award for Professional Development (Associate Award)<br>2017 Academy Award for Professional Development (Associate Award)</p>
@@ -91,7 +91,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mdm-Rashidah-Binte-Abdullah-683x1024.jpeg" alt="Mdm Rashidah Binte Abdullah" style="width:50%;">  
+<body><img src="/images/Mdm-Rashidah-Binte-Abdullah-683x1024.jpeg" alt="Mdm Rashidah Binte Abdullah" style="width:30%;">  
   
 </body>
 <p style="text-align:center;"> <strong>Mdm Rashidah Binte Abdullah</strong><br>2018 The Commendation Medal (National Day Award)<br>2016 Anugerah Guru Arif Budiman (AGAB) Malay Language Teachers Award</p>
