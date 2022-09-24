@@ -115,4 +115,4 @@ e)  [Online Forms (By 19 January 2022)](https://go.gov.sg/pdlpadmin)      
 
 g) [Appendix 1 – Student Device Information Kit](/files/Appendix-1-Student-Device-Information-Kit.pdf)
 
-g) [Marsiling Secondary ICT Acceptable Use Policy](https://go.gov.sg/mss-ict-aup)
+h) [Marsiling Secondary ICT Acceptable Use Policy](https://go.gov.sg/mss-ict-aup)
