@@ -11,7 +11,6 @@ Dr Angela Lee, an expert in this area, defines “GRIT” as “passion and pers
 
 She also shares a simple formula for achievement.
 
-![](/images/1-2-300x208.jpeg)
 
 <style>  
 img {  
