@@ -22,11 +22,9 @@ sections:
           description: Adding values to our students
           url: /curriculum/learning-for-life-programme/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: EVENTS
+      button: All Events
+      url: /events/
   - infopic:
       title: Message From Our Principal
       description: Mr Goh Aik Choon Principal’s Message 2022 Progressing with Values
