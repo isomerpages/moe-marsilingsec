@@ -62,7 +62,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/01-e1577424075923.jpeg" alt="Elements of Business Skills" style="width:70%;">  
+<body><img src="/images/01-e1577424075923.jpeg" alt="Elements of Business Skills" style="width:45%;">  
   
 </body>
 
