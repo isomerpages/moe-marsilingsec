@@ -4,7 +4,9 @@ permalink: /i-learn-champion/
 description: ""
 third_nav_title: Learning for Life Programme
 ---
-![I-Learn Champion](/images/I-Learn-Champion-e1604283192272-768x668.jpeg)
+
+<img src="/images/I-Learn-Champion-e1604283192272-768x668.jpeg"  
+style="width:40%">
 
 The I-Learn Discovery Challenge will take place in 5 phases. In each phase, students will have to complete the checkpoints of the particular region of Singapore.
 
