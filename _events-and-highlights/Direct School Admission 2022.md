@@ -53,7 +53,7 @@ Through **_VALOUR_**, we nurture students to be independent, determined and in 
 *   **Academic**: Must be in Primary 6 at the point of application or equivalent.
 *   **Physical**: Students must be reasonably fit as assessed through the NAPFA criteria and are able to participate in physical activities.
 
-**<u>2\. Environmental Science</u>**
+**<u>2. Environmental Science</u>**
 
 **Environment Education Programme**
 
@@ -75,7 +75,7 @@ As a school offering a distinctive programme on Environmental Science and Sustai
 *   Demonstrates aptitude and potential during interview.
 *   General conduct indicated in school report book and CCA records.
 
-**<u>3\. Floorball (Girls Only)</u>**
+**<u>3. Floorball (Girls Only)</u>**
 
 Marsiling Secondary School offers DSA to eligible students via Floorball (Girls only). This is in line with our Learning for Life Programme which aims to build leadership, resilience and persons of good character.
 
@@ -103,7 +103,7 @@ During periods of competition, there will be additional training sessions to suf
 *   Demonstrates aptitude and potential during interview.
 *   General conduct indicated in school report book and CCA records.
 
-**<u>4\. Sepaktakraw (Boys Only)</u>**
+**<u>4. Sepaktakraw (Boys Only)</u>**
 
 Marsiling Secondary School also offers DSA to eligible students via Sepaktakraw (Boys only). This is in line with our Learning for Life Programme which aims to build leadership, resilience and persons of good character.
 
@@ -159,7 +159,7 @@ During periods of competition, there will be additional training sessions to suf
 *   Demonstrates aptitude and potential during interview.
 *   General conduct indicated in school report book and CCA records.
 
-**<u>6\. Chinese Orchestra</u>**
+**<u>6. Chinese Orchestra</u>**
 
 Marsiling Secondary School offers DSA to eligible students via Chinese orchestra. This is in line with our Learning for Life Programme which aims to build leadership, resilience and persons of good character.
 
@@ -189,7 +189,7 @@ During periods of preparation for performances, there will be additional practic
 *   Demonstrates aptitude and potential during interview.
 *   General conduct indicated in school report book and CCA records.
 
-**<u>7\. Malay Dance</u>**
+**<u>7. Malay Dance</u>**
 
 Marsiling Secondary School offers DSA to eligible students via Malay Dance. This is in line with our Learning for Life Programme which aims to build leadership, resilience and persons of good character.
 
@@ -219,7 +219,7 @@ During periods of competition, there will be additional training sessions to suf
 *   Demonstrates aptitude and potential during interview.
 *   General conduct indicated in school report book and CCA records.
 
-**<u>8\. Concert Band</u>**
+**<u>8. Concert Band</u>**
 
 _**“When words fail, music speaks.”**_
 
@@ -252,7 +252,7 @@ During periods of competition, there will be additional training sessions to suf
 *   Demonstrates aptitude and potential during interview.
 *   General conduct indicated in school report book and CCA records
 
-**<u>9\. Drama Society</u>**
+**<u>9. Drama Society</u>**
 
 Marsiling Secondary School offers DSA to eligible students via Drama. This is in line with our Learning for Life Programme which aims to build leadership, resilience and persons of good character.
 
@@ -280,7 +280,7 @@ During periods of competition, there will be additional training sessions to suf
 *   Demonstrates aptitude and potential during interview.
 *   General conduct indicated in school report book and CCA records.
 
-**<u>10\. International Dance</u>**
+**<u>10. International Dance</u>**
 
 Marsiling Secondary School offers DSA to eligible students via International Dance. This is in line with our Learning for Life Programme which aims to build leadership, resilience and persons of good character.
 
