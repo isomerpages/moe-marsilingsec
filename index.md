@@ -52,6 +52,9 @@ sections:
       url: /curriculum/learning-for-life-programme/
       alt: Image alt text
       image: /images/IMG_1275.jpeg
+  - infopic:
+      title: Contact Us
+      button: Find out More
+      url: /about-us/contact-us/
+      alt: Image alt text
 ---
-
-
