@@ -57,5 +57,5 @@ sections:
       button: Find out More
       url: /about-us/contact-us/
       alt: Marsiling Sec Map
-      image: /images/marsilingsecmap.jpg
+      image: /images/marsilingsecschmap.jpg
 ---
