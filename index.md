@@ -33,7 +33,7 @@ sections:
       button: Read More
       url: /about-us/message-from-principal/
       image: /images/Mr-Goh-Aik-Choon-Principal.jpeg
-      alt: Image alt text
+      alt: "Mr Goh Aik Choon "
   - infopic:
       title: Applied Learning Programme (ALP)
       description: Eco-Sustainability through Inquiry-based Learning DEVELOPING FUTURE
@@ -42,7 +42,7 @@ sections:
       button: Read More
       url: /curriculum/applied-learning-programme/
       image: /images/Homepage_Vertical-Farm_2022-scaled.jpeg
-      alt: Image alt text
+      alt: Applied Learning Programme
   - infopic:
       title: Learning for Life Programme (LLP)
       description: BUILDING LIFE SKILLS VALOUR – Values and Leadership development
