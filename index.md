@@ -49,6 +49,10 @@ sections:
       alt: Mountain Trekking Taiwan 2019
       image: /images/IMG_1275.jpeg
   - infobar:
+      title: "2023 Home Based Learning (HBL) and Semester Timetable "
+      button: Click to find out more!
+      url: /timetable
+  - infobar:
       title: Latest Information and Events
       button: Click to find out more!
       url: /latest-information-and-events
@@ -58,9 +62,4 @@ sections:
       url: /about-us/contact-us/
       alt: Marsiling Sec Map
       image: /images/marsilingsecschmap.jpg
-  - infobar:
-      title: "2023 Home Based Learning (HBL) and Semester Timetable "
-      description: Infobar description
-      button: Button Text
-      url: /timetable
 ---
