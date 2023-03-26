@@ -5,7 +5,7 @@ description: ""
 ---
 Dear parents,
 
-Please click on the links below for the Semester 1 2023 Student's Timetable and HBL Assignment Links
+Please click on the links below for the Semester 1 2023 Student's Timetable and HBL Assignment Links.
 
 Thank you.
 
