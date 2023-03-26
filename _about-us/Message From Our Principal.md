@@ -3,8 +3,7 @@ title: Message From Our Principal
 permalink: /about-us/message-from-principal/
 description: ""
 ---
-<img src="/images/Mr Koh Yiak Kheng.png"  
-style="width:60%">
+![](/images/Mr%20Koh%20Yiak%20Kheng.png)
 
 #### **Mr Koh Yiak Kheng Leonard**
 
