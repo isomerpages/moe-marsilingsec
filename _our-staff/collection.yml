@@ -2,8 +2,8 @@ collections:
   our-staff:
     output: true
     order:
-      - Year Heads.md
       - Key Personnel.md
+      - Year Heads.md
       - Year Heads archive.md
       - Teachers.md
       - Admin & Support Staff.md
