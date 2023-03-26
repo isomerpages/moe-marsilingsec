@@ -53,7 +53,7 @@ sections:
       button: Click to find out more!
       url: /timetable
   - infobar:
-      title: Latest Information and Events
+      title: Latest Information and Upcoming Events
       button: Click to find out more!
       url: /latest-information-and-events
   - infopic:
