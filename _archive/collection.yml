@@ -2,5 +2,6 @@ collections:
   archive:
     output: true
     order:
+      - Teachers ARCHIVE.md
       - Year Heads archive.md
       - Key Personnel3333.md
