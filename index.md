@@ -51,7 +51,7 @@ sections:
   - infobar:
       title: "2023 Home-Based Learning (HBL) and Semester Timetable "
       button: Click to find out more!
-      url: /timetable
+      url: /Home Based Learning (HBL) and Semester Timetable
   - infobar:
       title: Latest Information and Upcoming Events
       button: Click to find out more!
