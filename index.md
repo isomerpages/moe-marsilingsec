@@ -22,7 +22,7 @@ sections:
           description: Adding values to our students
           url: /curriculum/learning-for-life-programme/
   - infobar:
-      title: EVENTS
+      title: Latest Information and Events
       button: All Events
       url: /events/
   - infopic:
