@@ -2,7 +2,7 @@ collections:
   our-staff:
     output: true
     order:
-      - Key Personel.md
+      - Key Personnel.md
       - Key Personnel3333.md
       - Year Heads.md
       - Teachers.md
