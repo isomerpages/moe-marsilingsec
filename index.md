@@ -49,7 +49,7 @@ sections:
       alt: Mountain Trekking Taiwan 2019
       image: /images/IMG_1275.jpeg
   - infobar:
-      title: "2023 Home Based Learning (HBL) and Semester Timetable "
+      title: "2023 Home-Based Learning (HBL) and Semester Timetable "
       button: Click to find out more!
       url: /timetable
   - infobar:
