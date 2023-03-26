@@ -3,9 +3,6 @@ title: Key Personnel
 permalink: /our-staff/key-personnel/
 description: ""
 ---
-
-
-
 ##### School Leaders
 
 | **Designation** | **Name**|
@@ -15,33 +12,38 @@ description: ""
 |Vice-Principal (Administration)|Mr Tan Tong Aik|
 
 
-##### Heads of Department / Subject Heads / Level Heads / Year Heads / Assistant Year Heads
+##### Heads of Department (HODs) / Year Heads (YHs)
 
 | **Designation** | **Name**|
 | -------- | -------- |
-|HOD English & Literature|Mdm Salwati Bte Salim|
-|HOD Normal Technical|Mdm Sharifah Afifah|
 |School Staff Developer|Mr Anil Vasudevan|
-|YH Upper Sec|Mr Savinder Dhillon|
-|AYH Upper Sec|Mdm Fadzilah Bte Mahmud|
+|HOD English & Literature|Mdm Salwati Bte Salim|
+|HOD Mother Tongue Languages|Mdm Rashidah Bte Abdullah|
+|HOD Mathematics|Ms Yeo Puay Joo|
+|HOD Science|Ms Nur’ain|
 |HOD Humanities|Mr Jeffrey Lau|
-|SH Nutrition & Food Science|Mdm Shamala|
+|HOD Normal Technical|Mdm Sharifah Afifah|
 |HOD Craft & Technology|Mdm Gan Mei Chern,Mrs Karen Ong|
-|SH Physics|Mdm Yap Ching Ying|
+|HOD PE and CCA|Mr Ralph Roche|
+|HOD Character and Citizenship Education|Mdm Hemalatha|
+|HOD Discipline|Mr Mohammad Faizal B Omar|
 |HOD ICT|Mr Henry Ong|
+|YH Upper Secondary|Mr Savinder Dhillon|
+|YH Lower Secondary|Mr  Muhammad Suhadi|
+
+#####  Subject Heads (SHs) /Level Heads / Assistant Year Heads (AYHs)
+| **Designation** | **Name**|
+| -------- | -------- |
+|LH Mathematics|Mr Patrick Lim|
+|SH Physics|Mdm Yap Ching Ying|
 |SH D&T and Discipline|Mr  Tan Ting Siong|
 |SH Chinese language|Mdm Zhu Zhaomin|
-|HOD PE and CCA|Mr Ralph Roche|
-|HOD Discipline|Mr Mohammad Faizal B Omar|
-|HOD Science|Ms Nur’ain|
-|HOD Character and Citizenship Education|Mdm Hemalatha|
-|YH Lower Secondary|Mr  Muhammad Suhadi|
-|AYH Lower Secondary (Internal)|Mr Er Siong Chye|
-|HOD Mother Tongue Languages|Mdm Rashidah Bte Abdullah|
 |SH Tamil Language|Mr Govindarajalu Krishnamoorthy|
-|HOD Mathematics|Ms Yeo Puay Joo|
-|LH Mathematics|Mr Patrick Lim|
+|SH Nutrition & Food Science|Mdm Shamala|
 |SH Student Well-Being|Mr Thye Wah Yeow, Mike|
+|AYH Upper Sec|Mdm Fadzilah Bte Mahmud|
+|AYH Lower Secondary (Internal)|Mr Er Siong Chye|
+
 
 ##### Lead / Senior Teachers
 | **Designation** | **Name**|
