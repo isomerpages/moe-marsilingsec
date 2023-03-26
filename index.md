@@ -23,8 +23,8 @@ sections:
           url: /curriculum/learning-for-life-programme/
   - infobar:
       title: Latest Information and Events
-      button: All Events
-      url: /events/
+      button: Click to find out more!
+      url: /latest-information-and-events
   - infopic:
       title: Message From Our Principal
       description: Mr Koh Yiak Kheng, Leonard Principal’s Message 2023 In Marsiling
