@@ -32,7 +32,7 @@ sections:
         capacity to learn […]
       button: Read More
       url: /about-us/message-from-principal/
-      image: /images/MSS-Principal-e1672502373249.png
+      image: /images/Mr Koh Yiak Kheng.png
       alt: "Mr Koh Yiak Kheng, Leonard "
   - infopic:
       title: Applied Learning Programme (ALP)
