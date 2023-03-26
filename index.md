@@ -27,13 +27,13 @@ sections:
       url: /events/
   - infopic:
       title: Message From Our Principal
-      description: Mr Goh Aik Choon Principal’s Message 2022 Progressing with Values
-        and Knowledge Marsiling Secondary School is making steady progress with
-        values and […]
+      description: Mr Koh Yiak Kheng, Leonard Principal’s Message 2023 In Marsiling
+        Secondary School, we believe that every child has talents and the
+        capacity to learn […]
       button: Read More
       url: /about-us/message-from-principal/
-      image: /images/Mr-Goh-Aik-Choon-Principal.jpeg
-      alt: "Mr Goh Aik Choon "
+      image: /images/MSS-Principal-e1672502373249.png
+      alt: "Mr Koh Yiak Kheng, Leonard "
   - infopic:
       title: Applied Learning Programme (ALP)
       description: Eco-Sustainability through Inquiry-based Learning DEVELOPING FUTURE
