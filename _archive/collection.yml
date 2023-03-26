@@ -2,4 +2,5 @@ collections:
   archive:
     output: true
     order:
+      - Year Heads archive.md
       - Key Personnel3333.md
