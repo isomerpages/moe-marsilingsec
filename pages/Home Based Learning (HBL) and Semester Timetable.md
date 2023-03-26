@@ -26,6 +26,3 @@ Semester 1 Even Week Link
 [Secondary 3](https://tinyurl.com/MSS2023Sec3HBLCCP-StudentView)
 
 [Secondary 4 and 5](https://tinyurl.com/MSS2023Sec45HBLCCP-StudentView)
-
-
-
