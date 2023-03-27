@@ -198,9 +198,9 @@ We would like to invite all newly Secondary 1 parents to join for a parenting ta
 
 [![Qr Code For Parenting Talk](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/12/QR-CODE-FOR-PARENTING-TALK.jpg)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/12/QR-CODE-FOR-PARENTING-TALK.jpg)
 
-[Sec 1 Parents\_info\_slides](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/12/Parents-Support-Group-Sec-1-Parents_info_slides_Dec2022.pdf)
+[Secondary 1 Parents info slides](/files/Sec%201%20Reg/Parents-Support-Group-Sec-1-Parents_info_slides_Dec2022.pdf)
 
-[FSS Introduction letter Sec 1 2023\_ Care Corner Singapore](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/12/Parents-Support-Group-FSS-Introduction-letter-Sec-1-2023.pdf)
+[FSS Introduction letter Sec 1 2023 Care Corner Singapore](/files/Sec%201%20Reg/Parents-Support-Group-FSS-Introduction-letter-Sec-1-2023.pdf)
 
 **15.  For other matters, please**
 
