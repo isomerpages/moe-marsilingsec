@@ -50,4 +50,4 @@ Your place in the course will be confirmed if you accept the conditional offer a
 
 ECG Booking Form: [https://go.gov.sg/mss-ecg-booking](https://go.gov.sg/mss-ecg-booking)
 
-![Ecg Booking](https://marsilingsec.moe.edu.sg/wp-content/uploads/2023/02/ECG-Booking.jpg)
+![](/images/Student%20Support%20Services/ECG%20Booking%20Form.jpg)
