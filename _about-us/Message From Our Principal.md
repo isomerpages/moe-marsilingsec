@@ -4,11 +4,12 @@ permalink: /about-us/message-from-principal/
 description: ""
 ---
 <img src="/images/Mr Koh Yiak Kheng.png" 
-		 style="width:40%">
+		 style="width:30%">
 
 #### **Mr Koh Yiak Kheng Leonard**
 
 **Principal’s Message 2023**
+
 
 In Marsiling Secondary School, we believe that every child has talents and the capacity to learn and excel. The school’s approach to designing our curriculum is thus guided by this belief and seeks to meet the needs of Marsilians by providing them with various platforms and opportunities to develop as well as express their unique talents while learning new knowledge and skills.
 
