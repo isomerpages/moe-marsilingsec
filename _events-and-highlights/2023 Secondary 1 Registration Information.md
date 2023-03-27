@@ -196,7 +196,7 @@ We would like to invite all newly Secondary 1 parents to join for a parenting ta
 
 **Tuesday 3 January 2023 @ 8 am**
 
-[![Qr Code For Parenting Talk](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/12/QR-CODE-FOR-PARENTING-TALK.jpg)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/12/QR-CODE-FOR-PARENTING-TALK.jpg)
+![](/images/Sec%201%20Reg/QR-CODE-FOR-PARENTING-TALK.jpg)
 
 [Secondary 1 Parents info slides](/files/Sec%201%20Reg/Parents-Support-Group-Sec-1-Parents_info_slides_Dec2022.pdf)
 
