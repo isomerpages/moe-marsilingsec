@@ -80,7 +80,7 @@ We strongly encourage all parents to download and use the PG APP as the school w
 
 For information regarding Subject Based Banding (SBB) in Marsiling Sec Sch, please view this document: 
 
-[SBB Briefing for Parents (2023 Sec 1 posting)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/12/SBB-Briefing-for-Parents-2023-Sec-1-posting.pdf)
+[SBB Briefing for Parents (2023 Sec 1 posting)](/files/Sec%201%20Reg/SBB-Briefing-for-Parents-2023-Sec-1-posting.pdf)
 
 For Sec 1 students who are eligible to read subject(s) at a more demanding level, our school personnel will be reaching out to the relevant students’ parents after the Sec 1 Registration in December 2022 to provide further guidance.
 
@@ -103,7 +103,7 @@ General Expectations:
 *   Students are reminded not to bring prohibited items to school.
 *   Mobile phones: Students are allowed to bring mobile phones to school however they are NOT ALLOWED to use their mobile phones in school except during recess at only designated areas.
 
-[Please click for further information on school rules and regulation](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/12/School-Rules-and-Regulation.pdf)
+[Please click for further information on school rules and regulations](/files/Sec%201%20Reg/School-Rules-and-Regulation.pdf)
 
 **10.  School Information**
 
