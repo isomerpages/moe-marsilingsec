@@ -43,5 +43,4 @@ Listed below are some hotlines which might also be useful:
 
 **Counselling Booking Form**
 
-
-[![Counselling](https://marsilingsec.moe.edu.sg/wp-content/uploads/2023/02/Counselling.jpg)](https://go.gov.sg/msscounsellingbook)
+![](/images/Student%20Support%20Services/Counselling%20Booking%20Form.jpg)
