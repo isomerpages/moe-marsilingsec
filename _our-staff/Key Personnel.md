@@ -6,7 +6,7 @@ description: ""
 ##### School Leaders
 
 | **Designation** | **Name**|
-| -------- | -------- |
+| ------------------| -------- |
 |Principal|Mr Koh Yiak Kheng|
 |Vice-Principal (Academic)|Mr Mohamed Nasim Abdul Rahim|
 |Vice-Principal (Administration)|Mr Tan Tong Aik|
