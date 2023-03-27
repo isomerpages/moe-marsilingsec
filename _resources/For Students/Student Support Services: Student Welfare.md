@@ -12,4 +12,4 @@ In Marsiling Secondary School, we provide social support to our students-at-risk
 
 **b) Edusave & Financial Assistance Schemes**
 
-[/resources/for-parents/edusave-financial-assistance-schemes/](https://marsilingsec.moe.edu.sg/resources/for-parents/edusave-financial-assistance-schemes/)
+[/resources/for-parents/edusave-financial-assistance-schemes/](/resources/for-parents/edusave-financial-assistance-schemes/)
