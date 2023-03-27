@@ -6,7 +6,7 @@ description: ""
 <img src="/images/Mr Koh Yiak Kheng.png" 
 		 style="width:30%">
 
-#### **Mr Koh Yiak Kheng Leonard**
+#### **Mr Koh Yiak Kheng, Leonard**
 
 **Principal’s Message 2023**
 
