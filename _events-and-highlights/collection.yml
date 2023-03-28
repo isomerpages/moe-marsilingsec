@@ -2,6 +2,7 @@ collections:
   events-and-highlights:
     output: true
     order:
+      - Open House 2022 (Face to Face).md
       - 2023 Secondary 1 Registration Information.md
       - Direct School Admission 2022.md
       - 2022 Sec 2 Virtual Parent Teacher Conference (PTC) and Sec 3 Subject
