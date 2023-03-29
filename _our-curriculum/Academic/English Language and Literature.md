@@ -104,7 +104,7 @@ This is the second time year we are having this event and throughout the three d
 
 This year, we gave a total of **250 books** to our Sec 1 – 3 students, ranging from picture books and interesting genres like auto/biographies, self-help books and the favourite, fiction.
 
-![](/images/01-6.jpeg)
+![](/images/book.png)
 
 ##### **Accolades**
 
