@@ -101,8 +101,8 @@ Sec 2 Normal (Technical): Maths Learning Journey @ Bowling Alley
 <tbody>
   <tr>
     <th><img src="/images/01.jpeg" width="55" height="17"></th>
-    <th><img src="/images/_02.jpeg" alt="Mathematics Learning Journey" width="55" height="17"></th>
-    <th><img src="/images/_03.jpeg" alt="Mathematics Learning Journey" width="55" height="17"></th>
+    <th><img src="/images/math1.jpeg" alt="Mathematics Learning Journey" width="55" height="17"></th>
+    <th><img src="/images/math2.jpeg" alt="Mathematics Learning Journey" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
