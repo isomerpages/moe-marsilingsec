@@ -76,13 +76,9 @@ Some of the benefits and outcomes of the The MSS TeenTalk include:
 
 ![](/images/MELT.jpg)
 
-##### **Learning Hub (Library)**
+**MSS Library Reading Programme**
 
-The Marsiling Bibliophile Award is introduced in 2019 to encourage Marsilians to develop the joy of reading. Reading develops critical thinking skills and aids in the mastery of the English Language. The Bibliophile Award is divided into two categories:  
-Category 1: Individual Award  
-Category 2: Class Award
-
-For the Individual Award, the top three borrowers of the month will receive a prize to recognise their effort to read. For the Class Award, the class which borrows the highest number of books from the Learning Hub will be awarded with a certificate.
+World of Books: This is our annual MSS Library programme to introduce students to the wonderful world of books ranging from various themes such as From Print to Screen, Fantasy World and Thrillers etc. In this programme, students are exposed to interesting authors and receive recommendations of books that would pique their interest in reading through class-based activities, short movie screening and mass book borrowing.
 
 **August Awardees**
 
