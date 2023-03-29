@@ -20,7 +20,7 @@ Mr Sobri Omar
 Miss Samihani Bte Ali  
 Mdm Vasagi S. Arumugam
 
-**Teachers (English Language and/or English Literature)**  
+**Teachers (English Literature)**  
 Mr Daniel Keng (Literature Co-Ordinator)  
 Mr Foo Chuan Chian James  
 Miss Alysia Lim Zhiyan  
