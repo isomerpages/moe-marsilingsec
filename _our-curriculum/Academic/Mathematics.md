@@ -136,7 +136,7 @@ Singapore Secondary Mathematics Competition for Normal Course Students (Secondar
 <tbody>
   <tr>
     <th><img src="/images/11.jpeg" width="55" height="17"></th>
-    <th><img src="/images/_12.jpeg" alt="Mathematics Achievement" width="55" height="17"></th>
+    <th><img src="/images/math3.jpeg" alt="Mathematics Achievement" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
