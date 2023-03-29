@@ -34,7 +34,7 @@ Click [here](https://www.asiaone.com/singapore/polytechnic-duo-line-become-doct
 
 ![](/images/NUS-medical-school-1024x577.jpeg)
 
-**4\. <u>Ex-Marsilian Recognised with a Polytechnic Student Research (PSRP) Award</u>**
+**5\. <u>Ex-Marsilian Recognised with a Polytechnic Student Research (PSRP) Award</u>**
 
 In 2017, ex-marsilian Lhu Ying Xuan was featured on Straits Times, her team was among the 10 that were recognised with a Polytechnic Student Research Programme (PSRP) Award. Their project was a sunlight activated larvicide to fight against dengue, which is 1,000 times less toxic for other aquatic animals than the usual larvicide.
 
