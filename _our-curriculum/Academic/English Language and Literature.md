@@ -52,6 +52,17 @@ Some of the benefits and outcomes of the The MSS TeenTalk include:
 1.  availing Secondary Three cohort to the benefit of an assembly program as a platform to share their area of interest publicly and confidently
 2.  intensive mentoring structure by respective EL teachers who train Secondary Three cohort in research and public speaking skills on a public platform (in-class presentation and assembly programme)
 3.  students’ increased level of confidence in public speaking.
+![](/images/TeenTalk1.jpg)
+
+<table>
+<tbody>
+  <tr>
+    <th><img src="/images/MG_0770-768x512.jpeg" width="55" height="17"></th>
+    <th><img src="/images/MG_0737-768x512.jpeg" width="55" height="17"></th>
+		<th><img src="/images/MG_0711-768x512.jpeg" width="55" height="17"></th>
+  </tr>
+</tbody>
+</table>
 
 <table>
 <tbody>
