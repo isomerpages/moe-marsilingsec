@@ -80,17 +80,7 @@ Some of the benefits and outcomes of the The MSS TeenTalk include:
 
 World of Books: This is our annual MSS Library programme to introduce students to the wonderful world of books ranging from various themes such as From Print to Screen, Fantasy World and Thrillers etc. In this programme, students are exposed to interesting authors and receive recommendations of books that would pique their interest in reading through class-based activities, short movie screening and mass book borrowing.
 
-<table>
-<tbody>
-  <tr>
-    <th><img src="/images/lib1.jpeg" width="55" height="17"></th>
-    <th><img src="/images/lib2.jpeg" width="55" height="17"></th>
-		<th><img src="/images/lib3.jpeg" width="55" height="17"></th>
-  </tr>
-</tbody>
-</table>
-
-
+![](/images/library.png)
 
 **Book Giveaway event 2019**
 
