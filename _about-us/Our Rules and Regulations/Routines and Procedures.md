@@ -45,4 +45,4 @@ Students are to assemble in their respective classrooms five minutes before the 
 
 1.  Students should remain in their assigned seat and not move about in class.
 2.  Students are to complete the assignment given and hand it in at the end of the period.
-3.  No sleeping is allow.
+3.  No sleeping is allowed.
