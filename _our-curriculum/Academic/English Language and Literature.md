@@ -99,6 +99,10 @@ This year, we gave a total of **250 books** to our Sec 1 – 3 students, rang
 **Lit-Art Interdisciplinary Programme**
 
 A collaboration between Literature Unit and Art Unit from the ELL Department and C&T Department respectively, this programme is designed to immerse Secondary One students into the world of Literature and use Art as an alternative mode of expression for students to represent their learning and understanding of the Literature texts.
+
+![](/images/lit1.png)
+![](/images/lit2.jpeg)
+
 ##### **Accolades**
 
 **2020 MOE Innergy Award**  
