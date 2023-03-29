@@ -74,6 +74,8 @@ Some of the benefits and outcomes of the The MSS TeenTalk include:
 </tbody>
 </table>
 
+![](/images/MELT.jpg)
+
 ##### **Learning Hub (Library)**
 
 The Marsiling Bibliophile Award is introduced in 2019 to encourage Marsilians to develop the joy of reading. Reading develops critical thinking skills and aids in the mastery of the English Language. The Bibliophile Award is divided into two categories:  
