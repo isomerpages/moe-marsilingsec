@@ -100,6 +100,10 @@ This inaugural book giveaway event was extremely well-received by students. Thro
 
 This is the second time year we are having this event and throughout the three days, we gave away a total of **<u>112 books</u>** to staff and students. We hope that students will continue to find the joy and pleasure of reading, thereby contributing to the building of a strong reading culture in our school.
 
+**Book Giveaway event 2022**
+
+This year, we gave a total of **250 books** to our Sec 1 – 3 students, ranging from picture books and interesting genres like auto/biographies, self-help books and the favourite, fiction.
+
 ![](/images/01-6.jpeg)
 
 ##### **Accolades**
