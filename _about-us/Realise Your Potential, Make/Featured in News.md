@@ -13,6 +13,7 @@ This year (2022), after another 12 months of training and recruiting Secondary 1
 
 Click [here](/files/School-sports_-How-Marsiling-Secondary-became-sepak-takraw-kings-_-The-Straits-Times.pdf) to read the article.
 
+![](/images/sepak.jpeg)
 	
 **1\. <u>From Normal stream to PhD Course</u>**  
 Our alumni Nigel Tan (the one on the right) who topped our Normal Academic course and is now in university studying for the its highest degree – a PhD course. 
