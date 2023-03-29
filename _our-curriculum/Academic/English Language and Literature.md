@@ -11,14 +11,21 @@ Mdm Salwati Salim
 Mdm Dian Khairyani Mondzi
 
 **Teachers (English Language)**  
+Mr Daniel Keng (Literature Co-Ordinator)  
 Mr Er Siong Chye  
 Mr Foo Chuan Chian James  
 Mrs Serena Ong  
-Mdm Rahidah Tajammul Shah
+Mdm Rahidah Tajammul Shah  
+Mr Sobri Omar  
+Miss Samihani Bte Ali  
+Mdm Vasagi S. Arumugam
 
 **Teachers (English Language and/or English Literature)**  
-Mr Daniel Keng  
-Mr Foo Chuan Chian James
+Mr Daniel Keng (Literature Co-Ordinator)  
+Mr Foo Chuan Chian James  
+Miss Alysia Lim Zhiyan  
+Miss Samihani Bte Ali  
+Mdm Vasagi S. Arumugam
 
 **Department’s Vision**  
 A Community of Avid Readers and Proficient Users of the English Language 
