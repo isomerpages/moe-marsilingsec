@@ -57,9 +57,9 @@ Some of the benefits and outcomes of the The MSS TeenTalk include:
 <table>
 <tbody>
   <tr>
-    <th><img src="/images/MG_0770-768x512.jpeg" width="55" height="17"></th>
-    <th><img src="/images/MG_0737-768x512.jpeg" width="55" height="17"></th>
-		<th><img src="/images/MG_0711-768x512.jpeg" width="55" height="17"></th>
+    <th><img src="/images/teen1.jpg" width="55" height="17"></th>
+    <th><img src="/images/teen2.jpg" width="55" height="17"></th>
+		<th><img src="/images/teen3.jpg" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
