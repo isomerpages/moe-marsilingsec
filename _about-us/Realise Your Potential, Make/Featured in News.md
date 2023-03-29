@@ -15,18 +15,18 @@ Click [here](/files/School-sports_-How-Marsiling-Secondary-became-sepak-takraw-
 
 ![](/images/sepak.jpeg)
 	
-**1\. <u>From Normal stream to PhD Course</u>**  
+**2\. <u>From Normal stream to PhD Course</u>**  
 Our alumni Nigel Tan (the one on the right) who topped our Normal Academic course and is now in university studying for the its highest degree – a PhD course. 
 
 Click [here](https://www.straitstimes.com/singapore/education/from-normal-stream-to-phd-course) to read the article.
 
 ![](/images/Nigel-PhD-1024x957.jpeg)
 
-**2\. <u>From Normal stream to Greater Achievements in Republic Polytechnic</u>**
+**3\. <u>From Normal stream to Greater Achievements in Republic Polytechnic</u>**
 
 ![](/images/LKY-award.jpeg)
 
-**3\. <u>From Marsiling to National University of Singapore (NUS) Medical School</u>**
+**4\. <u>From Marsiling to National University of Singapore (NUS) Medical School</u>**
 
 Our ex-student Noor bte Ahmad Alkaff was featured in Straits Times, for being the rare few that was offered a place in NUS Medical school, after completing her diploma in Republic Polytechnic.  
 
