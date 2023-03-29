@@ -11,7 +11,7 @@ We are immensely proud of our former students featured in the newspaper.
 	
 This year (2022), after another 12 months of training and recruiting Secondary 1 players through direct school admission (DSA), Marsiling Secondary School topped that by winning both the B and C Division national titles, beating powerhouses like defending champions Jurongville Secondary and Changkat Changi Secondary.
 
-Click [here](https://marsilingsec.moe.edu.sg/wp-content/uploads/2022/10/School-sports_-How-Marsiling-Secondary-became-sepak-takraw-kings-_-The-Straits-Times.pdf) to read the article.
+Click [here](/files/School-sports_-How-Marsiling-Secondary-became-sepak-takraw-kings-_-The-Straits-Times.pdf) to read the article.
 
 	
 **1\. <u>From Normal stream to PhD Course</u>**  
