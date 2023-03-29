@@ -42,7 +42,7 @@ Click [here](https://www.straitstimes.com/singapore/education/poly-students-win
 
 ![](/images/12.jpeg)
 
-**5\. <u>Ex-Marsilian Steven Muthukumar Snag Top Prize in International Aviation Design Competition</u>**
+**6\. <u>Ex-Marsilian Steven Muthukumar Snag Top Prize in International Aviation Design Competition</u>**
 
 Steven graduated in 2018 from the Normal (Technical) stream and joined the Institute of Technical Education College Central. 
 
@@ -50,7 +50,7 @@ Click [here](https://www.straitstimes.com/singapore/transport/ite-students-snag
 
 ![](/images/1-13.jpeg)
 
-**6\. <u>From Marsiling to Republic Polytechnic</u>**
+**7\. <u>From Marsiling to Republic Polytechnic</u>**
 
 Jeevina Ganesh graduated from Marsiling in 2016 and was chosen by Republic Polytechnic to be featured in Straits Times to motivate young athlete to pursue passion for sports.
 
