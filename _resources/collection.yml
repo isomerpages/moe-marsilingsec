@@ -1,0 +1,39 @@
+collections:
+  resources:
+    output: true
+    order:
+      - For Parents/Assessment Schedule.md
+      - For Parents/Timetable.md
+      - For Parents/2022 Post Examinations Timetable.md
+      - For Parents/Transition and Parenting Talk.md
+      - For Parents/Collaborative Tuition Programme (CTP).md
+      - For Parents/OBS Course Information.md
+      - For Parents/Parents Gateway.md
+      - For Parents/Travel Declaration.md
+      - For Parents/Letter on New Uniform.md
+      - For Parents/MOE Edusave Awards for Secondary Schools.md
+      - For Parents/Parents Support Group (PSG).md
+      - For Parents/Chinese Development Assistance Council (CDAC).md
+      - For Parents/Useful Contact.md
+      - For Parents/School Fees.md
+      - For Parents/Edusave & Financial Assistance Schemes.md
+      - For Parents/IDA’s NEU PC Plus Programme.md
+      - For Parents/.keep
+      - For Staff.md
+      - For Students/.keep
+      - "For Students/Student Support Services: Counselling Support.md"
+      - "For Students/Student Support Services: Education and Career Guidance
+        (ECG).md"
+      - "For Students/Student Support Services: Special Educational Needs
+        Support (SEN).md"
+      - "For Students/Student Support Services: Student Welfare.md"
+      - "For Students/Student Support Services: Student Health Advisories.md"
+      - For Students/Assessment Schedule.md
+      - For Students/Timetable.md
+      - For Students/2022 Post Examinations Timetable.md
+      - For Students/Early Admission Exercise (EAE).md
+      - For Students/2022 Home Based Learning (HBL) Schedule.md
+      - For Students/Travel Declaration.md
+      - For Students/MOE Edusave Awards for Secondary Schools.md
+      - For Students/Learning Resources for Students.md
+      - For Students/GCE O, NA and NT E Examination Interactive Tutorial.md

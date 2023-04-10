@@ -1,15 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/cropped-MSS-new-logo.jpeg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    collection: about-us
+  - title: Our Curriculum
+    collection: our-curriculum
+  - title: Our Staff
+    collection: our-staff
+  - title: Events/Hightlights
+    collection: events-and-highlights
+  - title: Resources
+    collection: resources
