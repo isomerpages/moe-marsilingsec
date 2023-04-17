@@ -4,28 +4,20 @@ permalink: /curriculum/ccas/performing-arts/malay-dance-2/
 description: ""
 third_nav_title: CCA Visual and Performing Arts
 ---
-**CCA Teachers in charge**
-
-Ms Siti Khatijah Bte Jaini (OIC)
-
+**CCA Teachers in charge** <br>
+Ms Siti Khatijah Bte Jaini (OIC)<br>
 Mdm Sumiati (2IC)
 
-**Training days and time** 
-
-Odd week:
-
-Tuesday – 2.30 – 5.30 pm
-
+**Training days and time**&nbsp;<br>
+Odd week:<br>
+Tuesday – 2.30 – 5.30 pm<br>
 Thursday – 2.30 – 5.30 pm
 
-Even week:
-
-Tuesday – 3 – 5.30 pm
-
+Even week:<br>
+Tuesday – 3 – 5.30 pm<br>
 Thursday – 2.30 – 5.30 pm
 
-**Venue**
-
+**Venue**<br>
 MSS EEHub
 
 **CCA Objectives**
