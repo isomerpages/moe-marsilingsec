@@ -21,6 +21,14 @@ sections:
         - title: Our Commitment
           description: Adding values to our students
           url: /curriculum/learning-for-life-programme/
+  - infobar:
+      title: Latest Information and Upcoming Events
+      button: Click to find out more!
+      url: /latest-information-and-events
+  - infobar:
+      title: "2023 Home-Based Learning (HBL) and Semester Timetable "
+      button: Click to find out more!
+      url: /timetable
   - infopic:
       title: Message From Our Principal
       description: Mr Koh Yiak Kheng, Leonard Principal’s Message 2023 In Marsiling
@@ -48,14 +56,6 @@ sections:
       url: /curriculum/learning-for-life-programme/
       alt: Mountain Trekking Taiwan 2019
       image: /images/IMG_1275.jpeg
-  - infobar:
-      title: "2023 Home-Based Learning (HBL) and Semester Timetable "
-      button: Click to find out more!
-      url: /timetable
-  - infobar:
-      title: Latest Information and Upcoming Events
-      button: Click to find out more!
-      url: /latest-information-and-events
   - infopic:
       title: Contact Us
       button: Find out More
