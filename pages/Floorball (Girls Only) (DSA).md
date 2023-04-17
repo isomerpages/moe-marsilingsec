@@ -18,7 +18,7 @@ To date the school has some 50 students training in the sport. We have state of 
 
 **Training Programme**
 
-This programme ensures that all players are competent with Floorball skills and play (skills to dribble, pass, shoot and defend, as well as fitness training to improve endurance and footwork).
+This programme ensures that all players are competent with Floorball skills and play (skills to&nbsp;dribble, pass, shoot and defend, as well as fitness training to improve endurance and footwork).
 
 During periods of competition, there will be additional training sessions to sufficiently prepare the girls for the tournament. Friendly matches will also be arranged to help the players gain more game experience.
 
@@ -31,3 +31,5 @@ Training Frequency: 2 sessions (3 hours each) per week
 *   Must be in Primary 6 at the point of application or equivalent.
 *   Demonstrates aptitude and potential during interview.
 *   General conduct indicated in school report book and CCA records.
+
+<h4 style="color:red" align="left">Click&nbsp;<a href="http://go.gov.sg/apply-dsa-sec">here</a>&nbsp;to apply for DSA.</h4>
