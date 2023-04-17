@@ -8,10 +8,10 @@ third_nav_title: CCA Uniformed Groups
 ASP (NPCC) Phua Kian Wee (Unit OC)  
 INSP (NPCC) Tan Yi Hang (Deputy OC)  
 INSP (NPCC) Muhammad Azmi Bin Yusri  
-P/INSP (NPCC) Glenice Au
+Ms Tan Yongqi
 
 **Training details**  
-Every Thursday: 3.00 p.m. to 6.00 p.m.
+Every Thursday: 3.00 p.m. to 5.30 p.m.
 
 **Objective**
 
@@ -24,7 +24,7 @@ Every Thursday: 3.00 p.m. to 6.00 p.m.
 *   Police Procedures
 *   Basic Law
 *   Crime Prevention
-*   Community Safety & Security Programme
+*   Community Safety &amp; Security Programme
 *   Police Youth Ambassador Programme
 *   Homefront Security Course
 *   Cybercrime
@@ -74,7 +74,7 @@ Lim Sze Pei Karen
 **Unit Overall Proficiency Award (UOPA)**  
 Gold from 2004 to 2019 (16 consecutive)
 
-**Inter-Unit Campcraft Competition Finals** 
+**Inter-Unit Campcraft Competition Finals**&nbsp;
 
 <table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">Year</span></strong></td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">Girl’s Team</span></strong></td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">Boy’s Team</span></strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">2008</span></td><td style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">3rd</span></td><td style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">7th</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">2010</span></td><td style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">1st</span></td><td style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">3rd</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">2012</span></td><td style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">3rd</span></td><td style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">4th</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">2014</span></td><td style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">2nd</span></td><td style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">3rd</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">2016</span></td><td style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">1st</span></td><td style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">4th</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">2018</span></td><td style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">10th</span></td><td style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">10th</span></td></tr></tbody></table>
 
