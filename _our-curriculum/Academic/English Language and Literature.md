@@ -5,23 +5,35 @@ description: ""
 third_nav_title: Academic
 ---
 **Head of Department**<br>
-Mdm Salwati Salim
-<br><br>
+Mdm&nbsp;Salwati&nbsp;Salim
+
 **Senior Teacher (English Language)**<br>
 Mdm Dian Khairyani Mondzi
 
+**Level Head (English Language) (Internal)**<br>
+Mr Kelvin Chen
+
 **Teachers (English Language)**  
+Mr Daniel Keng (Literature Co-ordinator) <br>
 Mr Er Siong Chye  
 Mr Foo Chuan Chian James  
 Mrs Serena Ong  
-Mdm Rahidah Tajammul Shah
+Mdm Rahidah Tajammul Shah<br>
+Mr. Sobri Omar<br>
+Miss Samihani Bte Ali<br>
+Mdm. Vasagi S. Arumugam
 
 **Teachers (English Language and/or English Literature)**  
-Mr Daniel Keng  
-Mr Foo Chuan Chian James
+Mr Daniel Keng (Literature Co-ordinator) <br>
+Mr Foo Chuan Chian James<br>
+Miss Alysia Lim Zhiyan<br>
+Miss Samihani Bte Ali<br>
+Mdm. Vasagi S. Arumugam       
+
+
 
 **Department’s Vision**  
-A Community of Avid Readers and Proficient Users of the English Language 
+A Community of Avid Readers and Proficient Users of the English Language&nbsp;
 
 **Department’s Mission**  
 To nurture a love for the language and inspire learners in the creative application and excellent use of the English Language
@@ -29,14 +41,14 @@ To nurture a love for the language and inspire learners in the creative applicat
 **Programmes**
 
 *   _Live.Lang.Lit Week_: a week of learning where students engaged in fun activities outside the classroom setting to explore creative use of the English Language
-*   _@m.el.t_ Instagram: our proudly owned department instragram account that features English Language and Literature related matters for the 21st Century Learner
+*   _@m.el.t_&nbsp;Instagram: our proudly owned department instragram account that features English Language and Literature related matters for the 21st Century Learner
 *   _TeenTalk_: inspired by the TedTalk series, this is the school’s signature programme that leverages alternative assessment modes for the 21st Century Learner for our Secondary Three cohort
 *   _Lit-Art Inter-Disciplinary Project_: a collaboration with Art Department for Secondary 1 Literature Curriculum
-*   MSS Reading Programme: a Learning Hub initiative to develop English Language and Literature ambassadors through oral, reading and public presentation activities that include Bibliophile Awards, Author / Genre of The Month and BookFlix
+*   MSS Reading Programme: a Learning Hub initiative to develop English Language and Literature ambassadors&nbsp;through oral, reading and public presentation activities that include Bibliophile Awards, Author / Genre of The Month and BookFlix
 
 **Signature Programme: TeenTalk**
 
-Debuted in 2018, the MSS TeenTalk team leveraged the school’s Learning Journey to Nanyang Polytechnic in 2017, and initiated and developed the level-wide programme to develop 21st Century (communication & information) skills for the Secondary Three cohort.
+Debuted in 2018, the MSS TeenTalk team leveraged the school’s Learning Journey to Nanyang Polytechnic in 2017, and initiated and developed the level-wide programme to develop 21st&nbsp;Century (communication &amp; information) skills for the Secondary Three cohort.
 
 Established as the department’s signature programme, MSS TeenTalk programme encourages and nurtures competencies such as being a confident speaker and having a critical and inventive mindset.
 
@@ -97,11 +109,11 @@ The top borrower for the Class Award is 1E2.
 
 **Book Giveaway event 2019**
 
-This inaugural book giveaway event was extremely well-received by students. Throughout the three days, we gave away a total of **<u>251 books</u>** to staff and students. Through the giveaway, we hope that students could find the joy and pleasure of reading, thereby building a strong reading culture in our school.
+This inaugural book giveaway event was extremely well-received by students. Throughout the three days, we gave away a total of&nbsp;**<u>251 books</u>**&nbsp;to staff and students. Through the giveaway, we hope that students could find the joy and pleasure of reading, thereby building a strong reading culture in our school.
 
 **Book Giveaway event 2020**
 
-This is the second time year we are having this event and throughout the three days, we gave away a total of **<u>112 books</u>** to staff and students. We hope that students will continue to find the joy and pleasure of reading, thereby contributing to the building of a strong reading culture in our school.
+This is the second time year we are having this event and throughout the three days, we gave away a total of&nbsp;**<u>112&nbsp;books</u>**&nbsp;to staff and students. We hope that students will continue to find the joy and pleasure of reading, thereby contributing to the building of a strong reading culture in our school.
 
 ![](/images/01-6.jpeg)
 
@@ -141,10 +153,10 @@ Weekly Runner Up: Muhammad Syafiq Bin Supri from 3E1
 **2019 CFP-GBRJ’s Academic Research Conference 2019**  
 Best Paper Presentation: Mdm Dian Khairyani Mondzi on ‘A case study of ICT implementation and integration in school’
 
-**2019 International Youth Leadership & Innovation Foundation Ambassadors**  
+**2019 International Youth Leadership &amp; Innovation Foundation Ambassadors**  
 Tea Lila (3E1) and Jia Yang (3E1).
 
-**2019 Management & Leadership Schools (MLS) Programme (NIE)**  
+**2019 Management &amp; Leadership Schools (MLS) Programme (NIE)**  
 **Dr J.M. Nathan Memorial Prize for Curriculum (Team) Project:**  
 Mdm Salwati Salim
 
