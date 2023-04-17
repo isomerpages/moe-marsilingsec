@@ -8,11 +8,13 @@ third_nav_title: CCA Visual and Performing Arts
 
 *   Mrs Tay-Pang Xiu Hui (OIC)
 *   Mdm Shikin Ali
+*   Mdm Loo Shook Ling
 
 ### **Training days and time**
 
-*   Tuesday: 3.00 p.m. to 6.00 p.m.
-*   Friday: 1.30 p.m. to 4.00 p.m.
+Tuesday 3 to 5.30PM <br>Venue: AVA room and classrooms  
+
+Friday 2 to 4.30PM <br>Venue: AVA room
 
 ### **Venues**
 
@@ -40,8 +42,8 @@ third_nav_title: CCA Visual and Performing Arts
 
 ### **Achievements**
 
-*   Singapore Youth Festival Arts Presentation 2019: Certificate of Distinction
-*   Singapore Youth Festival Arts Presentation 2017: Certificate of Accomplishment
+*   Singapore Youth Festival Arts Presentation 2019:&nbsp;Certificate of Distinction
+*   Singapore Youth Festival Arts Presentation 2017:&nbsp;Certificate of Accomplishment
 *   Singapore Youth Festival Arts Presentation 2021: Certificate of Accomplishment
 
 ### **Gallery**
