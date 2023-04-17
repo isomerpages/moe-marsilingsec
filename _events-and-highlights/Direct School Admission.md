@@ -308,7 +308,7 @@ During periods of competitions and performances, there will be additional traini
 
 **<u>Key Dates</u>**
 
-**<u>a. Application (5 May 2022 – 1 June 2022)</u>**
+**<u>a. Application (5 May 2023 – 1 June 2023)</u>**
 
 All applicants will apply for DSA-Sec through a centralised DSA-Sec Portal. Schools are to note the following regarding application through the centralised DSA-Sec Portal:
 
@@ -318,11 +318,11 @@ All applicants will apply for DSA-Sec through a centralised DSA-Sec Portal. Scho
 
 <h4 style="color:red" align="left">Click&nbsp;<a href="http://go.gov.sg/apply-dsa-sec">here</a>&nbsp;to apply for DSA.</h4>
 
-**<u>b. Selection (June 2022 – September 2022)</u>**
+**<u>b. Selection (June 2023 – September 2023)</u>**
 
 Amid the recent increase in the number of local COVID-19 cases and to ensure the safety and well-being of our students and school personnel, DSA-Sec schools and Primary Schools will continue to use&nbsp;**<u>e-modes</u>&nbsp;for the selection process of all talent areas during this year’s DSA exercises (i.e. similar to last year’s DSA exercises)**.
 
 -----
 
 
-**The school**&nbsp;**offers vacancies of up to 20% of the 2023 Secondary 1 cohort and we welcome interested students to apply to join the school through the Direct School Admission (DSA) process.**
+**The school**&nbsp;**offers vacancies of up to 20% of the 2024 Secondary 1 cohort and we welcome interested students to apply to join the school through the Direct School Admission (DSA) process.**
