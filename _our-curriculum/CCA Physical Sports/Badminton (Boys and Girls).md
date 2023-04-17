@@ -6,6 +6,7 @@ third_nav_title: CCA Physical Sports
 ---
 **Teachers-in-charge**  
 Mr Adrian Tan (OIC)  
+Ms Koh Hwei Miang <br>
 Mrs Serena Ong  
 Mdm Lim Peng Teng
 
@@ -16,7 +17,7 @@ Friday: 2.00 p.m. to 5.00 p.m.
 **Objectives**
 
 *   Learn and develop competency in the game of badminton
-*   Develop and encourage good sportsmanship among all members
+*   Develop and encourage good sportsmanship among all&nbsp;members
 *   Provide opportunities for students to progressively develop CCA-specific knowledge, skills, values and attitudes through sustained participation
 *   Provide platform for students to learn core values, social and emotional competencies and the emerging 21st Century Competencies
 
