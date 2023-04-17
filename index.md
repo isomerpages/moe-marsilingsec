@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/marsilingsecsch.gif
       key_highlights:
-        - title: Welcome to our website!
+        - title: Direct School Admission
           description: Click here for more information.
           url: /about-us/message-from-principal/
         - title: Character Building
