@@ -2,6 +2,7 @@ collections:
   events-and-highlights:
     output: true
     order:
+      - Latest Information and Events.md
       - Direct School Admission.md
       - 2023 Secondary 1 Registration Information.md
       - 2022 Sec 2 Virtual Parent Teacher Conference (PTC) and Sec 3 Subject
