@@ -2,6 +2,7 @@ collections:
   events-and-highlights:
     output: true
     order:
+      - DSA Key Application Dates/DSA Key Application Dates.md
       - DSA Key Application Dates/.keep
       - Direct School Admission.md
       - 2023 Secondary 1 Registration Information.md
