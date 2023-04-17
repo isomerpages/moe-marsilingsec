@@ -21,7 +21,7 @@ The training is led by Mr Wong Shoon Soo, who represented Singapore at the 1985 
 
 During periods of competition, there will be additional training sessions to sufficiently prepare the players for the tournament. Friendly matches will also be arranged to help the players gain more game experience.
 
-Training Frequency: 2 sessions (3 hours each) per week during non-competition period. Up to 4 sessions each week during competition period for students representing the school.
+Training Frequency:&nbsp;2 sessions (3 hours each) per week during non-competition period. Up to 4 sessions each week during competition period for students representing the school.
 
 **Selection Criteria**
 
@@ -30,3 +30,5 @@ Training Frequency: 2 sessions (3 hours each) per week during non-competition p
 *   Must be in Primary 6 at the point of application or equivalent.
 *   Demonstrates aptitude and potential during interview.
 *   General conduct indicated in school report book and CCA records.
+
+<h4 style="color:red" align="left">Click&nbsp;<a href="http://go.gov.sg/apply-dsa-sec">here</a>&nbsp;to apply for DSA.</h4>
