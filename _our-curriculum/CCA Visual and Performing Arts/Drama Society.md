@@ -4,20 +4,15 @@ permalink: /curriculum/ccas/performing-arts/drama-society/
 description: ""
 third_nav_title: CCA Visual and Performing Arts
 ---
-**CCA Teachers in charge**
-
-Mdm Hu Xiaolei (OIC)
-
+**CCA Teachers in charge** <br>
+Mdm Hu Xiaolei (OIC)<br>
 Mdm Yuan Xiaoyu
 
-**Training days and time**
-
-Tuesday 2.30pm to 5.00 pm
-
+**Training days and time**<br>
+Tuesday 2.30pm to 5.00 pm<br>
 Friday 2.00pm to 4.00pm
 
-**Venue**
-
+**Venue**<br>
 ITR 1 and Amphitheatre
 
 **CCA Objectives**
@@ -48,7 +43,7 @@ Activities:
 *   CCA Openhouse performance
 *   Learning Journeys
 
-**Achievement** 
+**Achievement**&nbsp;
 
 2021 Singapore Youth Festival Arts Presentation  
 (English Drama): Certificate of Accomplishment
@@ -56,7 +51,7 @@ Activities:
 2019 Singapore Youth Festival Arts Presentation  
 (English Drama): Certificate of Accomplishment
 
-2018 Human Values Drama Festival: Semi-finals
+2018&nbsp;Human Values Drama Festival:&nbsp;Semi-finals
 
 2017 Singapore Youth Festival Arts Presentation (Chinese Drama): Certificate of Accomplishment
 
