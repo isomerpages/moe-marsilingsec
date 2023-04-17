@@ -6,7 +6,7 @@ third_nav_title: CCA Uniformed Groups
 ---
 **Teachers-in-charge**  
 Mr Mike Thye (OIC)  
-Ms Lee Yu Xuan Elizabeth  
+Mr Ryan Ngan <br>
 Dr Andal
 
 **Training details**  
@@ -17,7 +17,7 @@ Marsiling Secondary School Parade Square
 
 **Objectives**
 
-*   To cultivate the virtues of Boys’ Brigade: Obedience, Reverence, Discipline & Self-Respect
+*   To cultivate the virtues of Boys’ Brigade: Obedience, Reverence, Discipline &amp; Self-Respect
 *   To develop self-discipline, sense of identity and belonging and teamwork among members
 *   To provide opportunities for students to progressively develop CCA-specific knowledge, skills, values and attitudes through sustained participation
 *   To provide platform for students to learn core values, social and emotional competencies and the emerging 21st Century Competencies
@@ -25,11 +25,11 @@ Marsiling Secondary School Parade Square
 **Programmes**
 
 *   Weekly (During parades): Values Education
-*   January–December: Outdoor & Adventure Education (Recruits Camp, Character Quest, Heritage Tour, Archery, Visit to Army Museum, Combined UG Kayaking, BB Blaze)  
+*   January–December: Outdoor &amp; Adventure Education (Recruits Camp, Character Quest, Heritage Tour, Archery, Visit to Army Museum, Combined UG Kayaking, BB Blaze)  
     March: Enrolment Service
 *   July and December: Community Involvement (Share a Gift, visit to elderly homes)
 *   August and November: Ceremonial Drill (Involvement in Achievement Day, National Day parade and Drill Camp)
-*   January–December: Leadership Development (Progressive training, Leadership Development Camp)
+*   January–December:&nbsp;Leadership Development (Progressive training, Leadership Development Camp)
 
 **Participation in Competitions / Performances / Camps**
 
@@ -54,13 +54,13 @@ BB Week 2019
 Gold Honour roll
 
 **2018**  
-BB Week Senior Category  
+BB Week&nbsp;Senior Category  
 Gold Honour Roll
 
 BB Blaze  
 Bronze Honour Roll
 
-Character Quest Senior Category  
+Character Quest&nbsp;Senior Category  
 Silver Honour Roll
 
 **2017**  
