@@ -21,7 +21,7 @@ This programme ensures that all drama members are competent with basic and advan
 
 During periods of competition, there will be additional training sessions to sufficiently prepare the drama members.
 
-Training Frequency: 2 sessions (2.5 hours each) per week
+Training Frequency:&nbsp;2 sessions (2.5 hours each) per week
 
 **Selection Criteria**
 
@@ -30,3 +30,5 @@ Training Frequency: 2 sessions (2.5 hours each) per week
 *   Must be in Primary 6 at the point of application or equivalent.
 *   Demonstrates aptitude and potential during interview.
 *   General conduct indicated in school report book and CCA records.
+
+<h4 style="color:red" align="left">Click&nbsp;<a href="http://go.gov.sg/apply-dsa-sec">here</a>&nbsp;to apply for DSA.</h4>
