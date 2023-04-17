@@ -6,11 +6,10 @@ third_nav_title: CCA Uniformed Groups
 ---
 **Teachers-in-charge**  
 Mr Lim Soon Leng (OIC)  
-Mr Tay Boon Kiat  
 Mr Chua Jia Xun
 
 **Training details**  
-Friday: 2.30 p.m. to 5.30 p.m.
+Thursday: 3.00 p.m. to 5.30 p.m.
 
 **Objectives**
 
