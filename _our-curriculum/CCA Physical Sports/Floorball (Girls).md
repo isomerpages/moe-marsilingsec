@@ -6,14 +6,15 @@ third_nav_title: CCA Physical Sports
 ---
 **Teachers-in-charge**  
 Mr Er Siong Chye (OIC)  
-Mdm Rajakumari  
-Mr James Foo
+Mr Kelvin Chen <br>
+Ms Sylvia Ho<br>
+Mr James Foo<br>
 
 **Objectives**
 
 1.  Learn and develop competencies in the game of Floorball
 2.  Develop and encourage good sportsmanship among all members
-3.  Provide opportunities for students to progressively develop CCA-specific knowledge, skills, values and  attitudes through sustained participation
+3.  Provide opportunities for students to progressively develop CCA-specific knowledge, skills, values and&nbsp; attitudes through sustained participation
 4.  Provide platform for students to learn core values, social and emotional competencies and the emerging 21st Century Competencies
 
 **Training days and time**  
