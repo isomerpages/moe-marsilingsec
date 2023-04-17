@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Direct School Admission
           description: Click here for more information.
-          url: https://marsilingsec.moe.edu.sg/dsa/
+          url: /dsa/
         - title: Character Building
           description: Learning today, leading tomorrow
           url: /featured-in-news/
