@@ -4,20 +4,16 @@ permalink: /curriculum/ccas/performing-arts/internationaldance/
 description: ""
 third_nav_title: CCA Visual and Performing Arts
 ---
-#### **CCA Teachers-in-Charge**
-
+**CCA Teachers-in-Charge**<br>
 Mrs Tan Siew Fong (OIC)  
 Mdm Chan Bao Chan  
 Mdm Sumathy
 
-**Training days and time**
-
-Tuesday 3.30pm to 6pm
-
+**Training days and time**<br>
+Tuesday 3.30pm to 6pm<br>
 Friday 1.30pm to 4.00pm
 
-**Venue**
-
+**Venue**<br>
 MSS Music Studio
 
 **CCA Objectives**

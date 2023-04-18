@@ -4,45 +4,32 @@ permalink: /curriculum/academic/science/
 description: ""
 third_nav_title: Academic
 ---
-**Head of Department:**
-
+**Head of Department (Science)** <br>
 Ms Nur’ain Bte Hamzah
 
-**Subject Head Physics:**
-
+**Subject Head (Physics)** <br>
 Ms Yap Ching Ying
 
-**Senior Teacher Biology:**
-
+**Senior Teacher (Biology)** <br>
 Mdm Diyana Rahayu Binte Suratnoh
 
-**Teachers:**
+**HOD, Character &amp; Citizenship Education**  <br>
+Mdm Hemalatha <br>
 
-Mdm Hemalatha
+**HOD, Normal Technical**  <br>
+Mdm Sharifah Afifah <br>
 
-Mdm Sharifah Afifah
-
-Ms Teo Boon San
-
-Mrs Tan Siew Fong
-
-Mrs Tay-Pang Xiu Hui
-
-Mr Wan Hamzah
-
-Ms Glenice Au
-
-Mr Chua Jia Xun
-
-Mr Ryan Ngan
-
-Mdm Kong Hui Ai (CAJT)
-
-Mr Ahmad Bin Mohamed Moktar (AED)
-
-Mr Ng Boon Kiat, Eric (TSO)
-
-Ms Norhafi Mohd Nafi (TSO)
+**Teachers:**  <br>
+Ms Teo Boon San <br>
+Mrs Tan Siew Fong <br>
+Mrs Tay-Pang Xiu Hui <br>
+Mr Wan Hamzah <br>
+Mr Chua Jia Xun <br>
+Mr Ryan Ngan <br>
+Mdm Kong Hui Ai (CAJT) <br>
+Mr Ahmad Bin Mohamed Moktar (AED) <br>
+Mr Ng Boon Kiat, Eric (TSO) <br>
+Ms Norhafi Mohd Nafi (TSO) <br>
 
 **Department’s Vision:**
 

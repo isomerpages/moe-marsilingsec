@@ -8,10 +8,10 @@ third_nav_title: Academic
 Mr Ralph Roche
 
 **Teachers**  
-Mr Savinder Dhillon (Upper Secondary Year Head)  
+Mr Savinder Dhillon (Upper Secondary Year Head) <br>
 Mr Muhd Suhadi (Lower Secondary Year Head)  
+Mr Er Siong Chye (Lower Secondary Assistant Year Head) (Internal) <br>
 Ms Koh Hwei Miang  
-Mr Er Siong Chye  
 Mr Adrian Tan Heng Kwang  
 Mr Khusairi B Shalan
 

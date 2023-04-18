@@ -7,11 +7,13 @@ third_nav_title: Academic
 **Head of Department**  
 Mdm&nbsp;Sharifah Afifah
 
+**Subject Head, Student Well-Being**  
+Mr Thye Wah Yeow
+
 **Teachers**  
 Mdm Sumiati  
 Mr Isa  
-Mdm Rahidah  
-Mr Thye Wah Yeow  
+Mdm Rahidah   
 Ms Hafiszah  
 Mr Khusairi
 
@@ -62,9 +64,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/01-e1577424075923.jpeg" alt="Elements of Business Skills" style="width:45%;">  
+<img src="/images/01-e1577424075923.jpeg" alt="Elements of Business Skills" style="width:45%;">  
   
-</body>
+
 
 Students are given the opportunity to participate in Work Experience Programme in the hospitality industry. Students are exposed to the travel and tourism and hospitality industries in Singapore through learning journeys so that they can relate what they learnt in class with the reality in Singapore.
 
