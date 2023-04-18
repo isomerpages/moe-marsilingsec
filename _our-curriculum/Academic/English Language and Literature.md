@@ -14,22 +14,21 @@ Mdm Dian Khairyani Mondzi
 Mr Kelvin Chen
 
 **Teachers (English Language)**  
-Mr Daniel Keng (Literature Co-ordinator) <br>
+Mr Daniel Keng (Literature Co-Ordinator)  
 Mr Er Siong Chye  
 Mr Foo Chuan Chian James  
 Mrs Serena Ong  
-Mdm Rahidah Tajammul Shah<br>
-Mr. Sobri Omar<br>
-Miss Samihani Bte Ali<br>
-Mdm. Vasagi S. Arumugam
+Mdm Rahidah Tajammul Shah  
+Mr Sobri Omar  
+Miss Samihani Bte Ali  
+Mdm Vasagi S. Arumugam
 
-**Teachers (English Language and/or English Literature)**  
-Mr Daniel Keng (Literature Co-ordinator) <br>
-Mr Foo Chuan Chian James<br>
-Miss Alysia Lim Zhiyan<br>
-Miss Samihani Bte Ali<br>
-Mdm. Vasagi S. Arumugam       
-
+**Teachers (English Literature)**  
+Mr Daniel Keng (Literature Co-Ordinator)  
+Mr Foo Chuan Chian James  
+Miss Alysia Lim Zhiyan  
+Miss Samihani Bte Ali  
+Mdm Vasagi S. Arumugam
 
 
 **Department’s Vision**  
@@ -57,55 +56,35 @@ Some of the benefits and outcomes of the The MSS TeenTalk include:
 1.  availing Secondary Three cohort to the benefit of an assembly program as a platform to share their area of interest publicly and confidently
 2.  intensive mentoring structure by respective EL teachers who train Secondary Three cohort in research and public speaking skills on a public platform (in-class presentation and assembly programme)
 3.  students’ increased level of confidence in public speaking.
+![](/images/TeenTalk1.jpg)
 
 <table>
 <tbody>
   <tr>
-    <th><img src="/images/MG_0770-768x512.jpeg" width="55" height="17"></th>
-    <th><img src="/images/MG_0737-768x512.jpeg" width="55" height="17"></th>
-		<th><img src="/images/MG_0711-768x512.jpeg" width="55" height="17"></th>
+    <th><img src="/images/teen1.jpg" width="55" height="17"></th>
+    <th><img src="/images/teen2.jpg" width="55" height="17"></th>
+		<th><img src="/images/teen3.jpg" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
-
-##### **Learning Hub (Library)**
-
-The Marsiling Bibliophile Award is introduced in 2019 to encourage Marsilians to develop the joy of reading. Reading develops critical thinking skills and aids in the mastery of the English Language. The Bibliophile Award is divided into two categories:  
-Category 1: Individual Award  
-Category 2: Class Award
-
-For the Individual Award, the top three borrowers of the month will receive a prize to recognise their effort to read. For the Class Award, the class which borrows the highest number of books from the Learning Hub will be awarded with a certificate.
-
-**August Awardees**
 
 <table>
 <tbody>
   <tr>
-    <th><img src="/images/IMG_0324-646x1024.jpeg" width="55" height="17"></th>
-    <th><img src="/images/IMG_0327-637x1024.jpeg" width="55" height="17"></th>
+    <th><img src="/images/teen4.jpg" width="55" height="17"></th>
+    <th><img src="/images/teen5.jpg" width="55" height="17"></th>
+		<th><img src="/images/teen6.jpg" width="55" height="17"></th>
   </tr>
 </tbody>
 </table>
 
-**September Awardees**  
-<u>Category 1: Individual Award</u>  
-1st: Pang Chi Ling (1E2)  
-2nd: Vennela Chitrada (1E2)  
-3rd: Nigel Seow En Ze (1N2)
+![](/images/MELT.jpg)
 
-<u>Category 2: Class Award</u>  
-The top borrower for the Class Award is 1E2.
+**MSS Library Reading Programme**
 
-<table>
-<tbody>
-  <tr>
-    <th><img src="/images/MG_3949-669x1024.jpeg" width="55" height="17"></th>
-    <th><img src="/images/MG_3951-621x1024.jpeg" width="55" height="17"></th>
-		<th><img src="/images/MG_3950-717x1024.jpeg" width="55" height="17"></th>
-    <th><img src="/images/MG_3952-711x1024.jpeg" width="55" height="17"></th>
-  </tr>
-</tbody>
-</table>
+World of Books: This is our annual MSS Library programme to introduce students to the wonderful world of books ranging from various themes such as From Print to Screen, Fantasy World and Thrillers etc. In this programme, students are exposed to interesting authors and receive recommendations of books that would pique their interest in reading through class-based activities, short movie screening and mass book borrowing.
+
+![](/images/library.png)
 
 **Book Giveaway event 2019**
 
@@ -115,7 +94,18 @@ This inaugural book giveaway event was extremely well-received by students. Thro
 
 This is the second time year we are having this event and throughout the three days, we gave away a total of&nbsp;**<u>112&nbsp;books</u>**&nbsp;to staff and students. We hope that students will continue to find the joy and pleasure of reading, thereby contributing to the building of a strong reading culture in our school.
 
-![](/images/01-6.jpeg)
+**Book Giveaway event 2022**
+
+This year, we gave a total of **250 books** to our Sec 1 – 3 students, ranging from picture books and interesting genres like auto/biographies, self-help books and the favourite, fiction.
+
+![](/images/book.png)
+
+**Lit-Art Interdisciplinary Programme**
+
+A collaboration between Literature Unit and Art Unit from the ELL Department and C&T Department respectively, this programme is designed to immerse Secondary One students into the world of Literature and use Art as an alternative mode of expression for students to represent their learning and understanding of the Literature texts.
+
+![](/images/lit1.png)
+![](/images/lit2.jpeg)
 
 ##### **Accolades**
 
