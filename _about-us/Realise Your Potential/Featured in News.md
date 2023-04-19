@@ -2,7 +2,7 @@
 title: Featured in News
 permalink: /featured-in-news/
 description: ""
-third_nav_title: Realise Your Potential, Make
+third_nav_title: Realise Your Potential
 ---
 We are immensely proud of our former students featured in the newspaper.
 
@@ -11,14 +11,14 @@ We are immensely proud of our former students featured in the newspaper.
 	
 This year (2022), after another 12 months of training and recruiting Secondary 1 players through direct school admission (DSA), Marsiling Secondary School topped that by winning both the B and C Division national titles, beating powerhouses like defending champions Jurongville Secondary and Changkat Changi Secondary.
 
-Click [here](/files/School-sports_-How-Marsiling-Secondary-became-sepak-takraw-kings-_-The-Straits-Times.pdf) to read the article.
+Click&nbsp;[here](/files/School-sports_-How-Marsiling-Secondary-became-sepak-takraw-kings-_-The-Straits-Times.pdf)&nbsp;to read the article.
 
 ![](/images/sepak.jpeg)
 	
 **2\. <u>From Normal stream to PhD Course</u>**  
-Our alumni Nigel Tan (the one on the right) who topped our Normal Academic course and is now in university studying for the its highest degree – a PhD course. 
+Our alumni Nigel Tan (the one on the right) who topped our Normal Academic course and is now in university studying for the its highest degree – a PhD course.&nbsp;
 
-Click [here](https://www.straitstimes.com/singapore/education/from-normal-stream-to-phd-course) to read the article.
+Click&nbsp;[here](https://www.straitstimes.com/singapore/education/from-normal-stream-to-phd-course)&nbsp;to read the article.
 
 ![](/images/Nigel-PhD-1024x957.jpeg)
 
@@ -28,9 +28,9 @@ Click [here](https://www.straitstimes.com/singapore/education/from-normal-strea
 
 **4\. <u>From Marsiling to National University of Singapore (NUS) Medical School</u>**
 
-Our ex-student Noor bte Ahmad Alkaff was featured in Straits Times, for being the rare few that was offered a place in NUS Medical school, after completing her diploma in Republic Polytechnic.  
+Our ex-student Noor bte Ahmad Alkaff was featured in Straits Times, for being the rare few that was offered a place in NUS Medical school, after completing her diploma in Republic Polytechnic. &nbsp;
 
-Click [here](https://www.asiaone.com/singapore/polytechnic-duo-line-become-doctors) to read the article.
+Click&nbsp;[here](https://www.asiaone.com/singapore/polytechnic-duo-line-become-doctors)&nbsp;to read the article.
 
 ![](/images/NUS-medical-school-1024x577.jpeg)
 
@@ -38,15 +38,15 @@ Click [here](https://www.asiaone.com/singapore/polytechnic-duo-line-become-doct
 
 In 2017, ex-marsilian Lhu Ying Xuan was featured on Straits Times, her team was among the 10 that were recognised with a Polytechnic Student Research Programme (PSRP) Award. Their project was a sunlight activated larvicide to fight against dengue, which is 1,000 times less toxic for other aquatic animals than the usual larvicide.
 
-Click [here](https://www.straitstimes.com/singapore/education/poly-students-win-recognition-for-rd-breakthroughs) to read the article.
+Click&nbsp;[here](https://www.straitstimes.com/singapore/education/poly-students-win-recognition-for-rd-breakthroughs)&nbsp;to read the article.
 
 ![](/images/12.jpeg)
 
 **6\. <u>Ex-Marsilian Steven Muthukumar Snag Top Prize in International Aviation Design Competition</u>**
 
-Steven graduated in 2018 from the Normal (Technical) stream and joined the Institute of Technical Education College Central. 
+Steven graduated in 2018 from the Normal (Technical) stream and joined&nbsp;the Institute of Technical Education College Central.&nbsp;
 
-Click [here](https://www.straitstimes.com/singapore/transport/ite-students-snag-top-prize-in-international-aviation-design-competition) to read the article.
+Click&nbsp;[here](https://www.straitstimes.com/singapore/transport/ite-students-snag-top-prize-in-international-aviation-design-competition)&nbsp;to read the article.
 
 ![](/images/1-13.jpeg)
 
@@ -54,6 +54,6 @@ Click [here](https://www.straitstimes.com/singapore/transport/ite-students-snag
 
 Jeevina Ganesh graduated from Marsiling in 2016 and was chosen by Republic Polytechnic to be featured in Straits Times to motivate young athlete to pursue passion for sports.
 
-Click [here](https://www.straitstimes.com/singapore/education/young-athlete-on-track-to-pursue-passion-for-sports) to read the article.
+Click&nbsp;[here](https://www.straitstimes.com/singapore/education/young-athlete-on-track-to-pursue-passion-for-sports)&nbsp;to read the article.
 
 ![](/images/Jeevina-online-1024x721.jpeg)

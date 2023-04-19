@@ -2,9 +2,9 @@
 title: Outstanding Former Students
 permalink: /outstanding-former-students/
 description: ""
-third_nav_title: Realise Your Potential, Make
+third_nav_title: Realise Your Potential
 ---
-Our heartiest congratulations to our former students.
+Our heartiest congratulations&nbsp;to our former students.
 
 **1\. <u>Outstanding Graduates from Republic Polytechnic</u>**
 
@@ -26,4 +26,4 @@ Our heartiest congratulations to our former students.
 
 **5\. <u>Peter Lim Scholarship</u>**
 
-![Nurin](/images/Nurin-1448x2048.jpeg)
+![Nurin](/images/Nurin-1448x2048.jpeg)   
