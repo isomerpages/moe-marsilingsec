@@ -26,4 +26,4 @@ Our heartiest congratulations&nbsp;to our former students.
 
 **5\. <u>Peter Lim Scholarship</u>**
 
-![Nurin](/images/Nurin-1448x2048.jpeg)
+![Nurin](/images/Nurin-1448x2048.jpeg)   
