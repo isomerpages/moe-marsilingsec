@@ -3,13 +3,12 @@ title: Outdoor Adventure (DSA)
 permalink: /outdooradventuredsa/
 description: ""
 ---
-**1\. Outdoor Adventure**
-
 **Community Youth Leadership (CYL)**
 
 **HEART** – **HE**althy and **A**ctive Youth for the Community through Outdoo**R** and Health Promo**T**ing Curriculum
 
-
+![](/images/cylll1.jpg)
+![](/images/llppp1.png)
 
 • The LLP-CYL schools will have a school culture that develops students as leaders of empathy through serving the community.
 
