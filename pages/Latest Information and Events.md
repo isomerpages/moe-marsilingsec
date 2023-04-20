@@ -3,6 +3,10 @@ title: Latest Information and Events
 permalink: /latest-information-and-events/
 description: ""
 ---
+####   Direct School Admission (DSA)
+
+Click [here](https://marsilingsec.moe.edu.sg/dsa/) to find out more about MSS DSA 2023.
+
 ####   Enrichment Programme (May 2023) for Sec 1-5 Classes &amp; Parent-Teacher Conference (PTC) for Sec 3
 
 Please click on the following links for more information of the different programmes that will take place in **May 2023.**
