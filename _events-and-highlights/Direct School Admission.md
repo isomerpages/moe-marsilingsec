@@ -11,7 +11,7 @@ Parents and students are encouraged to choose schools wisely based on the studen
 
 **Marsiling Secondary School offers**&nbsp;**DSA in the following areas:**
 
-**1\. [LLP - Community Youth Leadership (CYL)](/llpcyl/)**
+**1\. [LLP - Community Youth Leadership (CYL)](https://marsilingsec.moe.edu.sg/llpcyl/)**
 
 **2\. [Environmental Science](https://marsilingsec.moe.edu.sg/environmentalsciencedsa/)**
 
