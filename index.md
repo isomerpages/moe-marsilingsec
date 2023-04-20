@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/marsilingsecsch.gif
+      background: /images/schbanner1.jpg
       key_highlights:
         - title: Direct School Admission
           description: Click here for more information.
