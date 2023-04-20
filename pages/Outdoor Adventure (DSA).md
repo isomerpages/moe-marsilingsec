@@ -3,7 +3,7 @@ title: Outdoor Adventure (DSA)
 permalink: /outdooradventuredsa/
 description: ""
 ---
-**Community Youth Leadership (CYL)**
+**LLP - Community Youth Leadership (CYL)**
 
 **HEART** – **HE**althy and **A**ctive Youth for the Community through Outdoo**R** and Health Promo**T**ing Curriculum
 
