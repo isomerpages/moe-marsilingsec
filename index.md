@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/schbanner1.jpg
+      background: /images/Homepage/schbanner_gold.jpg
       key_highlights:
         - title: Direct School Admission
           description: Click here for more information.
