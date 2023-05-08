@@ -31,6 +31,7 @@ Marsiling’s Floorball CCA was formed in 2020 to cater to students’ interest.
 
 **Gallery**
 
+![](/images/floorball%20collage.jpg) <br>
 ![Floorball (Girls)](/images/Floorball%20(Girls)_1.jpg)
 
 ![Floorball (Girls)](/images/Floorball%20(Girls)_2.jpg)
