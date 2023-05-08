@@ -24,7 +24,8 @@ Thursday: 2.30 p.m. to 6.00 p.m.
 Marsiling’s Sepak Takraw CCA was formed in 2020 to cater to our students’ interest. We aim to create a rigorous yet conducive environment for our members where they can excel in the sports. Trainings can be of high intensity and competitive without removing the fun and joy from the game. We hope to have more aspiring players coming forward to train with us and make their mark during their stay with us and beyond.
 
 **Gallery**
-
+![](/images/straits%20times_takraw_1%20sept%202022_1.jpeg)
+![](/images/straits%20times_takraw_1%20sept%202022_2.jpeg)
+![](/images/takraw%20collage.jpg)
 ![Sepak Takraw](/images/Sepak%20Takraw_1.jpg)
-
 ![Sepak Takraw](/images/Sepak%20Takraw_2.jpg)
