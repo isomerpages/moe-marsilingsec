@@ -32,6 +32,7 @@ description: ""
 |YH Lower Secondary|Mr  Muhammad Suhadi|
 
 #####  Subject Heads (SHs) /Level Heads / Assistant Year Heads (AYHs)
+
 | **Designation** | **Name**|
 | -------- | -------- |
 |LH Mathematics|Mr Patrick Lim|
@@ -46,6 +47,7 @@ description: ""
 
 
 ##### Lead / Senior Teachers
+
 | **Designation** | **Name**|
 | -------- | -------- |
 |LT Art|Mr  Zaki Zulfakar|
