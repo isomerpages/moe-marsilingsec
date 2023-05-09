@@ -15,7 +15,7 @@ Parents and students are encouraged to choose schools wisely based on the studen
 
 **1\. [LLP - Community Youth Leadership (CYL)](https://marsilingsec.moe.edu.sg/llpcyl/)**
 
-**2\. [Environmental Science](https://marsilingsec.moe.edu.sg/environmentalsciencedsa/)**
+**2\. [ALP - Environmental Science](https://marsilingsec.moe.edu.sg/environmentalsciencedsa/)**
 
 **3\. Sports**
 
