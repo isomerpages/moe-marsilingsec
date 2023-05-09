@@ -28,4 +28,3 @@ Parents and students are encouraged to choose schools wisely based on the studen
 *   [Concert Band](https://marsilingsec.moe.edu.sg/concertbanddsa/)
 *   [Drama Society](https://marsilingsec.moe.edu.sg/dramasocietydsa/)
 *   [International Dance](https://marsilingsec.moe.edu.sg/internationaldancedsa/)
-
