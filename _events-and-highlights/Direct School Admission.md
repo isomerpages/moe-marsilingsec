@@ -29,4 +29,3 @@ Parents and students are encouraged to choose schools wisely based on the studen
 *   [Drama Society](https://marsilingsec.moe.edu.sg/dramasocietydsa/)
 *   [International Dance](https://marsilingsec.moe.edu.sg/internationaldancedsa/)
 
-**[DSA Key Application Dates](https://marsilingsec.moe.edu.sg/dsadates/)**
