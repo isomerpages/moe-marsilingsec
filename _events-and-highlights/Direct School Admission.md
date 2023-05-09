@@ -7,6 +7,8 @@ The Direct School Admission (DSA) Exercise is an admission exercise to allow par
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
+**Application period for&nbsp;2023&nbsp;DSA-Sec:&nbsp;04 May 2023 (11am)&nbsp;to&nbsp;31 May 2023 (3pm)**
+
 <h4 style="color:red" align="left">Click&nbsp;<a href="http://go.gov.sg/apply-dsa-sec">here</a>&nbsp;to apply for DSA.</h4>
 
 **Marsiling Secondary School offers**&nbsp;**DSA in the following areas:**
@@ -28,5 +30,3 @@ Parents and students are encouraged to choose schools wisely based on the studen
 *   [Concert Band](https://marsilingsec.moe.edu.sg/concertbanddsa/)
 *   [Drama Society](https://marsilingsec.moe.edu.sg/dramasocietydsa/)
 *   [International Dance](https://marsilingsec.moe.edu.sg/internationaldancedsa/)
-
-**[DSA Key Application Dates](https://marsilingsec.moe.edu.sg/dsadates/)**
