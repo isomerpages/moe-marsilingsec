@@ -5,7 +5,7 @@ description: ""
 ---
 <p><small><em>Please ensure that you are logged on to the MOE iCON2 email before clicking on the link below.</em></small></p>
 
-**Application for Relief Teaching**  
+**Relief Request**  
 [Relief Request Form](https://docs.google.com/forms/d/e/1FAIpQLSeD6boRPhJk5vUyMbKpr8OgFjj5rN9o80B4Mw3QjP2STD2Reg/viewform?usp=sf_link)
 
 **Link for resource room booking**  
