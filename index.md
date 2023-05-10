@@ -49,13 +49,12 @@ sections:
       alt: Applied Learning Programme
   - infopic:
       title: Learning for Life Programme (LLP)
-      description: BUILDING LIFE SKILLS VALOUR – Values and Leadership development
-        through Outdoor Curriculum The school’s VALOUR programme develops our
-        […]
+      description: LLP - Community Youth Leadership (CYL)  HEART – Healthy and Active
+        Youth for the Community through Outdoor and Health Promoting Curriculum
       button: Read More
       url: /curriculum/learning-for-life-programme/
-      alt: Mountain Trekking Taiwan 2019
-      image: /images/IMG_1275.jpeg
+      image: /images/llpcyl.jpg
+      alt: Community Youth Leadership
   - infopic:
       title: Contact Us
       button: Find out More
