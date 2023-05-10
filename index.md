@@ -53,7 +53,7 @@ sections:
         Youth for the Community through Outdoor and Health Promoting Curriculum
       button: Read More
       url: /curriculum/learning-for-life-programme/
-      image: /images/cylll1.jpg
+      image: /images/llpcyl.jpg
       alt: Community Youth Leadership
   - infopic:
       title: Contact Us
