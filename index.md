@@ -54,6 +54,7 @@ sections:
       button: Read More
       url: /curriculum/learning-for-life-programme/
       image: /images/cylll1.jpg
+      alt: Community Youth Leadership
   - infopic:
       title: Contact Us
       button: Find out More
