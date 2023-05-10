@@ -14,4 +14,4 @@ Area of Need 3: Social Skills
 
 The support encompasses needs-based interventions and participation of stakeholders involving parents, school personnel and external agencies.
 
-You may contact the SENO Mr Mohamad Afizukil at [mohamad\_afizukil\_meor\_hashim@moe.edu.sg](mailto:mohamad_afizukil_meor_hashim@moe.edu.sg) for any queries or feedback.
+You may contact the SEN Officer, Mr Mohamad Afizukil at [mohamad\_afizukil\_meor\_hashim@moe.edu.sg](mailto:mohamad_afizukil_meor_hashim@moe.edu.sg) for any queries or feedback.
