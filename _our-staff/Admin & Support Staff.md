@@ -6,9 +6,9 @@ description: ""
 ### Counselling
 
 *   **Senior School Counsellor:** Mr Palanivelu 
-*   **School Counsellor:** Ms Rathi Devi D/O Ramasamy )
+*   **School Counsellor:** Ms Rathi Devi D/O Ramasamy
 *   **Education Career Guidance Officer:** Mr Stephen Soong 
-*   **AED (LBS):** Mr Mohamad Afizukil bin Meor Hashim 
+*   **Special Educational Needs Officer:** Mr Mohamad Afizukil bin Meor Hashim 
 *   **Student Health Advisor (HSA):** Mdm Nabilah
 
 ### Student Welfare
