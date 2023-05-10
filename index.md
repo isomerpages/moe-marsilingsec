@@ -49,8 +49,8 @@ sections:
       alt: Applied Learning Programme
   - infopic:
       title: Learning for Life Programme (LLP)
-      description: LLP - Community Youth Leadership (CYL)  HEART – HEalthy and Active
-        Youth for the Community through OutdooR and Health PromoTing Curriculum
+      description: LLP - Community Youth Leadership (CYL)  HEART – Healthy and Active
+        Youth for the Community through Outdoor and Health Promoting Curriculum
       button: Read More
       url: /curriculum/learning-for-life-programme/
       image: /images/cylll1.jpg
