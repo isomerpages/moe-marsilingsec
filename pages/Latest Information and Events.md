@@ -9,7 +9,7 @@ Click [here](https://marsilingsec.moe.edu.sg/dsa/) to find out more about MSS DS
 
 ####   Secondary 4 & 5 June Holidays Study Programme
 
-Please click [here](/files/sec%204%20&%205%20june%20holidays%20study%20programme.pdf) for more details on the Sec 4/5 June Holidays Study Programme.
+Please click [here](/files/updated%20june%20hol%20study%20prog%202023.pdf) for more details on the Sec 4/5 June Holidays Study Programme.
 
 ####   Secondary 3 Parent-Teacher Conference (For Whole Level) and Parent-Teacher Meeting (For Selected Students)
 
