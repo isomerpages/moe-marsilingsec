@@ -9,11 +9,15 @@ Please click on the links below for the Semester 1 and 2 2023 Student's Timetabl
 
 The schedule for HBL days for semester  2 are as follows:
 
-
+![](/images/HBL/semester2%202023%20hbl.PNG)
 
 Thank you.
 
 #### **LINKS**
+
+**Semester  2 Timetable**
+
+
 
 **Semester 1 Timetable**
 
