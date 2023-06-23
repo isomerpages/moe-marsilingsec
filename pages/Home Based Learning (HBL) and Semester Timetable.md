@@ -15,9 +15,9 @@ Thank you.
 
 #### **LINKS**
 
-**Semester  2 Timetable**
+**Semester  2 Timetable [NEW]**
 
-[Semester 2 Odd Week Timetable]()
+[Semester 2 Odd Week Timetable](/files/Timetable/2023%20sem%202%20timetable%20oddweek.pdf)
 
 **Semester 1 Timetable**
 
