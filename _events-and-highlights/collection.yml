@@ -2,6 +2,7 @@ collections:
   events-and-highlights:
     output: true
     order:
+      - "Semester 2 Principal Letter: Update on School Matters.md"
       - Direct School Admission.md
       - 2023 Secondary 3 Parent Teacher Conference.md
       - 2023 Secondary 1 Registration Information.md
