@@ -5,7 +5,11 @@ description: ""
 ---
 Dear parents,
 
-Please click on the links below for the Semester 1 2023 Student's Timetable and HBL Assignment Links.
+Please click on the links below for the Semester 1 and 2 2023 Student's Timetable and HBL Assignment Links.
+
+The schedule for HBL days for semester  2 are as follows:
+
+
 
 Thank you.
 
