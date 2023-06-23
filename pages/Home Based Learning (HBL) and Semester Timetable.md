@@ -17,7 +17,7 @@ Thank you.
 
 **Semester  2 Timetable**
 
-
+[Semester 2 Odd Week Timetable]()
 
 **Semester 1 Timetable**
 
