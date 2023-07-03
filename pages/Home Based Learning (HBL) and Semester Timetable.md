@@ -19,6 +19,8 @@ Thank you.
 
 [Semester 2 Odd Week Timetable](/files/Timetable/2023-sem-2-timetable-oddweek.pdf)
 
+[Semester 2 Even Week Timetable](/files/2023%20sem%202%20timetable%20even%20week%20.pdf)
+
 
 **Semester 1 Timetable**
 
