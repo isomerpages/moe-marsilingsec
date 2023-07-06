@@ -3,6 +3,10 @@ title: Latest Information and Events
 permalink: /latest-information-and-events/
 description: ""
 ---
+####   2023 Secondary 4 Normal (A) / Normal (T) Preliminary Examination: (19 - 21 Jul) and (31 Jul - 3 Aug)
+
+Click [here](/files/2023%20n%20prelim%20(pt%20i%20%20ii)%20tt%20v2.pdf) to view the timetable for N Level Prelim Examination.
+
 ####   Semester 2 Principal's Letter: Update on School Matters [23 June 2023]
 
 Please click [here](/files/Letters/letter-to-parents-23-june-2023.pdf) to access the letter. A Parents Gateway message containing the letter was also sent to parents on 23 June 2023.
@@ -10,10 +14,6 @@ Please click [here](/files/Letters/letter-to-parents-23-june-2023.pdf) to access
 ####   Direct School Admission (DSA)
 
 Click [here](https://marsilingsec.moe.edu.sg/dsa/) to find out more about MSS DSA 2023.
-
-####   Secondary 4 & 5 June Holidays Study Programme
-
-Please click [here](/files/updated%20june%20hol%20study%20prog%202023.pdf) for more details on the Sec 4/5 June Holidays Study Programme.
 
 
 #### Marsiling Secondary School's National Digital Literacy Program (NDLP@MSS) 
