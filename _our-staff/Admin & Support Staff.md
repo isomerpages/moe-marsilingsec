@@ -50,7 +50,7 @@ description: ""
 *   **Operations Support Officer:** Mdm Malaiarasi d/o Kandan
 *    **Operations Support Officer:** Mdm Rajaletchimi
 *    **Operations Support Officer:** Mr Syed Ibrahim Shah
-*    **Operations Support Officer:** Mr Hasnuddin Ab Mailk
+*    **Operations Support Officer:** Mr Hasnuddin Abdul Mailk
 *   **Technical Support Officer (D&T):** Mr Ho Seong Kong
 *   **Technical Support Officer (D&T):** Mdm Sumathi d/o S Dorai Samy
 *   **Technical Support Officer (Science):** Mr Ng Boon Kiat, Eric
