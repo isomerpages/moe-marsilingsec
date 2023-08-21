@@ -8,7 +8,7 @@ description: ""
 *   **Senior School Counsellor:** Mr Palanivelu 
 *   **School Counsellor:** Ms Rathi Devi D/O Ramasamy
 *   **Education Career Guidance Officer:** Mr Stephen Soong 
-*   **Special Educational Needs Officer:** Mr Mohamad Afizukil bin Meor Hashim 
+*   **Special Educational Needs Officer:** Mr Mohamad Afizukil Bin Meor Hashim 
 * **Student Health Advisor (HSA):** Mdm Nabilah
 
 ### Student Welfare
@@ -22,13 +22,16 @@ description: ""
 
 ### Flexi-Adjunct and Relief Teacher
 
+*   **Craft & Technology:** Mr Chua Guan Yong
 *   **Chinese Language:** Mr Teo Seng Lim 
-*   **Chinese Language:** Ms Chen Suzhen 
+*   **Chinese Language:** Mdm Khoo Cheng Eng 
 *   **English Language:** Mdm Vasagi S Arumugam 
 *   **English Language:** Mr Sobri Bin Omar
+*   **English Language:** Ms Samihani Bte Ali
 *   **Malay Language:** Mr Abdul Razak B Patwi 
 *   **Mathematics:** Mdm Nicole Yao Baoji 
 *   **Mathematics:** M.Thiruckumaran
+
 
 ### Allied Educators (Teaching & Learning)
 
@@ -38,13 +41,16 @@ description: ""
 
 *   **Administrative Manager:** Mr Vincent Tjong
 *   **Operational Manager:** Mr K Pethannasamy
-*   **ICT Manager:** Mdm Noor Ijah Bte Zainol
+*   **ICT Manager:** Mdm Noor Ijah Binte Zainol
 *   **Administrative Executive:** Mdm Anita Binte Bidin
 *   **Adjunct Administrative Executive:** Mdm Nakia Binte Razalee
 *   **Management Executive:** Ms Sivaranjini Mayakestan
 *   **Corporate Support Officer:** Mdm Noor Aisah Binte Ali
 *   **Operations Support Officer (Admin):** Mdm Toh Swan Choo
 *   **Operations Support Officer:** Mdm Malaiarasi d/o Kandan
+*    **Operations Support Officer:** Mdm Rajaletchimi
+*    **Operations Support Officer:** Mr Syed Ibrahim Shah
+*    **Operations Support Officer:** Mr Hasnuddin Ab Mailk
 *   **Technical Support Officer (D&T):** Mr Ho Seong Kong
 *   **Technical Support Officer (D&T):** Mdm Sumathi d/o S Dorai Samy
 *   **Technical Support Officer (Science):** Mr Ng Boon Kiat, Eric
