@@ -9,7 +9,7 @@ description: ""
 *   **School Counsellor:** Ms Rathi Devi D/O Ramasamy
 *   **Education Career Guidance Officer:** Mr Stephen Soong 
 *   **Special Educational Needs Officer:** Mr Mohamad Afizukil bin Meor Hashim 
-*   **Student Health Advisor (HSA):** Mdm Nabilah
+* **Student Health Advisor (HSA):** Mdm Nabilah
 
 ### Student Welfare
 
@@ -44,7 +44,6 @@ description: ""
 *   **Management Executive:** Ms Sivaranjini Mayakestan
 *   **Corporate Support Officer:** Mdm Noor Aisah Binte Ali
 *   **Operations Support Officer (Admin):** Mdm Toh Swan Choo
-*   **Operations Support Officer:** Mdm Jamilah Bee Shahul Hameed
 *   **Operations Support Officer:** Mdm Malaiarasi d/o Kandan
 *   **Technical Support Officer (D&T):** Mr Ho Seong Kong
 *   **Technical Support Officer (D&T):** Mdm Sumathi d/o S Dorai Samy
