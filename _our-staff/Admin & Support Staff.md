@@ -29,14 +29,14 @@ description: ""
 *   **English Language:** Mdm Vasagi S Arumugam 
 *   **English Language:** Mr Sobri Bin Omar
 *   **English Language:** Ms Samihani Bte Ali
-*   **Malay Language:** Mr Abdul Razak B Patwi 
+*   **Malay Language:** Mr Abdul Razak Bin Patwi 
 *   **Mathematics:** Mdm Nicole Yao Baoji 
-*   **Mathematics:** M.Thiruckumaran
+*   **Mathematics:** M Thiruckumaran
 
 
 ### Allied Educators (Teaching & Learning)
 
-*   **AED:** Mr Ahmad bin Mohamed Moktar 
+*   **AED:** Mr Ahmad Bin Mohamed Moktar 
 
 ### Executive and Administrative Staff (EAS)
 
@@ -51,11 +51,11 @@ description: ""
 *   **Operations Support Officer:** Mdm Malaiarasi d/o Kandan
 *    **Operations Support Officer:** Mdm Rajaletchimi
 *    **Operations Support Officer:** Mr Syed Ibrahim Shah
-*    **Operations Support Officer:** Mr Hasnuddin Abdul Mailk
+*    **Operations Support Officer:** Mr Hasnuddin Bin Abdul Mailk
 *   **Technical Support Officer (D&T):** Mr Ho Seong Kong
 *   **Technical Support Officer (D&T):** Mdm Sumathi d/o S Dorai Samy
 *   **Technical Support Officer (Science):** Mr Ng Boon Kiat, Eric
-*   **Technical Support Officer (Science):** Mdm Norhafi Mohd Nafi
+*   **Technical Support Officer (Science):** Mdm Norhafi Binte Mohd Nafi
 
 ### Support Staff
 
