@@ -9,7 +9,7 @@ description: ""
 *   **School Counsellor:** Ms Rathi Devi D/O Ramasamy
 *   **Education Career Guidance Officer:** Mr Stephen Soong 
 *   **Special Educational Needs Officer:** Mr Mohamad Afizukil Bin Meor Hashim 
-* **Student Health Advisor (HSA):** Mdm Nabilah
+* **Student Health Advisor (HSA):** Ms Lee Li Sie, Licy
 
 ### Student Welfare
 
@@ -19,6 +19,7 @@ description: ""
 
 *   **Science:** Mdm Kong Hui Ai
 *   **Discipline:** Mr David Teh Chee Wee
+*   **OSO:** Mdm Ning Lan Fong, Doris
 
 ### Flexi-Adjunct and Relief Teacher
 
