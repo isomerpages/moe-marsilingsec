@@ -28,14 +28,14 @@ description: ""
 |2 RESILIENCE|Mdm Kong Hui Ai|
 |2 GROWTH|Mr Daniel Keng|
 |2 GROWTH|Mr James Foo|
-|2 RESOURCEFUL|Ms Umamageswari d/o S|
 |2 RESOURCEFUL|Mr Adrian Tan|
+|2 RESOURCEFUL|Ms Siti Sahara|
 |2 INNOVATION|Mdm Karen Ng|
 |2 INNOVATION|Mr Isa Dahlan|
 |S3-E1|Mdm Chan Bao Chan|
 |S3-E1|Mdm Diyana Rahayu|
 |S3-E2|Mr Muhammad Azmi|
-|S3-E2|Mdm Chen Suzhen|
+|S3-E2|Ms Samihani|
 |S3-N1|Mrs Tan Siew Fong|
 |S3-N1|Ms Tan Yong Qi|
 |S3-N2|Mrs Caroline Rajakumar|
@@ -58,4 +58,3 @@ description: ""
 |S4-T1|Mdm Sumiati Wahid|
 |S5-N1|Mdm Rosna|
 |S5-N1|Ms Dian Khairyani Mondzi|
-
