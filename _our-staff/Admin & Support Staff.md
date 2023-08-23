@@ -58,6 +58,7 @@ description: ""
 
 ### Support Staff
 
+*   **Librarian:**  Mdm Shirley Supradja
 *   **Food Lab Assistant:** Mdm Kamisah
 *   **Desktop Engineer (NCS):** Ms Thirusuganthy Elankovan
 *   **Desktop Engineer (NCS):** Mr Tan Xing Rong Rayden
