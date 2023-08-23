@@ -19,7 +19,6 @@ description: ""
 
 *   **Science:** Mdm Kong Hui Ai
 *   **Discipline:** Mr David Teh Chee Wee
-*   **OSO:** Mdm Ning Lan Fong, Doris
 
 ### Flexi-Adjunct and Relief Teacher
 
@@ -62,3 +61,4 @@ description: ""
 *   **Food Lab Assistant:** Mdm Kamisah
 *   **Desktop Engineer (NCS):** Ms Thirusuganthy Elankovan
 *   **Desktop Engineer (NCS):** Mr Tan Xing Rong Rayden
+*   **Operations Support Officer:** Mdm Ning Lan Fong, Doris
