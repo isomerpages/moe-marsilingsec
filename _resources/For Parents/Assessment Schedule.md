@@ -7,9 +7,9 @@ third_nav_title: For Parents
 **2023 End of Year Examination (27 Sep - 9 Oct)**
 
 Click on the following links&nbsp;to view the timetable for the End of Year Examination.<br>
-[Secondary 1](/files/2023%20sec%201%20end%20of%20year%20examination%20timetable.pdf)<br>
-[Secondary 2](/files/2023%20sec%202%20end%20of%20year%20examination%20timetable.pdf)<br>
-[Secondary 3](/files/2023%20sec%203%20end%20of%20year%20examination%20timetable.pdf)
+[Secondary 1](/files/2023%20sec%201%20end%20of%20year%20examination%20timetable%20v5.pdf)<br>
+[Secondary 2](/files/2023%20sec%202%20end%20of%20year%20examination%20timetable%20v5.pdf)<br>
+[Secondary 3](/files/2023%20sec%203%20end%20of%20year%20examination%20timetable%20v5.pdf)
 
 <br>
 
