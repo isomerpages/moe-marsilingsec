@@ -4,7 +4,7 @@ permalink: /resources/assessment-schedule/
 description: ""
 third_nav_title: For Students
 ---
-**2023 End of Year Examination (18 - 30 Aug)**
+**2023 End of Year Examination (27 Sep - 9 Oct)**
 
 Click on the following links&nbsp;to view the timetable for the End of Year Examination.<br>
 [Secondary 1](/files/2023%20sec%201%20end%20of%20year%20examination%20timetable.pdf)<br>
