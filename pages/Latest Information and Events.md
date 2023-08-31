@@ -3,13 +3,20 @@ title: Latest Information and Events
 permalink: /latest-information-and-events/
 description: ""
 ---
+#### 2023 End of Year Examination (27 Sep - 9 Oct)
+
+Click on the following links&nbsp;to view the timetable for the End of Year Examination.<br>
+[Secondary 1](/files/2023%20sec%201%20end%20of%20year%20examination%20timetable%20v5.pdf)<br>
+[Secondary 2](/files/2023%20sec%202%20end%20of%20year%20examination%20timetable%20v5.pdf)<br>
+[Secondary 3](/files/2023%20sec%203%20end%20of%20year%20examination%20timetable%20v5.pdf)
+
 ####   2023 Secondary 4 and Secondary 5 September Holidays Study Programme (4 - 6 Sep 2023)
 
-Click [here](/files/september%20holiday%20study%20programme%202023.pdf) to view the timetable for Sec 4 & 5 Study Programme.
+Click [here](/files/september%20holiday%20study%20programme%202023.pdf)&nbsp;to view the timetable for Sec 4 &amp; 5 Study Programme.
 
 ####   2023 Secondary 4 Express and Secondary 5 Normal (Academic) 'O' Level Preliminary Examination: (18 - 30 Aug)
 
-Click [here](/files/2023%20o%20level%20prelim%20timetable.pdf) to view the timetable for 'O' Level Prelim Examination.
+Click&nbsp;[here](/files/2023%20o%20level%20prelim%20timetable.pdf)&nbsp;to view the timetable for 'O' Level Prelim Examination.
 
 
 ####   Semester 2 Principal's Letter: Update on School Matters [23 June 2023]
