@@ -3,6 +3,24 @@ title: Latest Information and Events
 permalink: /latest-information-and-events/
 description: ""
 ---
+#### Tuesday, 12 September 2023 and Wednesday, 20 September 2023: GCE N Level Listening Comprehension Examination
+
+Dear Parents/Guardians,
+
+The school will be an examination center for the GCE N Level Listening Comprehension examination on:
+
+1) Tuesday, 12 September 2023 and
+
+2) Wednesday, 20 September 2023
+
+On these two dates Sec 1 – 3 classes and Sec 4E/5N classes will be dismissed from school at 1.30 pm.
+
+Upon dismissal, all students will have to vacate the school premise by 1.45 pm. Only examination candidates will stay behind to report to the examination venues.
+
+We appreciate your continuous support and partnership. Should you have any query, please contact the school at 68941413 (office hours).
+
+Thank you.
+
 #### 2023 End of Year Examination (27 Sep - 9 Oct)
 
 Click on the following links&nbsp;to view the timetable for the End of Year Examination.<br>
