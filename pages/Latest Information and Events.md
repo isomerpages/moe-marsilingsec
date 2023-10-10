@@ -7,7 +7,7 @@ description: ""
 
 Click on the following link&nbsp;to view the timetable for the End of Year Script Checking Timetable.
 
-[Script Checking Timetable for 12 Oct and 13 Oct 2023](/files/eoy%20exam%20script%20checking_class%2010%20oct.pdf)
+[12 and 13 Oct 2023 Timetable (Exam Script Checking)](/files/eoy%20exam%20script%20checking_class%2010%20oct.pdf)
 
 #### Tuesday, 12 September 2023 and Wednesday, 20 September 2023: GCE N Level Listening Comprehension Examination
 
