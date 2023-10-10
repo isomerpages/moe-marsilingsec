@@ -3,6 +3,12 @@ title: Latest Information and Events
 permalink: /latest-information-and-events/
 description: ""
 ---
+#### 2023 Script Checking Timetable (12 and 13 Oct
+
+Click on the following link&nbsp;to view the timetable for the End of Year Script Checking Timetable.
+
+Script Checking Timetable for 12 and 13 Oct
+
 #### Tuesday, 12 September 2023 and Wednesday, 20 September 2023: GCE N Level Listening Comprehension Examination
 
 Dear Parents/Guardians,
