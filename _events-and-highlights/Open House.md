@@ -7,5 +7,6 @@ description: ""
 
 ### **Welcome to Marsiling Secondary School 2023 Open House**
 
+#####  Click on the following link to register yourself/ your child for our (F2F) Open House.  <br><br>[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSdb0rkosQODmGV4zOLYaN7WgOJyMupK6hddCFjvbT5liNOs2A/viewform)
 
 #### **STAY TUNED FOR UPDATES!!**
