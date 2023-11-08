@@ -3,6 +3,7 @@ title: Chinese Orchestra
 permalink: /curriculum/ccas/performing-arts/chineseorchestra/
 description: ""
 third_nav_title: CCA Visual and Performing Arts
+variant: markdown
 ---
 ### **Teachers-in-charge**
 
@@ -42,12 +43,15 @@ Friday 2 to 4.30PM <br>Venue: AVA room
 
 ### **Achievements**
 
+*   Singapore Youth Festival Arts Presentation 2023:&nbsp;Certificate of Distinction
+*   Singapore Youth Festival Arts Presentation 2021:&nbsp;Certificate of Accomplishment
 *   Singapore Youth Festival Arts Presentation 2019:&nbsp;Certificate of Distinction
 *   Singapore Youth Festival Arts Presentation 2017:&nbsp;Certificate of Accomplishment
 *   Singapore Youth Festival Arts Presentation 2021: Certificate of Accomplishment
 
 ### **Gallery**
-
+![](/images/comss1.JPG)<br>
+![](/images/comss2.JPG)<br>
 ![Chinese Orchestra](/images/Chinese%20Orchestra_1.jpg)
 
 ![Chinese Orchestra](/images/Chinese%20Orchestra_2.jpg)
