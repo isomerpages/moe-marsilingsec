@@ -3,6 +3,7 @@ title: International Dance
 permalink: /curriculum/ccas/performing-arts/internationaldance/
 description: ""
 third_nav_title: CCA Visual and Performing Arts
+variant: markdown
 ---
 **CCA Teachers-in-Charge**<br>
 Mrs Tan Siew Fong (OIC)  
@@ -10,11 +11,12 @@ Mdm Chan Bao Chan
 Mdm Sumathy
 
 **Training days and time**<br>
-Tuesday 3.30pm to 6pm<br>
-Friday 1.30pm to 4.00pm
+Tuesday 3.00pm to 5.30pm<br>
+Thursday 3.00pm to 5.30pm
 
 **Venue**<br>
-MSS Music Studio
+Music Studio on Tuesdays <br>
+AVA Room on Thursdays
 
 **CCA Objectives**
 
@@ -27,7 +29,9 @@ MSS Music Studio
 
 International dancers learn Hip Hop Moves and dance techniques during practice sessions. They will also learn different choreographies and perform for different occasions like school open house, Chinese New Year Chingay at Heartlands, Achievement Day, S24, Marsiling CDC National Day Dinner and SYF.
 
-**Achievement**
+**Achievement** <br>
+
+2023 SYF Arts Presentation: Certificate of Accomplishment
 
 2021 SYF Arts Presentation: Certificate of Accomplishment
 
@@ -36,6 +40,8 @@ International dancers learn Hip Hop Moves and dance techniques during practice s
 2017 SYF Arts Presentation: Certificate of Accomplishment
 
 **Gallery**
+
+![](/images/new%20pics.jpg)
 
 ![International Dance](/images/International%20Dance_1.jpg)
 

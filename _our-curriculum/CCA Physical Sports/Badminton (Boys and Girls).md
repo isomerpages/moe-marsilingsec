@@ -3,6 +3,7 @@ title: Badminton (Boys and Girls)
 permalink: /curriculum/ccas/badminton/
 description: ""
 third_nav_title: CCA Physical Sports
+variant: markdown
 ---
 **Teachers-in-charge**  
 Mr Adrian Tan (OIC)  
@@ -37,7 +38,9 @@ North Zone Championship, B division boys, B division girls, C division boys, C d
 Top 6 for all divisions
 
 **Gallery**
-
+![](/images/woodlands%20invitational%20competition%20girls.jpeg)
+![](/images/woodlands%20invitational%20competition%20boys.jpeg)
+![](/images/badminton5.jpg)
 ![Badminton (Boys and Girls)](/images/Badminton%20(Boys%20and%20Girls)_1.jpg)
 
 ![Badminton (Boys and Girls)](/images/Badminton%20(Boys%20and%20Girls)_2.jpg)
