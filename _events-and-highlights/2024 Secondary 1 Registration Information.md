@@ -2,11 +2,14 @@
 title: 2024 Secondary 1 Registration Information
 permalink: /2024-secondary-1-registration-information/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 **Secondary 1 Registration**
 *   Welcome to Marsiling Secondary School and congratulations on your journey as a Marsilian!
-*   Following ministry’s advice in view of the current situation, students and parents are not required to physically report to their posted secondary school. All information with regards to the Secondary 1 Registration will be communicated through Parents Gateway (PG) and the school’s website.
+
+* All information with regards to the Secondary 1 Registration will be communicated through Parents Gateway (PG) and the school’s website.
+
+* Secondary 1 students are to report to school on **Tuesday 2 January 2024 @ 730am**, Marsiling Secondary. Parents and students are NOT required to physically report to Marsiling Secondary for the registration in December 2024.
 
 For parents who do not use PG or would like to find out more about the school and the information, you may reach out to us via:
 
@@ -16,19 +19,21 @@ For parents who do not use PG or would like to find out more about the school an
 
 **1.&nbsp; Principal’s Address**
 
-We would like to invite all Secondary 1 parents and students to join us for our Secondary 1 Parent-Teacher Conference and CCA Fair . Our Principal, Mr Koh Yiak Kheng, will be addressing our Secondary 1 Marsilians Parents and students on this event:
+Our Principal, Mr Koh Yiak Kheng, will be addressing our Secondary 1 Marsilians Parents and students on our Secondary 1 Parent-Teacher Conference and CCA Fair.
 
-**Date:**&nbsp;Saturday 14 January 2023
+We would like to invite all Secondary 1 parents and students to join us on:
 
-**Time:**
+**Date:**&nbsp;Saturday 13 January 2024
 
-<table border="1" width="111.31%" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 634px; width: 1191.33px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 28px;"><td width="24%" style="box-sizing: inherit; padding: 5px 10px; height: 28px;"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Time</strong></p></td><td width="42%" style="box-sizing: inherit; padding: 5px 10px; height: 28px;"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Activity</strong></p></td><td width="32%" style="box-sizing: inherit; padding: 5px 10px; height: 28px;"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Venue</strong></p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 160px;"><td width="24%" style="box-sizing: inherit; padding: 5px 10px; height: 160px;"><p style="box-sizing: inherit; font-size: 1em;">8.30am – 9.30am</p></td><td width="42%" style="box-sizing: inherit; padding: 5px 10px; height: 160px;"><p style="box-sizing: inherit; font-size: 1em;">Parent-Teacher Meeting</p></td><td width="32%" style="box-sizing: inherit; padding: 5px 10px; height: 160px;"><p style="box-sizing: inherit; font-size: 1em;">Respective</p><p style="box-sizing: inherit; font-size: 1em;">Sec 1 classrooms</p></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 223px;"><td width="24%" style="box-sizing: inherit; padding: 5px 10px; height: 223px;"><p style="box-sizing: inherit; font-size: 1em;">9.30am- 11.00 am</p></td><td width="42%" style="box-sizing: inherit; padding: 5px 10px; height: 223px;"><p style="box-sizing: inherit; font-size: 1em;">Opening Address by Principal, MSS</p><p style="box-sizing: inherit; font-size: 1em;">CCA Talk by HOD PE/CCA</p><p style="box-sizing: inherit; font-size: 1em;">Performances</p></td><td width="32%" style="box-sizing: inherit; padding: 5px 10px; height: 223px;"><p style="box-sizing: inherit; font-size: 1em;">School Hall</p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 223px;"><td width="24%" style="box-sizing: inherit; padding: 5px 10px; height: 223px;"><p style="box-sizing: inherit; font-size: 1em;">11.00am- 11.30am</p></td><td width="42%" style="box-sizing: inherit; padding: 5px 10px; height: 223px;"><p style="box-sizing: inherit; font-size: 1em;">Uniformed Group Presentation</p><p style="box-sizing: inherit; font-size: 1em;">CCA Booth Interaction</p></td><td width="32%" style="box-sizing: inherit; padding: 5px 10px; height: 223px;"><p style="box-sizing: inherit; font-size: 1em;">Parade square</p><p style="box-sizing: inherit; font-size: 1em;">Free &amp; Easy for parents</p><p style="box-sizing: inherit; font-size: 1em;">and students</p></td></tr></tbody></table>
+**Time:** 8.00am - 12.00pm
+
+<table border="1" width="111.31%" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 634px; width: 1191.33px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 28px;"><td width="24%" style="box-sizing: inherit; padding: 5px 10px; height: 28px;"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Time</strong></p></td><td width="42%" style="box-sizing: inherit; padding: 5px 10px; height: 28px;"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Activity</strong></p></td><td width="32%" style="box-sizing: inherit; padding: 5px 10px; height: 28px;"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Venue</strong></p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 160px;"><td width="24%" style="box-sizing: inherit; padding: 5px 10px; height: 160px;"><p style="box-sizing: inherit; font-size: 1em;">8.00am – 9.30am</p></td><td width="42%" style="box-sizing: inherit; padding: 5px 10px; height: 160px;"><p style="box-sizing: inherit; font-size: 1em;">Parent-Teacher Meeting</p></td><td width="32%" style="box-sizing: inherit; padding: 5px 10px; height: 160px;"><p style="box-sizing: inherit; font-size: 1em;">Respective</p><p style="box-sizing: inherit; font-size: 1em;">Sec 1 classrooms</p></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 223px;"><td width="24%" style="box-sizing: inherit; padding: 5px 10px; height: 223px;"><p style="box-sizing: inherit; font-size: 1em;">9.30am- 11.00 am</p></td><td width="42%" style="box-sizing: inherit; padding: 5px 10px; height: 223px;"><p style="box-sizing: inherit; font-size: 1em;">Opening Address by Principal, MSS</p><p style="box-sizing: inherit; font-size: 1em;">CCA Talk by HOD PE/CCA</p><p style="box-sizing: inherit; font-size: 1em;">Performances</p></td><td width="32%" style="box-sizing: inherit; padding: 5px 10px; height: 223px;"><p style="box-sizing: inherit; font-size: 1em;">School Hall</p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 223px;"><td width="24%" style="box-sizing: inherit; padding: 5px 10px; height: 223px;"><p style="box-sizing: inherit; font-size: 1em;">11.00am- 12.00pm</p></td><td width="42%" style="box-sizing: inherit; padding: 5px 10px; height: 223px;"><p style="box-sizing: inherit; font-size: 1em;">Uniformed Group Presentation</p><p style="box-sizing: inherit; font-size: 1em;">CCA Booth Interaction</p></td><td width="32%" style="box-sizing: inherit; padding: 5px 10px; height: 223px;"><p style="box-sizing: inherit; font-size: 1em;">Parade square</p><p style="box-sizing: inherit; font-size: 1em;">Free &amp; Easy for parents</p><p style="box-sizing: inherit; font-size: 1em;">and students</p></td></tr></tbody></table>
 
 **2.&nbsp; Class allocation:**
 
 Sec 1 class allocation will be informed to parents/students via
 
-*   Parents Gateway&nbsp;**by Thursday, 21 December 2022, 2.30 pm**&nbsp;and
+*   Parents Gateway&nbsp;**by Thursday, (date to be confirmed), 2.30 pm**&nbsp;and
 *   Poster board in school near the canteen (parents/students can check if proceeding to school to purchase the school textbook/uniforms)
 
 For parents who would like to find out about the class allocation, you may reach out to us after 2.30 pm via:
@@ -40,13 +45,17 @@ For parents who would like to find out about the class allocation, you may reach
 
 Click on the links for the booklists for the respective streams.
 
-[Secondary 1 Express](/files/Sec%201%20Reg/SEC-1-EXP-Booklist-2023.pdf)
+[Secondary 1 G1](/files/S1__G1__2024_Booklist.pdf) <br>
+[Secondary 1 G2](/files/S1__G2__2024_Booklist.pdf) <br>
+[Secondary 1 G3](/files/S1__G3__2024_Booklist.pdf)
 
-[Secondary 1 Normal (Academic)](/files/Sec%201%20Reg/SEC-1-NA-Booklist-2023.pdf)
 
-[Secondary 1 Normal (Technical)](/files/Sec%201%20Reg/SEC-1-NT-Booklist-2023.pdf)
 
-<table border="1" width="104.405%" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 283px; width: 1191.33px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td width="25%" style="box-sizing: inherit; padding: 5px 10px;"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Wednesday</strong></p><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">21 December</strong></p><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">1pm to 3pm</strong></p></td><td width="25%" style="box-sizing: inherit; padding: 5px 10px;"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Thursday</strong></p><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">22 December</strong></p><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">9am to 3pm</strong></p></td><td width="25%" style="box-sizing: inherit; padding: 5px 10px;"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Friday</strong></p><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">23 December</strong></p><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">9am to 12pm</strong></p></td><td width="25%" style="box-sizing: inherit; padding: 5px 10px;"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Tue – Fri</strong></p><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">27 – 30 December</strong></p><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">9am to 3pm</strong></p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td width="25%" style="box-sizing: inherit; padding: 5px 10px;"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Sec 1 N(A)/G2</strong></p><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Sec 1 Express/G3</strong></p></td><td width="25%" style="box-sizing: inherit; padding: 5px 10px;"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Sec 1 N(A)/G2</strong></p><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Sec 1 N(T)/G1</strong></p></td><td width="25%" style="box-sizing: inherit; padding: 5px 10px;"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Sec 1 Express/G3</strong></p><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Sec 1 N(A)/G2</strong></p><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Sec 1&nbsp; N(T)/G1</strong></p></td><td width="25%" style="box-sizing: inherit; padding: 5px 10px;"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Sec 1 Express/G3</strong></p><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Sec 1 N(A)/G2</strong></p><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Sec 1&nbsp; N(T)/G1</strong></p></td></tr></tbody></table>
+| Thursday <br> 21 December <br>1pm to 3pm | Friday <br> 22 December <br>9am to 3pm | Tues - Fri <br> 26 - 29 December <br>9am to 3pm |
+| -------- | -------- | -------- |
+| Sec 1 N)A)/G2 <br>Sec 1 Express/G3     | Sec 1 N(A)/G2 <br>Sec 1 N(T) / G1     | Sec 1 Express/G3<br>Sec 1 N(A)/G2<br>Sec 1 N(T) / G1     |
+
+
 
 _For selected Subject Based Banding (SBB) students, please be reminded to purchase higher streamed books for the SBB subjects. (For the SBB subjects, do not buy for both streams)_&nbsp;
 
