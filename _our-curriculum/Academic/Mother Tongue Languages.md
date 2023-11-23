@@ -3,6 +3,7 @@ title: Mother Tongue Languages
 permalink: /curriculum/academic/mother-tongue-languages/
 description: ""
 third_nav_title: Academic
+variant: markdown
 ---
 **Head of Department**  
 Mdm Rashidah Binte Abdullah
@@ -83,6 +84,14 @@ To nurture confident learners and caring individuals proficient in their Mother 
     *   <img src="/images/QR-Code-5-150x150.jpeg" style="width:20%">
     *   TL e-Newsletter Part 6 (2021), please click&nbsp;[here](https://online.pubhtml5.com/qlbe/vhjp/)&nbsp;or use the following QR code
     *   <img src="/images/QR-Code-6-150x150.jpeg" style="width:20%">
+    *   TL e-Newsletter Part 7 (2022) - Please scan the following QR Code.
+    *   ![](/images/Edition_7_E_Newsletter_2022.png)
+    *   TL e-Newsletter Part 8 (2022) - Please scan the following QR Code.
+    *   ![](/images/Edition_8_E_Newsletter_2022.png)
+    *   TL e-Newsletter Part 9 (2023) - Please scan the following QR Code.
+    *   ![](/images/2023_E_Newsletter_Edition_9_QR_Code.jpeg)
+    *   TL e-Newsletter Part 10 (2023) - Please scan the following QR Code.
+    *   ![](/images/Edition_10_E_Newsletter_QR_Code_2023_.jpeg)
 
 **Gallery**
 
