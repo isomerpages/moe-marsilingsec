@@ -3,6 +3,7 @@ title: Concert Band
 permalink: /curriculum/ccas/performing-arts/concertband/
 description: ""
 third_nav_title: CCA Visual and Performing Arts
+variant: markdown
 ---
 **Teachers-in-charge**  
 Miss Samhita Roy (OIC)  
@@ -42,6 +43,8 @@ Percussion Ensemble: Certificate of Accomplishment
 Brass Ensemble: Certificate of Accomplishment
 
 _SYF Arts Presentation 2021_ – Certificate of Accomplishment
+
+_SYF Arts Presentation 2023_ – Certificate of Accomplishment
 
 **Gallery**
 
