@@ -1247,17 +1247,18 @@ Marsiling Secondary School’s Parents’ Support Group would like to extend it�
 
 We would like to invite all newly Secondary 1 parents to join for a parenting talk session on:
 
-**‘Transition to Secondary 1”**
+**‘Transition to Secondary 1'**
 
 **Tuesday 2 January 2024 @ 8 am**
 
+Please scan the QR code below for the registration by **Wednesday 27 December 2023**.
 ![](/images/QR_Code_for_Parenting_Talk.jpg)
 
 [Secondary 1 Parents info slides](/files/Sec_1_Parents_info_slides_Dec2023.pdf)
 
 [FSS Introduction letter Sec 1 2023 Care Corner Singapore](/files/FFL_Intro_letter_Sec_1.pdf)
 
-
+[Care Corner Families For Life (Video)](https://youtu.be/3j3ZSaYUGOU)
 
 **15.&nbsp; For other matters, please**
 
