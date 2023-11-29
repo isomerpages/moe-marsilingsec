@@ -27,13 +27,142 @@ We would like to invite all Secondary 1 parents and students to join us on:
 
 **Time:** 8.00am - 12.00pm
 
-<table border="1" width="111.31%" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 634px; width: 1191.33px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 28px;"><td width="24%" style="box-sizing: inherit; padding: 5px 10px; height: 28px;"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Time</strong></p></td><td width="42%" style="box-sizing: inherit; padding: 5px 10px; height: 28px;"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Activity</strong></p></td><td width="32%" style="box-sizing: inherit; padding: 5px 10px; height: 28px;"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Venue</strong></p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 160px;"><td width="24%" style="box-sizing: inherit; padding: 5px 10px; height: 160px;"><p style="box-sizing: inherit; font-size: 1em;">8.00am – 9.30am</p></td><td width="42%" style="box-sizing: inherit; padding: 5px 10px; height: 160px;"><p style="box-sizing: inherit; font-size: 1em;">Parent-Teacher Meeting</p></td><td width="32%" style="box-sizing: inherit; padding: 5px 10px; height: 160px;"><p style="box-sizing: inherit; font-size: 1em;">Respective</p><p style="box-sizing: inherit; font-size: 1em;">Sec 1 classrooms</p></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 223px;"><td width="24%" style="box-sizing: inherit; padding: 5px 10px; height: 223px;"><p style="box-sizing: inherit; font-size: 1em;">9.30am- 11.00 am</p></td><td width="42%" style="box-sizing: inherit; padding: 5px 10px; height: 223px;"><p style="box-sizing: inherit; font-size: 1em;">Opening Address by Principal, MSS</p><p style="box-sizing: inherit; font-size: 1em;">CCA Talk by HOD PE/CCA</p><p style="box-sizing: inherit; font-size: 1em;">Performances</p></td><td width="32%" style="box-sizing: inherit; padding: 5px 10px; height: 223px;"><p style="box-sizing: inherit; font-size: 1em;">School Hall</p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 223px;"><td width="24%" style="box-sizing: inherit; padding: 5px 10px; height: 223px;"><p style="box-sizing: inherit; font-size: 1em;">11.00am- 12.00pm</p></td><td width="42%" style="box-sizing: inherit; padding: 5px 10px; height: 223px;"><p style="box-sizing: inherit; font-size: 1em;">Uniformed Group Presentation</p><p style="box-sizing: inherit; font-size: 1em;">CCA Booth Interaction</p></td><td width="32%" style="box-sizing: inherit; padding: 5px 10px; height: 223px;"><p style="box-sizing: inherit; font-size: 1em;">Parade square</p><p style="box-sizing: inherit; font-size: 1em;">Free &amp; Easy for parents</p><p style="box-sizing: inherit; font-size: 1em;">and students</p></td></tr></tbody></table>
+
+
+<table style="width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:
+ .5pt solid windowtext" width="100%" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:21.0pt"><td style="width:24.48%;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
+  background1;padding:3.75pt 7.5pt 3.75pt 7.5pt;height:21.0pt" valign="top" width="24%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">Time</span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:42.86%;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:white;mso-background-themecolor:background1;
+  padding:3.75pt 7.5pt 3.75pt 7.5pt;height:21.0pt" valign="top" width="42%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">Activity</span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:32.66%;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:white;mso-background-themecolor:background1;
+  padding:3.75pt 7.5pt 3.75pt 7.5pt;height:21.0pt" valign="top" width="32%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">Venue</span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td></tr><tr style="mso-yfti-irow:1;height:57.25pt"><td style="width:24.48%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:white;mso-background-themecolor:background1;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:57.25pt" valign="top" width="24%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">8.00am – 9.30am</span><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td><td style="width:42.86%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
+  background1;padding:3.75pt 7.5pt 3.75pt 7.5pt;height:57.25pt" valign="top" width="42%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Parent-Teacher Meeting</span><span style="font-size:
+  12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td><td style="width:32.66%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
+  background1;padding:3.75pt 7.5pt 3.75pt 7.5pt;height:57.25pt" valign="top" width="32%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Respective</span><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Sec 1 classrooms</span><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td></tr><tr style="mso-yfti-irow:2;height:95.25pt"><td style="width:24.48%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:white;mso-background-themecolor:background1;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:95.25pt" valign="top" width="24%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">9.30am- 11.00 am</span><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td><td style="width:42.86%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
+  background1;padding:3.75pt 7.5pt 3.75pt 7.5pt;height:95.25pt" valign="top" width="42%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Opening Address by Principal, MSS</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">CCA Talk by HOD PE/CCA</span><span style="font-size:
+  12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Performances</span><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td><td style="width:32.66%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
+  background1;padding:3.75pt 7.5pt 3.75pt 7.5pt;height:95.25pt" valign="top" width="32%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">School Hall</span><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:81.1pt"><td style="width:24.48%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:white;mso-background-themecolor:background1;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:81.1pt" valign="top" width="24%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">11.00am- 12.00pm</span><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td><td style="width:42.86%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
+  background1;padding:3.75pt 7.5pt 3.75pt 7.5pt;height:81.1pt" valign="top" width="42%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Uniformed Group Presentation</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">CCA Booth Interaction</span><span style="font-size:
+  12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td><td style="width:32.66%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
+  background1;padding:3.75pt 7.5pt 3.75pt 7.5pt;height:81.1pt" valign="top" width="32%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Parade square</span><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Free &amp; Easy for parents</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">and students</span><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td></tr></tbody></table>
 
 **2.&nbsp; Class allocation:**
 
 Sec 1 class allocation will be informed to parents/students via
 
-*   Parents Gateway&nbsp;**by Thursday, (date to be confirmed), 2.30 pm**&nbsp;and
+*   Parents Gateway&nbsp;**(date to be confirmed), 2.30 pm**&nbsp;and
 *   Poster board in school near the canteen (parents/students can check if proceeding to school to purchase the school textbook/uniforms)
 
 For parents who would like to find out about the class allocation, you may reach out to us after 2.30 pm via:
@@ -50,20 +179,288 @@ Click on the links for the booklists for the respective streams.
 [Secondary 1 G3](/files/S1__G3__2024_Booklist.pdf)
 
 
-
 | Thursday <br> 21 December <br>1pm to 3pm | Friday <br> 22 December <br>9am to 3pm | Tues - Fri <br> 26 - 29 December <br>9am to 3pm |
 | -------- | -------- | -------- |
 | Sec 1 N)A)/G2 <br>Sec 1 Express/G3     | Sec 1 N(A)/G2 <br>Sec 1 N(T) / G1     | Sec 1 Express/G3<br>Sec 1 N(A)/G2<br>Sec 1 N(T) / G1     |
 
-
-
-_For selected Subject Based Banding (SBB) students, please be reminded to purchase higher streamed books for the SBB subjects. (For the SBB subjects, do not buy for both streams)_&nbsp;
+_For selected students reading subjects at More Demanding Level (MDL), please be reminded to purchase the appropriate level (e.g. G3/G2) books for the relevant subjects. **If in doubt, kindly do not write student name on purchased books (to facilitate exchange of books, if possible).**_
 
 **4.&nbsp; Information on School Reporting and First Week of School**
 
-<table border="1" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 900px; width: 1191.33px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 88px;"><td width="142" style="box-sizing: inherit; padding: 5px 10px; height: 88px;"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Date</strong></p></td><td width="80" style="box-sizing: inherit; padding: 5px 10px; height: 88px;"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Time</strong></p></td><td width="150" style="box-sizing: inherit; padding: 5px 10px; height: 88px;"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Activity</strong></p></td><td width="122" style="box-sizing: inherit; padding: 5px 10px; height: 88px;"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Attire</strong></p></td><td width="122" style="box-sizing: inherit; padding: 5px 10px; height: 88px;"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">What to Bring</strong></p></td><td width="122" style="box-sizing: inherit; padding: 5px 10px; height: 88px;"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Recess</strong></p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 203px;"><td width="142" style="box-sizing: inherit; padding: 5px 10px; height: 203px;"><p style="box-sizing: inherit; font-size: 1em;">Tues, 3 Jan 2023</p></td><td width="80" style="box-sizing: inherit; padding: 5px 10px; height: 203px;"><p style="box-sizing: inherit; font-size: 1em;">7.45am -2.00pm</p></td><td width="150" style="box-sizing: inherit; padding: 5px 10px; height: 203px;"><p style="box-sizing: inherit; font-size: 1em;">Start It Right</p></td><td width="122" style="box-sizing: inherit; padding: 5px 10px; height: 203px;"><p style="box-sizing: inherit; font-size: 1em;">School Uniform</p></td><td width="122" style="box-sizing: inherit; padding: 5px 10px; height: 203px;"><p style="box-sizing: inherit; font-size: 1em;">Writing Materials (stationery and notebook)</p><p style="box-sizing: inherit; font-size: 1em;">Personal expenses for food etc.</p></td><td width="122" style="box-sizing: inherit; padding: 5px 10px; height: 203px;">&nbsp;</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 203px;"><td width="142" style="box-sizing: inherit; padding: 5px 10px; height: 203px;"><p style="box-sizing: inherit; font-size: 1em;">Wed, 4 Jan 2023</p></td><td width="80" style="box-sizing: inherit; padding: 5px 10px; height: 203px;"><p style="box-sizing: inherit; font-size: 1em;">7.45am -2.30pm</p></td><td width="150" style="box-sizing: inherit; padding: 5px 10px; height: 203px;"><p style="box-sizing: inherit; font-size: 1em;">Start It Right</p><p style="box-sizing: inherit; font-size: 1em;">SMART Study Skills</p></td><td width="122" style="box-sizing: inherit; padding: 5px 10px; height: 203px;"><p style="box-sizing: inherit; font-size: 1em;">School Uniform</p></td><td width="122" style="box-sizing: inherit; padding: 5px 10px; height: 203px;"><p style="box-sizing: inherit; font-size: 1em;">Writing Materials (stationery and notebook)</p><p style="box-sizing: inherit; font-size: 1em;">Personal expenses for food etc.</p></td><td width="122" style="box-sizing: inherit; padding: 5px 10px; height: 203px;">&nbsp;</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 203px;"><td width="142" style="box-sizing: inherit; padding: 5px 10px; height: 203px;"><p style="box-sizing: inherit; font-size: 1em;">Thurs, 5 Jan 2023</p></td><td width="80" style="box-sizing: inherit; padding: 5px 10px; height: 203px;"><p style="box-sizing: inherit; font-size: 1em;">7.45am -4.30pm</p></td><td width="150" style="box-sizing: inherit; padding: 5px 10px; height: 203px;"><p style="box-sizing: inherit; font-size: 1em;">SMART Study Skills</p><p style="box-sizing: inherit; font-size: 1em;">Orientation</p></td><td width="122" style="box-sizing: inherit; padding: 5px 10px; height: 203px;"><p style="box-sizing: inherit; font-size: 1em;">School PE Top</p><p style="box-sizing: inherit; font-size: 1em;">School Uniform Shorts/Skirt</p></td><td width="122" style="box-sizing: inherit; padding: 5px 10px; height: 203px;"><p style="box-sizing: inherit; font-size: 1em;">Writing Materials (stationery and notebook)</p><p style="box-sizing: inherit; font-size: 1em;">Personal expenses for food etc.</p></td><td width="122" style="box-sizing: inherit; padding: 5px 10px; height: 203px;">&nbsp;</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 203px;"><td width="142" style="box-sizing: inherit; padding: 5px 10px; height: 203px;"><p style="box-sizing: inherit; font-size: 1em;">Fri, 6 Jan 2023</p></td><td width="80" style="box-sizing: inherit; padding: 5px 10px; height: 203px;"><p style="box-sizing: inherit; font-size: 1em;">7.45am -12.30pm</p></td><td width="150" style="box-sizing: inherit; padding: 5px 10px; height: 203px;"><p style="box-sizing: inherit; font-size: 1em;">Orientation</p></td><td width="122" style="box-sizing: inherit; padding: 5px 10px; height: 203px;"><p style="box-sizing: inherit; font-size: 1em;">School PE Attire</p></td><td width="122" style="box-sizing: inherit; padding: 5px 10px; height: 203px;"><p style="box-sizing: inherit; font-size: 1em;">Writing Materials (stationery and notebook)</p><p style="box-sizing: inherit; font-size: 1em;">Personal expenses for food etc.</p></td><td width="122" style="box-sizing: inherit; padding: 5px 10px; height: 203px;">&nbsp;</td></tr></tbody></table>
 
-Information with regards to the Secondary 1 students’ class allocation with be communicated through Parents’ Gateway (PG) after the Sec 1 Registration information in Dec 2022.
+
+<table style="width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:
+ .5pt solid windowtext" width="100%" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:38.95pt"><td style="width:18.92%;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:38.95pt" valign="top" width="18%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">Date</span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:12.34%;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:38.95pt" valign="top" width="12%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">Time</span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:19.98%;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:38.95pt" valign="top" width="19%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">Activity</span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:16.26%;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:38.95pt" valign="top" width="16%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">Attire</span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:16.26%;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:38.95pt" valign="top" width="16%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">What to Bring</span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:16.26%;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:38.95pt" valign="top" width="16%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">Recess</span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td></tr><tr style="mso-yfti-irow:1;height:133.15pt"><td style="width:18.92%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt;height:133.15pt" valign="top" width="18%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">Tues, 2 Jan 2024</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:12.34%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:133.15pt" valign="top" width="12%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">7.30am -2.00pm</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:19.98%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:133.15pt" valign="top" width="19%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">Start It Right</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:16.26%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:133.15pt" valign="top" width="16%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">School Uniform</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:16.26%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:133.15pt" valign="top" width="16%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">Writing Materials (stationery and notebook)</span><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></p><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">Personal expenses for food etc.</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:16.26%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:133.15pt" valign="top" width="16%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">9.00am-9.30am</span><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td></tr><tr style="mso-yfti-irow:2;height:134.45pt"><td style="width:18.92%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt;height:134.45pt" valign="top" width="18%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">Wed, 3 Jan 2024</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:12.34%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:134.45pt" valign="top" width="12%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">7.30am -2.30pm</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:19.98%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:134.45pt" valign="top" width="19%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">-Start It Right</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">-SMART Study Skills</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:16.26%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:134.45pt" valign="top" width="16%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">School Half-Uniform</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">(School PE T-shirt with Uniform Shorts/Skirt)</span><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></p></td><td style="width:16.26%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:134.45pt" valign="top" width="16%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">Writing Materials (stationery and notebook)</span><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></p><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">Personal expenses for food etc.</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:16.26%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:134.45pt" valign="top" width="16%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">9.30am-10.00am</span><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td></tr><tr style="mso-yfti-irow:3;height:133.65pt"><td style="width:18.92%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt;height:133.65pt" valign="top" width="18%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">Thurs, 4 Jan 2024</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:12.34%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:133.65pt" valign="top" width="12%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">7.30am -4.30pm</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:19.98%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:133.65pt" valign="top" width="19%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">-SMART Study Skills</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">-Orientation</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:16.26%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:133.65pt" valign="top" width="16%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">School Half-Uniform</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">(School PE T-shirt with Uniform Shorts/Skirt)</span><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></p></td><td style="width:16.26%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:133.65pt" valign="top" width="16%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">Writing Materials (stationery and notebook)</span><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></p><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">Personal expenses for food etc.</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:16.26%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:133.65pt" valign="top" width="16%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">9.00am-9.30am</span><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:133.55pt"><td style="width:18.92%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt;height:133.55pt" valign="top" width="18%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">Fri, 5 Jan 2024</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:12.34%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:133.55pt" valign="top" width="12%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">7.30am -12.30pm</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:19.98%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:133.55pt" valign="top" width="19%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">Orientation</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:16.26%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:133.55pt" valign="top" width="16%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">School PE Attire</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:16.26%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:133.55pt" valign="top" width="16%"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">Writing Materials (stationery and notebook)</span><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></p><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">Personal expenses for food etc.</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:16.26%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:133.55pt" valign="top" width="16%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">9.30am-10.00am</span><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td></tr></tbody></table>
+
+Information with regards to the Secondary 1 students’ class allocation with be communicated through Parents’ Gateway (PG) after the Sec 1 Registration information in Dec 2023.
 
 For parents who do not use PG or would like to find out about the class allocation, you may reach out to us via:
 
@@ -86,34 +483,150 @@ We strongly encourage all parents to download and use the PG APP as the school w
 
 [More Information on Parents Gateway](https://marsilingsec.moe.edu.sg/resources/for-parents/pg/)
 
-**7.&nbsp; Subject Based Banding (SBB)**
+**7.&nbsp; Full Subject Based Banding (SBB)**
 
-For information regarding Subject Based Banding (SBB) in Marsiling Sec Sch, please view this document:&nbsp;
+For information regarding Full Subject Based Banding (FSBB) in Marsiling Sec Sch, please view this document:&nbsp;
 
-[SBB Briefing for Parents (2023 Sec 1 posting)](/files/Sec%201%20Reg/SBB-Briefing-for-Parents-2023-Sec-1-posting.pdf)
+[FSBB Briefing for Parents (2024 Sec 1 Posting)](/files/FSBB_Parents_Engagement__2024_Sec_1_Posting_.pdf)
 
-For Sec 1 students who are eligible to read subject(s) at a more demanding level, our school personnel will be reaching out to the relevant students’ parents after the Sec 1 Registration in December 2022 to provide further guidance.
+For Sec 1 students who are eligible to read subject(s) at a More Demanding Level, our school personnel will be reaching out to the relevant students’ parents after the Sec 1 Registration in December 2022 to provide further guidance.
 
 **8.&nbsp; Application for 3rd&nbsp;Language**
 
-Results for the application will be informed to the selected students after Sec 1 registration 2022.
+Results for the application will be informed to the selected students after Sec 1 registration 2023.
 
 Students whose application are approved will have to register online with the respective centres: MOE Language Centre (MOELC) or Malay/Chinese Special Programme (MSP/CSP) Zonal Centres.
 
 **9.&nbsp; School Rules and Regulations**
 
-Students’ discipline is paramount in creating a safe and conducive environment for effective teaching and learning to take place. The school rules and regulations are put in place so as to achieve this purpose. The school rules and regulations will take reference from MSS Student’s Handbook.
+Students’ discipline is paramount in creating a safe and conducive environment for effective teaching and learning to take place. The school rules and regulations are put in place so as to achieve this purpose. The school rules and regulations are clearly stated in the MSS Student’s Handbook and all students are expected to read and understand them.
 
-General Expectations:
+**Summary of general expectations**
 
-*   All absences from school must be accounted for with valid reasons. (eg MCs or any official documentation)
-*   All students must be in school, ready to start the day by 7:30am.
-*   Students are to adhere to prescribed school uniform. Modification to the uniform is not allowed.
-*   General grooming: All students must present themselves neatly in accordance to the school going students.
-*   Students are reminded not to bring prohibited items to school.
-*   Mobile phones: Students are allowed to bring mobile phones to school however they are NOT ALLOWED to use their mobile phones in school except during recess at only designated areas.
+<table style="width:99.9%;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" width="99%" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:14.74%;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#A6A6A6;mso-background-themecolor:
+  background1;mso-background-themeshade:166;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="14%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Area</span></b><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></b></p></td><td style="width:85.26%;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:#A6A6A6;mso-background-themecolor:background1;
+  mso-background-themeshade:166;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="85%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Expectations</span></b><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:14.74%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="14%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">Attendance</span></p></td><td style="width:85.26%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="85%"><ul type="disc"><li style="color:#222222;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;line-height:normal;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt;
+       background:white" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+       mso-fareast-font-family:&quot;Times New Roman&quot;">All absences from school must be accounted for with valid reasons. (eg. Medical certificate or any official documentation)</span></li></ul></td></tr><tr style="mso-yfti-irow:2"><td style="width:14.74%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="14%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">Punctuality</span></p></td><td style="width:85.26%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="85%"><ul type="disc"><li style="color:#222222;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;line-height:normal;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt;
+       background:white" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+       mso-fareast-font-family:&quot;Times New Roman&quot;">Students must be in school by 7:30am daily except for Wednesday (7.15am due to early start day)</span></li><li style="color:#222222;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;line-height:normal;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt;
+       background:white" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+       mso-fareast-font-family:&quot;Times New Roman&quot;">Students who are Singapore citizens must sing the National Anthem and take the Pledge (right fist placed over the heart).</span></b></li></ul></td></tr><tr style="mso-yfti-irow:3"><td style="width:14.74%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="14%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">Attire</span></p></td><td style="width:85.26%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="85%"><ul type="disc"><li style="color:#222222;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;line-height:normal;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt;
+       background:white" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+       mso-fareast-font-family:&quot;Times New Roman&quot;">Students are to adhere to the prescribed school uniform and modification to the uniform is not allowed.</span></b></li><li style="color:#222222;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;line-height:normal;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt;
+       background:white" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+       mso-fareast-font-family:&quot;Times New Roman&quot;">Students are expected to wear full uniform on Mondays and half uniform from Tuesday-Friday.</span></li><li style="color:#222222;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;line-height:normal;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt;
+       background:white" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+       mso-fareast-font-family:&quot;Times New Roman&quot;">Students may wear official school-related T-shirts on Fridays only.</span></li></ul></td></tr><tr style="mso-yfti-irow:4"><td style="width:14.74%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="14%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">Grooming</span></p></td><td style="width:85.26%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="85%"><ul type="disc"><li style="color:#222222;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;line-height:normal;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt;
+       background:white" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+       mso-fareast-font-family:&quot;Times New Roman&quot;">All students must always present themselves neatly as school going students.</span></li><li style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;line-height:normal;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt;
+       background:white" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+       mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:
+       windowtext">Students with dyed hair will not be allowed to join the class.</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+       mso-fareast-font-family:&quot;Times New Roman&quot;"></span></li><li style="color:#222222;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;line-height:normal;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt;
+       background:white" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+       mso-fareast-font-family:&quot;Times New Roman&quot;">Boys are not allowed to wear facial hair (moustache or beard)</span></b></li></ul></td></tr><tr style="mso-yfti-irow:5"><td style="width:14.74%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="14%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">Safety</span></p></td><td style="width:85.26%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="85%"><ul type="disc"><li style="color:#222222;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;line-height:normal;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt;
+       background:white" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+       mso-fareast-font-family:&quot;Times New Roman&quot;">Students are not allowed to bring prohibited items to school such as:</span></li></ul><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;margin-left:72.0pt;mso-add-space:auto;text-indent:-18.0pt;line-height:
+  normal;mso-list:l0 level2 lfo1;background:white" class="MsoListParagraphCxSpFirst"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">contraband items</span></p><p style="mso-margin-top-alt:auto;
+  mso-margin-bottom-alt:auto;margin-left:72.0pt;mso-add-space:auto;text-indent:
+  -18.0pt;line-height:normal;mso-list:l0 level2 lfo1;background:white" class="MsoListParagraphCxSpMiddle"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">sharp objects (including scissors)</span></p><p style="mso-margin-top-alt:auto;
+  mso-margin-bottom-alt:auto;margin-left:72.0pt;mso-add-space:auto;text-indent:
+  -18.0pt;line-height:normal;mso-list:l0 level2 lfo1;background:white" class="MsoListParagraphCxSpMiddle"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">personal sports equipment</span></p><p style="mso-margin-top-alt:auto;
+  mso-margin-bottom-alt:auto;margin-left:72.0pt;mso-add-space:auto;text-indent:
+  -18.0pt;line-height:normal;mso-list:l0 level2 lfo1;background:white" class="MsoListParagraphCxSpMiddle"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">games and toys</span></p><p style="mso-margin-top-alt:auto;
+  mso-margin-bottom-alt:auto;margin-left:72.0pt;mso-add-space:auto;text-indent:
+  -18.0pt;line-height:normal;mso-list:l0 level2 lfo1;background:white" class="MsoListParagraphCxSpMiddle"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">electronic devices</span></p><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;mso-add-space:auto;text-indent:-18.0pt;line-height:normal;mso-list:l3 level1 lfo3;
+  background:white" class="MsoListParagraphCxSpLast"><span style="font-size:12.0pt;
+  font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;
+  color:#222222;mso-bidi-font-weight:bold"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222">Students are not allowed to bring any weapons or weapon-like items to school.</span></b></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:14.74%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="14%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">Mobile phone</span></p></td><td style="width:85.26%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="85%"><p style="margin-bottom:0cm;mso-add-space:
+  auto;text-indent:-18.0pt;line-height:normal;mso-list:l1 level1 lfo2" class="MsoListParagraphCxSpFirst"><span style="font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222">Students are allowed to bring mobile phones to school however they are NOT ALLOWED to use their mobile phones in school except during recess at only designated areas.</span><span style="font-size:
+  12.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-bottom:0cm;mso-add-space:
+  auto;text-indent:-18.0pt;line-height:normal;mso-list:l1 level1 lfo2" class="MsoListParagraphCxSpMiddle"><span style="font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Students involved in disciplinary offences will have their mobile phones surrendered and checked by the school staff for investigation purposes.</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-bottom:0cm;mso-add-space:
+  auto;line-height:normal" class="MsoListParagraphCxSpLast"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:7"><td style="width:14.74%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="14%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">Smoking/</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">Vaping</span></p></td><td style="width:85.26%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="85%"><p style="margin-bottom:0cm;mso-add-space:
+  auto;text-indent:-18.0pt;line-height:normal;mso-list:l1 level1 lfo2" class="MsoListParagraphCxSpFirst"><span style="font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">Students involved in smoking/vaping (any kind of involvement) will serve serious consequences.</span></p><p style="margin-bottom:0cm;mso-add-space:
+  auto;text-indent:-18.0pt;line-height:normal;mso-list:l1 level1 lfo2" class="MsoListParagraphCxSpLast"><span style="font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">Students who do not smoke/vape but found in the company of those who do will face equal consequences.</span></p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes"><td style="width:14.74%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="14%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">Cyber-related offences</span></p></td><td style="width:85.26%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="85%"><p style="margin-bottom:0cm;mso-add-space:
+  auto;text-indent:-18.0pt;line-height:normal;mso-list:l2 level1 lfo4" class="MsoListParagraphCxSpFirst"><span style="font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">Students involved in inappropriate activities online will surrender their mobile phone for investigation purposes and face consequences.</span></p><p style="margin-bottom:0cm;mso-add-space:
+  auto;line-height:normal" class="MsoListParagraphCxSpLast"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif"><span style="mso-spacerun:yes">&nbsp;</span></span></p></td></tr></tbody></table>
 
-[Please click for further information on school rules and regulations](/files/Sec%201%20Reg/School-Rules-and-Regulation.pdf)
 
 **10.&nbsp; School Information**
 
@@ -121,11 +634,11 @@ General Expectations:
 
 &nbsp;**a) School Terms, School Vacations and Scheduled School Holidays**
 
-[**Click here for School Terms, School Vacations and Scheduled School Holidays for 2023**](https://www.moe.gov.sg/education/school-terms-and-important-dates#pri-sec-sch-term-2023)
+[**Click here for School Terms, School Vacations and Scheduled School Holidays for 2024**](https://www.moe.gov.sg/news/press-releases/20230807-school-terms-and-holidays-for-2024)
 
 &nbsp;&nbsp;**b) Curriculum Hours**
 
-<table border="1" width="577" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 83px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 277.5px;">Monday to Thursday</td><td style="box-sizing: inherit; padding: 5px 10px; width: 284.907px;">0740 – 1400 hrs**</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 277.5px;">Friday</td><td style="box-sizing: inherit; padding: 5px 10px; width: 284.907px;">0740 – 1230 hrs**</td></tr></tbody></table>
+<table border="1" width="577" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 83px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 277.5px;">Monday to Thursday</td><td style="box-sizing: inherit; padding: 5px 10px; width: 284.907px;">0745 – 1400 hrs**</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 277.5px;">Friday</td><td style="box-sizing: inherit; padding: 5px 10px; width: 284.907px;">0745 – 1230 hrs**</td></tr></tbody></table>
 
 Students are to report to school&nbsp;**by 7.30 am.**
 
@@ -133,13 +646,463 @@ Students are to report to school&nbsp;**by 7.30 am.**
 
 **c) Subjects Offered at Secondary 1:**
 
-[![2023 Sec 1 Subjects 1](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/12/2023-Sec-1-Subjects_1.png)](https://marsilingsec.moe.edu.sg/wp-content/uploads/2020/12/2023-Sec-1-Subjects_1.png)
+<table style="width:74.72%;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:
+ .5pt solid windowtext" width="74%" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:27.6pt"><td style="width:33.2%;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:27.6pt" valign="top" width="33%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">G1</span></b><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></p></td><td style="width:34.72%;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:27.6pt" valign="top" width="34%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">G2</span></b><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></p></td><td style="width:32.08%;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:27.6pt" valign="top" width="32%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">G3</span></b><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></p></td></tr><tr style="mso-yfti-irow:1;height:27.6pt"><td style="width:33.2%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt;height:27.6pt" valign="top" width="33%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">English</span><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></p></td><td style="width:34.72%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:27.6pt" valign="top" width="34%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">English</span><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></p></td><td style="width:32.08%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:27.6pt" valign="top" width="32%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">English</span><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></p></td></tr><tr style="mso-yfti-irow:2;height:27.6pt"><td style="width:33.2%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt;height:27.6pt" valign="top" width="33%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Mother Tongue</span><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td><td style="width:34.72%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:27.6pt" valign="top" width="34%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Mother Tongue</span><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td><td style="width:32.08%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:27.6pt" valign="top" width="32%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Mother Tongue</span><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td></tr><tr style="mso-yfti-irow:3;height:27.6pt"><td style="width:33.2%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt;height:27.6pt" valign="top" width="33%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Mathematics</span><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td><td style="width:34.72%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:27.6pt" valign="top" width="34%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Mathematics</span><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td><td style="width:32.08%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:27.6pt" valign="top" width="32%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Mathematics</span><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td></tr><tr style="mso-yfti-irow:4;height:27.6pt"><td style="width:33.2%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt;height:27.6pt" valign="top" width="33%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Science</span><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></p></td><td style="width:34.72%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:27.6pt" valign="top" width="34%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Science</span><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></p></td><td style="width:32.08%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:27.6pt" valign="top" width="32%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Science</span><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></p></td></tr><tr style="mso-yfti-irow:5;height:27.6pt"><td style="width:33.2%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt;height:27.6pt" valign="top" width="33%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Social Studies<s></s></span><s><span style="font-size:
+  12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></s></p></td><td style="width:34.72%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:27.6pt" valign="top" width="34%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Literature</span><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td><td style="width:32.08%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:27.6pt" valign="top" width="32%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Literature</span><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td></tr><tr style="mso-yfti-irow:6;height:27.6pt"><td style="width:33.2%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:white;mso-background-themecolor:background1;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:27.6pt" valign="top" width="33%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Art</span><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></p></td><td style="width:34.72%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
+  background1;padding:3.75pt 7.5pt 3.75pt 7.5pt;height:27.6pt" valign="top" width="34%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Art</span><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></p></td><td style="width:32.08%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
+  background1;padding:3.75pt 7.5pt 3.75pt 7.5pt;height:27.6pt" valign="top" width="32%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Art</span><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></p></td></tr><tr style="mso-yfti-irow:7;height:27.6pt"><td style="width:33.2%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt;height:27.6pt" valign="top" width="33%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Design &amp; Technology</span><span style="font-size:
+  12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td><td style="width:34.72%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:27.6pt" valign="top" width="34%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Design &amp; Technology</span><span style="font-size:
+  12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td><td style="width:32.08%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:27.6pt" valign="top" width="32%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Design &amp; Technology</span><span style="font-size:
+  12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td></tr><tr style="mso-yfti-irow:8;height:27.6pt"><td style="width:33.2%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:white;mso-background-themecolor:background1;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:27.6pt" valign="top" width="33%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Nutrition and Food Science</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:34.72%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
+  background1;padding:3.75pt 7.5pt 3.75pt 7.5pt;height:27.6pt" valign="top" width="34%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Nutrition and Food Science</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:32.08%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
+  background1;padding:3.75pt 7.5pt 3.75pt 7.5pt;height:27.6pt" valign="top" width="32%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Nutrition and Food Science</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td></tr><tr style="mso-yfti-irow:9;height:27.6pt"><td style="width:33.2%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt;height:27.6pt" valign="top" width="33%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Music</span><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></p></td><td style="width:34.72%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:27.6pt" valign="top" width="34%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Music</span><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></p></td><td style="width:32.08%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:27.6pt" valign="top" width="32%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Music</span><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></p></td></tr><tr style="mso-yfti-irow:10;height:27.6pt"><td style="width:33.2%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:gray;mso-background-themecolor:background1;mso-background-themeshade:
+  128;padding:3.75pt 7.5pt 3.75pt 7.5pt;height:27.6pt" valign="top" width="33%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:TA">&nbsp;</span></p></td><td style="width:34.72%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
+  background1;padding:3.75pt 7.5pt 3.75pt 7.5pt;height:27.6pt" valign="top" width="34%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Geography</span><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td><td style="width:32.08%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
+  background1;padding:3.75pt 7.5pt 3.75pt 7.5pt;height:27.6pt" valign="top" width="32%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Geography</span><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td></tr><tr style="mso-yfti-irow:11;mso-yfti-lastrow:yes;height:27.6pt"><td style="width:33.2%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:gray;mso-background-themecolor:background1;mso-background-themeshade:
+  128;padding:3.75pt 7.5pt 3.75pt 7.5pt;height:27.6pt" valign="top" width="33%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:TA">&nbsp;</span></p></td><td style="width:34.72%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:27.6pt" valign="top" width="34%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">History</span><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></p></td><td style="width:32.08%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt;
+  height:27.6pt" valign="top" width="32%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">History</span><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></p></td></tr></tbody></table>
 
 **d) CCAs offered in Marsiling Secondary School:**
 
-<table border="1" width="744" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 355px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 178.241px;"><strong style="box-sizing: inherit; font-weight: bold;">Uniformed Groups</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 186.389px;"><strong style="box-sizing: inherit; font-weight: bold;">Sports &amp; Games</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 172.315px;"><strong style="box-sizing: inherit; font-weight: bold;">Clubs &amp; Societies</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 181.944px;"><strong style="box-sizing: inherit; font-weight: bold;">Performing Arts</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 178.241px;">Boys’ Brigade</td><td style="box-sizing: inherit; padding: 5px 10px; width: 186.389px;">Badminton (Boys &amp; Girls)</td><td style="box-sizing: inherit; padding: 5px 10px; width: 172.315px;">Audio Video &amp; Information Technology Club</td><td style="box-sizing: inherit; padding: 5px 10px; width: 181.944px;">Chinese Orchestra</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 178.241px;">NPCC</td><td style="box-sizing: inherit; padding: 5px 10px; width: 186.389px;">Floorball (Girls)</td><td style="box-sizing: inherit; padding: 5px 10px; width: 172.315px;">Scrabble</td><td style="box-sizing: inherit; padding: 5px 10px; width: 181.944px;">International Dance</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 178.241px;">NCC (Sea) (Boys only)</td><td style="box-sizing: inherit; padding: 5px 10px; width: 186.389px;">Sepak Takraw (Boys only)</td><td style="box-sizing: inherit; padding: 5px 10px; width: 172.315px;">English Drama Club</td><td style="box-sizing: inherit; padding: 5px 10px; width: 181.944px;">Malay Dance</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 178.241px;">Red Cross Youth</td><td style="box-sizing: inherit; padding: 5px 10px; width: 186.389px;">&nbsp;</td><td style="box-sizing: inherit; padding: 5px 10px; width: 172.315px;">Art Club</td><td style="box-sizing: inherit; padding: 5px 10px; width: 181.944px;">Concert Band</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 178.241px;">&nbsp;</td><td style="box-sizing: inherit; padding: 5px 10px; width: 186.389px;">&nbsp;</td><td style="box-sizing: inherit; padding: 5px 10px; width: 172.315px;">&nbsp;</td><td style="box-sizing: inherit; padding: 5px 10px; width: 181.944px;">English Drama Club</td></tr></tbody></table>
 
-CCA Days: Tuesday and Friday, 3.30pm to 6.30pm
+
+<table style="width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:
+ .5pt solid windowtext" width="100%" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:24.8%;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt" valign="top" width="24%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><a name="_Hlk150876463"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-bidi-language:TA">Uniformed Groups</span></b></a><span style="mso-bookmark:
+  _Hlk150876463"></span><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></span></p></td><td style="width:25.94%;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt" valign="top" width="25%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-bookmark:_Hlk150876463"><b><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">Sports &amp; Games</span></b></span><span style="mso-bookmark:_Hlk150876463"></span><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></span></p></td><td style="width:23.98%;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt" valign="top" width="23%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-bookmark:_Hlk150876463"><b><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">Clubs &amp; Societies</span></b></span><span style="mso-bookmark:_Hlk150876463"></span><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></span></p></td><td style="width:25.3%;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt" valign="top" width="25%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-bookmark:_Hlk150876463"><b><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-bidi-language:TA">Performing Arts</span></b></span><span style="mso-bookmark:_Hlk150876463"></span><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:24.8%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt" valign="top" width="24%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-color-alt:windowtext;mso-bidi-language:TA">Boys’ Brigade</span></span><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></span></p></td><td style="width:25.94%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt" valign="top" width="25%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-color-alt:windowtext;mso-bidi-language:TA">Badminton (Boys &amp; Girls)</span></span><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></span></p></td><td style="width:23.98%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt" valign="top" width="23%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-color-alt:windowtext;mso-bidi-language:TA">Audio Video &amp; Information Technology Club</span></span><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></span></p></td><td style="width:25.3%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt" valign="top" width="25%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-color-alt:windowtext;mso-bidi-language:TA">Chinese Orchestra</span></span><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:24.8%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt" valign="top" width="24%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-color-alt:windowtext;mso-bidi-language:TA">NPCC</span></span><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></span></p></td><td style="width:25.94%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt" valign="top" width="25%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-color-alt:windowtext;mso-bidi-language:TA">Floorball (Girls)</span></span><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></span></p></td><td style="width:23.98%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt" valign="top" width="23%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-color-alt:windowtext;mso-bidi-language:TA">Scrabble</span></span><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></span></p></td><td style="width:25.3%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt" valign="top" width="25%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-color-alt:windowtext;mso-bidi-language:TA">International Dance</span></span><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:24.8%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt" valign="top" width="24%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-color-alt:windowtext;mso-bidi-language:TA">NCC (Sea) (Boys only)</span></span><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></span></p></td><td style="width:25.94%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt" valign="top" width="25%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-color-alt:windowtext;mso-bidi-language:TA">Floorball (Boys)</span></span><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></span></p><span style="mso-bookmark:_Hlk150876463"></span></td><td style="width:23.98%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt" valign="top" width="23%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-color-alt:windowtext;mso-bidi-language:TA">Art Club</span></span><span style="mso-bookmark:_Hlk150876463"><s><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:red;mso-bidi-language:TA"></span></s></span></p></td><td style="width:25.3%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt" valign="top" width="25%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-color-alt:windowtext;mso-bidi-language:TA">Malay Dance</span></span><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:24.8%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt" valign="top" width="24%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-color-alt:windowtext;mso-bidi-language:TA">Red Cross Youth</span></span><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></span></p></td><td style="width:25.94%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt" valign="top" width="25%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-color-alt:windowtext;mso-bidi-language:TA">Sepak Takraw (Boys only)</span></span><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></span></p></td><td style="width:23.98%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt" valign="top" width="23%"><span style="mso-bookmark:_Hlk150876463"></span></td><td style="width:25.3%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt" valign="top" width="25%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-color-alt:windowtext;mso-bidi-language:TA">Concert Band</span></span><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes"><td style="width:24.8%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt" valign="top" width="24%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-color-alt:windowtext;mso-bidi-language:TA">&nbsp;</span></span><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></span></p></td><td style="width:25.94%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt" valign="top" width="25%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-color-alt:windowtext;mso-bidi-language:TA">&nbsp;</span></span><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></span></p></td><td style="width:23.98%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt" valign="top" width="23%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-color-alt:windowtext;mso-bidi-language:TA">&nbsp;</span></span><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></span></p></td><td style="width:25.3%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt" valign="top" width="25%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-color-alt:windowtext;mso-bidi-language:TA">Drama Society</span></span><span style="mso-bookmark:_Hlk150876463"><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></span></p></td></tr></tbody></table>
+
+CCA Days: Tuesday and Friday, 3.30pm to 6.30pm _(may vary from CCA to CCA)_
 
 **e) School Office Opening Hours**
 
@@ -147,19 +1110,101 @@ Mondays to Fridays :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.00 am to 
 
 Closed on Saturdays, Sundays and Public Holidays
 
-**f) School Back Gate Opening Hours**
+**f)&nbsp; School Canteen**
 
-Mondays to Fridays : 6.30am to 7.20am, 1.30pm to 3.30pm, 4.10pm to 6.10pm
-
-Closed on Saturdays, Sundays and Public Holidays
-
-**g)&nbsp; School Canteen**
-
-The average price of a meal with a drink is $2.50.
+The average price of a meal with a drink is $2.70.
 
 These are stalls available in the canteen:
 
-<table border="1" width="756" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 460px; width: 1191.33px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 147.354px;"><strong style="box-sizing: inherit; font-weight: bold;">Stall No</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 373.406px;"><strong style="box-sizing: inherit; font-weight: bold;">Stall Types</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 669.573px;"><strong style="box-sizing: inherit; font-weight: bold;">Food offered</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 147.354px;">Stall 1</td><td style="box-sizing: inherit; padding: 5px 10px; width: 373.406px;">Hot Drinks</td><td style="box-sizing: inherit; padding: 5px 10px; width: 669.573px;">Hot Milo, Hot tea, Hot coffee</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 147.354px;">Stall 2</td><td style="box-sizing: inherit; padding: 5px 10px; width: 373.406px;">Chinese Vegetarian</td><td style="box-sizing: inherit; padding: 5px 10px; width: 669.573px;">Beehoon, Noodle, Fried rice, sushi</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 147.354px;">Stall 3</td><td style="box-sizing: inherit; padding: 5px 10px; width: 373.406px;">Chinese Rice</td><td style="box-sizing: inherit; padding: 5px 10px; width: 669.573px;">Mixed rice, bento rice set</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 147.354px;">Stall 4</td><td style="box-sizing: inherit; padding: 5px 10px; width: 373.406px;">Muslim Rice</td><td style="box-sizing: inherit; padding: 5px 10px; width: 669.573px;">Mixed rice, bento rice set, prata, nasi briyani, fried rice</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 147.354px;">Stall 5</td><td style="box-sizing: inherit; padding: 5px 10px; width: 373.406px;">Chinese Noodle</td><td style="box-sizing: inherit; padding: 5px 10px; width: 669.573px;">Fried noodle, soup noodle, wanton noodle</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 147.354px;">Stall 6</td><td style="box-sizing: inherit; padding: 5px 10px; width: 373.406px;">Western Halal</td><td style="box-sizing: inherit; padding: 5px 10px; width: 669.573px;">Spaghetti, shepherd pie, olive rice</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 147.354px;">Stall 7</td><td style="box-sizing: inherit; padding: 5px 10px; width: 373.406px;">Muslim Noodle</td><td style="box-sizing: inherit; padding: 5px 10px; width: 669.573px;">Mee baso, mee soto, lontong</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 147.354px;">Stall 8</td><td style="box-sizing: inherit; padding: 5px 10px; width: 373.406px;">Cold Drinks &amp; Snacks</td><td style="box-sizing: inherit; padding: 5px 10px; width: 669.573px;">Packed Milo, mineral water, green tea, healthy snacks</td></tr></tbody></table>
+<table style="width:100.0%;border-collapse:collapse;mso-yfti-tbllook:1184" width="100%" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:12.44%;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt" width="12%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;mso-bidi-language:
+  TA">Stall No</span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:31.34%;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt" width="31%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;mso-bidi-language:
+  TA">Stall Types</span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:56.2%;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt" width="56%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;mso-bidi-language:
+  TA">Food offered</span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:12.44%;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt" width="12%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;mso-bidi-language:
+  TA">Stall 1</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:31.34%;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt" width="31%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;mso-bidi-language:
+  TA">Hot Drinks</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:56.2%;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt" width="56%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;mso-bidi-language:
+  TA">Hot Milo, Hot tea, Hot coffee</span><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:12.44%;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt" width="12%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;mso-bidi-language:
+  TA">Stall 2</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:31.34%;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt" width="31%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;mso-bidi-language:
+  TA">Chinese Vegetarian</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:56.2%;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt" width="56%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;mso-bidi-language:
+  TA">Beehoon, Noodle, Fried rice, Sushi</span><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:12.44%;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt" width="12%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;mso-bidi-language:
+  TA">Stall 3</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:31.34%;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt" width="31%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;mso-bidi-language:
+  TA">Chinese Rice</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:56.2%;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt" width="56%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;mso-bidi-language:
+  TA">Mixed rice, Bento rice set</span><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:12.44%;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt" width="12%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;mso-bidi-language:
+  TA">Stall 4</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:31.34%;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt" width="31%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;mso-bidi-language:
+  TA">Muslim Rice</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:56.2%;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt" width="56%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;mso-bidi-language:
+  TA">Mixed rice, Bento rice set, prata, Nasi briyani, Fried rice</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:12.44%;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt" width="12%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;mso-bidi-language:
+  TA">Stall 5</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:31.34%;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt" width="31%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;mso-bidi-language:
+  TA">Chinese Noodle</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:56.2%;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt" width="56%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;mso-bidi-language:
+  TA">Fried noodle, Soup noodle, Wanton noodle</span><span style="font-size:
+  12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:12.44%;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt" width="12%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;mso-bidi-language:
+  TA">Stall 6</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:31.34%;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt" width="31%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;mso-bidi-language:
+  TA">Western Halal</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:56.2%;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt" width="56%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;mso-bidi-language:
+  TA">Spaghetti, Shepherd pie, Olive rice</span><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td></tr><tr style="mso-yfti-irow:7"><td style="width:12.44%;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt" width="12%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;mso-bidi-language:
+  TA">Stall 7</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:31.34%;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt" width="31%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;mso-bidi-language:
+  TA">Muslim Noodle</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:56.2%;background:#E6E6E6;padding:3.75pt 7.5pt 3.75pt 7.5pt" width="56%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;mso-bidi-language:
+  TA">Fried noodle, Soup noodle, Mee soto</span><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-language:TA"></span></p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes"><td style="width:12.44%;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt" width="12%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;mso-bidi-language:
+  TA">Stall 8</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td><td style="width:31.34%;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt" width="31%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;mso-bidi-language:
+  TA">Cold Drinks &amp; Snacks</span><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:
+  TA"></span></p></td><td style="width:56.2%;background:white;padding:3.75pt 7.5pt 3.75pt 7.5pt" width="56%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;mso-bidi-language:
+  TA">Packed Milo, Mineral water, Green tea, Healthy snacks</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:TA"></span></p></td></tr></tbody></table>
 
 **11.&nbsp; Social and Emotional Support**
 
@@ -204,13 +1249,15 @@ We would like to invite all newly Secondary 1 parents to join for a parenting ta
 
 **‘Transition to Secondary 1”**
 
-**Tuesday 3 January 2023 @ 8 am**
+**Tuesday 2 January 2024 @ 8 am**
 
-![](/images/Sec%201%20Reg/QR-CODE-FOR-PARENTING-TALK.jpg)
+![](/images/QR_Code_for_Parenting_Talk.jpg)
 
-[Secondary 1 Parents info slides](/files/Sec%201%20Reg/Parents-Support-Group-Sec-1-Parents_info_slides_Dec2022.pdf)
+[Secondary 1 Parents info slides](/files/Sec_1_Parents_info_slides_Dec2023.pdf)
 
-[FSS Introduction letter Sec 1 2023 Care Corner Singapore](/files/Sec%201%20Reg/Parents-Support-Group-FSS-Introduction-letter-Sec-1-2023.pdf)
+[FSS Introduction letter Sec 1 2023 Care Corner Singapore](/files/FFL_Intro_letter_Sec_1.pdf)
+
+
 
 **15.&nbsp; For other matters, please**
 
