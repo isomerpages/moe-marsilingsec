@@ -3,6 +3,7 @@ title: Drama Society
 permalink: /curriculum/ccas/performing-arts/drama-society/
 description: ""
 third_nav_title: CCA Visual and Performing Arts
+variant: markdown
 ---
 **CCA Teachers in charge** <br>
 Mdm Hu Xiaolei (OIC)<br>
@@ -43,7 +44,7 @@ Activities:
 *   CCA Openhouse performance
 *   Learning Journeys
 
-**Achievement**&nbsp;
+**Achievement**
 
 2021 Singapore Youth Festival Arts Presentation  
 (English Drama): Certificate of Accomplishment
@@ -58,7 +59,8 @@ Activities:
 2017 Singapore Youth Festival Arts Presentation (English Drama): Certificate of Distinction
 
 **Gallery**
-
+![](/images/Drama_Slide1.JPG)
+![](/images/Drama_Slide2.JPG)
 ![Drama Society](/images/Drama%20Society_1.jpg)
 
 ![Drama Society](/images/Drama%20Society_2.jpg)

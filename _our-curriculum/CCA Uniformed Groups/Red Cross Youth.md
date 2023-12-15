@@ -3,13 +3,14 @@ title: Red Cross Youth
 permalink: /curriculum/ccas/uniform-groups/red-cross-youth-2017/
 description: ""
 third_nav_title: CCA Uniformed Groups
+variant: markdown
 ---
 **Teachers-in-charge**  
 Mdm Nur Hafiszah  
 Mdm Rahidah
 
 **Training details**  
-Thursday: 2.30 p.m. to 4.30 p.m.
+Thursday: 2.30 p.m. to 5.00 p.m.
 
 **Objectives**
 
@@ -28,12 +29,13 @@ Thursday: 2.30 p.m. to 4.30 p.m.
 *   Disaster Management Skills
 *   Youth Ambassador Blood Programme
 *   Total Defence
+*   Footdrill
 
 **First Aid Duty**
 
-*   Annual Cross Country
+*   Morning FRC Duty
+*   Achievement Day
 *   National Day Parade
-*   Various school and national events
 
 **Camps and Events**
 
@@ -42,6 +44,8 @@ Thursday: 2.30 p.m. to 4.30 p.m.
 *   Red Cross Youth Challenge
 *   National Camp
 *   World Red Cross Day
+*   Unit Leader Programme
+*   First Aid Championship
 
 **Values in Action (VIA) Activities**
 
@@ -52,17 +56,26 @@ Thursday: 2.30 p.m. to 4.30 p.m.
 
 Excellent Unit Award
 
+2022: Gold <br>
+2021: Silver<br>
+2020: Bronze<br>
 2019: Bronze  
-2017: Bronze  
+2018: Bronze  
 2017: Bronze  
 2016: Gold
 
 **First Aid Championship**
 
-<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; width: 712.227px; max-width: 100%;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">Year</span></td><td style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">Junior</span></td><td style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">Senior</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">2019</span></td><td style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">Silver</span></td><td style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">Bronze</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">2018</span></td><td style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">Commendation</span></td><td style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">Silver</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">2017</span></td><td style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">Bronze</span></td><td style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: helvetica, arial, sans-serif;">Commendation</span></td></tr></tbody></table>
+| Year | Junior | Senior |
+| -------- | -------- | -------- |
+| 2022    | Bronze   | Bronze     |
+| 2019     | Silver     | Bronze    |
+| 2018     | Commendation     | Bronze    |
+| 2017     | Silver     | Commendation    |
+
 
 **Gallery**
-
-![Red Cross Youth](/images/Red%20Cross%20Youth_1.jpg)
-
-![Red Cross Youth](/images/Red%20Cross%20Youth_2.jpg)
+![](/images/RCYSlide1.JPG)
+![](/images/RCYSlide2.JPG)
+![](/images/RCYSlide3.JPG)
+![](/images/RCYSlide4.JPG)
