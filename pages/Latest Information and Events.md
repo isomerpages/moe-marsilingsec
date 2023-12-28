@@ -2,21 +2,18 @@
 title: Latest Information and Events
 permalink: /latest-information-and-events/
 description: ""
+variant: markdown
 ---
+#### First Week of School Schedule 2024
+
+Dear parents/students,
+welcome back to school. <br>
+
+Please refer [here](/files/2024_First_Week_Schedule.pdf) for the first week of school schedule.
+
 #### Overseas Learning Journey to Vietnam (31 Oct to 3 Nov 2023)
 
 Click [here](https://go.gov.sg/mss-vietnam-singapore-2023)  to view photos of the trip.
-
-
-
-#### End-of-Year Post Examination Programme for Secondary 1 - 3 (16 to 27 Oct 2023)
-
-Click on the following links to view the timetable for the End of Year Post Examination Programme Timetable.
-
-[Secondary 1](/files/secondary%201%20post%20exam%202023.pdf)<br>
-[Secondary 2](/files/secondary%202%20post%20exam%202023.pdf)<br>
-[Secondary 3](/files/secondary%203%20post%20exam%202023.pdf)
-
 
 ####   Semester 2 Principal's Letter: Update on School Matters [23 June 2023]
 
