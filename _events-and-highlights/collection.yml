@@ -2,6 +2,7 @@ collections:
   events-and-highlights:
     output: true
     order:
+      - 2024 Upcoming Events For Parents.md
       - 2024 Secondary 1 Registration Information.md
       - Open House.md
       - Sec 3 Subject Combinations 2024 and Streaming Exercise.md
