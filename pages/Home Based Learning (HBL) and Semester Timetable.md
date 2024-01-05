@@ -2,38 +2,23 @@
 title: Home Based Learning (HBL) and Semester Timetable
 permalink: /timetable/
 description: ""
+variant: markdown
 ---
 Dear parents,
 
-Please click on the links below for the Semester 1 and 2 2023 Student's Timetable and HBL Assignment Links.
-
-The schedule for HBL days for semester  2 are as follows:
-
-![](/images/HBL/semester2%202023%20hbl.PNG)
+Please click on the links below for the 2024 Semester 1 Student's Timetable.
 
 Thank you.
 
 #### **LINKS**
 
-**Semester  2 Timetable [NEW]**
+**2024 Semester  1 Timetable [NEW]**
 
-[Semester 2 Odd Week Timetable](/files/2023%20sem%202%20timetable%20oddweek%2028%20jun.pdf)
+[2024 Semester 1 Odd Week Timetable](/files/Timetable/2024_Semester_1_Timetable__Class__Even_Week.pdf)
 
-[Semester 2 Even Week Timetable](/files/2023%20sem%202%20timetable%20even%20week%20.pdf)
+[2024 Semester 1 Even Week Timetable](/files/Timetable/2024_Semester_1_Timetable__Class__Even_Week.pdf)
 
-
-**Semester 1 Timetable**
-
-[Semester 1 Odd Week Timetable](/files/Timetable/2023-Sem-1-Timetable-Odd-Week-with-SRP-caa-13-Jan.pdf)
-
-[Semester 1 Even Week Timetable](/files/Timetable/2023-Sem-1-Timetable-Even-Week-with-SRP-caa-13-Jan.pdf)
 
 **HBL Assignment Links**
 
-[Secondary 1](https://tinyurl.com/MSS2023Sec1HBLCCP-StudentView)
-
-[Secondary 2](https://tinyurl.com/MSS2023Sec2HBLCCP-StudentView)
-
-[Secondary 3](https://tinyurl.com/MSS2023Sec3HBLCCP-StudentView)
-
-[Secondary 4 and 5](https://tinyurl.com/MSS2023Sec45HBLCCP-StudentView)
+*Coming soon....
