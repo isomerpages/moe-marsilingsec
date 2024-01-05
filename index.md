@@ -26,7 +26,7 @@ sections:
       button: Click to find out more!
       url: /latest-information-and-events
   - infobar:
-      title: "2023 Home-Based Learning (HBL) and Semester Timetable "
+      title: 2024 Home-Based Learning (HBL) and Semester Timetable
       button: Click to find out more!
       url: /timetable
   - infopic:
@@ -37,7 +37,7 @@ sections:
       button: Read More
       url: /about-us/message-from-principal/
       image: /images/Mr Koh Yiak Kheng.png
-      alt: "Mr Koh Yiak Kheng, Leonard "
+      alt: Mr Koh Yiak Kheng, Leonard
   - infopic:
       title: Applied Learning Programme (ALP)
       description: Eco-Sustainability through Inquiry-based Learning DEVELOPING FUTURE
