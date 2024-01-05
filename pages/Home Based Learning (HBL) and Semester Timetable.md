@@ -14,7 +14,7 @@ Thank you.
 
 **2024 Semester  1 Timetable [NEW]**
 
-[2024 Semester 1 Odd Week Timetable](/files/Timetable/2024_Semester_1_Timetable__Class__Even_Week.pdf)
+[2024 Semester 1 Odd Week Timetable](/files/Timetable/2024_Semester_1_Timetable__Class__Odd_Week.pdf)
 
 [2024 Semester 1 Even Week Timetable](/files/Timetable/2024_Semester_1_Timetable__Class__Even_Week.pdf)
 
