@@ -31,7 +31,7 @@ sections:
       url: /timetable
   - infopic:
       title: Message From Our Principal
-      description: Mr Koh Yiak Kheng, Leonard Principal’s Message 2023 In Marsiling
+      description: Mr Koh Yiak Kheng, Leonard Principal’s Message in Marsiling
         Secondary School, we believe that every child has talents and the
         capacity to learn […]
       button: Read More
