@@ -2,6 +2,7 @@
 title: National Digital Literacy Program (NDLP) @ Marsiling Secondary School
 permalink: /national-digital-literacy-program-ndpl-marsiling-secondary-school/
 description: ""
+variant: markdown
 ---
 ### National Digital Literacy Programme (NDLP)
 
@@ -13,31 +14,34 @@ In the 21st century, Computing Devices and Internet Connection plays a huge role
 
 Marsiling Secondary School (MSS) is committed to nurture a community of Dynamic, Confident and Caring Digital Future-Ready Learners. With the availability of Personal Learning Devices (PLDs), students will be able to stay connected and access information easily, communicating and collaborating of ideas in school, enabling them to learn actively both within and outside of their classrooms.
 
-For **NDLP@MSS**, we are kicking off the Personal Learning Device (PLD) ownerships **to all Secondary 1, 2, 3 and 4 students.**
-
-The school have identified the PLD to be IPAD. It is important for all Sec 1, 2 3 and 4 students to have the same PLDs as to have a coherent teaching and learning ecosystem in the school.
+The school have identified the PLD to be IPAD. It is important for all students to have the same PLDs as to have a coherent teaching and learning ecosystem in the school.
 
 **Personal Learning Device (PLD) for Secondary School Students**
 
 **Overview.** The PLD will be used in tandem with the national e-learning platform – the Singapore Student Learning Space (SLS) – as well as other educational technology to personalise and enhance students’ learning. This will also enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world.
 
-**Purchase of PLD bundle.** The school has made arrangements for you to purchase the PLD from **AsiaPac Distribution Pte Ltd** for your child’s/ward’s use in school. The vendor has been identified based on the choice of device determined by the school from a panel of awarded suppliers established by MOE. The PLD bundle which includes warranty and insurance for purchase by your child/ward will be:
+**Purchase of PLD bundle.** The school has made arrangements for you to purchase the PLD from **AsiaPac Technology Pte Ltd** for your child’s/ward’s use in school. The vendor has been identified based on the choice of device determined by the school from a panel of awarded suppliers established by MOE. The PLD bundle which includes warranty and insurance for purchase by your child/ward will be:
 
-*   _Apple iPad 10.2“ (9th Gen, WIFI, 64GB)_
-*   _A13 Bionic chip, 3GB RAM, 64GB Storage,_
-*   _10.2” Screen Size_
-*   _3-year insurance_
-    *   _Covering 2 repairs or 1 replacement\* (Accidental Loss will not be replaced)._
-*   Ruggedized Combo 3
-    *   Shock-absorbent Rugged Folio case with integrated keyboard
+**Model: Apple iPad 10.2 9th Gen**
+- Processor: A13 Bionic Processor
+- Memory (GB): 3GB
+- Storage (GB): 64GB
+- Enhanced Bundle Warranty: 3-Year carry-in warranty
+- Enhanced Bundle Insurance: 3-Year insurance
+
+- Apple Pencil (1st Generation) with USB-C to Apple Pencil Adapter
+- Ruggedized Silicon Casing
+
 
 ### **Use of Edusave**
 
-If your child/ward is a Singapore citizen, you can use your child’s/ward’s Edusave to pay partly or fully for the PLD. A Singapore citizen student can use up to the available Edusave balance in his/her Edusave account to pay for the PLD after setting aside provision for payment of 2nd tier miscellaneous fees. MOE has provided a one-off Edusave top-up of $200 in 2020, to all eligible Singaporean students in primary and secondary schools. This is on top of the annual Edusave contribution of $290 for secondary students and $230 for primary students. Parents/guardians can also choose to pay cash for the PLD. Please note that it is compulsory for all existing students on the MOE Financial Assistance Scheme to use their Edusave to pay for the PLD, after subsidies have been granted.
+Students who are Singapore citizens can use their Edusave to pay fully or partly for the PLD, after setting aside provision for payment of miscellaneous fees. Parents/Guardians can also choose to pay cash for the PLD. MOE has provided Edusave top-ups of $200 in 2020 to 2022, and $300 in 2023 to all eligible Singaporean students in primary and secondary schools. This is on top of the annual Edusave contribution of $290 for secondary school students and $230 for primary school students.
+
+Please note that it is compulsory for all existing students on the MOE Financial Assistance Scheme to use their Edusave to pay for the PLD, after subsidies have been granted.
 
 ### **Financial Assistance**
 
-Subsidies are available for students who require financial assistance to purchase a PLD. Please refer to the [parent briefing slides](/files/NDLP-Briefing-for-Parents-20-Jan-2021.pdf) for further details on funding support. Students under the MOE Financial Assistance Scheme for the year will automatically be subsidized for the PLD. Students who are currently not under the MOE Financial Assistance Scheme may approach the school’s General Office to apply for additional subsidy if their Gross Household Income (GHI) is $4,000 or less, or Per Capita Income (PCI) is $1,000 or less. “**PCI**” refers to the Gross Household Income divided by the total number of family members in the household.
+Subsidies are available for students who require financial assistance to purchase a PLD. Please refer to the [Parents Engagement 2024 Slides](/files/PDLP/IP1___Parent_Engagement_Deck_2024_Final.pdf)  for further details on funding support. Students under the MOE Financial Assistance Scheme for the year will automatically be subsidized for the PLD. Students who are currently not under the MOE Financial Assistance Scheme may approach the school’s General Office to apply for additional subsidy if their Gross Household Income (GHI) is $4,000 or less, or Per Capita Income (PCI) is $1,000 or less. “**PCI**” refers to the Gross Household Income divided by the total number of family members in the household.
 
 ### **Device Management Application**
 
@@ -67,7 +71,7 @@ Schools may also choose to roll out applications other than those listed above. 
 
 ### **Online Form for the purchase of PLD**
 
-To proceed with the purchase of the PLD, please fill in the online form at this link: [https://go.gov.sg/pdlpadmin](https://go.gov.sg/pdlpadmin) by **19 January 2022**.
+To proceed with the purchase of the PLD, please fill in the online form at this link: [https://go.gov.sg/pdlpadmin](https://go.gov.sg/pdlpadmin) by **25 January 2024**.
 
 The online form will consist:
 
@@ -95,24 +99,17 @@ Should there be any further queries or clarification, please email the school at
 
 **2\. Where will the data collected by DMA and IT Applications for NDLP be stored?**
 
-All user data which is collected by MOE will be stored in secure servers managed by the respective vendors of our systems. The Government has put in place strong personal data protection laws and policies to safeguard sensitive data collected by public agencies such as MOE. Please refer to this website for more information on these laws and policies: [https://www.smartnation.gov.sg/why-Smart-Nation/secure-smart-nation/personal-data-protection](https://www.smartnation.gov.sg/why-Smart-Nation/secure-smart-nation/personal-data-protection)
+All user data which is collected by MOE will be stored in secure servers managed by the respective vendors of our systems. The Government has put in place strong personal data protection laws and policies to safeguard sensitive data collected by public agencies such as MOE. Please refer to this website for more information on these laws and policies: [https://www.smartnation.gov.sg/about-smart-nation/secure-smart-nation/personal-data-protection-initiatives](https://www.smartnation.gov.sg/about-smart-nation/secure-smart-nation/personal-data-protection-initiatives)
 
-**3\. Where can I find the full terms of purchase of the PLD?**
-
-Parents/guardians will be purchasing the PLD directly from the vendor, not MOE. This is pursuant to a bulk tender agreement between MOE and the vendor. The tender documents set out the full terms and conditions of such a purchase, and can be found at this website: [https://go.gov.sg/pldtermsandconditions](https://go.gov.sg/pldtermsandconditions)
 
 ### Resources/Forms/Links
 
-a)  [Parent Engagement Deck\_11 Jan 2022](/files/Parent-Engagement-Deck_11-Jan-2022.pdf)
+a)  [Parent Engagement Deck 2024](/files/PDLP/IP1___Parent_Engagement_Deck_2024_Final.pdf)
 
-b)  [Parent Handbook (I) on Learning with a PLD\_8 Dec 21](/files/Parent-Handbook-I-on-Learning-with-a-PLD_8-Dec-21.pdf)
+b)  [Parent Handbook I](/files/PDLP/IP2___Parent_Handbook__I__2024_FINAL.pdf)
 
-c)   [Parent Handbook (II) on Learning with a PLD\_8 Dec 21](/files/Parent-Handbook-II-on-Learning-with-a-PLD_8-Dec-21.pdf)
+c)   [Parent Handbook II](/files/PDLP/IP3___Parent_Handbook__II__2024_FINAL.pdf)
 
-d)  [Annex F Authorisation Form](/files/Annex-F-Authorisation-Form.pdf)  
+d)  [Online Forms (By 25 January 2024)](https://go.gov.sg/pdlpadmin)      
 
-e)  [Online Forms (By 19 January 2022)](https://go.gov.sg/pdlpadmin)      
-
-g) [Appendix 1 – Student Device Information Kit](/files/Appendix-1-Student-Device-Information-Kit.pdf)
-
-h) [Marsiling Secondary ICT Acceptable Use Policy](https://go.gov.sg/mss-ict-aup)
+e)  [Marsiling Secondary ICT Acceptable Use Policy](https://go.gov.sg/mss-ict-aup)

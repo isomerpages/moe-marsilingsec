@@ -4,6 +4,17 @@ permalink: /latest-information-and-events/
 description: ""
 variant: markdown
 ---
+#### Marsiling Secondary School's National Digital Literacy Program (NDLP@MSS) 
+
+* [Parent Engagement Slides 13 Jan 2024](/files/PDLP/IP1___Parent_Engagement_Deck_2024_Final.pdf)
+
+* [NDLP@MSS Website](https://marsilingsec.moe.edu.sg/national-digital-literacy-program-ndpl-marsiling-secondary-school/)
+
+
+For further enquires, please contact the school at 6894 1413 or email us at marsiling_ss@moe.edu.sg, attn: HOD ICT.
+
+
+
 #### First Week of School Schedule 2024
 
 Dear parents/students,
@@ -22,16 +33,6 @@ Please click [here](/files/Letters/letter-to-parents-23-june-2023.pdf) to access
 ####   Direct School Admission (DSA)
 
 Click [here](https://marsilingsec.moe.edu.sg/dsa/) to find out more about MSS DSA 2023.
-
-
-#### Marsiling Secondary School's National Digital Literacy Program (NDLP@MSS) 
-
-* [14 January 2023 Parents Engagement Slides](/files/NDLP/14-Jan-2023-PLD-Parents-engagement.pdf)
-
-* [20 January 2023 Parents Letter]()
-
-
-For further enquires, please contact the school at 6894 1413 or email us at marsiling_ss@moe.edu.sg, attn: HOD ICT.
 
 
 

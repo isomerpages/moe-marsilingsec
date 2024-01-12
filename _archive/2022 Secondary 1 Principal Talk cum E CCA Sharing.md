@@ -3,7 +3,7 @@ title: 2022 Secondary 1 Principal Talk cum E CCA Sharing
 permalink: /2021-secondary-1-principal-talk-cum-e-cca-sharing/
 description: ""
 ---
-**<u>Details for 2022 Secondary 1 Principal Talk</u>** 
+**<u>Details for 2022 Secondary 1 Principal Talk</u>**&nbsp;
 
 Dear Parents/Guardians,
 
@@ -39,7 +39,7 @@ At Marsiling Secondary School, we offer 4 categories of CCAs. In order to have a
 
 Do check out the CCA videos to learn more about the CCA that you are interested in.
 
-For more information, please visit the various CCA pages in the website by clicking [here](/co-curricular-activities-ccas/).
+For more information, please visit the various CCA pages in the website by clicking&nbsp;[here](/co-curricular-activities-ccas/).
 
 <table border="2" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 267px; width: 783.725px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 3.87891px;"><td colspan="3" style="box-sizing: inherit; padding: 5px 10px; width: 759.725px; height: 3.87891px; background-color: rgb(192, 225, 252); text-align: center;"><strong style="box-sizing: inherit; font-weight: bold;">Sports</strong></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 34px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 280px; height: 34px; text-align: center;"><iframe src="https://www.youtube.com/embed/5nDIrk4PZao" width="220" height="123.72&quot;" frameborder="0" allowfullscreen="allowfullscreen" style="box-sizing: inherit;"></iframe>Badminton (Boys &amp; Girls)</td><td style="box-sizing: inherit; padding: 5px 10px; width: 280px; height: 34px; text-align: center;"><iframe src="https://www.youtube.com/embed/RU0rBYIANIE" width="220" height="123.72" frameborder="0" allowfullscreen="allowfullscreen" style="box-sizing: inherit;"></iframe>Floorball (Girls)</td><td style="box-sizing: inherit; padding: 5px 10px; width: 239.725px; height: 34px; text-align: center;"><iframe src="https://www.youtube.com/embed/bTcQ4foo19g" width="220" height="123.72" frameborder="0" allowfullscreen="allowfullscreen" style="box-sizing: inherit;"></iframe>Sepak Takraw (Boys)</td></tr></tbody></table>
 
