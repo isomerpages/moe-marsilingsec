@@ -8,7 +8,7 @@ variant: markdown
 
 * [Parent Engagement Slides 13 Jan 2024](/files/PDLP/IP1___Parent_Engagement_Deck_2024_Final.pdf)
 
-* NDLP@MSS Webpage
+* [NDLP@MSS Website](https://marsilingsec.moe.edu.sg/national-digital-literacy-program-ndpl-marsiling-secondary-school/)
 
 
 For further enquires, please contact the school at 6894 1413 or email us at marsiling_ss@moe.edu.sg, attn: HOD ICT.
