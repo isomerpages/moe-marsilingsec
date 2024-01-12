@@ -2,6 +2,7 @@
 title: National Digital Literacy Program (NDLP) @ Marsiling Secondary School
 permalink: /national-digital-literacy-program-ndpl-marsiling-secondary-school/
 description: ""
+variant: markdown
 ---
 ### National Digital Literacy Programme (NDLP)
 
@@ -13,31 +14,34 @@ In the 21st century, Computing Devices and Internet Connection plays a huge role
 
 Marsiling Secondary School (MSS) is committed to nurture a community of Dynamic, Confident and Caring Digital Future-Ready Learners. With the availability of Personal Learning Devices (PLDs), students will be able to stay connected and access information easily, communicating and collaborating of ideas in school, enabling them to learn actively both within and outside of their classrooms.
 
-For **NDLP@MSS**, we are kicking off the Personal Learning Device (PLD) ownerships **to all Secondary 1, 2, 3 and 4 students.**
-
-The school have identified the PLD to be IPAD. It is important for all Sec 1, 2 3 and 4 students to have the same PLDs as to have a coherent teaching and learning ecosystem in the school.
+The school have identified the PLD to be IPAD. It is important for all students to have the same PLDs as to have a coherent teaching and learning ecosystem in the school.
 
 **Personal Learning Device (PLD) for Secondary School Students**
 
 **Overview.** The PLD will be used in tandem with the national e-learning platform – the Singapore Student Learning Space (SLS) – as well as other educational technology to personalise and enhance students’ learning. This will also enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world.
 
-**Purchase of PLD bundle.** The school has made arrangements for you to purchase the PLD from **AsiaPac Distribution Pte Ltd** for your child’s/ward’s use in school. The vendor has been identified based on the choice of device determined by the school from a panel of awarded suppliers established by MOE. The PLD bundle which includes warranty and insurance for purchase by your child/ward will be:
+**Purchase of PLD bundle.** The school has made arrangements for you to purchase the PLD from **AsiaPac Technology Pte Ltd** for your child’s/ward’s use in school. The vendor has been identified based on the choice of device determined by the school from a panel of awarded suppliers established by MOE. The PLD bundle which includes warranty and insurance for purchase by your child/ward will be:
 
-*   _Apple iPad 10.2“ (9th Gen, WIFI, 64GB)_
-*   _A13 Bionic chip, 3GB RAM, 64GB Storage,_
-*   _10.2” Screen Size_
-*   _3-year insurance_
-    *   _Covering 2 repairs or 1 replacement\* (Accidental Loss will not be replaced)._
-*   Ruggedized Combo 3
-    *   Shock-absorbent Rugged Folio case with integrated keyboard
+**Model: Apple iPad 10.2 9th Gen**
+- Processor: A13 Bionic Processor
+- Memory (GB): 3GB
+- Storage (GB): 64GB
+- Enhanced Bundle Warranty: 3-Year carry-in warranty
+- Enhanced Bundle Insurance: 3-Year insurance
+
+- Apple Pencil (1st Generation) with USB-C to Apple Pencil Adapter
+- Ruggedized Silicon Casing
+
 
 ### **Use of Edusave**
 
-If your child/ward is a Singapore citizen, you can use your child’s/ward’s Edusave to pay partly or fully for the PLD. A Singapore citizen student can use up to the available Edusave balance in his/her Edusave account to pay for the PLD after setting aside provision for payment of 2nd tier miscellaneous fees. MOE has provided a one-off Edusave top-up of $200 in 2020, to all eligible Singaporean students in primary and secondary schools. This is on top of the annual Edusave contribution of $290 for secondary students and $230 for primary students. Parents/guardians can also choose to pay cash for the PLD. Please note that it is compulsory for all existing students on the MOE Financial Assistance Scheme to use their Edusave to pay for the PLD, after subsidies have been granted.
+Students who are Singapore citizens can use their Edusave to pay fully or partly for the PLD, after setting aside provision for payment of miscellaneous fees. Parents/Guardians can also choose to pay cash for the PLD. MOE has provided Edusave top-ups of $200 in 2020 to 2022, and $300 in 2023 to all eligible Singaporean students in primary and secondary schools. This is on top of the annual Edusave contribution of $290 for secondary school students and $230 for primary school students.
+
+Please note that it is compulsory for all existing students on the MOE Financial Assistance Scheme to use their Edusave to pay for the PLD, after subsidies have been granted.
 
 ### **Financial Assistance**
 
-Subsidies are available for students who require financial assistance to purchase a PLD. Please refer to the [parent briefing slides](/files/NDLP-Briefing-for-Parents-20-Jan-2021.pdf) for further details on funding support. Students under the MOE Financial Assistance Scheme for the year will automatically be subsidized for the PLD. Students who are currently not under the MOE Financial Assistance Scheme may approach the school’s General Office to apply for additional subsidy if their Gross Household Income (GHI) is $4,000 or less, or Per Capita Income (PCI) is $1,000 or less. “**PCI**” refers to the Gross Household Income divided by the total number of family members in the household.
+Subsidies are available for students who require financial assistance to purchase a PLD. Please refer to the  for further details on funding support. Students under the MOE Financial Assistance Scheme for the year will automatically be subsidized for the PLD. Students who are currently not under the MOE Financial Assistance Scheme may approach the school’s General Office to apply for additional subsidy if their Gross Household Income (GHI) is $4,000 or less, or Per Capita Income (PCI) is $1,000 or less. “**PCI**” refers to the Gross Household Income divided by the total number of family members in the household.
 
 ### **Device Management Application**
 
