@@ -41,7 +41,7 @@ Please note that it is compulsory for all existing students on the MOE Financial
 
 ### **Financial Assistance**
 
-Subsidies are available for students who require financial assistance to purchase a PLD. Please refer to the  for further details on funding support. Students under the MOE Financial Assistance Scheme for the year will automatically be subsidized for the PLD. Students who are currently not under the MOE Financial Assistance Scheme may approach the school’s General Office to apply for additional subsidy if their Gross Household Income (GHI) is $4,000 or less, or Per Capita Income (PCI) is $1,000 or less. “**PCI**” refers to the Gross Household Income divided by the total number of family members in the household.
+Subsidies are available for students who require financial assistance to purchase a PLD. Please refer to the [Parents Engagement 2024 Slides](/files/PDLP/IP1___Parent_Engagement_Deck_2024_Final.pdf)  for further details on funding support. Students under the MOE Financial Assistance Scheme for the year will automatically be subsidized for the PLD. Students who are currently not under the MOE Financial Assistance Scheme may approach the school’s General Office to apply for additional subsidy if their Gross Household Income (GHI) is $4,000 or less, or Per Capita Income (PCI) is $1,000 or less. “**PCI**” refers to the Gross Household Income divided by the total number of family members in the household.
 
 ### **Device Management Application**
 
@@ -71,7 +71,7 @@ Schools may also choose to roll out applications other than those listed above. 
 
 ### **Online Form for the purchase of PLD**
 
-To proceed with the purchase of the PLD, please fill in the online form at this link: [https://go.gov.sg/pdlpadmin](https://go.gov.sg/pdlpadmin) by **19 January 2022**.
+To proceed with the purchase of the PLD, please fill in the online form at this link: [https://go.gov.sg/pdlpadmin](https://go.gov.sg/pdlpadmin) by **25 January 2024**.
 
 The online form will consist:
 
@@ -99,24 +99,17 @@ Should there be any further queries or clarification, please email the school at
 
 **2\. Where will the data collected by DMA and IT Applications for NDLP be stored?**
 
-All user data which is collected by MOE will be stored in secure servers managed by the respective vendors of our systems. The Government has put in place strong personal data protection laws and policies to safeguard sensitive data collected by public agencies such as MOE. Please refer to this website for more information on these laws and policies: [https://www.smartnation.gov.sg/why-Smart-Nation/secure-smart-nation/personal-data-protection](https://www.smartnation.gov.sg/why-Smart-Nation/secure-smart-nation/personal-data-protection)
+All user data which is collected by MOE will be stored in secure servers managed by the respective vendors of our systems. The Government has put in place strong personal data protection laws and policies to safeguard sensitive data collected by public agencies such as MOE. Please refer to this website for more information on these laws and policies: [https://www.smartnation.gov.sg/about-smart-nation/secure-smart-nation/personal-data-protection-initiatives](https://www.smartnation.gov.sg/about-smart-nation/secure-smart-nation/personal-data-protection-initiatives)
 
-**3\. Where can I find the full terms of purchase of the PLD?**
-
-Parents/guardians will be purchasing the PLD directly from the vendor, not MOE. This is pursuant to a bulk tender agreement between MOE and the vendor. The tender documents set out the full terms and conditions of such a purchase, and can be found at this website: [https://go.gov.sg/pldtermsandconditions](https://go.gov.sg/pldtermsandconditions)
 
 ### Resources/Forms/Links
 
-a)  [Parent Engagement Deck\_11 Jan 2022](/files/Parent-Engagement-Deck_11-Jan-2022.pdf)
+a)  [Parent Engagement Deck 2024](/files/PDLP/IP1___Parent_Engagement_Deck_2024_Final.pdf)
 
-b)  [Parent Handbook (I) on Learning with a PLD\_8 Dec 21](/files/Parent-Handbook-I-on-Learning-with-a-PLD_8-Dec-21.pdf)
+b)  [Parent Handbook I](/files/PDLP/IP2___Parent_Handbook__I__2024_FINAL.pdf)
 
-c)   [Parent Handbook (II) on Learning with a PLD\_8 Dec 21](/files/Parent-Handbook-II-on-Learning-with-a-PLD_8-Dec-21.pdf)
+c)   [Parent Handbook II](/files/PDLP/IP3___Parent_Handbook__II__2024_FINAL.pdf)
 
-d)  [Annex F Authorisation Form](/files/Annex-F-Authorisation-Form.pdf)  
+d)  [Online Forms (By 25 January 2024)](https://go.gov.sg/pdlpadmin)      
 
-e)  [Online Forms (By 19 January 2022)](https://go.gov.sg/pdlpadmin)      
-
-g) [Appendix 1 – Student Device Information Kit](/files/Appendix-1-Student-Device-Information-Kit.pdf)
-
-h) [Marsiling Secondary ICT Acceptable Use Policy](https://go.gov.sg/mss-ict-aup)
+e)  [Marsiling Secondary ICT Acceptable Use Policy](https://go.gov.sg/mss-ict-aup)
