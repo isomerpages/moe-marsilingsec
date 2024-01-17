@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - For Parents/Subject Briefing Slides for Sec 1 PTC 2024.md
       - For Parents/Assessment Schedule.md
       - For Parents/Timetable.md
       - For Parents/Transition and Parenting Talk.md
