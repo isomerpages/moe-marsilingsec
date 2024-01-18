@@ -34,7 +34,6 @@ Thank you.
 
 [Secondary 2 HBL Assignments](http://tinyurl.com/MSS2024Sec2HBLCCP-StudentView)
 
-
 [Secondary 3 HBL Assignments](http://tinyurl.com/MSS2024Sec3HBLCCP-StudentView)
 
 [Secondary 4 and 5 HBL Assignments](http://tinyurl.com/MSS2024Sec45HBLCCP-StudentView)
