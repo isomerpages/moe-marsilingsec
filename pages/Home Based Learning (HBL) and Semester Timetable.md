@@ -28,10 +28,13 @@ Thank you.
 
 **HBL Assignment Links**
 
-[Secondary 1](https://tinyurl.com/MSS2023Sec1HBLCCP-StudentView)
 
-[Secondary 2](https://tinyurl.com/MSS2023Sec2HBLCCP-StudentView)
 
-[Secondary 3](https://tinyurl.com/MSS2023Sec3HBLCCP-StudentView)
+[Secondary 1 HBL Assignments](http://tinyurl.com/MSS2024Sec1HBLCCP-StudentView)
 
-[Secondary 4 and 5](https://tinyurl.com/MSS2023Sec45HBLCCP-StudentView)
+[Secondary 2 HBL Assignments](http://tinyurl.com/MSS2024Sec2HBLCCP-StudentView)
+
+
+[Secondary 3 HBL Assignments](http://tinyurl.com/MSS2024Sec3HBLCCP-StudentView)
+
+[Secondary 4 and 5 HBL Assignments](http://tinyurl.com/MSS2024Sec45HBLCCP-StudentView)
