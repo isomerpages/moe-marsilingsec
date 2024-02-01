@@ -4,6 +4,14 @@ permalink: /latest-information-and-events/
 description: ""
 variant: markdown
 ---
+#### Secondary 2 Parent-Teacher Conference (For Whole Level) and Parent-Teacher Meeting (For Selected Students)
+
+Dear Parents / Guardians
+
+Our school will be holding our Secondary 2 Parent-Teacher Conference (PTC) in school on **Thursday, 22 February 2024 at 5pm**.
+
+Please click [here](/files/Sec_2_Parent_Teacher_Conference_and_Meeting_letter.pdf) for more details.
+
 #### Marsiling Secondary School's National Digital Literacy Program (NDLP@MSS) 
 
 * [Parent Engagement Slides 13 Jan 2024](/files/PDLP/IP1___Parent_Engagement_Deck_2024_Final.pdf)
