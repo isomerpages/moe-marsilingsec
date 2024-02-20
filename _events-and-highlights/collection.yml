@@ -2,6 +2,7 @@ collections:
   events-and-highlights:
     output: true
     order:
+      - Sec 4 & Sec 5 PTC.md
       - National Digital Literacy Program (NDLP) @ Marsiling Secondary School.md
       - 2024 Upcoming Events For Parents.md
       - 2024 Secondary 1 Registration Information.md
