@@ -8,7 +8,7 @@ variant: markdown
 
 Dear Parents / Guardians
 
-Our school will be holding our Secondary 4/5 Parent-Teacher Conference (PTC) in school on **Thursday, 7 March 2024 at 5pm**.
+Our school will be holding our Secondary 4/5 Parent-Teacher Conference (PTC) on **Thursday, 7 March 2024 at 5pm**.
 
 Please click [here](/files/Principal_letter_Sec_4___5_PTC.pdf) for more details
 
