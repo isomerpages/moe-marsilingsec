@@ -108,7 +108,7 @@ description: ""
 <p>Sec 4/5 PTC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 March 2024</p>
+<p>7 Mar 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PM</p>
@@ -126,7 +126,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 March 2024</p>
+<p>8 Mar 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents are Welcome 😊 – AM</p>
