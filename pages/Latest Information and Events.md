@@ -4,6 +4,14 @@ permalink: /latest-information-and-events/
 description: ""
 variant: markdown
 ---
+#### Secondary 4/5 March Holidays Study Programme
+
+Dear Parents / Guardians
+
+The Secondary 4 &amp; 5 students will be having a study programme during the March holidays (12 March).
+
+Please click [here](/files/2024_March_Study_Camp_Final.pdf) for more details.
+
 #### Secondary 4/5 Parent-Teacher Conference (For Whole Level) and Parent-Teacher Meeting (For Selected Students)
 
 Dear Parents / Guardians
@@ -12,13 +20,6 @@ Our school will be holding our Secondary 4/5 Parent-Teacher Conference (PTC) on 
 
 Please click [here](/files/Principal_letter_Sec_4___5_PTC.pdf) for more details
 
-#### Secondary 2 Parent-Teacher Conference (For Whole Level) and Parent-Teacher Meeting (For Selected Students)
-
-Dear Parents / Guardians
-
-Our school will be holding our Secondary 2 Parent-Teacher Conference (PTC) in school on **Thursday, 22 February 2024 at 5pm**.
-
-Please click [here](/files/Sec_2_Parent_Teacher_Conference_and_Meeting_letter.pdf) for more details.
 
 #### Marsiling Secondary School's National Digital Literacy Program (NDLP@MSS) 
 
