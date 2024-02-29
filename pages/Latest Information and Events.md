@@ -8,7 +8,7 @@ variant: markdown
 
 Dear Parents / Guardians
 
-The Secondary 4 &amp; 5 students will be having a study programme during the March holidays (12 March).
+The Secondary 4 &amp; 5 students will be having a study camp during the March holidays (12 March).
 
 Please click [here](/files/2024_March_Study_Camp_Final.pdf) for more details.
 
