@@ -4,7 +4,7 @@ permalink: /latest-information-and-events/
 description: ""
 variant: markdown
 ---
-#### Secondary 4/5 March Holidays Study Programme
+####  Secondary 4 and 5 March Holiday Study Camp (for all Sec 4 and 5 students)
 
 Dear Parents / Guardians
 
