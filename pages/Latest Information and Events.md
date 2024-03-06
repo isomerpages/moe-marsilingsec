@@ -51,16 +51,4 @@ Please click [here](/files/Letters/letter-to-parents-23-june-2023.pdf) to access
 
 Click [here](https://marsilingsec.moe.edu.sg/dsa/) to find out more about MSS DSA 2023.
 
-
-
-####   [ENDED] Secondary 3 Parent-Teacher Conference (For Whole Level) and Parent-Teacher Meeting (For Selected Students)
-
-Dear Parents / Guardians
-
-Our school will be holding our **Secondary 3 Parent-Teacher Conference (PTC) in school** on **Thursday, 25 May 2023 at 5pm.**
-
-Please refer to the following document for more details.
-
-[Secondary 3 PTC/PTM 2023](/files/sec3%20ptc_25%20may%202023.PDF)
-
 Thank you.
