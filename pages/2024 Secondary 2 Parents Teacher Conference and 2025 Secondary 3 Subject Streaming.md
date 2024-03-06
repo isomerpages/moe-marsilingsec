@@ -47,3 +47,262 @@ Exercise</p>
 <p></p>
 <p>Watch the videos to find out more about the elective subjects offered
 in Upper Secondary.</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;Department</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Elective Subjects</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>For</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Video&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mathematics</strong>
+</p>
+<p>Ms Yeo Puay Joo</p>
+<p>(HOD of Mathematics)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Additional Mathematics</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Express and Normal (Academic)</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe style="box-sizing: inherit;" height="285" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VqhDKD4Sy64?si=O0AE4NtFjc7ww_mo"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Science</strong>
+</p>
+<p>Ms Nur’Ain Bte Hamzah</p>
+<p>(HOD of Science)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pure Science</p>
+<p>Combine Science</p>
+<p>Normal (Technical) Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Express, Normal (Academic) and Normal (Technical)</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe style="box-sizing: inherit;" height="285" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BZZnZTLBzTU"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Humanities</strong>
+</p>
+<p>Mr Jeffrey Lau</p>
+<p>(HOD of Humanities)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>History</p>
+<p>Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Express and Normal (Academic)</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe style="box-sizing: inherit;" height="285" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZJiTzXmwyYg"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>English Language and Literature</strong>
+</p>
+<p>Mdm Salwati Salim</p>
+<p>(HOD of English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Express</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe style="box-sizing: inherit;" height="285" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/owPUkg_CXdo?si=QqaphlwV-0vm7LID"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Craft and Technology&nbsp;</strong>
+</p>
+<p>Mrs Karen Ong</p>
+<p>(HOD of Craft and Technology)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Express, Normal (Academic) and Normal (Technical)</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe style="box-sizing: inherit;" height="285" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GLV1mQJ0IoY"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Craft and Technology&nbsp;</strong>
+</p>
+<p>Mr Tan Ting Siong</p>
+<p>(SH of Design &amp; Technology and Discipline)</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Design &amp; Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Express, Normal (Academic) and Normal (Technical)</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe style="box-sizing: inherit;" height="285" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xbrneNfrwFw"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Craft and Technology&nbsp;</strong>
+</p>
+<p>Mdm Shamala</p>
+<p>(SH of Nutrition &amp; Food Science)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nutrition and Food Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Express and Normal (Academic)</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe style="box-sizing: inherit;" height="285" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/s4-BWZ1G3n0"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Normal (Technical)</strong>
+</p>
+<p>Mdm Sumiati Wahid</p>
+<p>(EBS, Teacher)</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Elements of Business Skills</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Normal (Technical)</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe style="box-sizing: inherit;" height="285" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fYijG_-qVRs"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Normal (Technical)</strong>
+</p>
+<p>Mr Isa</p>
+<p>(Music, Teacher)</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Normal (Technical)</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe style="box-sizing: inherit;" height="285" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-MLO_te_5Bs"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Principles of Account</strong>
+</p>
+<p>Mdm Karen Ng</p>
+<p>(POA, Teacher)</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principles of Account</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Express and Normal (Academic)</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe style="box-sizing: inherit;" height="285" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-JGXTkW4-Cc"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
