@@ -113,3 +113,5 @@ c)   [Parent Handbook II](/files/PDLP/IP3___Parent_Handbook__II__2024_FINAL.pd
 d)  [Online Forms (By 25 January 2024)](https://go.gov.sg/pdlpadmin)      
 
 e)  [Marsiling Secondary ICT Acceptable Use Policy](https://go.gov.sg/mss-ict-aup)
+
+f)  [Student Device Information Kit](/files/NDLP/MSS___Student_Device_Information_Kit___6_March_2024_.pdf)
