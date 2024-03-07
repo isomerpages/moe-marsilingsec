@@ -1,7 +1,8 @@
 ---
-title: Sec 3 Subject Combinations 2024 and Streaming Exercise
+title: 2024 Sec 3 Subject Combinations and Streaming Exercise
 permalink: /sec-3-subject-combinations-2024-and-streaming-exercise/
 description: ""
+variant: tiptap
 ---
 ### Sec 3 Subject Combinations 2024 and Streaming Exercise
 
