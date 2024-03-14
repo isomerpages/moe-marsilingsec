@@ -83,7 +83,7 @@ in Upper Secondary.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Express and Normal (Academic)</p>
+<p>G3 &amp; G2</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
@@ -107,7 +107,7 @@ in Upper Secondary.</p>
 <p>Normal (Technical) Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Express, Normal (Academic) and Normal (Technical)</p>
+<p>G3, G2 &amp; G1</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
@@ -130,7 +130,7 @@ in Upper Secondary.</p>
 <p>Geography</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Express and Normal (Academic)</p>
+<p>G3 &amp; G2</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
@@ -152,7 +152,7 @@ in Upper Secondary.</p>
 <p>Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Express</p>
+<p>G3</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
@@ -174,7 +174,7 @@ in Upper Secondary.</p>
 <p>Art</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Express, Normal (Academic) and Normal (Technical)</p>
+<p>G3, G2 &amp; G1</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
@@ -198,7 +198,7 @@ in Upper Secondary.</p>
 <p>Design &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Express, Normal (Academic) and Normal (Technical)</p>
+<p>G3, G2 &amp; G1</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
