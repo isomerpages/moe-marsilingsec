@@ -41,7 +41,8 @@ Exercise</p>
 <p>October 2024 (after WA4): Streaming Exercise</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
+<p></p>
 <p><strong>Elective Subjects Presentation</strong>
 </p>
 <p></p>
@@ -66,9 +67,6 @@ in Upper Secondary.</p>
 <p><strong>Video&nbsp;</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -90,9 +88,6 @@ in Upper Secondary.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/B7tfCY7GrTY?si=LQx1rxLwCvp38znC"></iframe>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -103,19 +98,16 @@ in Upper Secondary.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pure Science</p>
-<p>Combine Science</p>
-<p>Normal (Technical) Science</p>
+<p>Combined Science</p>
+<p>G1 Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>G3, G2 &amp; G1</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe style="box-sizing: inherit;" height="285" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BZZnZTLBzTU"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/g7FAoibmnok?si=ScGI6WcTy6QdzaMY"></iframe>
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -126,6 +118,7 @@ in Upper Secondary.</p>
 <p>(HOD of Humanities)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Social Studies</p>
 <p>History</p>
 <p>Geography</p>
 </td>
@@ -134,11 +127,8 @@ in Upper Secondary.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe style="box-sizing: inherit;" height="285" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZJiTzXmwyYg"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8_XA7hDgPOs?si=OpBbDYqREtFwEVYw"></iframe>
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -159,9 +149,6 @@ in Upper Secondary.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LEuR_uniLdc?si=K2mr_RNGUKCDLUfm"></iframe>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -180,9 +167,6 @@ in Upper Secondary.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rpB1GdrboQU?si=zyHQ3NZef1dhZEwJ"></iframe>
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -205,9 +189,6 @@ in Upper Secondary.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fK0YIkgOEsE?si=6nPBOOYl6ODoGkXm"></iframe>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -224,11 +205,8 @@ in Upper Secondary.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe style="box-sizing: inherit;" height="285" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/s4-BWZ1G3n0"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7IQSyHZURDw?si=18saM0DT0xGFlt0V"></iframe>
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -251,9 +229,6 @@ in Upper Secondary.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PQeIM_naaFk?si=RtlpnY7wZyB1MODj"></iframe>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -274,9 +249,6 @@ in Upper Secondary.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7opWToJmr9g?si=mTM-8ozZZaQU6A56"></iframe>
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -299,9 +271,6 @@ in Upper Secondary.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/q-HJl0jRtmI?si=4OKrGCp2N2qV9pWn"></iframe>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -322,9 +291,6 @@ in Upper Secondary.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Xw25vtvaIyI?si=WfDEdNY067v2Sbw1"></iframe>
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
