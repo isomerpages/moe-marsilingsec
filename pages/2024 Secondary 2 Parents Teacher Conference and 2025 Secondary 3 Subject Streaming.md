@@ -220,7 +220,7 @@ in Upper Secondary.</p>
 <p>Nutrition and Food Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Express and Normal (Academic)</p>
+<p>G3 &amp; G2</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
@@ -233,7 +233,7 @@ in Upper Secondary.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong> G1 Elective Subject</strong>
+<p><strong>G1 Elective Subject</strong>
 </p>
 <p>Mdm Sumiati Wahid</p>
 <p>(EBS, Teacher)</p>
@@ -244,7 +244,7 @@ in Upper Secondary.</p>
 <p>Elements of Business Skills</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Normal (Technical)</p>
+<p>G1</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
@@ -257,7 +257,7 @@ in Upper Secondary.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong> G1 Elective Subject</strong>
+<p><strong>G1 Elective Subject</strong>
 </p>
 <p>Mdm Rahidah</p>
 <p>(RO, Teacher)</p>
@@ -292,7 +292,7 @@ in Upper Secondary.</p>
 <p>Music</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Normal (Technical)</p>
+<p>G1</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
@@ -316,7 +316,7 @@ in Upper Secondary.</p>
 <p>Principles of Account</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Express and Normal (Academic)</p>
+<p>G3 &amp; G2</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
