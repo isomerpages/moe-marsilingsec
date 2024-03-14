@@ -79,7 +79,7 @@ in Upper Secondary.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Additional Mathematics</p>
+<p>Additional &amp; Elementary Mathematics</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,7 +87,7 @@ in Upper Secondary.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe style="box-sizing: inherit;" height="285" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VqhDKD4Sy64?si=O0AE4NtFjc7ww_mo"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/B7tfCY7GrTY?si=LQx1rxLwCvp38znC"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -156,7 +156,7 @@ in Upper Secondary.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe style="box-sizing: inherit;" height="285" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/owPUkg_CXdo?si=QqaphlwV-0vm7LID"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LEuR_uniLdc?si=B4xIKQy3ojEqZ7cX"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -296,7 +296,7 @@ in Upper Secondary.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe style="box-sizing: inherit;" height="285" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-JGXTkW4-Cc"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Xw25vtvaIyI?si=WfDEdNY067v2Sbw1"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
