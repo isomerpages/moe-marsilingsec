@@ -156,7 +156,7 @@ in Upper Secondary.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LEuR_uniLdc?si=B4xIKQy3ojEqZ7cX"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LEuR_uniLdc?si=K2mr_RNGUKCDLUfm"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -178,7 +178,7 @@ in Upper Secondary.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe style="box-sizing: inherit;" height="285" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GLV1mQJ0IoY"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rpB1GdrboQU?si=zyHQ3NZef1dhZEwJ"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -202,7 +202,7 @@ in Upper Secondary.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe style="box-sizing: inherit;" height="285" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xbrneNfrwFw"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fK0YIkgOEsE?si=6nPBOOYl6ODoGkXm"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -233,7 +233,7 @@ in Upper Secondary.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Normal (Technical)</strong>
+<p><strong> G1 Elective Subject</strong>
 </p>
 <p>Mdm Sumiati Wahid</p>
 <p>(EBS, Teacher)</p>
@@ -248,7 +248,7 @@ in Upper Secondary.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe style="box-sizing: inherit;" height="285" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fYijG_-qVRs"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PQeIM_naaFk?si=RtlpnY7wZyB1MODj"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -257,7 +257,31 @@ in Upper Secondary.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Normal (Technical)</strong>
+<p><strong> G1 Elective Subject</strong>
+</p>
+<p>Mdm Rahidah</p>
+<p>(RO, Teacher)</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Retail Operations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>G1</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7opWToJmr9g?si=mTM-8ozZZaQU6A56"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>G1 Elective Subject</strong>
 </p>
 <p>Mr Isa</p>
 <p>(Music, Teacher)</p>
@@ -272,7 +296,7 @@ in Upper Secondary.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe style="box-sizing: inherit;" height="285" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-MLO_te_5Bs"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/q-HJl0jRtmI?si=4OKrGCp2N2qV9pWn"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
