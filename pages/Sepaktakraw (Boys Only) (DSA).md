@@ -26,7 +26,7 @@ Training Frequency: 2 sessions (3 hours each) per week
 
 **Selection Criteria**
 
-·         
+
 
 *   A member of sports CCA in primary school is preferred.
 *   Must show keen interest and commitment for the CCA.
