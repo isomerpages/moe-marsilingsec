@@ -1,7 +1,8 @@
 ---
-title: Floorball (Girls Only) (DSA)
+title: Floorball (Boys and Girls) (DSA)
 permalink: /floorballdsa/
 description: ""
+variant: markdown
 ---
 Marsiling Secondary School offers DSA to eligible students via Floorball (Girls only). This is in line with our Learning for Life Programme which aims to build leadership, resilience and persons of good character.
 
@@ -32,4 +33,4 @@ Training Frequency: 2 sessions (3 hours each) per week
 *   Demonstrates aptitude and potential during interview.
 *   General conduct indicated in school report book and CCA records.
 
-<h4 style="color:red" align="left">Click&nbsp;<a href="http://go.gov.sg/apply-dsa-sec">here</a>&nbsp;to apply for DSA.</h4>
+<h4 style="color:red" align="left">Click&nbsp;<a href="https://www.moe.gov.sg/secondary/dsa">here</a>&nbsp;to apply for DSA.</h4>
