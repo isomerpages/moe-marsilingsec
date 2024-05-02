@@ -3,6 +3,7 @@ title: Malay Dance
 permalink: /curriculum/ccas/performing-arts/malay-dance-2/
 description: ""
 third_nav_title: CCA Visual and Performing Arts
+variant: markdown
 ---
 **CCA Teachers in charge** <br>
 Ms Siti Khatijah Bte Jaini (OIC)<br>
@@ -39,6 +40,7 @@ MSS EEHub
 
 **Achievement over the past 3 years**
 
+*   Singapore Youth Festival Arts Presentation 2023: Certificate of Distinction
 *   Singapore Youth Festival Arts Presentation 2021: Certificate of Distinction
 *   Singapore Youth Festival Arts Presentation 2019: Certificate of Distinction
 *   Arts Presentation Showcase at Kampong Admiralty 2019
