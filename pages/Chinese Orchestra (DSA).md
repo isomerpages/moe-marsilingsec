@@ -2,6 +2,7 @@
 title: Chinese Orchestra (DSA)
 permalink: /chineseorchestradsa/
 description: ""
+variant: markdown
 ---
 Marsiling Secondary School offers DSA to eligible students via Chinese orchestra. This is in line with our Learning for Life Programme which aims to build leadership, resilience and persons of good character.
 
@@ -33,4 +34,4 @@ Training Frequency:&nbsp;2 sessions (2.5 hours each) per week
 *   Demonstrates aptitude and potential during interview.
 *   General conduct indicated in school report book and CCA records.
 
-<h4 style="color:red" align="left">Click&nbsp;<a href="http://go.gov.sg/apply-dsa-sec">here</a>&nbsp;to apply for DSA.</h4>
+<h4 style="color:red" align="left">Click&nbsp;<a href="https://www.marsilingsec.moe.edu.sg/dsa/">here</a>&nbsp;to apply for DSA.</h4>
