@@ -2,6 +2,7 @@
 title: Concert Band (DSA)
 permalink: /concertbanddsa/
 description: ""
+variant: markdown
 ---
 **_“When words fail, music speaks.”_**
 
@@ -36,4 +37,4 @@ Training Frequency:&nbsp;2 sessions (3 hours each) per week
 *   Demonstrates aptitude and potential during interview.
 *   General conduct indicated in school report book and CCA records
 
-<h4 style="color:red" align="left">Click&nbsp;<a href="http://go.gov.sg/apply-dsa-sec">here</a>&nbsp;to apply for DSA.</h4>
+<h4 style="color:red" align="left">Click&nbsp;<a href="https://www.moe.gov.sg/secondary/dsa">here</a>&nbsp;to apply for DSA.</h4>
