@@ -35,4 +35,4 @@ Training Frequency: 2 sessions (3 hours each) per week
 
 General conduct indicated in school report book and CCA records.
 
-Click [here](https://www.moe.gov.sg/secondary/dsa) here to apply for DSA.
+Click [here](https://www.moe.gov.sg/secondary/dsa)  to apply for DSA.
