@@ -3,6 +3,7 @@ title: Sepak Takraw
 permalink: /curriculum/ccas/sports/sepak-takraw/
 description: ""
 third_nav_title: CCA Physical Sports
+variant: markdown
 ---
 **Teachers-in-charge**
 
@@ -22,6 +23,11 @@ Thursday: 2.30 p.m. to 6.00 p.m.
 *   Provide platform for students to immerse themselves with the necessary attributes of the emerging 21st Century Competencies
 
 Marsiling’s Sepak Takraw CCA was formed in 2020 to cater to our students’ interest. We aim to create a rigorous yet conducive environment for our members where they can excel in the sports. Trainings can be of high intensity and competitive without removing the fun and joy from the game. We hope to have more aspiring players coming forward to train with us and make their mark during their stay with us and beyond.
+
+**Achievements**
+
+*   C Div Boys: National Champions 2023
+*   B Div Boys: 2nd 2024 / 3rd 2023
 
 **Gallery**
 ![](/images/straits%20times_takraw_1%20sept%202022_1.jpeg)
