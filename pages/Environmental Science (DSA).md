@@ -2,6 +2,7 @@
 title: Environmental Science (DSA)
 permalink: /environmentalsciencedsa/
 description: ""
+variant: markdown
 ---
 **Environment Education Programme**
 
@@ -29,4 +30,4 @@ As a school offering a distinctive programme on Environmental Science and Sustai
 *   Demonstrates aptitude and potential during interview.
 *   General conduct indicated in school report book and CCA records.
 
-<h4 style="color:red" align="left">Click&nbsp;<a href="http://go.gov.sg/apply-dsa-sec">here</a>&nbsp;to apply for DSA.</h4>
+<h4 style="color:red" align="left">Click&nbsp;<a href="https://www.moe.gov.sg/secondary/dsa">here</a>&nbsp;to apply for DSA.</h4>
