@@ -18,7 +18,7 @@ To date, the sport has nearly 40 students. The sport has had a huge appeal since
 
 **Training Programme**
 
-This programme ensures that all players are competent with Sepaktakraw skills and play (skills to trap the ball, pass, juggle and defend, as well as fitness training to improve endurance and footwork).
+This programme ensures that all players are competent with Sepaktakraw skills and play (skills to&nbsp;trap the ball, pass, juggle and defend, as well as fitness training to improve endurance and footwork).
 
 During periods of competition, there will be additional training sessions to sufficiently prepare the boys for the tournament. Friendly matches will also be arranged to help the players gain more game experience.
 
@@ -35,4 +35,4 @@ Training Frequency: 2 sessions (3 hours each) per week
 
 General conduct indicated in school report book and CCA records.
 
-Click [here](https://www.moe.gov.sg/secondary/dsa)  to apply for DSA.
+<h4 style="color:red" align="left">Click&nbsp;<a href="https://www.marsilingsec.moe.edu.sg/dsa/">here</a>&nbsp;to apply for DSA.</h4>
