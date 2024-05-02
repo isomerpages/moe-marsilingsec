@@ -2,6 +2,7 @@
 title: Sepaktakraw (Boys Only) (DSA)
 permalink: /sepaktakrawdsa/
 description: ""
+variant: markdown
 ---
 Marsiling Secondary School also offers DSA to eligible students via Sepaktakraw (Boys only). This is in line with our Learning for Life Programme which aims to build leadership, resilience and persons of good character.
 
@@ -33,3 +34,5 @@ Training Frequency: 2 sessions (3 hours each) per week
 *   Demonstrates aptitude and potential during interview.
 
 General conduct indicated in school report book and CCA records.
+
+Click [here](https://www.moe.gov.sg/secondary/dsa) here to apply for DSA.
