@@ -17,7 +17,7 @@ and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
 <p><strong>Application period for&nbsp;2024&nbsp;DSA-Sec:&nbsp;7 May 2024 - 3 June 2024 (3pm).</strong>
 </p>
-<h4>Click&nbsp;<a href="http://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to apply for DSA.</h4>
+<h4>Click&nbsp;<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to apply for DSA.</h4>
 <p><strong>Marsiling Secondary School offers</strong>&nbsp;<strong>DSA in the following areas:</strong>
 </p>
 <p><strong>1. <a href="https://marsilingsec.moe.edu.sg/llpcyl/" rel="noopener noreferrer nofollow" target="_blank">LLP - Community Youth Leadership (CYL)</a></strong>
