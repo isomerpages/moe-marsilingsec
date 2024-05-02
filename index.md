@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Homepage/schbanner_gold.jpg
       key_highlights:
-        - title: Direct School Admission
+        - title: Direct School Admission (DSA)
           description: Click here for more information.
           url: /dsa/
         - title: Character Building
