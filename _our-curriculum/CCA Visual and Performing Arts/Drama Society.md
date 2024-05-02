@@ -46,6 +46,9 @@ Activities:
 
 **Achievement**
 
+2023 Singapore Youth Festival Arts Presentation  
+(English Drama): Certificate of Accomplishment
+
 2021 Singapore Youth Festival Arts Presentation  
 (English Drama): Certificate of Accomplishment
 
