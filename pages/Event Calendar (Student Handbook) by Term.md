@@ -4,7 +4,8 @@ permalink: /event-calendar-student-handbook-by-term/
 variant: tiptap
 description: ""
 ---
-<p>Click on the links below to access the Event Calender in the Student Handbook.</p>
+<p>Click on the links below to access the <strong>2024 Event Calender </strong>in
+the Student Handbook.</p>
 <p></p>
 <p><a href="/files/Term_1_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1</a>
 </p>
