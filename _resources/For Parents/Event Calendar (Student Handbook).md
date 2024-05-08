@@ -1,6 +1,6 @@
 ---
 title: Event Calendar (Student Handbook)
-permalink: /resources/assessment-schedule/
+permalink: /event-calendar-student-handbook-by-term/
 description: ""
 third_nav_title: For Parents
 variant: markdown
