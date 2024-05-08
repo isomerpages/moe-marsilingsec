@@ -2,11 +2,12 @@
 title: For Staff
 permalink: /resources/for-staff/
 description: ""
+variant: markdown
 ---
 <p><small><em>Please ensure that you are logged on to the MOE iCON2 email before clicking on the link below.</em></small></p>
 
 **Relief Request**  
-[Relief Request Form](https://docs.google.com/forms/d/e/1FAIpQLSeD6boRPhJk5vUyMbKpr8OgFjj5rN9o80B4Mw3QjP2STD2Reg/viewform?usp=sf_link)
+[Edupage Relief Request](https://marsilingss.edupage.org/)
 
 **Link for resource room booking**  
 [https://rbs.avero-tech.com/login.html](https://rbs.avero-tech.com/login.html)
