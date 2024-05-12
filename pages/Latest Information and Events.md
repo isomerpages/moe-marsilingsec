@@ -4,22 +4,13 @@ permalink: /latest-information-and-events/
 description: ""
 variant: markdown
 ---
-####  Secondary 4 and 5 March Holiday Study Camp (for all Sec 4 and 5 students)
+#### Term 2 Week 10 Timetable
 
-Dear Parents / Guardians
+Dear parents,
 
-The Secondary 4 &amp; 5 students will be having a study camp during the March holidays (12 March).
+Please take note that a special timetable will run for Term 2 Week 10 (20/5 - 23/5). 
 
-Please click [here](/files/2024_March_Study_Camp_Final.pdf) for more details.
-
-#### Secondary 4/5 Parent-Teacher Conference (For Whole Level) and Parent-Teacher Meeting (For Selected Students)
-
-Dear Parents / Guardians
-
-Our school will be holding our Secondary 4/5 Parent-Teacher Conference (PTC) on **Thursday, 7 March 2024 at 5pm**.
-
-Please click [here](/files/Principal_letter_Sec_4___5_PTC.pdf) for more details
-
+* [Term 2 Week 10 Timetable](/files/Term_2_Week_10_Timetable.pdf)
 
 #### Marsiling Secondary School's National Digital Literacy Program (NDLP@MSS) 
 
