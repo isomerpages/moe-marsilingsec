@@ -17,17 +17,16 @@ Thank you.
 
 #### **LINKS**
 
-**2024 Semester  1 Timetable [NEW]**
+**2024 Semester  2 Timetable [NEW]**
 
-[2024 Semester 1 Odd Week Timetable](/files/Timetable/2024_Semester_1_Timetable__Class__Odd_Week__12_Jan_wSRP_HBL.pdf)
+[2024 Semester 2 Odd Week Timetable](/files/21_Jun_TT___Class_V3__Odd_.pdf)
 
-[2024 Semester 1 Even Week Timetable](/files/Timetable/2024_Semester_1_Timetable__Class__Even_Week__12_Jan_wSRP_HBL.pdf)
+[2024 Semester 2 Even Week Timetable](/files/21_Jun_TT___Class_V3__Even_.pdf)
 
 
 
 
 **HBL Assignment Links**
-
 
 
 [Secondary 1 HBL Assignments](http://tinyurl.com/MSS2024Sec1HBLCCP-StudentView)
