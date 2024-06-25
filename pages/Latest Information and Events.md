@@ -4,13 +4,9 @@ permalink: /latest-information-and-events/
 description: ""
 variant: markdown
 ---
-#### Term 2 Week 10 Timetable
+#### 2024 N Level Preliminary Examination Timetable
 
-Dear parents,
-
-Please take note that a special timetable will run for Term 2 Week 10 (20/5 - 23/5). 
-
-* [Term 2 Week 10 Timetable](/files/Term_2_Week_10_Timetable.pdf)
+Please click [here](/files/2024_N_Level_Preliminary_Examination_Timetable.pdf) to view the timetable for the N Level Preliminary Examination Timetable (16-29 July).
 
 #### Marsiling Secondary School's National Digital Literacy Program (NDLP@MSS) 
 
