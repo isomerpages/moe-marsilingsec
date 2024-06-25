@@ -3,16 +3,8 @@ title: Assessment Schedule
 permalink: /resources/assessment-schedule/
 description: ""
 third_nav_title: For Students
+variant: markdown
 ---
-**2023 End of Year Examination (27 Sep - 9 Oct)**
+**2024 N Level Preliminary Examinations (16 - 29 July)**
 
-Click on the following links&nbsp;to view the timetable for the End of Year Examination.<br>
-[Secondary 1](/files/2023%20sec%201%20end%20of%20year%20examination%20timetable%20v5.pdf)<br>
-[Secondary 2](/files/2023%20sec%202%20end%20of%20year%20examination%20timetable%20v5.pdf)<br>
-[Secondary 3](/files/2023%20sec%203%20end%20of%20year%20examination%20timetable%20v5.pdf)
-
-<br>
-
-**2023 Secondary 4 Express and Secondary 5 Normal (Academic) 'O' Level Preliminary Examination: (18 - 30 Aug)**
-
-Click&nbsp;[here](/files/2023%20o%20level%20prelim%20timetable.pdf)&nbsp;to view the timetable for 'O' Level Prelim Examination.
+Please click here - [N Level Preliminary Examination Timetable](/files/2024_N_Level_Preliminary_Examination_Timetable.pdf)
