@@ -6,7 +6,7 @@ variant: markdown
 ---
 #### 2024 NHBL Subject Offerings (Term 3 Week 5)
 
-Please click [here](/files/2024_N_Level_Preliminary_Examination_Timetable.pdf) to view the timetable for NHBL (23 - 25 July 2024).
+Please click [here](/files/2024_NHBL_Subject_Offering.pdf) to view the timetable for NHBL (23 - 25 July 2024).
 
 #### 2024 N Level Preliminary Examination Timetable
 
