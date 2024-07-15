@@ -19,9 +19,12 @@ Thank you.
 
 **2024 Semester  2 Timetable [NEW]**
 
-[2024 Semester 2 Odd Week Timetable](/files/21_Jun_TT___Class_V3__Odd_.pdf)
 
-[2024 Semester 2 Even Week Timetable](/files/21_Jun_TT___Class_V3__Even_.pdf)
+[2024 Semester 2 Odd Week Timetable with SRP](/files/Semester_2_Odd_Week_class_timetable_with_SRP.pdf)
+
+[2024 Semester 2 Even Week Timetable with SRP](/files/Semester_2_Even_Week_class_timetable_with_SRP.pdf)
+
+
 
 
 
