@@ -3,12 +3,13 @@ title: National Police Cadet Corps (NPCC)
 permalink: /national-police-cadet-corps-npcc/
 description: ""
 third_nav_title: CCA Uniformed Groups
+variant: markdown
 ---
 **Teachers-in-charge**  
-ASP (NPCC) Phua Kian Wee (Unit OC)  
-INSP (NPCC) Tan Yi Hang (Deputy OC)  
-INSP (NPCC) Muhammad Azmi Bin Yusri  
-Ms Tan Yongqi
+INSP (NPCC) Tan Yi Hang (Unit OC)  
+INSP (NPCC) Muhammad Azmi Bin Yusri (Deputy OC)  
+P/INSP (NPCC) Tan Yongqi <br>
+Mr Liow Jie Sheng
 
 **Training details**  
 Every Thursday: 3.00 p.m. to 5.30 p.m.
@@ -60,6 +61,22 @@ Every Thursday: 3.00 p.m. to 5.30 p.m.
 
 **Achievements**
 
+**Unit Overall Proficiency Award (UOPA)**  
+Gold (2004 to 2019, 2021) <br>
+Distinction (2022, 2023) <br>
+
+**2024 SPF-NPCC Badge Award**<br>
+Lim Sze Ping Pearly <br>
+Sabir Salihin Bin Saifudin
+
+**2023 SPF-NPCC Badge Award**<br>
+Nur Aleesa Binte Mohamed Haffizur <br>
+Nur Sakinah Binti Mohd Fadzli Abdullah <br>
+
+**2022 SPF-NPCC Badge Award**<br>
+Divyabarathi <br>
+Nur Adlina Fakhira Binte Abdullah
+
 **2021 SPF-NPCC Badge Award**<br>
 Hidayah D/O Mohamed Hussain <br>
 Muhammad Hazrul Bin Selamat
@@ -68,11 +85,13 @@ Muhammad Hazrul Bin Selamat
 Lim Sze Pei Karen  
 Muhammad Akid Bin Alias
 
+**2023 Certificate of Participation in National Day Parade (NPCC Contingent)**  
+Lim Sze Ping Pearly <br>
+Sabir Salihin Bin Saifudin
+
 **2019 Certificate of Participation in National Day Parade (NPCC Contingent)**  
 Lim Sze Pei Karen
 
-**Unit Overall Proficiency Award (UOPA)**  
-Gold from 2004 to 2019 (16 consecutive)
 
 **Inter-Unit Campcraft Competition Finals**&nbsp;
 
