@@ -6,6 +6,11 @@ variant: markdown
 ---
 <p><small><em>Please ensure that you are logged on to the MOE iCON2 email before clicking on the link below.</em></small></p>
 
+**MSS Staff Suggestion Scheme**
+![](/images/MSS_Staff_Suggestion.jpg)
+Scan the QR Code above or visit this [link](https://docs.google.com/forms/d/e/1FAIpQLSc6prvpsoaiCbbtSs_5jH_p-EeNpIQAfbVDUlwbk5V-Yqbgzg/viewform).
+
+
 **Relief Request**  
 [Edupage Relief Request](https://marsilingss.edupage.org/)
 
