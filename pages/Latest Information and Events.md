@@ -6,7 +6,7 @@ variant: markdown
 ---
 #### 2024 O Level Preliminary Examination Timetable
 
-Please click [here](/files/2024_O_Level_Preliminary_Examination_Timetable.pdf) to view the timetable for the O Level Preliminary Examination Timetable (13-23 August).
+Please click [here](/files/2024_O_Level_Preliminary_Examination_Timetable_v2.pdf) to view the timetable for the O Level Preliminary Examination Timetable (13-23 August).
 
 #### 2024 NHBL Subject Offerings (Term 3 Week 5)
 
