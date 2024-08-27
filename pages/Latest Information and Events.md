@@ -4,17 +4,9 @@ permalink: /latest-information-and-events/
 description: ""
 variant: markdown
 ---
-#### 2024 O Level Preliminary Examination Timetable
+#### 2024 End-of-Year Examination (19 Sep - 7 Oct) Timetable
 
-Please click [here](/files/2024_O_Level_Preliminary_Examination_Timetable_v2.pdf) to view the timetable for the O Level Preliminary Examination Timetable (13-23 August).
-
-#### 2024 NHBL Subject Offerings (Term 3 Week 5)
-
-Please click [here](/files/2024_NHBL_Subject_Offering.pdf) to view the timetable for NHBL (23 - 25 July 2024).
-
-#### 2024 N Level Preliminary Examination Timetable
-
-Please click [here](/files/2024_N_Level_Preliminary_Examination_Timetable.pdf) to view the timetable for the N Level Preliminary Examination Timetable (16-29 July).
+Please click [here](https://www.marsilingsec.moe.edu.sg/resources/assessment-schedule/) to view the timetable for the End-of-Year Examination (19 Sep - 7 Oct)
 
 #### Marsiling Secondary School's National Digital Literacy Program (NDLP@MSS) 
 
