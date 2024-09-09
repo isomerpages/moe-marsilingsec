@@ -3,9 +3,10 @@ title: Art Club
 permalink: /curriculum/ccas/clubs-and-societies/art-club/
 description: ""
 third_nav_title: CCA Clubs and Societies
+variant: markdown
 ---
 **Teachers-in-charge**  
-Mdm Uma (OIC)
+Mr Casey Tan
 
 **Training details**  
 Tuesday: 3.00 p.m. to 5.00 p.m.  

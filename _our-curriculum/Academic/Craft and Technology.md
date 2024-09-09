@@ -3,18 +3,19 @@ title: Craft and Technology
 permalink: /curriculum/academic/craft-and-technology/
 description: ""
 third_nav_title: Academic
+variant: markdown
 ---
 **Head of Department**  
 Mrs Karen Ong
 
-**Subject Head (Nutrition & Food Science)**  
+**Subject Head (Nutrition &amp; Food Science)**  
 Mdm Shamala
 
-**Subject Head (Design & Technology and Discipline)**  
+**Subject Head (Design &amp; Technology and Discipline)**  
 Mr Tan Ting Siong
 
-**Teachers (Design & Technology)**  
-Mr Anil Vasudevan (School Staff Developer)  
+**Teachers (Design &amp; Technology)**  
+Mr&nbsp;Anil&nbsp;Vasudevan (School Staff Developer)  
 Mr Lim Soon Leng  
 Mdm Nur Hafiszah  
 Mr Chua Guan Yong (Flexi-Adjunct)  
@@ -23,9 +24,9 @@ Mdm Sumathi (TSO)
 **Teachers (Art)**  
 Mr Zaki Zufakar (Lead Teacher)  
 Ms Teo Xiu Yun  
-Ms Umamageswari
+Mr Casey Tan
 
-**Teachers (Nutrition & Food Science)**  
+**Teachers (Nutrition &amp; Food Science)**  
 Mdm Fadzilah (Assistant Year Head Upper Secondary)  
 Ms Lim Peng Teng  
 Ms Siti Khatijah  
@@ -38,10 +39,10 @@ To develop in students a critical thinking and problem solving mindset and a pas
 Self-Directed, Critical and Inventive Thinkers who are future ready and responsible citizens
 
 **Programmes**  
-The Marsiling Craft and Technology Department comprises of 3 subjects area – Design & Technology (D&T), Nutrition & Food Science (NFS) and Art. All the subjects are coursework based where students learn through a hands-on and project-based learning approach. The department aims to build a culture for critical and innovative thinking and provide a learner-centred environment for their holistic development. Through these subjects, students are challenged to think out of the box to design and produce innovative products, create well-presented healthy meals and unique Artworks.
+The Marsiling Craft and Technology Department comprises of 3 subjects area – Design &amp; Technology (D&amp;T), Nutrition &amp; Food Science (NFS) and Art. All the subjects are coursework based where students learn through a hands-on and project-based learning approach. The department aims to build a culture for critical and innovative thinking and provide a learner-centred environment for their holistic development. Through these subjects, students are challenged to think out of the box to design and produce innovative products, create well-presented healthy meals and unique Artworks.
 
-**Design & Technology**  
-Project with ALP Lower Secondary Innovative Project Tasks  
+**Design &amp; Technology**  
+Project with ALP&nbsp;Lower Secondary Innovative Project Tasks  
 Advanced Elective Modules on Design  
 Express Design Modules with Design Rete  
 Learning Journeys to Red Dot Design Museum  
@@ -73,12 +74,12 @@ A total of 11,213 works from 72 countries entered this year’s competition on t
 </tbody>
 </table>
 
-**Nutrition & Food Science**  
+**Nutrition &amp; Food Science**  
 Lower Sec Customised NFS Programme  
 Normal (Academic)/(Technical) Advanced Elective Modules  
 Learning Journeys to Science Centre  
-BITC Food Science Investigative Tasks organised by Science Kitchen @ Science Centre  
-Workshop on Food Additives organised by Nanyang Polytechnic   
+BITC&nbsp;Food Science Investigative Tasks organised by Science Kitchen @ Science Centre  
+Workshop on Food Additives organised by Nanyang Polytechnic&nbsp;  
 Support for SWBC and PiE Programmes
 
 **Gallery**

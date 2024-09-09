@@ -9,7 +9,7 @@ variant: markdown
 Mr Adrian Tan (OIC)  
 Ms Koh Hwei Miang <br>
 Mrs Serena Ong  
-Mdm Lim Peng Teng
+Mr Krishnamoorthy
 
 **Training details**  
 Tuesday: 3.00 p.m. to 6.00 p.m.  

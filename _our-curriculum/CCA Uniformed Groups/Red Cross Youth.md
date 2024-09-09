@@ -7,7 +7,7 @@ variant: markdown
 ---
 **Teachers-in-charge**  
 Mdm Nur Hafiszah  
-Mdm Rahidah
+Mr Choo Chee Chong
 
 **Training details**  
 Thursday: 2.30 p.m. to 5.00 p.m.
@@ -54,8 +54,9 @@ Thursday: 2.30 p.m. to 5.00 p.m.
 
 **Achievements**
 
-Excellent Unit Award
-
+**Excellent Unit Award**
+<br>
+2023: Gold <br>
 2022: Gold <br>
 2021: Silver<br>
 2020: Bronze<br>

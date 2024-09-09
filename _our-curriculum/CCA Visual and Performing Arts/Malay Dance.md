@@ -7,7 +7,8 @@ variant: markdown
 ---
 **CCA Teachers in charge** <br>
 Ms Siti Khatijah Bte Jaini (OIC)<br>
-Mdm Sumiati (2IC)
+Mdm Sumiati <br>
+Mdm Rosna
 
 **Training days and time**&nbsp;<br>
 Odd week:<br>

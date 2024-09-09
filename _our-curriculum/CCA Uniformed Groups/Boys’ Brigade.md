@@ -3,11 +3,12 @@ title: Boys’ Brigade
 permalink: /curriculum/ccas/uniform-groups/boys-brigade/
 description: ""
 third_nav_title: CCA Uniformed Groups
+variant: markdown
 ---
 **Teachers-in-charge**  
-Mr Mike Thye (OIC)  
-Mr Ryan Ngan <br>
-Dr Andal
+Mr Ryan Ngan (OIC) <br>
+Dr Andal <br>
+Mrs Caroline
 
 **Training details**  
 Saturday: 9.00 a.m. to 12.30 p.m.

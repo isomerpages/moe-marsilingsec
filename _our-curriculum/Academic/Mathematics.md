@@ -3,26 +3,24 @@ title: Mathematics
 permalink: /curriculum/academic/mathematics/
 description: ""
 third_nav_title: Academic
+variant: markdown
 ---
-**Head of Department**  
-Miss Yeo Puay Joo
+**Subject Head, Mathematics**  
+Mr Chio Kah Leong
 
-**Level Head (Mathematics)**  
-Mr Patrick Lim
+**Subject Head, Mathematics**  
+Mr Sim Sze Wei
 
-**Senior Teacher (Internal)**  
-Ms Chan Bao Chan
-
-**Head of ICT**  
+**HOD, ICT**  
 Mr Henry Ong
 
+**Subject Head, Student Well-Being**  
+Mr Thye Wai Yeow, Mike
+
 **Teachers (Mathematics)**  
-Mr Phua Kian Wee  
 Mdm Sumiati  
 Mrs Tan Siew Fong  
-Mr Thye Wai Yeow, Mike  
 Miss Koh Hwei Miang  
-Mr Sim Sze Wei  
 
 **Teachers (Principles of Accounts)**  
 Mr Alfred Wee (POA)  

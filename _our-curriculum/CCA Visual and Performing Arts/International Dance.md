@@ -7,8 +7,8 @@ variant: markdown
 ---
 **CCA Teachers-in-Charge**<br>
 Mrs Tan Siew Fong (OIC)  
-Mdm Chan Bao Chan  
-Mdm Sumathy
+Mdm Sumathy <br>
+Ms K Mutthulakshmi
 
 **Training days and time**<br>
 Tuesday 3.00pm to 5.30pm<br>

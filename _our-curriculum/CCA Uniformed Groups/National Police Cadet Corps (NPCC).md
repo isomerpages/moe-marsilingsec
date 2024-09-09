@@ -62,8 +62,9 @@ Every Thursday: 3.00 p.m. to 5.30 p.m.
 **Achievements**
 
 **Unit Overall Proficiency Award (UOPA)**  
-Gold (2004 to 2019, 2021) <br>
 Distinction (2022, 2023) <br>
+Gold (2004 to 2019, 2021) <br>
+
 
 **2024 SPF-NPCC Badge Award**<br>
 Lim Sze Ping Pearly <br>

@@ -6,9 +6,9 @@ third_nav_title: CCA Visual and Performing Arts
 variant: markdown
 ---
 **Teachers-in-charge**  
-Miss Samhita Roy (OIC)  
-Mrs Caroline Rajakumar  
-Ms Alysia Lim
+Mr Isa (OIC) <br>
+Ms Alysia Lim <br>
+Mr Hamzah
 
 **Training days and time**  
 Tuesday: 3.00p.m. to 6.00p.m.  
@@ -30,21 +30,31 @@ Music Room
 *   The Marsiling Concert Band performs in the school for concerts like Mia Musica, participates in band exchanges with other schools and takes part in competitions such as Singapore Youth Festival Arts Presentation.
 *   To promote bonding among the band students, the Marsiling Concert Band has its annual Band Camp and Passing Out Parade ceremony at the end of the year.
 
-**Achievement**
+**Achievement**<br>
 
-_SYF Arts Presentation 2013_ – Certificate of Distinction
+_SYF Arts Presentation 2023_&nbsp;– Certificate of Accomplishment <br>
 
-_SYF Arts Presentation 2015_ – Certificate of Accomplishment
-
-_SYF Arts Presentation 2017_ – Certificate of Accomplishment
+_SYF Arts Presentation 2021_&nbsp;– Certificate of Accomplishment <br>
 
 _SYF Arts Presentation 2019_  
 Percussion Ensemble: Certificate of Accomplishment  
-Brass Ensemble: Certificate of Accomplishment
+Brass Ensemble: Certificate of Accomplishment <br>
 
-_SYF Arts Presentation 2021_ – Certificate of Accomplishment
+_SYF Arts Presentation 2017_&nbsp;– Certificate of Accomplishment <br> 
 
-_SYF Arts Presentation 2023_ – Certificate of Accomplishment
+_SYF Arts Presentation 2015_&nbsp;– Certificate of Accomplishment <br>
+
+_SYF Arts Presentation 2013_&nbsp;– Certificate of Distinction
+
+
+
+
+
+
+
+
+
+
 
 **Gallery**
 

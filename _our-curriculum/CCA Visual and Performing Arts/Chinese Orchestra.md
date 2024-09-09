@@ -8,8 +8,8 @@ variant: markdown
 ### **Teachers-in-charge**
 
 *   Mrs Tay-Pang Xiu Hui (OIC)
-*   Mdm Shikin Ali
-*   Mdm Loo Shook Ling
+*   Mdm Lim Peng Teng
+*   Ms Ng Yu Xin
 
 ### **Training days and time**
 

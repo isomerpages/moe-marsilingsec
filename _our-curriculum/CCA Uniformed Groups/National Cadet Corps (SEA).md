@@ -3,10 +3,12 @@ title: National Cadet Corps (SEA)
 permalink: /curriculum/ccas/uniform-groups/ncc-sea/
 description: ""
 third_nav_title: CCA Uniformed Groups
+variant: markdown
 ---
 **Teachers-in-charge**  
 Mr Lim Soon Leng (OIC)  
-Mr Chua Jia Xun
+Mr Chua Jia Xun <br>
+Mr Tan Jun Yong
 
 **Training details**  
 Thursday: 3.00 p.m. to 5.30 p.m.
@@ -32,7 +34,9 @@ Thursday: 3.00 p.m. to 5.30 p.m.
 *   Specialist Course
 *   Leaders Camp
 
-**Achievements**
+**Achievements** <br>
+
+Unit Recognition UR2023: Distinction Award
 
 Unit Recognition UR2019: Distinction Award
 
