@@ -8,8 +8,7 @@ variant: markdown
 **Teachers-in-charge**
 
 Mr Khusairi Shahlan (IC)  
-Mr Wan Hamzah  
-Mr Ahmad
+Mdm Rahidah
 
 **Training details**
 
