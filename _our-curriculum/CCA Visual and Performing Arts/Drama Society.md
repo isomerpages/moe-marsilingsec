@@ -7,7 +7,8 @@ variant: markdown
 ---
 **CCA Teachers in charge** <br>
 Mdm Hu Xiaolei (OIC)<br>
-Mdm Yuan Xiaoyu
+Mdm Yuan Xiaoyu <br>
+Ms Teo Boon San
 
 **Training days and time**<br>
 Tuesday 2.30pm to 5.00 pm<br>
