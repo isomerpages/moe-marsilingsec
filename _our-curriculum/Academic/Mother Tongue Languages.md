@@ -11,9 +11,6 @@ Mdm Rashidah Binte Abdullah
 **Subject Head (Chinese Language)**  
 Mdm Zhu Zhaomin
 
-**Subject Head (Tamil Language)**  
-Mr Govindarajalu Krishnamoorthy
-
 **Lead Teacher (Malay language)**  
 Mdm Rita Zarina Binte Mohd Nazeer
 
@@ -21,16 +18,18 @@ Mdm Rita Zarina Binte Mohd Nazeer
 Mdm Yuan Xiaoyu  
 Ms Hu Xiaolei  
 Ms Tan Yongqi <br>
-Mr Teo Seng Leng (Flexi-Adjunct)
+Mr Teo Seng Leng (Flexi-Adjunct) <br>
+Mdm Khoo (Flexi-Adjunct)
 
 **Teachers (Malay Language)**  
-Mr Mohamad Faizal Bin Omar (Head of Department Discipline)  
+Mr Mohamad Faizal Bin Omar (HOD,  Discipline)  
 Mdm Nuridahyu Binte Md Noor  
 Mdm&nbsp;Shikin Ali  
 Mr Muhammad Azmi Bin Yusri  
 Mr Abdul Razak Bin Patwi (Flexi-Adjunct)
 
 **Teachers (Tamil Language)**  
+Mr Govindarajalu Krishnamoorthy <br>
 Mdm Sumathy Thirumaran  
 Dr Mariyappan Andal
 
@@ -112,7 +111,7 @@ To nurture confident learners and caring individuals proficient in their Mother 
   <tr>
     <td><img src="/images/Learning_Journey_Little_India2018-768x576.jpeg" alt="Learning Journey Little India" width="55" height="17"><br>Learning Journey Little India</td>
     <td><img src="/images/IMG-20190919-WA0024_N5-Cluster-Sharing-At-MSS-768x576.jpeg" alt="N5 Cluster Sharing At MSS" width="55" height="17"><br>N5 Cluster Sharing At MSS</td>
-    <td><img src="/images/IMG-20190914-WA0048_ML-Booth-@-Bulan-Bahasa-Marsiling--768x576.jpeg" alt="Malay Traditional Kuih Booth (Bulan Bahsa Marsiling)" width="55" height="17"><br>Malay Traditional Kuih Booth (Bulan Bahsa Marsiling)</td>
+    <td><img src="/images/IMG-20190914-WA0048_ML-Booth-@-Bulan-Bahasa-Marsiling--768x576.jpeg" alt="Malay Traditional Kuih Booth (Bulan Bahsa Marsiling)" width="55" height="17"><br>Malay Traditional Kuih Booth (Bulan Bahasa Marsiling)</td>
   </tr>
   <tr>
     <td><img src="/images/IMG-20190907-WA0017_Rakan-Bahasa-Museum-Guide-at-ACM-768x1024.jpeg" alt="Rakan Bahasa Museum Guide At ACM" width="55" height="17"><br>Rakan Bahasa Museum Guide At ACM</td>
