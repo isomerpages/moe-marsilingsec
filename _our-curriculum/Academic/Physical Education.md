@@ -3,17 +3,18 @@ title: Physical Education
 permalink: /curriculum/academic/physical-education/
 description: ""
 third_nav_title: Academic
+variant: markdown
 ---
 **Head of Department**  
 Mr Ralph Roche
 
 **Teachers**  
-Mr Savinder Dhillon (Upper Secondary Year Head) <br>
 Mr Muhd Suhadi (Lower Secondary Year Head)  
-Mr Er Siong Chye (Lower Secondary Assistant Year Head) (Internal) <br>
+Mr Er Siong Chye (Lower Secondary Assistant Year Head)<br>
 Ms Koh Hwei Miang  
 Mr Adrian Tan Heng Kwang  
-Mr Khusairi B Shalan
+Mr Khusairi B Shalan <br>
+Mr Savinder Dhillon 
 
 **Department’s Vision**  
 Leading healthy lives for life
