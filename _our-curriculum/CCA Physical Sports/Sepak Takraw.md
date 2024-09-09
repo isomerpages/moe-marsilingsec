@@ -7,7 +7,7 @@ variant: markdown
 ---
 **Teachers-in-charge**
 
-Mr Khusairi Shahlan (IC)  
+Mr Khusairi  (IC)  
 Mdm Rahidah
 
 **Training details**
