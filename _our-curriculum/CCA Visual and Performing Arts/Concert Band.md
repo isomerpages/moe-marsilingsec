@@ -6,9 +6,9 @@ third_nav_title: CCA Visual and Performing Arts
 variant: markdown
 ---
 **Teachers-in-charge**  
-Miss Samhita Roy (OIC)  
-Mrs Caroline Rajakumar  
-Ms Alysia Lim
+Mr Isa (OIC) <br>
+Ms Alysia Lim <br>
+Mr Hamzah
 
 **Training days and time**  
 Tuesday: 3.00p.m. to 6.00p.m.  
