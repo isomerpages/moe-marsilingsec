@@ -3,6 +3,7 @@ title: English Language and Literature
 permalink: /curriculum/academic/english-language-and-literature/
 description: ""
 third_nav_title: Academic
+variant: markdown
 ---
 **Head of Department**<br>
 Mdm&nbsp;Salwati&nbsp;Salim
@@ -10,25 +11,21 @@ Mdm&nbsp;Salwati&nbsp;Salim
 **Senior Teacher (English Language)**<br>
 Mdm Dian Khairyani Mondzi
 
-**Level Head (English Language) (Internal)**<br>
-Mr Kelvin Chen
 
 **Teachers (English Language)**  
 Mr Daniel Keng (Literature Co-Ordinator)  
+Mr Kelvin Chen <br>
 Mr Er Siong Chye  
 Mr Foo Chuan Chian James  
 Mrs Serena Ong  
 Mdm Rahidah Tajammul Shah  
 Mr Sobri Omar  
-Miss Samihani Bte Ali  
-Mdm Vasagi S. Arumugam
+
 
 **Teachers (English Literature)**  
 Mr Daniel Keng (Literature Co-Ordinator)  
 Mr Foo Chuan Chian James  
 Miss Alysia Lim Zhiyan  
-Miss Samihani Bte Ali  
-Mdm Vasagi S. Arumugam
 
 
 **Department’s Vision**  
@@ -96,13 +93,13 @@ This is the second time year we are having this event and throughout the three d
 
 **Book Giveaway event 2022**
 
-This year, we gave a total of **250 books** to our Sec 1 – 3 students, ranging from picture books and interesting genres like auto/biographies, self-help books and the favourite, fiction.
+This year, we gave a total of&nbsp;**250&nbsp;books**&nbsp;to our Sec 1 – 3 students, ranging from picture books and interesting genres like auto/biographies, self-help books and the favourite, fiction.
 
 ![](/images/book.png)
 
 **Lit-Art Interdisciplinary Programme**
 
-A collaboration between Literature Unit and Art Unit from the ELL Department and C&T Department respectively, this programme is designed to immerse Secondary One students into the world of Literature and use Art as an alternative mode of expression for students to represent their learning and understanding of the Literature texts.
+A collaboration&nbsp;between Literature Unit and Art Unit from the ELL Department and C&amp;T Department respectively, this programme is designed to immerse Secondary One students into the world of Literature and use Art as an alternative mode of expression for students to represent their learning and understanding of the Literature texts.
 
 ![](/images/lit1.png)
 ![](/images/lit2.jpeg)
