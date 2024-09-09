@@ -36,7 +36,8 @@ Fridays: 1.30 p.m. to 4.30 p.m.
 
 **Achievements**
 
-* 2024 National School Games ‘B’ Division Floorball Championships – Quarter Finals
+* 2024 National School Games ‘B’ Division Floorball Championships – Quarter Finals (Top 6)
+* 2024 National School Games ‘C’ Division Floorball Championships – 4th place
 * 2023 National School Games ‘C’ Division Floorball Championships – 2nd place
 * Pesta Sukan 2023 (Floorball) U14 Category – 2nd place
 * Youth Floorball League 2021 - 3rd &amp; 4th place
