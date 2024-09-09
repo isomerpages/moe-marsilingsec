@@ -10,7 +10,7 @@ Mr Ralph Roche
 
 **Teachers**  
 Mr Muhd Suhadi (Lower Secondary Year Head)  
-Mr Er Siong Chye (Lower Secondary Assistant Year Head)<br>
+Mr Er Siong Chye (Upper Secondary Assistant Year Head)<br>
 Ms Koh Hwei Miang  
 Mr Adrian Tan Heng Kwang  
 Mr Khusairi B Shalan <br>
