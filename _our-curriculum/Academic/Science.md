@@ -3,6 +3,7 @@ title: Science
 permalink: /curriculum/academic/science/
 description: ""
 third_nav_title: Academic
+variant: markdown
 ---
 **Head of Department (Science)** <br>
 Ms Nur’ain Bte Hamzah
@@ -27,7 +28,6 @@ Mr Wan Hamzah <br>
 Mr Chua Jia Xun <br>
 Mr Ryan Ngan <br>
 Mdm Kong Hui Ai (CAJT) <br>
-Mr Ahmad Bin Mohamed Moktar (AED) <br>
 Mr Ng Boon Kiat, Eric (TSO) <br>
 Ms Norhafi Mohd Nafi (TSO) <br>
 
