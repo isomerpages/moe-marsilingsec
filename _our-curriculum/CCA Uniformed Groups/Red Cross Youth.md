@@ -7,7 +7,7 @@ variant: markdown
 ---
 **Teachers-in-charge**  
 Mdm Nur Hafiszah  
-Mdm Rahidah
+Mr Choo Chee Chong
 
 **Training details**  
 Thursday: 2.30 p.m. to 5.00 p.m.
