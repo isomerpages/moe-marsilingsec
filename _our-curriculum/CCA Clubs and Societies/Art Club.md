@@ -6,7 +6,7 @@ third_nav_title: CCA Clubs and Societies
 variant: markdown
 ---
 **Teachers-in-charge**  
-Ms Teo Xiu Yun (OIC)
+Mr Casey Tan
 
 **Training details**  
 Tuesday: 3.00 p.m. to 5.00 p.m.  
