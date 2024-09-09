@@ -86,7 +86,7 @@ Champion at the yearly Inter-School National Scrabble Championships.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1<sup>st</sup>&nbsp;Runners-up</p>
