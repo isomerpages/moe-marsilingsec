@@ -2,6 +2,8 @@ collections:
   events-and-highlights:
     output: true
     order:
+      - Check out our Instagram!.md
+      - Featured in News.md
       - Direct School Admission (DSA).md
       - National Digital Literacy Program (NDLP) @ Marsiling Secondary School.md
       - 2024 Secondary 4 & 5 Parents Teacher Conference (PTC).md

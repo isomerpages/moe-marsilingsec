@@ -2,7 +2,6 @@
 title: Featured in News
 permalink: /featured-in-news/
 description: ""
-third_nav_title: Realise Your Potential
 variant: markdown
 ---
 **1\. <u> SSSC Sportsmanship Award - Muhammad Syahir Bin Muhammad Irshad (4T1 2023)</u>**  
