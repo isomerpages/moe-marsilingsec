@@ -7,10 +7,9 @@ variant: markdown
 ---
 **2024 End-of-Year Examination 2024 (19 Sep - 7 Oct)**
 
-[Secondary 1](/files/Secondary_1___End_of_Year_Examination_2024.pdf) <br>
-[Secondary 2](/files/Secondary_2___End_of_Year_Examination_2024.pdf) <br>
-[Secondary 3](/files/Secondary_3___End_of_Year_Examination_2024.pdf)
-
+[Secondary 1](/files/Secondary_1___End_of_Year_Examination_2024__caa_180924_.pdf) <br>
+[Secondary 2](/files/Secondary_2___End_of_Year_Examination_2024__caa_180924_.pdf) <br>
+[Secondary 3](/files/Secondary_3___End_of_Year_Examination_2024__caa_180924_.pdf)
 <br>
 
 **2024 O Level Preliminary Examinations (13-23 August)**
