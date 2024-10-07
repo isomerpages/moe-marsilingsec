@@ -2,7 +2,7 @@ collections:
   events-and-highlights:
     output: true
     order:
-      - Open House.md
+      - Open House 2024.md
       - Check out our Instagram!.md
       - Featured in News.md
       - Direct School Admission (DSA).md
