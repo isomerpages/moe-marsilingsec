@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Annual Cross Country.md
       - Health Promotion Board.md
       - Open House.md
       - "Semester 2 Principal Letter: Update on School Matters.md"
