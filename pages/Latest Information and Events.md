@@ -4,6 +4,9 @@ permalink: /latest-information-and-events/
 description: ""
 variant: markdown
 ---
+#### Open House 2024 (23 Nov, Saturday)
+Please click [here](https://marsilingsec.moe.edu.sg/openhouse/) for more information.
+
 #### 2024 End-of-Year Examination (19 Sep - 7 Oct) Timetable
 
 Please click [here](https://www.marsilingsec.moe.edu.sg/resources/assessment-schedule/) to view the timetable for the End-of-Year Examination (19 Sep - 7 Oct)

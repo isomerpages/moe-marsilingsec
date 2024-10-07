@@ -2,7 +2,8 @@ collections:
   archive:
     output: true
     order:
-      - Open House.md
+      - Annual Cross Country.md
+      - Health Promotion Board.md
       - "Semester 2 Principal Letter: Update on School Matters.md"
       - MOE Financial Assistance Scheme 2020 (revised).md
       - 2021 Singapore Youth Festival’s Performance.md
