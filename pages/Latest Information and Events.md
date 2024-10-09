@@ -4,6 +4,10 @@ permalink: /latest-information-and-events/
 description: ""
 variant: markdown
 ---
+####  End of Year Exam Scripts Checking Timetable (10-11 Oct)
+Dear Parents/students, <br>
+Please click [HERE](/files/TT_Check_Scripts___Class__6_Oct_.pdf) to view the End of Year Exam Scripts Checking Timetable (10 - 11 October).
+
 #### Open House 2024 (23 Nov, Saturday)
 Please click [here](https://marsilingsec.moe.edu.sg/openhouse/) for more information.
 
