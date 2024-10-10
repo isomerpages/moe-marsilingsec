@@ -44,14 +44,10 @@ MSS EEHub
 *   Singapore Youth Festival Arts Presentation 2023: Certificate of Distinction
 *   Singapore Youth Festival Arts Presentation 2021: Certificate of Distinction
 *   Singapore Youth Festival Arts Presentation 2019: Certificate of Distinction
-*   Arts Presentation Showcase at Kampong Admiralty 2019
-*   Persada Juara Tari 2018 Secondary School Category: Champion
-*   Singapore Youth Festival Arts Presentation 2017: Certificate of Distinction
-*   Singapore Youth Festival Arts Presentation 2015: Certificate of Distinction
-*   Muara Dance Festival 2015, 2016, 2018 performance
+*   Mutiara Tari Dance Competition 2024: 1st Place in Secondary School Category, Best Choreography, Best Costume
+*   Muara Dance Festival
 
 **Gallery**
 
-![Malay Dance](/images/Malay%20Dance_1.jpg)
-
-![Malay Dance](/images/Malay%20Dance_2.jpg)
+![](/images/Slide1.jpg)
+![](/images/Slide2.jpg)
