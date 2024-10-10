@@ -20,31 +20,6 @@ description: ""
 <p><a href="/files/For_School_Website_P_s_Dialogue_with_Sec_2_Parents_22_Feb_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal’s Slides</a>
 </p>
 </li>
-<li>
-<p><a href="/files/For_School_Website_Year_Head_Slides_Sec_2_PTC.pdf" rel="noopener noreferrer nofollow" target="_blank">Year Head’s Slides</a>
-</p>
-</li>
-</ul>
-<p></p>
-<p><strong>Sec 3 Subject Combinations 2025 and Streaming Exercise Timeline</strong>
-</p>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>February 2024 (During Parents Teacher Meeting): Briefing on Streaming
-Exercise for the Secondary 2 students</p>
-</li>
-<li>
-<p>March-September 2024: Viewing of Elective Subject Videos via school website</p>
-</li>
-<li>
-<p>September 2024 (after WA3): Briefing to Secondary 2 students on Streaming
-Exercise</p>
-<p></p>
-</li>
-<li>
-<p>October 2024 (after WA4): Streaming Exercise</p>
-</li>
 </ul>
 <p></p>
 <p></p>
@@ -238,27 +213,6 @@ in Upper Secondary.</p>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PQeIM_naaFk?si=RtlpnY7wZyB1MODj"></iframe>
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>G1 Elective Subject</strong>
-</p>
-<p>Mdm Rahidah</p>
-<p>(RO, Teacher)</p>
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Retail Operations</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>G1</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7opWToJmr9g?si=mTM-8ozZZaQU6A56"></iframe>
 </div>
 </td>
 </tr>
