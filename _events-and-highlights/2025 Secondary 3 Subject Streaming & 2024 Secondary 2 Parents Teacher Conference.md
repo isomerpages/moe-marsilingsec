@@ -7,10 +7,15 @@ description: ""
 ---
 <p>Dear Parents/Guardians of our Sec 2 students,</p>
 <p></p>
-<p>Thank you for joining us for our Secondary 2 PTC on 22 February 2024.</p>
+<p>Thank you for joining us for our Secondary 2 PTC earlier this year on
+22 February 2024.</p>
 <p></p>
 <p>Please click on the following links for your information:</p>
 <ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="/files/2024_Sec_2_Streaming_Slides__Oct_2024_.pdf" rel="noopener nofollow" target="_blank">Sec 2 Streaming Slides (uploaded October 2024)</a></strong>
+</p>
+</li>
 <li>
 <p><a href="/files/For_School_Website_P_s_Dialogue_with_Sec_2_Parents_22_Feb_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal’s Slides</a>
 </p>
@@ -48,7 +53,13 @@ Exercise</p>
 <p></p>
 <p>Watch the videos to find out more about the elective subjects offered
 in Upper Secondary.</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
