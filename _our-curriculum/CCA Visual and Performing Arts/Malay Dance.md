@@ -49,6 +49,5 @@ MSS EEHub
 
 **Gallery**
 
-![Malay Dance](/images/Malay%20Dance_1.jpg)
-
-![Malay Dance](/images/Malay%20Dance_2.jpg)
+![](/images/Slide1.jpg)
+![](/images/Slide2.jpg)
