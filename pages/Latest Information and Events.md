@@ -4,16 +4,17 @@ permalink: /latest-information-and-events/
 description: ""
 variant: markdown
 ---
-####  End of Year Exam Scripts Checking Timetable (10-11 Oct)
+####  Post Exam Timetable 2024 (14-25 Oct)
+Dear Parents/students,<br>
+Please click [HERE](https://marsilingsec.moe.edu.sg/post-exam-timetable-2024/) to view the Post Exam Timetable for Sec 1-3 (14-25 October).
+
+####  End of Year Exam Scripts Checking Timetable 2024 (10-11 Oct)
 Dear Parents/students, <br>
 Please click [HERE](/files/TT_Check_Scripts___Class__6_Oct_.pdf) to view the End of Year Exam Scripts Checking Timetable (10 - 11 October).
 
 #### Open House 2024 (23 Nov, Saturday)
-Please click [here](https://marsilingsec.moe.edu.sg/openhouse/) for more information.
+Please click [HERE](https://marsilingsec.moe.edu.sg/openhouse/) for more information.
 
-#### 2024 End-of-Year Examination (19 Sep - 7 Oct) Timetable
-
-Please click [here](https://www.marsilingsec.moe.edu.sg/resources/assessment-schedule/) to view the timetable for the End-of-Year Examination (19 Sep - 7 Oct)
 
 #### Marsiling Secondary School's National Digital Literacy Program (NDLP@MSS) 
 
