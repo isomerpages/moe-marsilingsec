@@ -118,3 +118,11 @@ Police Youth Ambassador Project <br>
 
 ![Sec 1 Police Centre Visit](/images/Sec_1_Police_Centre_Visit.jpg)
 Sec 1 Police Centre Visit <br>
+
+
+**Term 4 Updates**<br>
+![](/images/Annual_Camp.jpg)
+Annual Camp <br>
+![](/images/Unit_Hike.jpg)
+Unit Hike to Marsiling Park <br>
+
