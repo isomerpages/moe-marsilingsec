@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Post Exam Timetable 2024.md
       - Annual Cross Country.md
       - Health Promotion Board.md
       - "Semester 2 Principal Letter: Update on School Matters.md"
