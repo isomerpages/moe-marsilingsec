@@ -7,6 +7,9 @@ variant: markdown
 #### Open House 2024 (23 Nov, Saturday)
 Please click [HERE](https://marsilingsec.moe.edu.sg/openhouse/) for more information.
 
+#### Book List 2025 
+Please click [HERE](https://marsilingsec.moe.edu.sg/book-list-2025/) for the 2025 Book List.
+
 
 #### Marsiling Secondary School's National Digital Literacy Program (NDLP@MSS) 
 
