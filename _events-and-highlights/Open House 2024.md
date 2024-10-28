@@ -6,6 +6,7 @@ variant: markdown
 ---
 ### **Welcome to Marsiling Secondary School 2024 Open House**
 
+![](/images/MSS_Open_House_Banner_website.jpg) <br>
 ![](/images/Open_House_Website_POster.png)
 
 #### What to expect at our MSS Open House 2024
