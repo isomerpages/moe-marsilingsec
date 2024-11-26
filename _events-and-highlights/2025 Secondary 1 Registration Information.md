@@ -18,7 +18,7 @@ through Parents Gateway (PG) and the school’s website.</p>
 <li>
 <p>Secondary 1 students are to report to school on <strong>Thursday 2 January 2025 @ 720am</strong>,
 Marsiling Secondary. Parents and students are NOT required to physically
-report to Marsiling Secondary for the registration in December 2023.</p>
+report to Marsiling Secondary for the registration in December 2024.</p>
 </li>
 </ul>
 <p>For parents who do not use PG or would like to find out more about the
