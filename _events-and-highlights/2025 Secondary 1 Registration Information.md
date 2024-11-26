@@ -69,7 +69,7 @@ may reach out to us after 2.30 pm via:</p>
 <p><strong>3. Information on Secondary 1 Booklist, Bookshop and Uniform Purchase Forms for submission:</strong>
 </p>
 <p>Click on the links for the booklists for the respective streams.</p>
-<p><a href="/files/S1__G1__2025.pdf" rel="noopener nofollow" target="_blank">Secondary 1 G1 </a>
+<p><a href="/files/S1__G1__2025.pdf" rel="noopener nofollow" target="_blank">Secondary 1 G1</a>
 </p>
 <p><a href="/files/S1__G2__2025.pdf" rel="noopener nofollow" target="_blank">Secondary 1 G2</a>
 </p>
@@ -495,7 +495,7 @@ and face consequences.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">Uniformed Groups</a></strong>
+<p><strong>Uniformed Groups</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
