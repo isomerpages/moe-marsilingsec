@@ -2,7 +2,7 @@
 title: 2025 Secondary 1 Registration Information
 permalink: /2025-secondary-1-registration-information/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p><strong>Secondary 1 Registration</strong>
 </p>
@@ -16,7 +16,7 @@ as a Marsilian!</p>
 through Parents Gateway (PG) and the school’s website.</p>
 </li>
 <li>
-<p>Secondary 1 students are to report to school on <strong>Thursday 2 January 2024 @ 720am</strong>,
+<p>Secondary 1 students are to report to school on <strong>Thursday 2 January 2025 @ 720am</strong>,
 Marsiling Secondary. Parents and students are NOT required to physically
 report to Marsiling Secondary for the registration in December 2023.</p>
 </li>
@@ -70,7 +70,8 @@ may reach out to us after 2.30 pm via:</p>
 </p>
 <p>Click on the links for the booklists for the respective streams.</p>
 <p><a href="/files/S1__G1__2025.pdf" rel="noopener nofollow" target="_blank">Secondary 1 G1 </a>
-<a href="/files/S1__G2__2025.pdf" rel="noopener nofollow" target="_blank">Secondary 1 G2</a>
+</p>
+<p><a href="/files/S1__G2__2025.pdf" rel="noopener nofollow" target="_blank">Secondary 1 G2</a>
 </p>
 <p><a href="/files/S1__G3__2025.pdf" rel="noopener nofollow" target="_blank">Secondary 1 G3</a>
 </p>
@@ -85,17 +86,17 @@ may reach out to us after 2.30 pm via:</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Thursday
-<br>21 December
+<br>19 December
 <br>1pm to 3pm</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Friday
-<br>22 December
+<br>20 December
 <br>9am to 3pm</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Tues - Fri
-<br>26 - 29 December
+<p>Monday - Monday
+<br>23, 26, 27, 30 December
 <br>9am to 3pm</p>
 </th>
 </tr>
@@ -120,145 +121,8 @@ may reach out to us after 2.30 pm via:</p>
 </p>
 <p><strong>4.&nbsp; Information on School Reporting and First Week of School</strong>
 </p>
-<table style="minWidth: 150px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Date</strong>
+<p><strong>TBC</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Time</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Activity</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Attire</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>What to Bring</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Recess</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tues, 2 Jan 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.30am -2.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Start It Right</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Uniform</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Writing Materials (stationery and notebook)</p>
-<p>Personal expenses for food etc.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9.00am-9.30am</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wed, 3 Jan 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.30am -2.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-Start It Right</p>
-<p>-SMART Study Skills</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Half-Uniform</p>
-<p>(School PE T-shirt with Uniform Shorts/Skirt)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Writing Materials (stationery and notebook)</p>
-<p>Personal expenses for food etc.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9.30am-10.00am</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Thurs, 4 Jan 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.30am -4.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-SMART Study Skills</p>
-<p>-Orientation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Half-Uniform</p>
-<p>(School PE T-shirt with Uniform Shorts/Skirt)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Writing Materials (stationery and notebook)</p>
-<p>Personal expenses for food etc.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9.00am-9.30am</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Fri, 5 Jan 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.30am -12.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Orientation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School PE Attire</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Writing Materials (stationery and notebook)</p>
-<p>Personal expenses for food etc.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9.30am-10.00am</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Information with regards to the Secondary 1 students’ class allocation
-with be communicated through Parents’ Gateway (PG) after the Sec 1 Registration
-information in Dec 2023.</p>
-<p>For parents who do not use PG or would like to find out about the class
-allocation, you may reach out to us via:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Email:&nbsp;<a href="mailto:marsiling_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">marsiling_ss@moe.edu.sg</a>&nbsp;or</p>
-</li>
-<li>
-<p>Call us: 68941413</p>
-</li>
-</ul>
 <p><strong>5. Forms for submission</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -283,16 +147,169 @@ school will be using the PG APP as its primary channel to disseminate informatio
 </p>
 <p>For information regarding Full Subject Based Banding (FSBB) in Marsiling
 Sec Sch, please view this document:&nbsp;</p>
-<p><a href="/files/FSBB_Parents_Engagement__2024_Sec_1_Posting_.pdf" rel="noopener noreferrer nofollow" target="_blank">FSBB Briefing for Parents (2024 Sec 1 Posting)</a>
+<p><a href="/files/FSBB_Parents_Engagement__2025_Sec_1_Posting_.pdf" rel="noopener nofollow" target="_blank">FSBB Parents Engagement (2025 Sec 1 Posting)</a>
 </p>
 <p>For Sec 1 students who are eligible to read subject(s) at a More Demanding
 Level, our school personnel will be reaching out to the relevant students’
-parents after the Sec 1 Registration in December 2022 to provide further
+parents after the Sec 1 Registration in December 2024 to provide further
 guidance.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>G1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>G2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>G3</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Examinable Subjects</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Literature</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geography</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>History</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Art</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Design &amp; Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Food &amp; Consumer Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Non-Examinable Subjects</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Music</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Physical Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Character &amp; Citizenship Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>G1 Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>8.&nbsp; Application for 3rd&nbsp;Language</strong>
 </p>
 <p>Results for the application will be informed to the selected students
-after Sec 1 registration 2023.</p>
+after Sec 1 registration.</p>
 <p>Students whose application are approved will have to register online with
 the respective centres: MOE Language Centre (MOELC) or Malay/Chinese Special
 Programme (MSP/CSP) Zonal Centres.</p>
@@ -341,8 +358,8 @@ Medical certificate or any official documentation)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Students must be in school by 7:30am daily except for Wednesday (7.15am
-due to early start day)</p>
+<p>Students must be in school by 7:30am daily except for Wednesday (8.30am
+due to late start day)</p>
 </li>
 <li>
 <p><strong>Students who are Singapore citizens must sing the National Anthem and take the Pledge (right fist placed over the heart).</strong>
@@ -367,6 +384,10 @@ from Tuesday-Friday.</p>
 </li>
 <li>
 <p>Students may wear official school-related T-shirts on Fridays only.</p>
+</li>
+<li>
+<p>Students are expected to wear plain white socks only (without any logos
+or designs).</p>
 </li>
 </ul>
 </td>
@@ -455,184 +476,14 @@ and face consequences.</p>
 <p>&nbsp;<strong>INFORMATION</strong>&nbsp;</p>
 <p>&nbsp;<strong>a) School Terms, School Vacations and Scheduled School Holidays</strong>
 </p>
-<p><strong><a href="https://www.moe.gov.sg/news/press-releases/20230807-school-terms-and-holidays-for-2024" rel="noopener noreferrer nofollow" target="_blank">Click here for School Terms, School Vacations and Scheduled School Holidays for 2024</a></strong>
+<p><strong><a href="https://www.moe.gov.sg/news/press-releases/20240812-school-terms-and-holidays-for-2025" rel="noopener noreferrer nofollow" target="_blank">Click here for School Terms, School Vacations and Scheduled School Holidays for 2025</a></strong>
 </p>
 <p>&nbsp;&nbsp;<strong>b) Curriculum Hours</strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Monday to Thursday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>0745 – 1400 hrs**</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>0745 – 1230 hrs**</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Students are to report to school&nbsp;<strong>by 7.30 am.</strong>
+<p><strong>TBC</strong>
 </p>
 <p>**&nbsp;&nbsp; Actual ending times may vary from class to class.</p>
-<p><strong>c) Subjects Offered at Secondary 1:</strong>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>G1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>G2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>G3</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mother Tongue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mother Tongue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mother Tongue</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Social Studies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Literature</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Literature</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Art</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Art</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Art</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Design &amp; Technology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Design &amp; Technology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Design &amp; Technology</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nutrition and Food Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nutrition and Food Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nutrition and Food Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Music</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Music</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Music</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Geography</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Geography</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>History</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>History</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>d) CCAs offered in Marsiling Secondary School:</strong>
+<p><strong>c) CCAs offered in Marsiling Secondary School:</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -734,12 +585,12 @@ and face consequences.</p>
 </table>
 <p>CCA Days: Tuesday and Friday, 3.30pm to 6.30pm <em>(may vary from CCA to CCA)</em>
 </p>
-<p><strong>e) School Office Opening Hours</strong>
+<p><strong>d) School Office Opening Hours</strong>
 </p>
 <p>Mondays to Fridays :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.00
 am to 6.00 pm</p>
 <p>Closed on Saturdays, Sundays and Public Holidays</p>
-<p><strong>f)&nbsp; School Canteen</strong>
+<p><strong>e)&nbsp; School Canteen</strong>
 </p>
 <p>The average price of a meal with a drink is $2.70.</p>
 <p>These are stalls available in the canteen:</p>
@@ -983,18 +834,9 @@ it’s warm wishes to all Marsilian Parents.</p>
 talk session on:</p>
 <p><strong>‘Transition to Secondary 1'</strong>
 </p>
-<p><strong>Tuesday 2 January 2024 @ 8 am</strong>
+<p><strong>TBC</strong>
 </p>
-<p>Please scan the QR code below for the registration by <strong>Wednesday 27 December 2023</strong>.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/QR_Code_for_Parenting_Talk.jpg">
-</div>
-<p><a href="/files/Sec_1_Parents_info_slides_Dec2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Parents info slides</a>
-</p>
-<p><a href="/files/FFL_Intro_letter_Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">FSS Introduction letter Sec 1 2023 Care Corner Singapore</a>
-</p>
-<p><a href="https://youtu.be/3j3ZSaYUGOU" rel="noopener noreferrer nofollow" target="_blank">Care Corner Families For Life (Video)</a>
-</p>
+<p></p>
 <p><strong>15.&nbsp; For other matters, please</strong>
 </p>
 <p>Email: marsiling_ss@moe.edu.sg or
