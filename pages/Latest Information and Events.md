@@ -4,11 +4,11 @@ permalink: /latest-information-and-events/
 description: ""
 variant: markdown
 ---
-#### Open House 2024 (23 Nov, Saturday)
-Please click [HERE](https://marsilingsec.moe.edu.sg/openhouse/) for more information.
-
 #### Book List 2025 
 Please click [HERE](https://marsilingsec.moe.edu.sg/book-list-2025/) for the 2025 Book List.
+
+#### Open House 2024 (23 Nov, Saturday)
+Please click [HERE](https://marsilingsec.moe.edu.sg/openhouse/) for more information.
 
 
 #### Marsiling Secondary School's National Digital Literacy Program (NDLP@MSS) 
@@ -20,11 +20,6 @@ Please click [HERE](https://marsilingsec.moe.edu.sg/book-list-2025/) for the 202
 
 For further enquires, please contact the school at 6894 1413 or email us at marsiling_ss@moe.edu.sg, attn: HOD ICT.
 
-
-
-#### Overseas Learning Journey to Vietnam (31 Oct to 3 Nov 2023)
-
-Click [here](https://go.gov.sg/mss-vietnam-singapore-2023)  to view photos of the trip.
 
 ####   Semester 2 Principal's Letter: Update on School Matters [23 June 2023]
 
