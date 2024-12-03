@@ -3,6 +3,7 @@ title: Useful Contact
 permalink: /resources/for-parents/useful-contact/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 ### All school enquiries: General Office
 
@@ -31,4 +32,3 @@ Tel : 6559 2269
 
 MOE website: [https://www.moe.gov.sg/](https://www.moe.gov.sg/)
 
-MOE PIE Portal website: [http://parents-in-education.moe.gov.sg/](http://parents-in-education.moe.gov.sg/)

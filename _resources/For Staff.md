@@ -21,9 +21,7 @@ variant: tiptap
 <p><strong>MSS Staff Suggestion Form</strong>
 <br><a href="https://forms.gle/nVKVBwrYTCMCKbcD9" rel="noopener noreferrer nofollow" target="_blank">MSS Staff Suggestion Form</a>
 </p>
-<p><strong>Photography Service Request Form</strong>
-<br><a href="https://tinyurl.com/PhotographyServiceRequests" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/PhotographyServiceForm</a>
-</p>
+<p></p>
 <p><strong>Pride Highlights</strong>
 <br><a href="http://tinyurl.com/MSSpridehighlights" rel="noopener noreferrer nofollow" target="_blank">http://tinyurl.com/MSSpridehighlights</a>
 </p>
@@ -39,8 +37,8 @@ variant: tiptap
 <p><strong>Staff Professional Development Site</strong><a href="https://sites.google.com/moe.edu.sg/msspdsite/home" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/msspdsite/home</a>
 </p>
 <p><strong>MOE Websites</strong> 
-<br><a href="https://www.hrp.gov.sg/hrp/#/" rel="noopener noreferrer nofollow" target="_blank">HRP</a>&nbsp;|&nbsp;
-<br><a href="https://identity.moe.edu.sg/identity" rel="noopener noreferrer nofollow" target="_blank">IAMS 2.0 (SSOE2 account management)</a>
+<br><a href="https://www.hrp.gov.sg/hrp/#/" rel="noopener noreferrer nofollow" target="_blank">HRP</a>
+<br><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener nofollow" target="_blank">MiMs Portal</a>
 <br><a href="https://iexams.seab.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank">iExams2</a>
 <br><a href="https://icon.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE iCON2</a>&nbsp;|&nbsp;
 <a href="https://intranet.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a>

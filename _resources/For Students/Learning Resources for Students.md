@@ -3,6 +3,7 @@ title: Learning Resources for Students
 permalink: /resources/for-students/learning-management-systems/
 description: ""
 third_nav_title: For Students
+variant: markdown
 ---
 **Important Links**
 
@@ -19,6 +20,5 @@ third_nav_title: For Students
 
 3. [Pride Highlights](http://tinyurl.com/MSSpridehighlights2019)
 
-4. [iMTL](https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&func=login)
 
-5. [Travel Declarations](/travel-declaration/)
+4. [Travel Declarations](/travel-declaration/)
