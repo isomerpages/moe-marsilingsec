@@ -10,7 +10,6 @@ variant: markdown
 1\. Student Learning Space (SLS)  
 [What is SLS ?](/student-learning-space-sls/)  
 [SLS log in page](https://vle.learning.moe.edu.sg/login)  
-[Can’t log in to SLS ?](/problems-log-in-to-sls/)  
 [Student SLS Password/Account Lock Form](https://go.gov.sg/mss-sls-help)
 
 2\. Student iCON Email  
