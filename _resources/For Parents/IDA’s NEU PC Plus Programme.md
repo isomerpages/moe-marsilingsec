@@ -3,6 +3,7 @@ title: IDA’s NEU PC Plus Programme
 permalink: /resources/for-parents/idas-neu-pc-plus-programme/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 The NEU PC Plus Programme offers students and persons with disabilities from low income households the opportunity to own a brand new computer at an affordable price.
 
@@ -59,6 +60,5 @@ The NEU PC Plus Programme offers students and persons with disabilities from low
 </tbody>
 </table>
 
-For more information, please click [here](https://www.imda.gov.sg/community/consumer-education/digital-inclusion/neu-pc-plus-programme/schemes/pc-bundle-scheme).
+For more information, please click&nbsp;[here](https://www.imda.gov.sg/community/consumer-education/digital-inclusion/neu-pc-plus-programme/schemes/pc-bundle-scheme).
 
-To apply, please click [here](https://www.imda.gov.sg/community/consumer-education/digital-inclusion/neu-pc-plus-programme/how-to-apply).
