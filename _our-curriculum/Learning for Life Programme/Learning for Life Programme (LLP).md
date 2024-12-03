@@ -20,4 +20,3 @@ variant: markdown
 
 *   **Attitude and Personality**: Students must have a keen interest in Community Youth Leadership and are willing to take on physical and emotional challenges. Students must also have the desire to learn and be receptive to guidance and instruction.
 *   **Academic**: Must be in Primary 6 at the point of application or equivalent.
-
