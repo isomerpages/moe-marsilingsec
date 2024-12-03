@@ -21,9 +21,7 @@ variant: tiptap
 <p><strong>MSS Staff Suggestion Form</strong>
 <br><a href="https://forms.gle/nVKVBwrYTCMCKbcD9" rel="noopener noreferrer nofollow" target="_blank">MSS Staff Suggestion Form</a>
 </p>
-<p><strong>Photography Service Request Form</strong>
-<br><a href="https://tinyurl.com/PhotographyServiceRequests" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/PhotographyServiceForm</a>
-</p>
+<p></p>
 <p><strong>Pride Highlights</strong>
 <br><a href="http://tinyurl.com/MSSpridehighlights" rel="noopener noreferrer nofollow" target="_blank">http://tinyurl.com/MSSpridehighlights</a>
 </p>
