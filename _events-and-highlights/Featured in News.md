@@ -44,7 +44,6 @@ Click&nbsp;[here](https://www.straitstimes.com/singapore/education/from-normal-s
 
 Our ex-student Noor bte Ahmad Alkaff was featured in Straits Times, for being the rare few that was offered a place in NUS Medical school, after completing her diploma in Republic Polytechnic. &nbsp;
 
-Click&nbsp;[here](https://www.asiaone.com/singapore/polytechnic-duo-line-become-doctors)&nbsp;to read the article.
 
 ![](/images/NUS-medical-school-1024x577.jpeg)
 
