@@ -66,5 +66,7 @@ Activities:
 ![](/images/Drama_Slide1.JPG)
 ![](/images/Drama_Slide2.JPG)
 ![Drama Society](/images/Drama%20Society_1.jpg)
-
 ![Drama Society](/images/Drama%20Society_2.jpg)
+
+
+<h4 style="color:red" align="left">Click&nbsp;<a href="https://www.moe.gov.sg/secondary/dsa">here</a>&nbsp;to apply for DSA.</h4>
