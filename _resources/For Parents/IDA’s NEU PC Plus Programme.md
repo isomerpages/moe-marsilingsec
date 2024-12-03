@@ -61,4 +61,3 @@ The NEU PC Plus Programme offers students and persons with disabilities from low
 </table>
 
 For more information, please click&nbsp;[here](https://www.imda.gov.sg/community/consumer-education/digital-inclusion/neu-pc-plus-programme/schemes/pc-bundle-scheme).
-
