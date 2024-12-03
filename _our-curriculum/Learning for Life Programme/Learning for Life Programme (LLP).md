@@ -3,6 +3,7 @@ title: Learning for Life Programme (LLP)
 permalink: /curriculum/learning-for-life-programme/
 description: ""
 third_nav_title: Learning for Life Programme
+variant: markdown
 ---
 **LLP - Community Youth Leadership (CYL)**
 
@@ -20,4 +21,3 @@ third_nav_title: Learning for Life Programme
 *   **Attitude and Personality**: Students must have a keen interest in Community Youth Leadership and are willing to take on physical and emotional challenges. Students must also have the desire to learn and be receptive to guidance and instruction.
 *   **Academic**: Must be in Primary 6 at the point of application or equivalent.
 
-<h4 style="color:red" align="left">Click&nbsp;<a href="http://go.gov.sg/apply-dsa-sec">here</a>&nbsp;to apply for DSA.</h4>
