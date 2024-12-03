@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Canteen Advertisement.md
       - Message From Our Principal.md
       - Our Philosophy.md
       - Our Vision, Mission and Values.md
@@ -26,3 +25,4 @@ collections:
         Facilities.md
       - Our Rules and Regulations/Student Conduct.md
       - Contact Us.md
+      - School Canteen Advertisement.md
