@@ -31,7 +31,7 @@ description: ""
 <p>Western Food (Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 Dec 2024</p>
+<p>18 Dec 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sale of western food</p>
@@ -49,7 +49,7 @@ description: ""
 hardcopy from the School’s General Office.</p>
 </li>
 </ol>
-<p><strong>Application Form</strong>
+<p><strong><u>Application Form</u></strong>
 </p>
 <ol start="2" data-tight="true" class="tight">
 <li>
