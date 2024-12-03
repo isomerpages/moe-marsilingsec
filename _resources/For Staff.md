@@ -38,7 +38,7 @@ variant: tiptap
 </p>
 <p><strong>MOE Websites</strong> 
 <br><a href="https://www.hrp.gov.sg/hrp/#/" rel="noopener noreferrer nofollow" target="_blank">HRP</a>&nbsp;|&nbsp;
-<br><a href="https://identity.moe.edu.sg/identity" rel="noopener noreferrer nofollow" target="_blank">IAMS 2.0 (SSOE2 account management)</a>
+<br><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener noreferrer nofollow" target="_blank">IAMS 2.0 (SSOE2 account management)</a>
 <br><a href="https://iexams.seab.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank">iExams2</a>
 <br><a href="https://icon.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE iCON2</a>&nbsp;|&nbsp;
 <a href="https://intranet.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a>
