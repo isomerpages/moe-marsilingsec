@@ -49,7 +49,7 @@ description: ""
 hardcopy from the School’s General Office.</p>
 </li>
 </ol>
-<p><strong><u>Application Form</u></strong>
+<p><strong><a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Application Form</u></a></strong>
 </p>
 <ol start="2" data-tight="true" class="tight">
 <li>
