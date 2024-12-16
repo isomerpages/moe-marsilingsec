@@ -16,7 +16,7 @@ as a Marsilian!</p>
 through Parents Gateway (PG) and the school’s website.</p>
 </li>
 <li>
-<p>Secondary 1 students are to report to school on <strong>Thursday 2 January 2025 @ 720am</strong>,
+<p>Secondary 1 students are to report to school on <strong>Thursday 2 January 2025 @ 7.25am</strong>,
 Marsiling Secondary. Parents and students are NOT required to physically
 report to Marsiling Secondary for the registration in December 2024.</p>
 </li>
@@ -49,7 +49,7 @@ on:</p>
 <p>Sec 1 class allocation will be informed to parents/students via</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Parents Gateway&nbsp;by <strong>TBC, </strong>and</p>
+<p>Parents Gateway&nbsp;by <strong>19 December 2024 after 12pm, </strong>and</p>
 </li>
 <li>
 <p>Poster board in school near the canteen (parents/students can check if
@@ -57,7 +57,7 @@ proceeding to school to purchase the school textbook/uniforms)</p>
 </li>
 </ul>
 <p>For parents who would like to find out about the class allocation, you
-may reach out to us after 2.30 pm via:</p>
+may reach out to us after <strong>12pm from 19 December 2024</strong> via:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Email:&nbsp;<a href="mailto:marsiling_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">marsiling_ss@moe.edu.sg</a>&nbsp;or</p>
@@ -121,8 +121,137 @@ may reach out to us after 2.30 pm via:</p>
 </p>
 <p><strong>4.&nbsp; Information on School Reporting and First Week of School</strong>
 </p>
-<p><strong>TBC</strong>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Activity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Attire</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>What to Bring</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Recess</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thurs</p>
+<p>2 Jan 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am -2.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Start It Right</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Uniform</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Writing Materials (stationery and notebook)</p>
+<p>Personal expenses for food etc.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00am-9.30am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fri</p>
+<p>3 Jan 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am -12.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-Start It Right</p>
+<p>-Orientation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Half-Uniform</p>
+<p>(School PE T-shirt with Uniform Shorts/Skirt)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Writing Materials (stationery and notebook)</p>
+<p>Personal expenses for food etc.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00am-9.30am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mon</p>
+<p>6 Jan 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am -1.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-NLB talk</p>
+<p>-Outdoor Hike</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Half-Uniform</p>
+<p>(School PE T-shirt /shorts, to change out after NLB talk)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Personal expenses for food etc.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-Breaktime during hiking will be provided.</p>
+<p>-Buns will be provided</p>
+<p>-Students may pack light snacks.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tues</p>
+<p>7 Jan 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am -1.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-SMART Study skills</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Half-Uniform</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Writing Materials (stationery and notebook)</p>
+<p>Personal expenses for food etc.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.30am-10.00am</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>5. Forms for submission</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -478,12 +607,9 @@ and face consequences.</p>
 </p>
 <p><strong><a href="https://www.moe.gov.sg/news/press-releases/20240812-school-terms-and-holidays-for-2025" rel="noopener noreferrer nofollow" target="_blank">Click here for School Terms, School Vacations and Scheduled School Holidays for 2025</a></strong>
 </p>
-<p>&nbsp;&nbsp;<strong>b) Curriculum Hours</strong>
-</p>
-<p><strong>TBC</strong>
-</p>
-<p>**&nbsp;&nbsp; Actual ending times may vary from class to class.</p>
-<p><strong>c) CCAs offered in Marsiling Secondary School:</strong>
+<p></p>
+<p></p>
+<p><strong>b) CCAs offered in Marsiling Secondary School:</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -585,12 +711,12 @@ and face consequences.</p>
 </table>
 <p>CCA Days: Tuesday and Friday, 3.30pm to 6.30pm <em>(may vary from CCA to CCA)</em>
 </p>
-<p><strong>d) School Office Opening Hours</strong>
+<p><strong>c) School Office Opening Hours</strong>
 </p>
 <p>Mondays to Fridays :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.00
 am to 6.00 pm</p>
 <p>Closed on Saturdays, Sundays and Public Holidays</p>
-<p><strong>e)&nbsp; School Canteen</strong>
+<p><strong>d)&nbsp; School Canteen</strong>
 </p>
 <p>The average price of a meal with a drink is $2.70.</p>
 <p>These are stalls available in the canteen:</p>
@@ -834,9 +960,20 @@ it’s warm wishes to all Marsilian Parents.</p>
 talk session on:</p>
 <p><strong>‘Transition to Secondary 1'</strong>
 </p>
-<p><strong>TBC</strong>
+<p><strong>Thursday 2 January 2025 @ 8 am</strong>
 </p>
+<p>Please scan the QR code below for the registration by&nbsp;<strong>Wednesday 27 December 2024</strong>.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_code.jpg">
+</div>
+<p></p>
+<p><a href="/files/Introduction_to_Care_Corner_Families_for_Life_and_Our_Programmes.pdf" rel="noopener nofollow" target="_blank">Introduction to Care Corner Families for Life and Our Programmes</a>
+</p>
+<p><a href="/files/Care_Corner_Transition_Workshop__Sec_.pdf" rel="noopener nofollow" target="_blank">Care Corner Transition Workshop (Sec) </a>
+</p>
+<p><a href="https://www.youtube.com/watch?v=3j3ZSaYUGOU" rel="noopener nofollow" target="_blank">Care Corner Families For Life (Video)</a>
+</p>
 <p><strong>15.&nbsp; For other matters, please</strong>
 </p>
 <p>Email: marsiling_ss@moe.edu.sg or
