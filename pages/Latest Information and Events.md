@@ -4,7 +4,7 @@ permalink: /latest-information-and-events/
 description: ""
 variant: markdown
 ---
-#### Results Release of 2024 GCE N-Level Examination
+#### 2024 Results Release GCE N-Level Examination
 
 Please click [here](/files/2024_N_Level_Briefing_Slides.pdf) to view the Admin Notes for Students on the Results Release of the 2024 GCE N-Level Examination.
 
