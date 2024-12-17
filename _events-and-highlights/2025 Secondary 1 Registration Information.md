@@ -87,7 +87,7 @@ may reach out to us after <strong>12pm from 19 December 2024</strong> via:</p>
 <th rowspan="1" colspan="1">
 <p>Thursday
 <br>19 December
-<br>1pm to 3pm</p>
+<br>9am to 3pm</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Friday
@@ -970,7 +970,7 @@ talk session on:</p>
 <p></p>
 <p><a href="/files/Introduction_to_Care_Corner_Families_for_Life_and_Our_Programmes.pdf" rel="noopener nofollow" target="_blank">Introduction to Care Corner Families for Life and Our Programmes</a>
 </p>
-<p><a href="/files/Care_Corner_Transition_Workshop__Sec_.pdf" rel="noopener nofollow" target="_blank">Care Corner Transition Workshop (Sec) </a>
+<p><a href="/files/Care_Corner_Transition_Workshop__Sec_.pdf" rel="noopener nofollow" target="_blank">Care Corner Transition Workshop (Sec)</a>
 </p>
 <p><a href="https://www.youtube.com/watch?v=3j3ZSaYUGOU" rel="noopener nofollow" target="_blank">Care Corner Families For Life (Video)</a>
 </p>
