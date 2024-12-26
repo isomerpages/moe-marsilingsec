@@ -42,7 +42,7 @@ Parents and students on our Secondary 1 Parent-Teacher Conference and CCA
 Fair.</p>
 <p>We would like to invite all Secondary 1 parents and students to join us
 on:</p>
-<p><strong>Date:</strong>&nbsp;Saturday 18 January 2025</p>
+<p><strong>Date:</strong>&nbsp;Saturday 25 January 2025</p>
 <p><strong>Time:</strong> 8.00am - 12.00pm</p>
 <p><strong>2.&nbsp; Class allocation:</strong>
 </p>
