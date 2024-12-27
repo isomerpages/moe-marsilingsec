@@ -163,7 +163,7 @@ may reach out to us after <strong>12pm from 19 December 2024</strong> via:</p>
 <p>2 Jan 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.30am -2.00pm</p>
+<p>7.35am -1.35pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Start It Right</p>
@@ -176,7 +176,7 @@ may reach out to us after <strong>12pm from 19 December 2024</strong> via:</p>
 <p>Personal expenses for food etc.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.00am-9.30am</p>
+<p>9.05am-9.35am</p>
 </td>
 </tr>
 <tr>
@@ -185,7 +185,7 @@ may reach out to us after <strong>12pm from 19 December 2024</strong> via:</p>
 <p>3 Jan 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.30am -12.30pm</p>
+<p>7.35am -12.35pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-Start It Right</p>
@@ -200,7 +200,7 @@ may reach out to us after <strong>12pm from 19 December 2024</strong> via:</p>
 <p>Personal expenses for food etc.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.00am-9.30am</p>
+<p>9.05am-9.35am</p>
 </td>
 </tr>
 <tr>
@@ -209,7 +209,7 @@ may reach out to us after <strong>12pm from 19 December 2024</strong> via:</p>
 <p>6 Jan 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.30am -1.00pm</p>
+<p>7.35am -1.35pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-NLB talk</p>
@@ -234,7 +234,7 @@ may reach out to us after <strong>12pm from 19 December 2024</strong> via:</p>
 <p>7 Jan 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.30am -1.00pm</p>
+<p>7.35am -1.05pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-SMART Study skills</p>
@@ -247,11 +247,13 @@ may reach out to us after <strong>12pm from 19 December 2024</strong> via:</p>
 <p>Personal expenses for food etc.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.30am-10.00am</p>
+<p>9.35am-10.05am</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>Click <a href="/files/Start_it_Right_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+Start It Right Schedule 2025.</p>
 <p><strong>5. Forms for submission</strong>
 </p>
 <ul data-tight="true" class="tight">
