@@ -489,7 +489,7 @@ Medical certificate or any official documentation)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Students must be in school by 7:30am daily except for Wednesday (8.30am
+<p>Students must be in school by 7:30am daily except for Thursday (8.30am
 due to late start day)</p>
 </li>
 <li>
