@@ -26,7 +26,7 @@ sections:
       button: Click to find out more!
       url: /latest-information-and-events
   - infobar:
-      title: 2024 Home-Based Learning (HBL) and Semester Timetable
+      title: 2025 Home-Based Learning (HBL) and Semester Timetable
       button: Click to find out more!
       url: /timetable
   - infopic:
