@@ -6,36 +6,25 @@ variant: markdown
 ---
 Dear parents,
 
-Please click on the links below for the 2024 Semester 1 Student's Timetable.
+Please click on the links below for the 2025 Semester 1 Student's Timetable.
 
 Thank you.
 
 ### **Home Based Learning**
 
-![](/images/HBL/2024_HBL.PNG)
+![](/images/HBL/HBL_2025.png)
 
 
 #### **LINKS**
 
-**2024 Semester  2 Timetable [NEW]**
+**2025 Semester  1 Timetable [NEW]**
 
 
-[2024 Semester 2 Odd Week Timetable with SRP](/files/Semester_2_Odd_Week_class_timetable_with_SRP.pdf)
+[2025 Semester 1 Odd Week Timetable (Version 4)](/files/2025_Sem_1_Odd_Week_Timetable_w_HBL__Class___Ver_4_.pdf)
 
-[2024 Semester 2 Even Week Timetable with SRP](/files/Semester_2_Even_Week_class_timetable_with_SRP.pdf)
-
-
-
-
+[2025 Semester 1 Even Week Timetable (Version 4)](/files/2025_Sem_1_Even_Week_Timetable_w_HBL__Class___Ver_4_.pdf)
 
 
 **HBL Assignment Links**
 
-
-[Secondary 1 HBL Assignments](http://tinyurl.com/MSS2024Sec1HBLCCP-StudentView)
-
-[Secondary 2 HBL Assignments](http://tinyurl.com/MSS2024Sec2HBLCCP-StudentView)
-
-[Secondary 3 HBL Assignments](http://tinyurl.com/MSS2024Sec3HBLCCP-StudentView)
-
-[Secondary 4 and 5 HBL Assignments](http://tinyurl.com/MSS2024Sec45HBLCCP-StudentView)
+** Coming Soon...
