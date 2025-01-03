@@ -17,7 +17,7 @@ Thank you.
 
 #### **LINKS**
 
-**2025 Semester  1 Timetable [NEW]**
+**2025 Semester  1 Timetable [NEW]**       **(Updated on 3rd Jan 2025)**
 
 [2025 Semester 1 Odd Week Timetable (Version 5)](/files/Timetable/2025_Sem_1_Odd_Week_Timetable_w_HBL__Class___Ver_5.pdf)
 
