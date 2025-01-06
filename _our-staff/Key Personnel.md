@@ -93,7 +93,7 @@ variant: tiptap
 <p>HOD Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur’ain</p>
+<p>Mdm Loke Lay Fang</p>
 </td>
 </tr>
 <tr>
@@ -133,7 +133,7 @@ variant: tiptap
 <p>HOD Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hemalatha</p>
+<p>Mr Puran Singh</p>
 </td>
 </tr>
 <tr>
@@ -245,6 +245,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SH English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kelvin Chen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH E21CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chen Huangzhi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>AYH Upper Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -253,7 +269,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AYH Lower Secondary (Int)</p>
+<p>AYH Lower Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sylvia Ho</p>
@@ -312,18 +328,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST Geography</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chen Wenwen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>ST Education Support</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Pu Siang Beng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Henry Kwek Hyen Wee</p>
 </td>
 </tr>
 </tbody>
