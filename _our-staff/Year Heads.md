@@ -42,20 +42,6 @@ policies in the school.</p>
 <p>Secondary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head/Lower Sec</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ho Jia En Sylvia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ext. 2021</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 2</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Year Head/Lower Sec</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -67,21 +53,21 @@ policies in the school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 3</p>
+<p>Secondary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head/Upper Sec</p>
+<p>Assistant Year Head/Lower Sec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Er Siong Chye</p>
+<p>Ms Ho Jia En Sylvia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ext. 1311</p>
+<p>ext. 2021</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 4</p>
+<p>Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head/Upper Sec</p>
@@ -91,6 +77,20 @@ policies in the school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ext. 1171</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head/Upper Sec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Er Siong Chye</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ext. 1311</p>
 </td>
 </tr>
 </tbody>
