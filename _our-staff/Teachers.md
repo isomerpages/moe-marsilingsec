@@ -180,7 +180,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Respect (2RE)</p>
+<p>3 Respect (3RE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Alysia Lim Zhiyan</p>
@@ -192,7 +192,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Responsibility (2RY)</p>
+<p>3 Responsibility (3RY)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Soon Leng</p>
@@ -204,7 +204,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Resilience (2RE)</p>
+<p>3 Resilience (3RE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Andal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -216,7 +216,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Growth (2GH)</p>
+<p>3 Growth (3GH)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Khusairi</p>
@@ -228,7 +228,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Resourceful (2RL)</p>
+<p>3 Resourceful (3RL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Leong Chao Shing</p>
@@ -241,7 +241,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Integrity (2IN)</p>
+<p>3 Integrity (3IN)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Yi Hang</p>
@@ -259,7 +259,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Respect (2RE)</p>
+<p>4 Respect (4RE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Li Zhi Cong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -271,7 +271,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Responsibility (2RY)</p>
+<p>4 Responsibility (4RY)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Adrian Tan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -283,7 +283,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Resilience (2RE)</p>
+<p>4 Resilience (4RE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Alfred Wee&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -295,7 +295,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Growth (2GH)</p>
+<p>4 Growth (4GH)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Dian</p>
@@ -307,7 +307,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Resourceful (2RL)</p>
+<p>4 Resourceful (4RL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Peng Teng</p>
@@ -319,7 +319,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Integrity (2IN)</p>
+<p>4 Integrity (4IN)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mike Thye</p>
