@@ -19,6 +19,10 @@ Thank you.
 
 **2025 Semester  1 Timetable [NEW]**       **(Updated on 3rd Jan 2025)**
 
+
+[Interim Time Table for 9 January Only (Changes for Sec 2, 3 and 4 only)](/files/Timetable/9_Jan_Classes_Timetable__Changes_for_Sec_2___3_and_4_.pdf)
+
+
 [2025 Semester 1 Odd Week Timetable (Version 5)](/files/Timetable/2025_Sem_1_Odd_Week_Timetable_w_HBL__Class___Ver_5.pdf)
 
 
