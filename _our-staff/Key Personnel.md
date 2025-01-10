@@ -336,7 +336,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST Geography</p>
+<p>ST History</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Henry Kwek Hyen Wee</p>
