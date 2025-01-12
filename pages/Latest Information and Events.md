@@ -4,6 +4,10 @@ permalink: /latest-information-and-events/
 description: ""
 variant: markdown
 ---
+#### 2024 Results Release GCE O-Level Examination - Admin Notes for Students
+
+Please click [here ](/files/GCE_O_Level_Presentation_MSS_Website_compressed.pdf)to view the Admin Notes for Students on the Results Release of the 2024 GCE O-Level Examination.
+
 #### 2024 Results Release GCE O-Level Examination
 
 The 2024 Singapore-Cambridge GCE O-Level Examination results will be released on **Friday, 10 January 2025.**
