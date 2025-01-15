@@ -22,15 +22,17 @@ The school have identified the PLD to be IPAD. It is important for all students 
 
 **Purchase of PLD bundle.** The school has made arrangements for you to purchase the PLD from **AsiaPac Technology Pte Ltd** for your child’s/ward’s use in school. The vendor has been identified based on the choice of device determined by the school from a panel of awarded suppliers established by MOE. The PLD bundle which includes warranty and insurance for purchase by your child/ward will be:
 
-**Model: Apple iPad 10.2 9th Gen**
-- Processor: A13 Bionic Processor
-- Memory (GB): 3GB
+**Model: Apple iPad 10.9 10th Gen**
+- Processor: A14 Bionic Processor
+- Memory (GB): 4GB
 - Storage (GB): 64GB
 - Enhanced Bundle Warranty: 3-Year carry-in warranty
 - Enhanced Bundle Insurance: 3-Year insurance
 
-- Apple Pencil (1st Generation) with USB-C to Apple Pencil Adapter
+Add-on/Accessories Item(s):
+- Apple Pencil (USB-C)
 - Ruggedized Silicon Casing
+
 
 
 ### **Use of Edusave**
@@ -71,15 +73,9 @@ Schools may also choose to roll out applications other than those listed above. 
 
 ### **Online Form for the purchase of PLD**
 
-To proceed with the purchase of the PLD, please fill in the online form at this link: [https://go.gov.sg/pdlpadmin](https://go.gov.sg/pdlpadmin) by **25 January 2024**.
+To proceed with the purchase of the PLD, you would have recieve a Parent's Gateway Form to submit your intention to purchase the PLD (IPad), please acknowledge by **27 January 2025**.
 
-The online form will consist:
-
-*   **Intent to Purchase**. For parents/guardians to indicate intent to purchase PLD.
-*   **Use of Edusave (for Singapore Citizens only)**. For parents/guardians who have opted to use their child’s/ward’s Edusave to pay for the PLD bundle.
-*   **Collection of PLD (if purchasing)**. For parents/guardians to authorise their child/ward or an adult to collect the device on their behalf. You may appoint your child/ward to collect the PLD as the Vendor will run through a device checklist with the students at the point of collection to ensure that the device is in good working condition.
-
-If you are unable to submit the form online, please contact the school for a hardcopy version.
+If you are unable to submit the form online, please contact the school for a hardcopy version or click [here](/files/Parental_Consent_Forms.pdf) to access and print the forms.
 
 ### **Further Queries**
 
@@ -104,13 +100,14 @@ All user data which is collected by MOE will be stored in secure servers managed
 
 ### Resources/Forms/Links
 
-a)  [Parent Engagement Deck 2024](/files/PDLP/IP1___Parent_Engagement_Deck_2024_Final.pdf)
+a) 
 
-b)  [Parent Handbook I](/files/PDLP/IP2___Parent_Handbook__I__2024_FINAL.pdf)
+b)  [Parent Handbook I](/files/PDLP/IP2___Parent_Handbook__I__2025.pdf)
 
-c)   [Parent Handbook II](/files/PDLP/IP3___Parent_Handbook__II__2024_FINAL.pdf)
+c)   [Parent Handbook II](/files/PDLP/IP3___Parent_Handbook__II__2025.pdf)
 
-d)  [Online Forms (By 25 January 2024)](https://go.gov.sg/pdlpadmin)      
+d)  [Parental Consent Forms [Hardcopy]](/files/Parental_Consent_Forms.pdf)   
+[Print and submit hardcopy if you did not acknowledge or have access to Parent Gateway.]
 
 e)  [Marsiling Secondary ICT Acceptable Use Policy](https://go.gov.sg/mss-ict-aup)
 
