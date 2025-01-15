@@ -43,7 +43,7 @@ Please note that it is compulsory for all existing students on the MOE Financial
 
 ### **Financial Assistance**
 
-Subsidies are available for students who require financial assistance to purchase a PLD. Please refer to the [Parents Engagement 2024 Slides](/files/PDLP/IP1___Parent_Engagement_Deck_2024_Final.pdf)  for further details on funding support. Students under the MOE Financial Assistance Scheme for the year will automatically be subsidized for the PLD. Students who are currently not under the MOE Financial Assistance Scheme may approach the school’s General Office to apply for additional subsidy if their Gross Household Income (GHI) is $4,000 or less, or Per Capita Income (PCI) is $1,000 or less. “**PCI**” refers to the Gross Household Income divided by the total number of family members in the household.
+Subsidies are available for students who require financial assistance to purchase a PLD. Please refer to the [Parents Engagement 2025 Slides](/files/PDLP/2025_Parent_Engagement_Deck.pdf)  for further details on funding support. Students under the MOE Financial Assistance Scheme for the year will automatically be subsidized for the PLD. Students who are currently not under the MOE Financial Assistance Scheme may approach the school’s General Office to apply for additional subsidy if their Gross Household Income (GHI) is $4,000 or less, or Per Capita Income (PCI) is $1,000 or less. “**PCI**” refers to the Gross Household Income divided by the total number of family members in the household.
 
 ### **Device Management Application**
 
@@ -100,7 +100,7 @@ All user data which is collected by MOE will be stored in secure servers managed
 
 ### Resources/Forms/Links
 
-a) 
+a) [2025 Parent Engagement Slides](/files/PDLP/2025_Parent_Engagement_Deck.pdf)
 
 b)  [Parent Handbook I](/files/PDLP/IP2___Parent_Handbook__I__2025.pdf)
 
