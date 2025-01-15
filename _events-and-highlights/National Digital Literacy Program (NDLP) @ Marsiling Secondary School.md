@@ -109,6 +109,6 @@ c)   [Parent Handbook II](/files/PDLP/IP3___Parent_Handbook__II__2025.pdf)
 d)  [Parental Consent Forms [Hardcopy]](/files/Parental_Consent_Forms.pdf)   
 [Print and submit hardcopy if you did not acknowledge or have access to Parent Gateway.]
 
-e)  [Marsiling Secondary ICT Acceptable Use Policy](https://go.gov.sg/mss-ict-aup)
+e)  [Marsiling Secondary ICT Acceptable Use Policy](/files/PDLP/Acceptable_Use_Policy__AUP_.pdf)
 
 f)  [Student Device Information Kit](/files/NDLP/MSS___Student_Device_Information_Kit___6_March_2024_.pdf)
