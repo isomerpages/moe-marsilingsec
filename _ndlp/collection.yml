@@ -1,4 +1,5 @@
 collections:
   ndlp:
     output: true
-    order: []
+    order:
+      - Marsiling Secondary School ICT Acceptable Use Policy (AUP).md
