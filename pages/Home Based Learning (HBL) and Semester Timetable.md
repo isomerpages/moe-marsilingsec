@@ -17,7 +17,7 @@ Thank you.
 
 #### **LINKS**
 
-**2025 Semester  1 Timetable [NEW]**       **(Updated on 3rd Jan 2025)**
+**2025 Semester  1 Timetable [NEW]**       **(Updated on 18th Jan 2025)**
 
 
 [Interim Time Table for 9 January Only (Changes for Sec 2, 3 and 4 only)](/files/Timetable/9_Jan_Classes_Timetable__Changes_for_Sec_2___3_and_4_.pdf)
@@ -30,4 +30,10 @@ Thank you.
 
 **HBL Assignment Links**
 
-** Coming Soon...
+Sec 1: [https://go.gov.sg/mss-s1hblccp](https://go.gov.sg/mss-s1hblccp)
+
+Sec 2: [https://go.gov.sg/mss-s2hblccp](https://go.gov.sg/mss-s2hblccp)
+
+Sec 3: [https://go.gov.sg/mss-s3hblccp](https://go.gov.sg/mss-s3hblccp)
+
+Sec 4&5: [https://go.gov.sg/mss-s45hblccp](https://go.gov.sg/mss-s45hblccp)
