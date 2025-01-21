@@ -20,8 +20,19 @@ Thank you.
 **2025 Semester  1 Timetable [NEW]**       **(Updated on 18th Jan 2025)**
 
 
-[Interim Time Table for 9 January Only (Changes for Sec 2, 3 and 4 only)](/files/Timetable/9_Jan_Classes_Timetable__Changes_for_Sec_2___3_and_4_.pdf)
+**Version 6 [With effect from 27 January 2025.]**
 
+Note: Even Week: 27 Jan to 31 Jan
+
+[2025 Secondary 1 Semester 1 Odd n Even Timetable (Version 6)](/files/Timetable/Sec_1_2025_Sem_1_Odd_n_Even_Timetable_w_HBL_SRP__Ver_6_.pdf)
+
+[2025 Secondary 2 Semester 1 Odd n Even Timetable (Version 6)](/files/Timetable/Sec_2_2025_Sem_1_Odd_n_Even_Timetable_w_HBL_SRP__Ver_6_.pdf)
+
+[2025 Secondary 3 Semester 1 Odd n Even Timetable (Version 6)](/files/Sec_3_2025_Sem_1_Odd_n_Even_Timetable_w_HBL_SRP__Ver_6_.pdf)
+
+[2025 Secondary 4 and 5 Semester 1 Odd n Even Timetable (Version 6)](/files/Sec_4_5_2025_Sem_1_Odd_n_Even_Timetable_w_HBL_SRP__Ver_6_.pdf)
+
+**Version 5 [Valid Until 24 Jan 2025 Friday]**
 
 [2025 Semester 1 Odd Week Timetable (Version 5)](/files/Timetable/2025_Sem_1_Odd_Week_Timetable_w_HBL__Class___Ver_5.pdf)
 
