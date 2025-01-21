@@ -13,9 +13,9 @@ variant: tiptap
 </div>
 <h3><strong>LINKS</strong></h3>
 <h4><strong>2025 Semester 1 Timetable [NEW]</strong> <strong>(Updated on 21st Jan 2025)</strong></h4>
-<p><strong>Version 6 [With effect from 27 January 2025.]  </strong>
+<p><strong>Version 6 [With effect from 27 January 2025.]</strong>
 </p>
-<p><strong>Note: Even Week: 27 Jan to 31 Jan</strong>
+<p><strong>Note: Even Week - 27 Jan to 31 Jan</strong>
 </p>
 <p><a href="/files/Timetable/Sec_1_2025_Sem_1_Odd_n_Even_Timetable_w_HBL_SRP__Ver_6_.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Secondary 1 Semester 1 Odd n Even Timetable (Version 6)</a>
 </p>
