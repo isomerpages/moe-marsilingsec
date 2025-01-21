@@ -2,12 +2,13 @@
 title: Our Vision, Mission and Values
 permalink: /about-us/our-vision-mission-and-values/
 description: ""
+variant: markdown
 ---
 **Our Vision**  
-A Community of Dynamic, Confident & Caring Learners
+A dynamic community of life-long learners, caring contributors and future-ready leaders.
 
 **Our Mission**  
-To nurture agile minds and build character through holistic education
+Nurturing Minds, Building Character, Empowering Aspirations
 
 **Our Values**  
 Respect, Responsibility, Resilience
