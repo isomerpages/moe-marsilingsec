@@ -7,8 +7,7 @@ variant: markdown
 ---
 **Important Links**
 
-1\. Student Learning Space (SLS)  
-[What is SLS ?](/student-learning-space-sls/)  
+1\. Student Learning Space (SLS)   
 [SLS log in page](https://vle.learning.moe.edu.sg/login)  
 [Student SLS Password/Account Lock Form](https://go.gov.sg/mss-sls-help)
 
