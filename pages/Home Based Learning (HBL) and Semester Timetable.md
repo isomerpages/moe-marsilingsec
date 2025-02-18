@@ -23,7 +23,7 @@ variant: tiptap
 </p>
 <p><a href="/files/Sec_3_2025_Sem_1_Odd_n_Even_Timetable_w_HBL_SRP__Ver_6_.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Secondary 3 Semester 1 Odd n Even Timetable (Version 6)</a>
 </p>
-<p><a href="/files/2025_Secondary_4_and_5_Semester_1_Odd_n_Even_Timetable__Version_6_1_.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 2 Semester 1 Odd n Even Timetable (Version 6.1) *new</a>
+<p><a href="/files/2025_Secondary_4_and_5_Semester_1_Odd_n_Even_Timetable__Version_6_1_.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 4 and 5 Semester 1 Odd n Even Timetable (Version 6.1) *new</a>
 </p>
 <p></p>
 <p><strong>HBL Assignment Links</strong>
