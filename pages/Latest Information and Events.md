@@ -4,33 +4,12 @@ permalink: /latest-information-and-events/
 description: ""
 variant: markdown
 ---
-#### 2024 Results Release GCE O-Level Examination - Admin Notes for Students
+#### 2025 March Study Programme for Sec 4 and 5 students
 
-Please click [here ](/files/GCE_O_Level_Presentation_MSS_Website_compressed.pdf)to view the Admin Notes for Students on the Results Release of the 2024 GCE O-Level Examination.
+Please click [here](/files/17_18_March_Holiday_Study_Programme_2025__Vetted_.pdf) for the **March Study Programme** for our graduating students:
 
-#### 2024 Results Release GCE O-Level Examination
-
-The 2024 Singapore-Cambridge GCE O-Level Examination results will be released on **Friday, 10 January 2025.**
-
-**COLLECTION of GCE O-LEVEL EXAMINATION RESULTS**
-
-All students are to return to their secondary schools to collect their results. Please ensure you are seated by 2:15 pm in the School Hall, dressed in proper school uniform and appropriately groomed. Please note that students who are not in proper attire or grooming will not be allowed into the School Hall. These students will need to report to the **General Office** to collect their results, which will be released to them only from **4:00 PM onwards**.
-
-Parents are welcome to join us.
-
-Those who are unable to collect their results in person can appoint a proxy to collect a physical copy of their results from the school. Proxies are required to produce the relevant documents for the school’s verification when collecting the results.
-
-**ECG COUNSELLING SUPPORT**
-
-For ECG counselling support, students may contact the ECG Counsellor in their schools or make an ECG counselling session with the ECG Centre @ MOE from 6 - 16 January 2025 (Weekdays: 9.00 am to 5.00 pm; 4 & 11 January 2025 (Saturdays: 9.00 am to 12.00 pm) through the appointment booking form below.
-
-[Booking Form for ECG Counselling Appointments at the ECG Centre @ MOE](https://go.gov.sg/moe-ecg-centre)
-
-Thank you.
-
-#### 2024 Results Release GCE N-Level Examination
-
-Please click [here](/files/2024_N_Level_Briefing_Slides.pdf) to view the Admin Notes for Students on the Results Release of the 2024 GCE N-Level Examination.
+**Day/Date:** Monday, 17 March & Tuesday, 18 March 2025  
+**Time:**           8:00 AM – 1:30 PM (to refer to schedule for ending time of individual classes)
 
 #### Book List 2025 
 Please click [HERE](https://marsilingsec.moe.edu.sg/book-list-2025/) for the 2025 Book List.
