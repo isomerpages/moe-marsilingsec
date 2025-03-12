@@ -2,6 +2,7 @@ collections:
   events-and-highlights:
     output: true
     order:
+      - MSS 25th Anniversary.md
       - 2025 Secondary 1 Registration Information.md
       - Open House 2024.md
       - 2025 Secondary 3 Subject Streaming & 2024 Secondary 2 Parents Teacher
