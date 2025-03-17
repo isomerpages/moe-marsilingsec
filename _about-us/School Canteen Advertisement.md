@@ -28,13 +28,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Western Food (Halal)</p>
+<p>Chinese Noodle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18 Dec 2024</p>
+<p>7 April 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sale of western food</p>
+<p>Sale of Chinese noodle (Non-Halal)</p>
 </td>
 </tr>
 </tbody>
