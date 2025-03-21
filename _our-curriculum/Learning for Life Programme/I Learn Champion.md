@@ -9,7 +9,8 @@ variant: markdown
 
 The I-Learn Discovery Challenge will take place in 5 phases. In each phase, students will have to complete the checkpoints of the particular region of Singapore.
 
-These recommended routes are part of the Park Connectors Network in Singapore. For more information about the routes, visit&nbsp; [http://nparks.gov.sg] https://www.nparks.gov.sg
+These recommended routes are part of the Park Connectors Network in Singapore. For more information about the routes, visit&nbsp; <a href="https://www.nparks.gov.sg">http://nparks.gov.sg</a>
+
 
 <u>Navigator of the North (First Phase)</u>
 
