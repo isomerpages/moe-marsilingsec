@@ -40,4 +40,4 @@ Resist the temptation to follow or approach any wildlife and do not feed them.
 
 Abide by the Dos and Don’ts regulated by NParks.
 
-For more information, you can refer to the NParks website at&nbsp;[https://](https://www.nparks.gov.sg)
+For more information, you can refer to the NParks website at&nbsp; https://www.nparks.gov.sg
