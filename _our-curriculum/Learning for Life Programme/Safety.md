@@ -3,6 +3,7 @@ title: Safety
 permalink: /safety/
 description: ""
 third_nav_title: Learning for Life Programme
+variant: markdown
 ---
 <u>Weather</u>
 
@@ -10,7 +11,7 @@ Check the weather forecast before setting off. If there is a likelihood of light
 
 <u>Group Size</u>
 
-For safety reasons, keep the group size between **3** to **5**. The minimal group size is to have one more person to stay with the casualty while another seeks help.
+For safety reasons, keep the group size between&nbsp;**3**&nbsp;to&nbsp;**5**. The minimal group size is to have one more person to stay with the casualty while another seeks help.
 
 <u>Road Safety</u>
 
@@ -39,4 +40,4 @@ Resist the temptation to follow or approach any wildlife and do not feed them.
 
 Abide by the Dos and Don’ts regulated by NParks.
 
-For more information, you can refer to the NParks website at [https://](https://www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts)[www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts](https://www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts).
+For more information, you can refer to the NParks website at&nbsp; https://www.nparks.gov.sg
