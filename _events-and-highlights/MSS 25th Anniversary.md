@@ -57,4 +57,7 @@ our school's 25th year.</p>
 <p>The winning cheer(s) will be chosen by the panel and launched on 9 May
 2025 during Achievement Day, as part of our 25th anniversary celebrations.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cheer_QR_Code.jpg">
+</div>
 <p></p>
