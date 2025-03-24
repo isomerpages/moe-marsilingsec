@@ -11,11 +11,11 @@ leaders.</p>
 <br>Nurturing Minds, Building Character, Empowering Aspirations</p>
 <p><strong>Our Values</strong>
 <br>Respect, Responsibility, Resilience</p>
-<p><em>Respect: </em>To respect someone is to give due regard to their feelings,
+<p><em>Respect:  </em>To respect someone is to give due regard to their feelings,
 wishes or rights. We respect self, others, environment as well as properties.</p>
-<p><em>Responsibility: </em>To be responsible is to be accountable for our
+<p><em>Responsibility:  </em>To be responsible is to be accountable for our
 own behaviours and actions.</p>
-<p><em>Resilience: </em>To demonstrate resilience is to adopt a growth mindset,
+<p><em>Resilience:  </em>To demonstrate resilience is to adopt a growth mindset,
 to bounce back from setbacks, and to continue to learn and try again until
 we succeed.</p>
 <p></p>
