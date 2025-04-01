@@ -8,7 +8,7 @@ variant: markdown
 **Teachers-in-charge**  
 INSP (NPCC) Tan Yi Hang (Unit OC)  
 INSP (NPCC) Muhammad Azmi Bin Yusri (Deputy OC)  
-P/INSP (NPCC) Tan Yongqi <br>
+INSP (NPCC) Tan Yongqi <br>
 Mr Liow Jie Sheng
 
 **Training details**  
@@ -53,25 +53,10 @@ Every Thursday: 3.00 p.m. to 5.30 p.m.
 #### Achievements
 
 **Unit Overall Proficiency Award (UOPA)**  
-Distinction (2022, 2023) <br>
+Distinction (2022 to 2024) <br>
 Gold (2004 to 2019, 2021) <br>
 
 
-**2024 SPF-NPCC Badge Award**<br>
-Lim Sze Ping Pearly <br>
-Sabir Salihin Bin Saifudin
-
-**2023 SPF-NPCC Badge Award**<br>
-Nur Aleesa Binte Mohamed Haffizur <br>
-Nur Sakinah Binti Mohd Fadzli Abdullah <br>
-
-**2022 SPF-NPCC Badge Award**<br>
-Divyabarathi <br>
-Nur Adlina Fakhira Binte Abdullah
-
-**2023 Certificate of Participation in National Day Parade (NPCC Contingent)**  
-Lim Sze Ping Pearly <br>
-Sabir Salihin Bin Saifudin
 
 ### Gallery
 
@@ -88,7 +73,7 @@ Footdrill Training <br><br>
 
 **Term 2 Updates**<br>
 ![NPCC Annual Parade 2024](/images/NPCC_Annual_Parade_2024.jpg)
-NPCC Annual Parade 2024<br>
+NPCC Annual Parade<br>
 
 ![NPC School Visit](/images/NPC_School_Visit.jpg)
 NPC School Visit <br>
@@ -97,7 +82,7 @@ NPC School Visit <br>
 CPR + AED Certification Course <br>
 
 ![Road Marshall @ Marsiling Achievement Day 2024](/images/Road_Marshall___Marsiling_Achievement_Day_2024.jpg)
-Road Marshall @ Marsiling Achievement Day 2024 <br>
+Road Marshall @ Marsiling Achievement Day <br>
 
 ![Campcraft Training](/images/Campcraft_Training.jpg)
 Campcraft Training<br>
@@ -125,4 +110,3 @@ Sec 1 Police Centre Visit <br>
 Annual Camp <br>
 ![](/images/Unit_Hike.jpg)
 Unit Hike to Marsiling Park <br>
-
