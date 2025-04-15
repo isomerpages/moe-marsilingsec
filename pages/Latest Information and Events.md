@@ -8,7 +8,9 @@ variant: markdown
 
 Dear Parent/Guardian,
 
-Details of the Welcome Address by Principal, Mr Koh during the Secondary 4 & 5 Parent-Teacher Conference held on 3 April can be found in the attached PDF file for your reference.
+Details of the Welcome Address by Principal, Mr Koh during the Secondary 4 & 5 Parent-Teacher Conference held on 3 April can be found in the attached PDF file for your reference. 
+
+[Sec 4 & 5 Parent-Teaceher Conference 3 April 2025](/files/Sec_4_and_5_Parent_Teacher_Conference_3_April.pdf)
 
 Thank you for your support and we look forward to your engagement. If you have any queries, please contact your child/ward’s Form Teacher or call the school at 6894 1413.
 
