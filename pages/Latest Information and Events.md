@@ -4,12 +4,15 @@ permalink: /latest-information-and-events/
 description: ""
 variant: markdown
 ---
-#### 2025 March Study Programme for Sec 4 and 5 students
+#### 2025 Sec 4 & 5 Parent-Teacher Conference (3 April)
 
-Please click [here](/files/17_18_March_Holiday_Study_Programme_2025__Vetted_.pdf) for the **March Study Programme** for our graduating students:
+Dear Parent/Guardian,
 
-**Day/Date:** Monday, 17 March & Tuesday, 18 March 2025  
-**Time:**           8:00 AM – 1:30 PM (to refer to schedule for ending time of individual classes)
+Details of the Welcome Address by Principal, Mr Koh during the Secondary 4 & 5 Parent-Teacher Conference held on 3 April can be found in the attached PDF file for your reference. 
+
+[Sec 4 & 5 Parent-Teaceher Conference 3 April 2025](/files/Sec_4_and_5_Parent_Teacher_Conference_3_April.pdf)
+
+Thank you for your support and we look forward to your engagement. If you have any queries, please contact your child/ward’s Form Teacher or call the school at 6894 1413.
 
 #### Book List 2025 
 Please click [HERE](https://marsilingsec.moe.edu.sg/book-list-2025/) for the 2025 Book List.
