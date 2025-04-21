@@ -4,7 +4,7 @@ permalink: /floorballdsa/
 description: ""
 variant: markdown
 ---
-Marsiling Secondary School offers DSA to eligible students via Floorball (Girls only). This is in line with our Learning for Life Programme which aims to build leadership, resilience and persons of good character.
+Marsiling Secondary School offers DSA to eligible students via Floorball (Girls &amp; Boys). This is in line with our Learning for Life Programme which aims to build leadership, resilience and persons of good character.
 
 ![](/images/floorball1.jpg)
 ![](/images/floorball2.jpg)
