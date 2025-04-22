@@ -24,7 +24,6 @@ Mdm Sumathi (TSO)
 **Teachers (Art)**  
 Mr Zaki Zufakar (Lead Teacher)  
 Ms Teo Xiu Yun  
-Mr Casey Tan
 
 **Teachers (Nutrition &amp; Food Science)**  
 Mdm Fadzilah (Assistant Year Head Upper Secondary)  
