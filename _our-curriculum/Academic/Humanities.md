@@ -8,14 +8,16 @@ variant: markdown
 **Head of Department**  
 Mr Lau Wan-Chiat Jeffrey
 
-**Senior Teacher (Geography)**  
-Ms Chen Wenwen
+**Senior Teacher (History)**  
+Mr Henry Kwek
 
 **Teachers**  
 Mdm Rosnayati  
 Ms&nbsp;Sylvia Ho  
 Mrs Caroline Rajakumar  
-Mr Tan Yi Hang
+Mr Tan Yi Hang <br>
+Mr Li Zhi Cong <br>
+Mr Liow Jie Sheng
 
 **Department’s Vision**  
 Developing Learners with a curious and caring mind.
