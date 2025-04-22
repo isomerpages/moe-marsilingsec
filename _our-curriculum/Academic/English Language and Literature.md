@@ -8,14 +8,16 @@ variant: markdown
 **Head of Department**<br>
 Mdm&nbsp;Salwati&nbsp;Salim
 
+**Subject Head**<br>
+Mr Kelvin Chen
+
 **Senior Teacher (English Language)**<br>
 Mdm Dian Khairyani Mondzi
 
 
 **Teachers (English Language)**  
 Mr Daniel Keng (Literature Co-Ordinator)  
-Mr Kelvin Chen <br>
-Mr Er Siong Chye  
+Mr Er Siong Chye (Upper Sec AYH) <br> 
 Mr Foo Chuan Chian James  
 Mrs Serena Ong  
 Mdm Rahidah Tajammul Shah  
