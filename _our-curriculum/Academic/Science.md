@@ -6,7 +6,7 @@ third_nav_title: Academic
 variant: markdown
 ---
 **Head of Department (Science)** <br>
-Ms Nur’ain Bte Hamzah
+Ms Loke Lay Fang
 
 **Subject Head (Physics)** <br>
 Ms Yap Ching Ying
@@ -15,9 +15,9 @@ Ms Yap Ching Ying
 Mdm Diyana Rahayu Binte Suratnoh
 
 **HOD, Character &amp; Citizenship Education**  <br>
-Mdm Hemalatha <br>
+Mr Puran Singh <br>
 
-**HOD, Normal Technical**  <br>
+**HOD, Educational Support**  <br>
 Mdm Sharifah Afifah <br>
 
 **Teachers:**  <br>
@@ -25,7 +25,6 @@ Ms Teo Boon San <br>
 Mrs Tan Siew Fong <br>
 Mrs Tay-Pang Xiu Hui <br>
 Mr Wan Hamzah <br>
-Mr Chua Jia Xun <br>
 Mr Ryan Ngan <br>
 Mdm Kong Hui Ai (CAJT) <br>
 Mr Ng Boon Kiat, Eric (TSO) <br>
