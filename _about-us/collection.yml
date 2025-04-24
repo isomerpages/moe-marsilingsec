@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Message From Our Principal.md
-      - Our Philosophy.md
       - Our Vision, Mission and Values.md
       - Our Motto.md
       - Our Guiding Principle.md
