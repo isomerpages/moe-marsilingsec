@@ -7,7 +7,8 @@ variant: markdown
 ---
 **Teachers-in-charge**  
 Mdm Nur Hafiszah  
-Mr Choo Chee Chong
+Mr Choo Chee Chong <br>
+Mdm S Umamahes Sundararaj
 
 **Training details**  
 Thursday: 2.30 p.m. to 5.00 p.m.
@@ -15,6 +16,7 @@ Thursday: 2.30 p.m. to 5.00 p.m.
 **Objectives**
 
 *   To nurture compassionate leaders for humanity
+*   To empower youth and develop their character, leadership, and life-saving skills through service and community involvement, ultimately fostering responsible and compassionate citizens
 *   To equip cadets with basic red cross knowledge, blood donation knowledge, first aid skills, disaster management skills and other life-saving facilitation skills
 *   To develop confident team players with good communication, organization, interpersonal and leadership skills
 *   To provide opportunities for students to progressively develop CCA-specific knowledge, skills, values and attitudes through sustained participation
@@ -56,6 +58,7 @@ Thursday: 2.30 p.m. to 5.00 p.m.
 
 **Excellent Unit Award**
 <br>
+2024: Gold <br>
 2023: Gold <br>
 2022: Gold <br>
 2021: Silver<br>
@@ -69,6 +72,9 @@ Thursday: 2.30 p.m. to 5.00 p.m.
 
 | Year | Junior | Senior |
 | -------- | -------- | -------- |
+| 2025    | Bronze   | Bronze     |
+| 2024    | Bronze   | Bronze     |
+| 2023    | Bronze   | Bronze     |
 | 2022    | Bronze   | Bronze     |
 | 2019     | Silver     | Bronze    |
 | 2018     | Commendation     | Bronze    |
@@ -76,6 +82,8 @@ Thursday: 2.30 p.m. to 5.00 p.m.
 
 
 **Gallery**
+![](/images/RCY2.jpg)
+![](/images/RCY1.jpg)
 ![](/images/RCYSlide1.JPG)
 ![](/images/RCYSlide2.JPG)
 ![](/images/RCYSlide3.JPG)
