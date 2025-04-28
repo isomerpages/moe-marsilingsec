@@ -39,3 +39,9 @@ Fridays: 1.30 p.m. to 4.30 p.m.
 * 2024 National School Games  Floorball Championships – Promoted to League 2
 
 Marsiling’s Floorball Boys CCA was formed in 2024 to cater to students’ interest. We aim to create a dynamic environment for the young boys where they can excel. Trainings are of high intensity but yet fun. We hope to have more young boys coming forward to train with us and make their mark during their stay with us and beyond.
+
+**Gallery**
+![](/images/WhatsApp_Image_2025_04_28_at_2_13_10_PM.jpg)
+![](/images/WhatsApp_Image_2025_04_28_at_2_13_09_PM__1_.jpg)
+![](/images/WhatsApp_Image_2025_04_28_at_2_13_09_PM__2_.jpg)
+![](/images/WhatsApp_Image_2025_04_28_at_2_13_09_PM.jpg)
