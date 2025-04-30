@@ -7,9 +7,9 @@ third_nav_title: CCA Physical Sports
 ---
 **Teachers-in-charge**  
 Mr Er Siong Chye (OIC)  
-Ms Sylvia Ho<br>
-Mr Kelvin Chen <br>
 Mr James Foo<br>
+Mr Alfred Wee <br>
+Miss Amelia Tjia
 
 **Objectives**
 
@@ -18,25 +18,20 @@ Mr James Foo<br>
 * Provide opportunities for students to progressively develop CCA-specific knowledge, skills, values and attitudes through sustained participation
 * Provide platform for students to learn core values, social and emotional competencies and the emerging 21st Century Competencies
 
-**Training days and time**  
-Tuesdays &amp; Thursdays: 3.00 p.m. to 6.00 p.m.  
-Fridays: 1.30 p.m. to 4.30 p.m.
-
-**Programmes**
-
-* Weekly trainings  
-* Friendly matches  
-* Team bonding activities
+**Achievements**  
+*   2024 National School Games Floorball Championships – Promoted to League 2
 
 **Competitions**
 
 *  National Schools Games (Floorball Championships)
-*  Pesta Sukan (Floorball)
+*  Active SG Pesta Sukan (Floorball)
 *  Singapore Youth Floorball League (U16)
+*  Storvretacupen Singapore
 
-**Achievements**
-
-* 2024 National School Games  Floorball Championships – Promoted to League 2
+**Training days and time**  
+* Tuesdays: 2.30pm to 5.30pm
+* Thursdays: 2.30p.m. to 5.30p.m
+* Fridays: 2.30p.m to 5.30pm
 
 Marsiling’s Floorball Boys CCA was formed in 2024 to cater to students’ interest. We aim to create a dynamic environment for the young boys where they can excel. Trainings are of high intensity but yet fun. We hope to have more young boys coming forward to train with us and make their mark during their stay with us and beyond.
 
