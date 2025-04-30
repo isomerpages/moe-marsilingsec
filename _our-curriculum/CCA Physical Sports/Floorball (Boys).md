@@ -7,9 +7,9 @@ third_nav_title: CCA Physical Sports
 ---
 **Teachers-in-charge**  
 Mr Er Siong Chye (OIC)  
-Ms Sylvia Ho<br>
-Mr Kelvin Chen <br>
 Mr James Foo<br>
+Mr Alfred Wee <br>
+Miss Amelia Tjia
 
 **Objectives**
 
