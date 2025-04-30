@@ -1,6 +1,6 @@
 ---
 title: Floorball (Girls)
-permalink: /curriculum/ccas/floorball/
+permalink: /curriculum/ccas/floorball-girls/
 description: ""
 third_nav_title: CCA Physical Sports
 variant: markdown

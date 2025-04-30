@@ -1,6 +1,6 @@
 ---
 title: Floorball (Boys)
-permalink: /permalink/
+permalink: /curriculum/ccas/floorball-boys/
 variant: markdown
 description: ""
 third_nav_title: CCA Physical Sports
