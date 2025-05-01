@@ -11,58 +11,62 @@ Mdm Yuan Xiaoyu <br>
 Ms Teo Boon San
 
 **Training days and time**<br>
-Tuesday 2.30pm to 5.00 pm<br>
-Friday 2.00pm to 4.00pm
+Tuesday 3.00pm to 5.30 pm<br>
+Thursday 3.00pm to 5.30pm
 
 **Venue**<br>
 ITR 1 and Amphitheatre
 
-**CCA Objectives**
+**Who We Are**
 
-The Drama Society aims to
+The Drama Society is a dynamic, inclusive space where imagination takes centre stage. Whether you're a natural performer, a curious creator, or someone just finding your voice, this is the place to express yourself boldly, grow with others, and bring stories to life.
 
-*   provide an opportunity for creative expression;
-*   promote an appreciation and enjoyment of the art form
-*   give students the platform to explore and develop their skills and interest in drama
-*   build self-discipline and confidence while fostering team building
-*   provide opportunities for students to progressively develop CCA-specific knowledge, skills, values and attitudes through sustained participation; and
-*   provide platform for students to learn core values, social and emotional competencies and the emerging 21st Century Competencies
+**Our Mission**  
+We aim to:
 
-**Programmes and Activities**
+*   Spark creativity and self-expression through exciting drama experiences
+*   Build a love for the performing arts that lasts a lifetime
+*   Give students the freedom to explore their interests and uncover hidden talents
+*   Develop confidence, discipline, and teamwork through meaningful collaboration
+*   Provide structured opportunities to deepen drama-specific skills and values over time
+*   Instil core values, social-emotional learning, and 21st-century competencies through performance and reflection
 
-Weekly practices focus on:
+**What We Do**
 
-*   **P**resenting: students will gain the opportunities to put to practice and showcase their skills in the art form.
-*   **R**esponding: students will learn to think critically and show confidence in their ability to make judgement of art works using vocabulary that is appropriate and representative of the art form.
-*   **A**ppreciating: students are involved in discussing and relating to the value of the respective art form and how this art form applies in their lives and societies across cultures.
-*   **C**reating: students participate in activities to apply the art-form skills, techniques and processes.
+**Weekly sessions focus on:**
 
-Activities:
+**Presenting** – Students take the spotlight, performing regularly to build confidence and refine their craft  
+**Responding** – Students learn to think critically, analyse performances, and express their ideas using appropriate drama vocabulary  
+**Appreciating** – Students explore the significance of drama across cultures and generations, and how it connects to real life  
+**Creating** – From scriptwriting to improvisation, students bring ideas to life through storytelling and performance techniques
 
-*   Singapore Youth Festival Arts Presentation (Drama)
-*   Chinese New Year school concert
-*   Ad hoc competitions, e.g. Human Values Drama Festival, National News Production Competition
-*   CCA Openhouse performance
-*   Learning Journeys
+* * *
+
+**Annual Highlights**
+
+*   **Singapore Youth Festival Arts Presentation** &nbsp;– Our moment to shine on a national stage
+*   **Public Performances** – Share original stories with the wider community at venues like #Tellstory@Woodlands Regional Library
+*   **Chinese New Year Concert** – Celebrate culture and joy through creative performances
+*   **National Day Relocation Performance** – Honour our nation through heartfelt stories and ensemble work
+*   **Learning Journeys** – Go behind the scenes, visit theatres and connect with the wider arts world
 
 **Achievement**
 
-2023 Singapore Youth Festival Arts Presentation  
-(English Drama): Certificate of Accomplishment
+* 2023 Singapore Youth Festival Arts Presentation  (English Drama): Certificate of Accomplishment
+ 
+* 2021 Singapore Youth Festival Arts Presentation (English Drama): Certificate of Accomplishment
 
-2021 Singapore Youth Festival Arts Presentation  
-(English Drama): Certificate of Accomplishment
+* 2019 Singapore Youth Festival Arts Presentation (English Drama): Certificate of Accomplishment
 
-2019 Singapore Youth Festival Arts Presentation  
-(English Drama): Certificate of Accomplishment
+* 2018&nbsp;Human Values Drama Festival:&nbsp;Semi-finals
 
-2018&nbsp;Human Values Drama Festival:&nbsp;Semi-finals
+* 2017 Singapore Youth Festival Arts Presentation (Chinese Drama): Certificate of Accomplishment
 
-2017 Singapore Youth Festival Arts Presentation (Chinese Drama): Certificate of Accomplishment
-
-2017 Singapore Youth Festival Arts Presentation (English Drama): Certificate of Distinction
+* 2017 Singapore Youth Festival Arts Presentation (English Drama): Certificate of Distinction
 
 **Gallery**
+![](/images/Drama1.jpg)
+![](/images/Drama2.jpg)
 ![](/images/Drama_Slide1.JPG)
 ![](/images/Drama_Slide2.JPG)
 ![Drama Society](/images/Drama%20Society_1.jpg)
