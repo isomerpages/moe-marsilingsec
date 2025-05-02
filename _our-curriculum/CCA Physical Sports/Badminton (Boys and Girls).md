@@ -8,8 +8,8 @@ variant: markdown
 **Teachers-in-charge**  
 Mr Adrian Tan (OIC)  
 Ms Koh Hwei Miang <br>
-Mrs Serena Ong  
-Mr Krishnamoorthy
+Mr Krishnamoorthy <br>
+Mr Tan Jia Xuan Kin
 
 **Training details**  
 Tuesday: 3.00 p.m. to 6.00 p.m.  
