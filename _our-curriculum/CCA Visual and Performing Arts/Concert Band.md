@@ -8,7 +8,8 @@ variant: markdown
 **Teachers-in-charge**  
 Mr Isa (OIC) <br>
 Ms Alysia Lim <br>
-Mr Hamzah
+Mr Hamzah <br>
+Ms Renee Chua
 
 **Training days and time**  
 Tuesday: 3.00p.m. to 6.00p.m.  

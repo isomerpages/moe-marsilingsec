@@ -39,8 +39,9 @@ MSS EEHub
 *   Performance for Muara Arts Festival at the Esplanade
 *   MSS Open Morning and CCA fair
 
-**Achievement over the past 3 years**
+**Achievements**
 
+*   Singapore Youth Festival Arts Presentation 2025: Certificate of Distinction
 *   Singapore Youth Festival Arts Presentation 2023: Certificate of Distinction
 *   Singapore Youth Festival Arts Presentation 2021: Certificate of Distinction
 *   Singapore Youth Festival Arts Presentation 2019: Certificate of Distinction

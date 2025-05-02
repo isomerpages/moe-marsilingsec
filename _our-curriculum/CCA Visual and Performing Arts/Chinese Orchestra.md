@@ -43,6 +43,7 @@ Friday 2 to 4.30PM <br>Venue: AVA room
 
 ### **Achievements**
 
+*   Singapore Youth Festival Arts Presentation 2025:&nbsp;Certificate of Accomplishment
 *   Singapore Youth Festival Arts Presentation 2023:&nbsp;Certificate of Distinction
 *   Singapore Youth Festival Arts Presentation 2021:&nbsp;Certificate of Accomplishment
 *   Singapore Youth Festival Arts Presentation 2019:&nbsp;Certificate of Distinction

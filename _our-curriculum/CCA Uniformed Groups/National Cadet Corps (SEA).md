@@ -7,8 +7,8 @@ variant: markdown
 ---
 **Teachers-in-charge**  
 Mr Lim Soon Leng (OIC)  
-Mr Chua Jia Xun <br>
-Mr Tan Jun Yong
+Mr Tan Jun Yong <br>
+Mr Li Zhi Cong
 
 **Training details**  
 Thursday: 3.00 p.m. to 5.30 p.m.

@@ -8,7 +8,8 @@ variant: markdown
 **Teachers-in-charge**
 
 Mr Khusairi  (IC)  
-Mdm Rahidah
+Mdm Rahidah <br>
+Mr Sean Low
 
 **Training details**
 
