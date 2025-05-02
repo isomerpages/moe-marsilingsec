@@ -6,11 +6,10 @@ third_nav_title: CCA Clubs and Societies
 variant: markdown
 ---
 **Teachers-in-charge**  
-Mr Casey Tan
+Mdm Karen Ong
 
 **Training details**  
-Tuesday: 3.00 p.m. to 5.00 p.m.  
-Thursday: 3.00 p.m. to 5.00 p.m. (Second CCA)
+Thursday: 3.00 p.m. to 5.00 p.m
 
 **Objectives**
 
