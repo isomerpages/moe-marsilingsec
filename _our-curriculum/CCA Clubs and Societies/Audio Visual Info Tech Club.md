@@ -6,8 +6,7 @@ third_nav_title: CCA Clubs and Societies
 variant: markdown
 ---
 **Teacher-in-charge**  
-Mr Alfred Wee (OIC)  
-Mr Sim Sze Wei <br>
+Mr Leong Chao Sing (OIC)  
 Ms Geraldine Lam Kar Pin
 
 **Training details**
