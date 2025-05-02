@@ -8,8 +8,9 @@ variant: markdown
 <p><strong>Teachers-in-charge</strong>
 <br>Mdm Ng Yee Koon Karen (OIC)
 <br>Ms Teo Xiu Yun
-<br>Mr Daniel Keng</p>
-<p><strong>Training details</strong>
+<br>Mr Daniel Keng
+<br> Mrs Serena Ong
+</p><p><strong>Training details</strong>
 <br>Tuesday: 3.00 p.m. to 6.00 p.m.
 <br>Thursday: 3.00 p.m. to 6.00 p.m.</p>
 <p><strong>Objectives</strong>
