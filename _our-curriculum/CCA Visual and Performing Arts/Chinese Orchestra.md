@@ -22,6 +22,14 @@ Friday 2 to 4.30PM <br>Venue: AVA room
 *   Mac Lab (Tuesday)
 *   AVA Room (Friday)
 
+### **Background**
+
+Marsiling Secondary School Chinese Orchestra is a fun-loving CCA for students who are passionate about Chinese instrumental music. Students get the chance to put up performances for school and external events, and thus have the opportunity to hone their musicians’ calibre and promote a greater appreciation for Chinese music.
+
+Since its founding, our Orchestra has been taking part in the biennial SYF Arts Presentation. We are proud to achieve Certificate of Distinction in the SYF AP 2023 and Certificate of Accomplishment in the SYF AP 2025.
+
+To date, Chinese orchestra has about 40 students. We have an excellent soundproof room for our daily practices and a very strong environment to nurture the students; even if they have little or no background in music. The Chinese orchestra programme has proven to be an effective way to help our students develop personal qualities such as teamwork, self-discipline and leadership skills.
+
 ### **Objectives**
 
 *   Nurture students into individuals with passion for music and the arts.
@@ -51,6 +59,7 @@ Friday 2 to 4.30PM <br>Venue: AVA room
 
 
 ### **Gallery**
+![](/images/CO2025.jpg)
 ![](/images/comss1.JPG)<br>
 ![](/images/comss2.JPG)<br>
 ![Chinese Orchestra](/images/Chinese%20Orchestra_1.jpg)
