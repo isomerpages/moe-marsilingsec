@@ -15,8 +15,8 @@ variant: markdown
 [Student iCON Email Login (http://workspace.google.com/dashboard)](https://workspace.google.com/dashboard)  
 [Student iCON Onboarding Guide](/files/Student-iCON-Onboarding-Guide.pdf)  
 
-
-[Please use this Password Reset Form to reset passwords or accounts for MiMs, Apple-Id and SLS](https://go.gov.sg/mss-ict-pwreset)
+Reset of passwords or accounts for MIMs, Apple_Id and SLS
+[Password Reset Form](https://go.gov.sg/mss-ict-pwreset)
 
 3. [Pride Highlights](http://tinyurl.com/MSSpridehighlights2019)
 
