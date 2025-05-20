@@ -1,5 +1,5 @@
 ---
-title: Open House 2024
+title: 2024 Open House
 permalink: /openhouse/
 description: ""
 variant: markdown
