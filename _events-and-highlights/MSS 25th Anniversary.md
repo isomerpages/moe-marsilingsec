@@ -4,11 +4,24 @@ permalink: /mss-25th-anniversary/
 variant: tiptap
 description: ""
 ---
+<h3><strong>Celebrating 25 Years of Excellence and Growth: Honouring the Past. Inspiring the Future</strong></h3>
+<p>As part of our momentous 25th Anniversary, we commemorated this special
+milestone during our recent Achievement Day with a vibrant celebration
+that brought our entire school community together. We were privileged to
+have Mr. Zaki Mohamed, Senior Minister of State for Defence and Manpower,
+and Advisor for Marsiling-Yew Tee GRO, to grace the occasion as our Guest
+of Honour. Other notable guests include N5 Cluster Superintendent, Mdm
+Chilukuri Dimps Rao, and Mr Bob Shaw Kar Seng, BBM, Chairman of our School’s
+Advisory Committee<em>. </em>From the spirited parade to the unveiling
+of our new Philosophy Wall and the exciting launch of <em>X-cape 2.0</em>,
+the day was filled with pride and joy. Highlights also included the inspiring
+Prize Presentation, a lively concert, and a heartwarming dinner to close
+the evening. Relive the energy, memories, and milestones through this short
+video montage that captures the spirit of our celebration!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_e_Banner2.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pledge_a_Gift1.jpg">
 </div>
