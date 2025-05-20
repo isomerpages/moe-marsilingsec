@@ -4,7 +4,7 @@ permalink: /featured-in-news/
 description: ""
 variant: markdown
 ---
-**1\. <u> **TeenTalk: Where Young Voices Take the Mic**</u>**  
+**1\. <u> TeenTalk: Where Young Voices Take the Mic</u>**  
 
 Imagine a stage, a spotlight, and a room or a hall full of anticipation. Then, a confident voice breaks the silence — clear, compelling, and full of purpose. Welcome to _TeenTalk_, the English Language and Literature Department’s signature programme that gives our Secondary Three students the mic — and the moment — to shine.  
 More than just speeches, _TeenTalk_ is a celebration of youthful ideas, bold opinions, and the art of eloquent expression. From thought-provoking topics to powerful presentations, our students proved that age is no barrier to making an impact. Dive into the article to see how these young speakers are shaping conversations — one word at a time.
