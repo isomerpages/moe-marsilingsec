@@ -4,7 +4,10 @@ permalink: /mss-25th-anniversary/
 variant: markdown
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_e_Banner2.jpg">
 <h3><strong>Celebrating 25 Years of Excellence and Growth: Honouring the Past. Inspiring the Future</strong></h3>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/PdbfntXITDo?si=Jofyfq-J5WbaIzJB" height="315" width="560"></iframe>
 <p>As part of our momentous 25th Anniversary, we commemorated this special
 milestone during our recent Achievement Day with a vibrant celebration
 that brought our entire school community together. We were privileged to
@@ -19,8 +22,10 @@ Prize Presentation, a lively concert, and a heartwarming dinner to close
 the evening. Relive the energy, memories, and milestones through this short
 video montage that captures the spirit of our celebration!</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_e_Banner2.jpg">
+
+<br>
+<br>
+
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pledge_a_Gift1.jpg">
