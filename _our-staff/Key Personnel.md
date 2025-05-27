@@ -253,7 +253,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH E21CC</p>
+<p>SH 21CC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chen Huangzhi</p>
