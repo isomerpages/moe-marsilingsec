@@ -25,9 +25,9 @@ variant: tiptap
 </p>
 <p><strong><u>Secondary 2</u></strong>
 </p>
-<p><a href="/files/Sec_2RE_2RT_2RY_2025_Sem_2_Odd_n_Even_Timetable_Ver_3.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 2 RE/RT/RY Semester 1 Odd &amp; Even Timetable (Version 3)</a>
+<p><a href="/files/Sec_2RE_2RT_2RY_2025_Sem_2_Odd_n_Even_Timetable_Ver_3.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 2 RE/RT/RY Semester 2 Odd &amp; Even Timetable (Version 3)</a>
 </p>
-<p><a href="/files/Sec_2GH_2IN_2RL_2025_Sem_2_Odd_n_Even_Timetable_Ver_3.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 2 GH/IN/RL Semester 1 Odd &amp; Even Timetable (Version 3)</a>
+<p><a href="/files/Sec_2GH_2IN_2RL_2025_Sem_2_Odd_n_Even_Timetable_Ver_3.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 2 GH/IN/RL Semester 2 Odd &amp; Even Timetable (Version 3)</a>
 </p>
 <p><strong><u>Secondary 3</u></strong>
 </p>
