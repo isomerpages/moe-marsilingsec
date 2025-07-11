@@ -13,7 +13,7 @@ variant: tiptap
 </div>
 <h3><strong>LINKS</strong></h3>
 <h4><strong>2025 Semester 2 Timetable [NEW]</strong> <strong>(Updated on 11th July 2025)</strong></h4>
-<p><strong>Version 3 [With effect from 14 July 2025.]</strong>
+<p><strong>Version 4 [With effect from 14 July 2025.]</strong>
 </p>
 <p><strong>Note: Odd Week - 14 July to 18 July 2025</strong>
 </p>
