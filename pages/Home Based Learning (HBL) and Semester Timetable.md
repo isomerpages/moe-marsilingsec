@@ -31,7 +31,7 @@ variant: tiptap
 </p>
 <p><strong><u>Secondary 3</u></strong>
 </p>
-<p><a href="/files/Timetable/2025 Sem 2/Sec_3_2025_Sem_2_Odd_n_Even_Timetable_Ver_4.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 3 Semester 2 Odd &amp; Even Timetable (Version 4)</a>
+<p><a href="/files/Timetable/2025 Sem 2/Sec_3_2025_Sem_2_Odd_n_Even_Timetable_Ver_4_1.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 3 Semester 2 Odd &amp; Even Timetable (Version 4.1)</a>
 </p>
 <p><strong><u>Secondary 4 and 5 [</u>Version 5 ] (With effect from 28 July 2025.)</strong>
 </p>
