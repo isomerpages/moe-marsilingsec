@@ -4,6 +4,10 @@ permalink: /latest-information-and-events/
 description: ""
 variant: markdown
 ---
+#### 2025 September Study Programme Timetable (For graduating students)
+
+Please click [here](/files/2025_Sept_Hols_Study_Prog_TT_Final.pdf) to view the timetable for the September Study Programme 2025.
+
 #### 2025 'O' & 'N' Level Preliminary Examination
 
 Please click on the links below to view the timetables for the upcoming O & N Level Prelim Exams.
