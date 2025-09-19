@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Event Calendar (Student Handbook).md
       - Post Exam Timetable 2024.md
       - Annual Cross Country.md
       - Health Promotion Board.md
