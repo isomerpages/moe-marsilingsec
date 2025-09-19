@@ -2,7 +2,6 @@
 title: IDA’s NEU PC Plus Programme
 permalink: /resources/for-parents/idas-neu-pc-plus-programme/
 description: ""
-third_nav_title: For Parents
 variant: markdown
 ---
 The NEU PC Plus Programme offers students and persons with disabilities from low income households the opportunity to own a brand new computer at an affordable price.

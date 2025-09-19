@@ -2,19 +2,15 @@ collections:
   resources:
     output: true
     order:
-      - For Parents/Subject Briefing Slides for Sec 1 PTC 2024.md
-      - For Parents/Event Calendar (Student Handbook).md
+      - For Parents/Subject Briefing Slides for Sec 1 PTC 2025.md
       - For Parents/Transition and Parenting Talk.md
-      - For Parents/OBS Course Information.md
       - For Parents/Parents Gateway.md
       - For Parents/Travel Declaration.md
       - For Parents/MOE Edusave Awards for Secondary Schools.md
       - For Parents/Parents Support Group (PSG).md
-      - For Parents/Chinese Development Assistance Council (CDAC).md
       - For Parents/Useful Contact.md
       - For Parents/School Fees.md
       - For Parents/Edusave & Financial Assistance Schemes.md
-      - For Parents/IDA’s NEU PC Plus Programme.md
       - For Parents/.keep
       - For Staff.md
       - For Students/Book List 2025.md

@@ -2,7 +2,6 @@
 title: Chinese Development Assistance Council (CDAC)
 permalink: /chinese-development-assistance-council-cdac/
 description: ""
-third_nav_title: For Parents
 ---
 Chinese Development Assistance Council (CDAC) offers programmes and assistance schemes to help the less privileged in the Chinese community to maximise their potential and strive for social mobility through self-help and mutual support.
 

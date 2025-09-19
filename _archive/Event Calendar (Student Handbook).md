@@ -2,7 +2,6 @@
 title: Event Calendar (Student Handbook)
 permalink: /event-calendar-student-handbook/
 description: ""
-third_nav_title: For Parents
 variant: markdown
 ---
 Click on the links below to access the **2024 Event Calender** in the Student Handbook.
