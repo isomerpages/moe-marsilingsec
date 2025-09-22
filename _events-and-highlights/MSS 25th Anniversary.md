@@ -9,7 +9,7 @@ description: ""
 </div>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="https://marsilingsec.moe.edu.sg/alumni-homecoming-dinner/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ticket_banner.jpg"></a>
-<p><em>Click </em><a href="https://marsilingsec.moe.edu.sg/alumni-homecoming-dinner/" rel="noopener nofollow" target="_blank">here</a><em> or on the ticket above for more information on the Alumni Homecoming Dinner.</em>
+<p><em>Click </em><a href="https://marsilingsec.moe.edu.sg/alumni-homecoming-dinner/" rel="noopener nofollow" target="_blank">here</a><em> or on the banner above for more information on the Alumni Homecoming Dinner.</em>
 </p>
 <h3><strong>Celebrating 25 Years of Excellence and Growth: Honouring the Past. Inspiring the Future</strong></h3>
 <div class="iframe-wrapper">
