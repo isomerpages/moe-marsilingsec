@@ -3,14 +3,13 @@ title: Scrabble Club
 permalink: /curriculum/ccas/clubs-and-societies/scrabble-club/
 description: ""
 third_nav_title: CCA Clubs and Societies
-variant: markdown
+variant: tiptap
 ---
 <p><strong>Teachers-in-charge</strong>
 <br>Mdm Ng Yee Koon Karen (OIC)
 <br>Ms Teo Xiu Yun
-<br>Mr Daniel Keng
-<br> Mrs Serena Ong
-</p><p><strong>Training details</strong>
+<br>Mrs Serena Ong</p>
+<p><strong>Training details</strong>
 <br>Tuesday: 3.00 p.m. to 6.00 p.m.
 <br>Thursday: 3.00 p.m. to 6.00 p.m.</p>
 <p><strong>Objectives</strong>
@@ -83,6 +82,20 @@ Champion at the yearly Inter-School National Scrabble Championships.</p>
 <td rowspan="1" colspan="1">
 <p><strong>NT Category</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup>&nbsp;Runners-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup>&nbsp;Runners-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -185,15 +198,25 @@ Champion at the yearly Inter-School National Scrabble Championships.</p>
 </tr>
 </tbody>
 </table>
-<p>The traits imbued into the players were all evident on display despite
-the challenging circumstances in 2020. Despite the disruptions to CCA programmes,
-swift training changes adopted by the Scrabble Club together with the commitment,
-perseverance and adaptability displayed by players producing stellar results
-during the&nbsp;<strong>2021 inaugural National Schools Scrabble Games e-Series tournament</strong>&nbsp;for
-Upper Secondary students, clinching 10 out of 14 medals on offer for the
-Secondary 4 category.</p>
+<p></p>
 <p><strong>Gallery</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scrabble5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scrabble2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scrabble3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scrabble4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scrabble1.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Scrabble Club" src="/images/Scrabble%20Club_1.jpg">
 </div>
