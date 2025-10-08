@@ -81,6 +81,9 @@ in Upper Secondary.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8_XA7hDgPOs?si=y2scUVBsy8G_BMtZ"></iframe>
+</div>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -100,6 +103,9 @@ in Upper Secondary.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4520y5IAjGQ?si=y4LAhuuadrrWLyuL"></iframe>
+</div>
 </td>
 </tr>
 <tr>
@@ -116,7 +122,9 @@ in Upper Secondary.</p>
 <p>G3 &amp; G2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tA-9AKeOC4c?si=P9xY_BoKPEQ_PfmI"></iframe>
+</div>
 </td>
 </tr>
 <tr>
@@ -133,7 +141,9 @@ in Upper Secondary.</p>
 <p>G3 &amp; G2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fK0YIkgOEsE?si=jutatAKd6bx0Cfvw"></iframe>
+</div>
 </td>
 </tr>
 <tr>
@@ -150,7 +160,9 @@ in Upper Secondary.</p>
 <p>G3 &amp; G2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7IQSyHZURDw?si=c1GvoxQ6FRSGrHNq"></iframe>
+</div>
 </td>
 </tr>
 <tr>
@@ -168,6 +180,9 @@ in Upper Secondary.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Xw25vtvaIyI?si=q4F3wj0bvlOFUpHp"></iframe>
+</div>
 </td>
 </tr>
 <tr>
@@ -201,7 +216,9 @@ in Upper Secondary.</p>
 <p>G1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DwdbblRwXzg?si=8NVFoVANP7bKQRV5"></iframe>
+</div>
 </td>
 </tr>
 <tr>
@@ -218,7 +235,9 @@ in Upper Secondary.</p>
 <p>G1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/q-HJl0jRtmI?si=6mh76AIG2yxbDfPH"></iframe>
+</div>
 </td>
 </tr>
 </tbody>
