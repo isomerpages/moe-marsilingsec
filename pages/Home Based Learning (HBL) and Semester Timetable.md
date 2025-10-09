@@ -4,6 +4,20 @@ permalink: /timetable/
 description: ""
 variant: tiptap
 ---
+<h4>Post-Exam Timetable (13 - 23 Oct 2025)</h4>
+<p>Please click on the links below for the Post-Exam Timetable.</p>
+<p><a href="/files/1RT_1RY_1RE_13_23_Oct_V1.pdf" rel="noopener nofollow" target="_blank">1RT, 1RT &amp; 1RE</a>
+</p>
+<p><a href="/files/1CE_1HY_1IY_13_23_Oct_V1.pdf" rel="noopener nofollow" target="_blank">1CE, 1HY &amp; 1IY</a>
+</p>
+<p><a href="/files/2RT_2RY_2RE_13_23_Oct_V1.pdf" rel="noopener nofollow" target="_blank">2RT, 2RY &amp; 2RE</a>
+</p>
+<p><a href="/files/2GH_2IN_2RL_13_23_Oct_V1.pdf" rel="noopener nofollow" target="_blank">2GH, 2IN &amp; 2RL</a>
+</p>
+<p><a href="/files/Sec_3_13_23_Oct_V1.pdf" rel="noopener nofollow" target="_blank">All Sec 3 Classes</a>
+</p>
+<p></p>
+<p></p>
 <p>Dear parents,</p>
 <p>Please click on the links below for the 2025 Semester 2 Student's Timetable.</p>
 <p>Thank you.</p>
