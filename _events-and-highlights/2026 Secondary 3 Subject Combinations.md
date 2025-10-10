@@ -61,7 +61,11 @@ in Upper Secondary.</p>
 <p>G3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;<em>*The 2025 Subject Combination video remains relevant for the 2026 Subject Combination</em>
+</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LEuR_uniLdc?si=phbtItVLpjypBNH8"></iframe>
+</div>
 </td>
 </tr>
 <tr>
