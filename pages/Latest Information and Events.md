@@ -4,6 +4,12 @@ permalink: /latest-information-and-events/
 description: ""
 variant: tiptap
 ---
+<h4>Book List</h4>
+<p></p>
+<p>Dear Parents / Students,</p>
+<p>Please click <a href="https://marsilingsec.moe.edu.sg/book-list-2026/" rel="noopener nofollow" target="_blank">here</a> for
+the 2026 Book List.</p>
+<p></p>
 <h4>Post-Exam Timetable (13 - 23 Oct 2025)</h4>
 <p>Please click on the links below for the Post-Exam Timetable.</p>
 <p><a href="/files/1RT_1RY_1RE_13_23_Oct_V1.pdf" rel="noopener nofollow" target="_blank">1RT, 1RT &amp; 1RE</a>
