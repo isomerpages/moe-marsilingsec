@@ -39,7 +39,8 @@ third_nav_title: For Students
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/S1__G1__2026.pdf" rel="noopener nofollow" target="_blank">1G1</a>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p><a href="/files/S1__G2__2026.pdf" rel="noopener nofollow" target="_blank">1G2</a>
