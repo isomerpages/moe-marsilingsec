@@ -217,10 +217,4 @@ Champion at the yearly Inter-School National Scrabble Championships.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scrabble1.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Scrabble Club" src="/images/Scrabble%20Club_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Scrabble Club" src="/images/Scrabble%20Club_2.jpg">
-</div>
 <p></p>
