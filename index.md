@@ -23,7 +23,6 @@ sections:
           url: /curriculum/learning-for-life-programme/
   - infobar:
       title: 2025 Open House
-      subtitle: Add informational text
       id: infobar
       button: Click to find out more !
       url: /openhouse
