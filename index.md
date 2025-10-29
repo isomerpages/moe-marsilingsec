@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2025_e_Banner3b.jpg
+      background: /images/MSS_Banner_Open_House_2025.jpg
       key_highlights:
         - title: Direct School Admission (DSA)
           description: Click here for more information.
