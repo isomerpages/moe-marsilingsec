@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2025_e_Banner3b.jpg
+      background: /images/MSS_Banner_Open_House_2025.jpg
       key_highlights:
         - title: Direct School Admission (DSA)
           description: Click here for more information.
@@ -21,6 +21,12 @@ sections:
         - title: Our Commitment
           description: Adding values to our students
           url: /curriculum/learning-for-life-programme/
+  - infobar:
+      title: 2025 Open House
+      subtitle: Add informational text
+      id: infobar
+      button: Click to find out more !
+      url: /openhouse
   - infobar:
       title: Latest Information and Upcoming Events
       button: Click to find out more!
