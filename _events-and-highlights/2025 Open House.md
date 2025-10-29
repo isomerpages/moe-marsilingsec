@@ -15,4 +15,4 @@ Come and experience our happy, vibrant and warm Marsiling Secondary School famil
 
 ####  Click on the following link to register yourself/your child for our Open House. <br>
 
-**[MSS Open House 2025 Registration Form](https://forms.gle/aVn55DjPHJ6uHCRFA)**
+**[MSS Open House 2025 Registration Form]((https://forms.gle/pk1HUHPxpkFhS1dT6))**
