@@ -2,20 +2,34 @@
 title: Full Subject Based Banding
 permalink: /full-subject-based-banding/
 description: ""
+variant: tiptap
 ---
-**Full Subject-Based Banding (SBB)**
-
-Marsiling Secondary School is one of 30+ secondary schools which will implement Full Subject-Based Banding (Full SBB) from 2022.
-
-**Purpose of Full SBB**
-
-With Full SBB, we are moving towards one secondary education, with many subject bands, to better meet our students’ learning needs. This is part of the broader shift in our education system to recognise the strengths and interests of our children, to help them build their confidence and develop an intrinsic motivation to learn for life.
-
-By 2024, all secondary schools in Singapore will have implemented the following aspects of Full SBB:
-
-*   offering of Humanities subjects at a more demanding level from Secondary 2; and
-*   mixed form classes with the provision of a common curriculum.
-
-**Full SBB in Marsiling Secondary School in 2022**
-
-<table border="3" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 792.227px; border-style: inset; border-color: rgb(10, 159, 245); background-color: rgb(255, 255, 255);"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 255px;"><h4 style="box-sizing: inherit; font-family: &quot;Source Sans Pro&quot;, sans-serif; text-transform: none;"><strong style="box-sizing: inherit; font-weight: bold;">Aspect</strong><strong style="box-sizing: inherit; font-weight: bold;"><span>&nbsp;</span>o</strong><strong style="box-sizing: inherit; font-weight: bold;">f Full SBB</strong></h4></td><td style="box-sizing: inherit; padding: 5px 10px; width: 566.667px;"><h4 style="box-sizing: inherit; font-family: &quot;Source Sans Pro&quot;, sans-serif; text-transform: none;"><strong style="box-sizing: inherit; font-weight: bold;">How will this aspect be implemented?</strong></h4></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 255px;">Mixed form classes with the provision of a common curriculum</td><td style="box-sizing: inherit; padding: 5px 10px; width: 566.667px;">As part of the pilot, our school will implement mixed form classes at Secondary 1.<p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">This is applicable to Secondary 1 students entering our school in 2022.</strong></p><p style="box-sizing: inherit; font-size: 1em;">The 2022 cohort of Secondary 1 students will be grouped in mixed form classes, comprising students from different courses of study.&nbsp;Students will attend lessons in the form classes for the following subjects: Character and Citizenship Education, Music, Physical Education, Art, Design &amp; Technology, as well as Food and Consumer Education.</p><p style="box-sizing: inherit; font-size: 1em;">For the academic subjects, namely English, Mother Tongue Language, Mathematics, Science, and the Humanities, students will be attending lessons based on their&nbsp;<u style="box-sizing: inherit;">subject classes.</u>&nbsp; The subject classes will be organised based on their respective course levels [N(T), N(A) or Express].</p><p style="box-sizing: inherit; font-size: 1em;">The common learning experience through the mixed form classes creates a valuable setting for students to mingle, build meaningful friendships, and appreciate different perspectives. It can also help reduce the inadvertent labelling associated with streaming.</p></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 255px;">Offering of Humanities subjects at a more demanding level from Secondary 2</td><td style="box-sizing: inherit; padding: 5px 10px; width: 566.667px;">Our school will provide Secondary 2 students the opportunity to take Humanities subjects at a more demanding level, if they meet subject-specific criteria.<p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">This is applicable to students who are in the Secondary 2 Normal (Academic) course from 2022, and students who are in the Normal (Technical) course from 2023.</strong></p><p style="box-sizing: inherit; font-size: 1em;">Eligible students from the 2021 Secondary 1 Normal (Academic) cohort who are promoted to the same course in 2022 will be able to offer Geography, History or Literature at a more demanding level. With this increased flexibility in customising our students’ learning experiences, we are better able to recognise their strengths and nurture their intrinsic motivation to learn.</p><p style="box-sizing: inherit; font-size: 1em;">Students who wish to be considered to offer Geography, History or Literature at a more demanding level will have to meet subject-specific criteria in Secondary 1.&nbsp;They should also possess positive attitude towards learning and strong commitment to offer the subject at a more demanding level.</p></td></tr></tbody></table>
+<p><strong>Full Subject-Based Banding (SBB)</strong>
+</p>
+<p>Marsiling Secondary School is one of 30+ secondary schools which will
+implement Full Subject-Based Banding (Full SBB) from 2022.</p>
+<p><strong>Purpose of Full SBB</strong>
+</p>
+<p>With Full SBB, we are moving towards one secondary education, with many
+subject bands, to better meet our students’ learning needs. This is part
+of the broader shift in our education system to recognise the strengths
+and interests of our children, to help them build their confidence and
+develop an intrinsic motivation to learn for life.</p>
+<p>By 2024, all secondary schools in Singapore will have implemented the
+following aspects of Full SBB:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>offering of Humanities subjects at a more demanding level from Secondary
+2; and</p>
+</li>
+<li>
+<p>mixed form classes with the provision of a common curriculum.</p>
+</li>
+</ul>
+<p><strong>Full SBB in Marsiling Secondary School in 2026</strong>
+</p>
+<p>For more information on Full Subject-Based Banding (FSBB), please click
+on the link below.</p>
+<p><strong><a href="/files/FSBB_Parents_Engagement__2026_Sec_1_Posting_.pdf" rel="noopener nofollow" target="_blank">FSBB Parents Engagement (2026 Sec 1 Posting)</a></strong>
+</p>
+<p></p>
