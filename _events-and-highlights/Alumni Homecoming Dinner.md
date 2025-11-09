@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 ---
 <a class="isomer-image-wrapper" href="https://www.mssa.sg/homecoming/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ticket_banner.jpg"></a>
-<p><em>Click on the link below or the banner above for more information and to purchase tickets.</em>
+<h4><strong><em>Tickets for the event are SOLD OUT</em></strong><em>. Thank you for your support.</em></h4>
+<p><em>Click on the link below or the banner above for more information.</em>
 </p>
 <blockquote>
 <h3><strong><a href="https://www.mssa.sg/homecoming/" rel="noopener nofollow" target="_blank">MSS 25th Anniversary - Alumni Homecoming Dinner</a></strong></h3>
