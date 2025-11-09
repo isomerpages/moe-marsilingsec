@@ -6,26 +6,11 @@ variant: tiptap
 ---
 <p><strong>Full Subject-Based Banding (SBB)</strong>
 </p>
-<p>Marsiling Secondary School is one of 30+ secondary schools which will
-implement Full Subject-Based Banding (Full SBB) from 2022.</p>
-<p><strong>Purpose of Full SBB</strong>
-</p>
-<p>With Full SBB, we are moving towards one secondary education, with many
-subject bands, to better meet our students’ learning needs. This is part
-of the broader shift in our education system to recognise the strengths
-and interests of our children, to help them build their confidence and
-develop an intrinsic motivation to learn for life.</p>
-<p>By 2024, all secondary schools in Singapore will have implemented the
-following aspects of Full SBB:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>offering of Humanities subjects at a more demanding level from Secondary
-2; and</p>
-</li>
-<li>
-<p>mixed form classes with the provision of a common curriculum.</p>
-</li>
-</ul>
+<p>Full SBB has been rolled out nationwide starting from the 2024 Secondary
+1 cohort. Under Full SBB, students will be posted to secondary schools
+through Posting Groups 1, 2 and 3 instead, and have greater flexibility
+to offer subjects at different subject levels as they progress through
+secondary school.</p>
 <p><strong>Full SBB in Marsiling Secondary School in 2026</strong>
 </p>
 <p>For more information on Full Subject-Based Banding (FSBB), please click
