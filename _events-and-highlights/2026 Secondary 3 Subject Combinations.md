@@ -15,8 +15,11 @@ description: ""
 <p><a href="/files/Sec_3_Subjects_Offering_2026_and_Timeline__Sch_Website_.pdf" rel="noopener nofollow" target="_blank">Sec 3 Subjects Offering 2026 and Timeline</a>
 </p>
 </li>
+<li>
+<p><a href="https://forms.moe.edu.sg/forms/vYwp8m" rel="noopener nofollow" target="_blank">Sec 3 Subject Combination Results</a>
+</p>
+</li>
 </ul>
-<p></p>
 <p><strong>Elective Subjects Presentation</strong>
 </p>
 <p>Access the videos to find out more about the elective subjects offered
