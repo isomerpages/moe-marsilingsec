@@ -2,6 +2,7 @@ collections:
   events-and-highlights:
     output: true
     order:
+      - 2026 Secondary 1 Registration.md
       - 2025 Open House.md
       - 2026 Secondary 3 Subject Combinations.md
       - MSS 25th Anniversary.md
