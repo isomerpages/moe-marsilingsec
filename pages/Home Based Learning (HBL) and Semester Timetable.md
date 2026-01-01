@@ -42,7 +42,5 @@ variant: tiptap
 </p>
 <p><a href="/files/2026 SEM 1 Timetable/2026_MSS_SEM1_Timetable__4RT_4RY_5RE__v12.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4RT/4RY/5RE Semester 1 Odd &amp; Even Timetable (Version 12)</a>
 </p>
-<p><a href="/files/2026 SEM 1 Timetable/2026_MSS_SEM1_Timetable__4RE_4GH_4RL_4IN__v12.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4GH/4RE/4RL/4IN Semester 1 Odd &amp; Even Timetable (Version 12)</a>
-</p>
-<p>Sec 4&amp;5: <a href="https://go.gov.sg/mss-s45hblccp" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mss-s45hblccp</a>
+<p><a href="/files/2026 SEM 1 Timetable/2026_MSS_SEM1_Timetable__4RE_4GH_4RL_4IN__v12.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4GH/4RE/4RL/4IN Semester 1 Odd &amp; Even Timetable (Version 12) </a>
 </p>
