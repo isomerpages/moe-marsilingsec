@@ -39,7 +39,7 @@ variant: tiptap
 <p></p>
 <p><a href="/files/2026 SEM 1 Timetable/2026_MSS_SEM1_Timetable__3IY_3CE_3HY__v12.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 3 CE/HY/IY Semester 1 Odd &amp; Even Timetable (Version 12)</a>
 </p>
-<p><strong><u>Secondary 4 and 5 [</u>Version 5 ] (With effect from 28 July 2025.)</strong>
+<p><strong><u>Secondary 4 and 5</u></strong>
 </p>
 <p><a href="/files/2026 SEM 1 Timetable/2026_MSS_SEM1_Timetable__4RT_4RY_5RE__v12.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4RT/4RY/5RE Semester 1 Odd &amp; Even Timetable (Version 12)</a>
 </p>
