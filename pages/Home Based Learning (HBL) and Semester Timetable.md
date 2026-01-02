@@ -29,7 +29,8 @@ variant: tiptap
 <p><a href="/files/2026 SEM 1 Timetable/2026_MSS_SEM1_Timetable__2RT_2RY_2RE__v12.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 2 RE/RT/RY Semester 1 Odd &amp; Even Timetable (Version 12)</a>
 </p>
 <p></p>
-<p><a href="/files/2026 SEM 1 Timetable/2026_MSS_SEM1_Timetable__2IY_2CE_2HY__v12.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 2 GH/IN/RL Semester 1 Odd &amp; Even Timetable (Version 12)</a>
+<p><a href="/files/2026 SEM 1 Timetable/2026_MSS_SEM1_Timetable__2IY_2CE_2HY__v12.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 2 </a>
+<a href="/files/2026 SEM 1 Timetable/2026_MSS_SEM1_Timetable__1IY_1CE_1HY__v12.pdf" rel="noopener nofollow" target="_blank">CE/HY/IY</a><a href="/files/2026 SEM 1 Timetable/2026_MSS_SEM1_Timetable__2IY_2CE_2HY__v12.pdf" rel="noopener nofollow" target="_blank"> Semester 1 Odd &amp; Even Timetable (Version 12)</a>
 </p>
 <p><strong><u>Secondary 3</u></strong>
 </p>
@@ -42,5 +43,5 @@ variant: tiptap
 </p>
 <p><a href="/files/2026 SEM 1 Timetable/2026_MSS_SEM1_Timetable__4RT_4RY_5RE__v12.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4RT/4RY/5RE Semester 1 Odd &amp; Even Timetable (Version 12)</a>
 </p>
-<p><a href="/files/2026 SEM 1 Timetable/2026_MSS_SEM1_Timetable__4RE_4GH_4RL_4IN__v12.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4GH/4RE/4RL/4IN Semester 1 Odd &amp; Even Timetable (Version 12) </a>
+<p><a href="/files/2026 SEM 1 Timetable/2026_MSS_SEM1_Timetable__4RE_4GH_4RL_4IN__v12.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4GH/4RE/4RL/4IN Semester 1 Odd &amp; Even Timetable (Version 12)</a>
 </p>
