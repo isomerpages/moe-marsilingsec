@@ -9,7 +9,6 @@ variant: markdown
 INSP (NPCC) Tan Yi Hang (Unit OC)  
 INSP (NPCC) Muhammad Azmi Bin Yusri (Deputy OC)  
 INSP (NPCC) Tan Yongqi <br>
-Mr Liow Jie Sheng
 
 **Training details**  
 Every Thursday: 3.00 p.m. to 5.30 p.m.
