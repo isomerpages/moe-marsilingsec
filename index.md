@@ -22,11 +22,6 @@ sections:
           description: Adding values to our students
           url: /curriculum/learning-for-life-programme/
   - infobar:
-      title: 2025 Open House
-      id: infobar
-      button: Click to find out more !
-      url: /openhouse
-  - infobar:
       title: Latest Information and Upcoming Events
       button: Click to find out more!
       url: /latest-information-and-events
