@@ -11,10 +11,10 @@ variant: tiptap
 <p><strong>(Coming soon...)</strong>
 </p>
 <h3><strong>LINKS</strong></h3>
-<h4><strong>2026 Semester 1 Timetable [NEW]</strong> <strong>(Updated on 5th Jan 2026)</strong></h4>
-<p><strong>Version 13.1</strong>
+<h4><strong>2026 Semester 1 Timetable [NEW]</strong> <strong>(Updated on 15th Jan 2026)</strong></h4>
+<p><strong>Version 14</strong>
 </p>
-<p><strong>Note: Odd Week - 5 Jan to 9 Jan 2026</strong>
+<p><strong>Note: Odd Week - 19 Jan to 23 Jan 2026</strong>
 </p>
 <p><strong><u>Secondary 1</u></strong>
 </p>
