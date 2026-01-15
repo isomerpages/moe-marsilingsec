@@ -8,8 +8,10 @@ variant: tiptap
 <p>Please click on the links below for the 2026 Semester 1 Student's Timetable.</p>
 <p>Thank you.</p>
 <h3><strong>Home Based Learning</strong></h3>
-<p><strong>(Coming soon...)</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="HBL 2026" src="/images/HBL_2026.png">
+</div>
 <h3><strong>LINKS</strong></h3>
 <h4><strong>2026 Semester 1 Timetable [NEW]</strong> <strong>(Updated on 15th Jan 2026)</strong></h4>
 <p><strong>Version 14</strong>
