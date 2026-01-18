@@ -13,6 +13,17 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="HBL 2026" src="/images/HBL_2026.png">
 </div>
 <h3><strong>LINKS</strong></h3>
+<p><strong>Home Based Learning - Curriculum Continuity Plan (CCP)</strong>
+</p>
+<p><strong>Secondary 1 - </strong><a href="https://go.gov.sg/mss-s1hblccp" rel="noopener nofollow" target="_blank">https://go.gov.sg/mss-s1hblccp</a>
+</p>
+<p><strong>Secondary 2 - </strong><a href="https://go.gov.sg/mss-s2hblccp" rel="noopener nofollow" target="_blank">https://go.gov.sg/mss-s2hblccp</a>
+</p>
+<p><strong>Secondary 3 - </strong><a href="https://go.gov.sg/mss-s3hblccp" rel="noopener nofollow" target="_blank">https://go.gov.sg/mss-s3hblccp</a>
+</p>
+<p><strong>Secondary 4/5 - </strong><a href="https://go.gov.sg/mss-s45hblccp" rel="noopener nofollow" target="_blank">https://go.gov.sg/mss-s45hblccp</a>
+</p>
+<p></p>
 <h4><strong>2026 Semester 1 Timetable [NEW]</strong> <strong>(Updated on 15th Jan 2026)</strong></h4>
 <p><strong>Version 14</strong>
 </p>
