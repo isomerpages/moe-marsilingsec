@@ -31,9 +31,9 @@ may refer to the following websites for more information:</p>
 <p>• MySkillsFuture Student Portal (<a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mysfsec</a>)</p>
 <p>Students may also consult their teachers or ECG Counsellors in their respective
 secondary schools about their next steps. Alternatively, they can make
-an ECG counselling appointment via the ECG Centre @ MOE at <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/moe-ecg-centre</a>.
-The ECG Centre @ MOE offers online or phone counselling services from 7
-to 21 January 2026, from 9am to 5pm on weekdays and 9am to 12pm on Saturdays.</p>
+an ECG counselling appointment via the ECG Centre @ MOE at <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/moe-ecg-centre</a>. The ECG
+Centre @ MOE offers online or phone counselling services from 7 to 21 January
+2026, from 9am to 5pm on weekdays and 9am to 12pm on Saturdays.</p>
 <p></p>
 <p><strong>Resources for Students and Parents</strong>
 </p>
@@ -204,10 +204,10 @@ and links listed below.&nbsp;</p>
 </tbody>
 </table>
 <h4>Marsiling Secondary School's National Digital Literacy Program (NDLP@MSS)</h4>
+<p></p>
 <ul>
 <li>
-<p><a href="/files/PDLP/IP1___Parent_Engagement_Deck_2024_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Engagement Slides 13 Jan 2024</a>
-</p>
+<p>Parent Engagement Slides 2026 [Coming Soon, at 24 Jan 2026]</p>
 </li>
 <li>
 <p><a href="https://marsilingsec.moe.edu.sg/national-digital-literacy-program-ndpl-marsiling-secondary-school/" rel="noopener noreferrer nofollow" target="_blank">NDLP@MSS Website</a>
