@@ -4,6 +4,21 @@ permalink: /latest-information-and-events/
 description: ""
 variant: tiptap
 ---
+<h4>Secondary 4 &amp; 5 Parents Teacher Conference (PTC) 2026</h4>
+<p>Dear Parents/Guardians of our Secondary 4 and 5 students,</p>
+<p>Thank you for joining us for our Secondary 4 &amp; 5 PTC on 5 February
+2026.</p>
+<p>Please find the following for your information:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/P_s_Dialogue_with_Sec_4_5_Parents_5_Feb_2026_for_website.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal’s Dialogue with Sec 4 and 5 parents</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Sec_4_and_5_PTC_5_Feb_YH_slides_website.pdf" rel="noopener noreferrer nofollow" target="_blank">Year Head’s slides</a>
+</p>
+</li>
+</ul>
 <h4>2025 GCE O-Level Results Release and Resources for Parents/ Students</h4>
 <p>The 2025 Singapore-Cambridge GCE O-Level Examination results will be released
 on&nbsp;<strong>Wednesday, 14 January 2026</strong>.&nbsp;</p>
