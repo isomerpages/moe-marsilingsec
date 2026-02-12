@@ -27,7 +27,9 @@ variant: tiptap
 <h4><strong>2026 Semester 1 Timetable [NEW]</strong> <strong>(Updated on 11th Feb 2026)</strong></h4>
 <p><strong>Version 15</strong>
 </p>
-<p><strong>Note: Odd Week - 19 Jan to 23 Jan 2026</strong>
+<p><strong>Note: Odd Week - 16 Feb to 20 Feb 2026</strong>
+</p>
+<p><strong>Even Week - 23 Feb to 27 Feb 2026</strong>
 </p>
 <p><strong><u>Secondary 1</u></strong>
 </p>
