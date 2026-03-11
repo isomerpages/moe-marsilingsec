@@ -212,10 +212,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Alfred Wee</p>
 <p>Mr Chio Kah Leong</p>
-<p>Mdm Sumathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Mdm Sumathy</p>
 </td>
 </tr>
 <tr>
