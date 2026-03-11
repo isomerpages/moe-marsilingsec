@@ -69,14 +69,6 @@ variant: tiptap
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Anil Vasudevan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD English &amp; Literature</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Salwati Bte Salim</p>
 </td>
 </tr>
@@ -170,7 +162,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YH Upper Secondary (Int)</p>
+<p>YH Upper Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Fadzilah Bte Mahmud</p>
