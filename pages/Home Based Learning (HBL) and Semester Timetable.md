@@ -17,19 +17,17 @@ variant: tiptap
 </p>
 <p><strong>Secondary 1 - </strong><a href="https://go.gov.sg/mss-s1hblccp" rel="noopener nofollow" target="_blank">https://go.gov.sg/mss-s1hblccp</a>
 </p>
-<p><strong>Secondary 2 - </strong><a href="https://go.gov.sg/mss-s2hblccp" rel="noopener nofollow" target="_blank">https://go.gov.sg/mss-s2hblccp</a>
-</p>
 <p><strong>Secondary 3 - </strong><a href="https://go.gov.sg/mss-s3hblccp" rel="noopener nofollow" target="_blank">https://go.gov.sg/mss-s3hblccp</a>
 </p>
 <p><strong>Secondary 4/5 - </strong><a href="https://go.gov.sg/mss-s45hblccp" rel="noopener nofollow" target="_blank">https://go.gov.sg/mss-s45hblccp</a>
 </p>
 <p></p>
-<h4><strong>2026 Semester 1 Timetable [NEW]</strong> <strong>(Updated on 11th Feb 2026)</strong></h4>
-<p><strong>Version 15</strong>
+<h4><strong>2026 Semester 1 Timetable [NEW]</strong> <strong>(Updated on 2nd April 2026)</strong></h4>
+<p><strong>Version 16 [With effect from 6 April]</strong>
 </p>
-<p><strong>Note: Odd Week - 16 Feb to 20 Feb 2026</strong>
+<p><strong>Note: Odd Week - 6 April to 10 April 2026</strong>
 </p>
-<p><strong>Even Week - 23 Feb to 27 Feb 2026</strong>
+<p><strong>Even Week - 13 April to 17 April 2026</strong>
 </p>
 <p><strong><u>Secondary 1</u></strong>
 </p>
