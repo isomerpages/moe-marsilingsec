@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - For Parents/Secondary 3 Parent Teacher Conference 2026.md
       - For Parents/Subject Briefing Slides for Sec 1 PTC 2025.md
       - For Parents/Transition and Parenting Talk.md
       - For Parents/Parents Gateway.md
