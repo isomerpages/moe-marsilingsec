@@ -17,6 +17,8 @@ variant: tiptap
 </p>
 <p><strong>Secondary 1 - </strong><a href="https://go.gov.sg/mss-s1hblccp" rel="noopener nofollow" target="_blank">https://go.gov.sg/mss-s1hblccp</a>
 </p>
+<p><strong>Secondary 2- </strong><a href="https://go.gov.sg/mss-s2hblccp" rel="noopener nofollow" target="_blank">https://go.gov.sg/mss-s2hblccp</a>
+</p>
 <p><strong>Secondary 3 - </strong><a href="https://go.gov.sg/mss-s3hblccp" rel="noopener nofollow" target="_blank">https://go.gov.sg/mss-s3hblccp</a>
 </p>
 <p><strong>Secondary 4/5 - </strong><a href="https://go.gov.sg/mss-s45hblccp" rel="noopener nofollow" target="_blank">https://go.gov.sg/mss-s45hblccp</a>
