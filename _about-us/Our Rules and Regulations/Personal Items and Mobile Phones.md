@@ -77,15 +77,10 @@ test.</p>
 will not be responsible for any loss or damage of mobile phones.</p>
 </li>
 </ol>
-<p><strong>Consequences of infringement of mobile phones rules:</strong>
-</p>
-<p>First offence:</p>
-<p>Mobile phone (including SIM card) confiscated by school for 1 working
-day.</p>
-<p>Second offence:</p>
-<p>Mobile phone (including SIM card) confiscated by school for 2 weeks.</p>
-<p>Third offence:</p>
-<p>Mobile phone (including SIM card) confiscated by school for 1 month.</p>
+<h4><strong>Consequences of infringement of mobile phones rules:</strong></h4>
+<blockquote>
+<h4>Mobile phones will be confiscated and returned after 5pm on the same day.</h4>
+</blockquote>
 <p>Note:</p>
 <p>The confiscated mobile phone will be placed at the General Office for
 safe-keeping throughout the duration of confiscation. Parents will be notified.
