@@ -15,7 +15,7 @@ admission to a secondary school.</p>
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
-<p><strong>Application period for&nbsp;2025&nbsp;DSA-Sec:&nbsp;6 May 2026 - 2 June 2026</strong>
+<p><strong>Application period for&nbsp;2026&nbsp;DSA-Sec:&nbsp;6 May 2026 - 2 June 2026</strong>
 </p>
 <h4>Click&nbsp;<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to apply for DSA.</h4>
 <p><strong>Marsiling Secondary School offers</strong>&nbsp;<strong>DSA in the following areas:</strong>
