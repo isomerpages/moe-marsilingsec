@@ -3,19 +3,17 @@ title: Uniform and Grooming
 permalink: /uniform-and-grooming/
 description: ""
 third_nav_title: Our Rules and Regulations
+variant: markdown
 ---
 #### **School Uniform**
 
 1.  The prescribed uniform consists of the following:
-    1.  Old uniform
-        *   Light yellow shirt or blouse and yellow PE tee shirt
-        *   Dark blue long pants or skirt
-    2.  New Uniform (Compulsory for Secondary 1 to 3 students, but optional for Secondary 4 and 5 students)
+
         *   White shirt and white PE tee shirt
         *   Dark blue shorts (lower secondary) / long pants (upper secondary) or tartan skirt
         *   Black canvas/sports shoes with plain black shoe laces/velcro strap are acceptable. Boots,leather shoes, slippers and sandals are not permitted. The base/sole of shoes should be black/dark-coloured. Shoes must be plain in design. Where there is a dispute, the decision of the school’s Discipline Committee is final.
         *   Plain white socks, which should be covering the ankles.
-2.  Students are to wear the prescribed uniform and modification to the uniform is not allowed. 
+2.  Students are to wear the prescribed uniform and modification to the uniform is not allowed.&nbsp;
 3.  The school uniform must be respectfully wor Shirt needs to be tucked in. Girls need to ensure that their skirts are at least at knee-length (touching the knee cap).
 4.  Students are to wear the school uniform when coming to school or going home from school. Students must be in full school uniform, half uniform or PE attire when they are in school at all times, including the school holidays.
 5.  Class tee shirts are allowed only on Fridays and special days where permission is granted. CCA tee shirts are only allowed during CCA activities.

@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3><strong>School Reporting Time</strong></h3>
 <p>Mondays to Fridays: To report to the hall by <strong>7.30am </strong>(except
-on Thursdays, reporting time is 8.30am)</p>
+on Wednesday, reporting time is 8.30am)</p>
 <p>The back gate closes at <u>7.30 a.m. daily</u>.</p>
 <p>It is the duty and responsibility of students who are Singapore citizens
 to sing the National Anthem and take the Pledge. Students will take the
