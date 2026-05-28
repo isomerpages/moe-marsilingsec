@@ -4,6 +4,11 @@ permalink: /latest-information-and-events/
 description: ""
 variant: tiptap
 ---
+<h4>2026 'N' Level Preliminary Examination</h4>
+<p>Please click on the link below to view the timetable for the upcoming
+N Level Prelim Exams.</p>
+<p><a href="/files/2026_N_Level_Prelim_Timetable.pdf" rel="noopener nofollow" target="_blank">2026 'N' Level Preliminary Examination Timetable</a>
+</p>
 <h4>Secondary 4 &amp; 5 Parents Teacher Conference (PTC) 2026</h4>
 <p>Dear Parents/Guardians of our Secondary 4 and 5 students,</p>
 <p>Thank you for joining us for our Secondary 4 &amp; 5 PTC on 5 February
