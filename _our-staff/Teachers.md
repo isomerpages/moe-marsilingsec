@@ -41,6 +41,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Kong Hui Ai (CAJT)</p>
+<p>Mr Pradeep (FAJT)</p>
 </td>
 </tr>
 <tr>
@@ -238,7 +239,7 @@ variant: tiptap
 <p>Miss Teo Xiu Yun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><s>&nbsp;</s>Mr Tan Jun Yong</p>
+<p>Mr Tan Jun Yong</p>
 </td>
 </tr>
 <tr>
@@ -264,7 +265,6 @@ variant: tiptap
 <p>4 Respect (4RE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Alysia Lim Zhiyan</p>
 <p>Mdm Rosna</p>
 </td>
 <td rowspan="1" colspan="1">
