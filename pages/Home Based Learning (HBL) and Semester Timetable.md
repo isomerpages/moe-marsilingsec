@@ -40,7 +40,7 @@ variant: tiptap
 </p>
 <p><a href="/files/2026 Sem 2 Timetable/New/2026_MSS_SEM2_Timetable__2RT_2RY_2RE__v1_3.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 2 RE/RT/RY Semester 2 Odd &amp; Even Timetable (Version 1.3)</a>
 </p>
-<p><a href="/files/2026 Sem 2 Timetable/New/2026_MSS_SEM2_Timetable__2IY_2CE_2HY__v1_3.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 2 RE/RT/RY Semester 2 Odd &amp; Even Timetable (Version 1.3)</a>
+<p><a href="/files/2026 Sem 2 Timetable/New/2026_MSS_SEM2_Timetable__2IY_2CE_2HY__v1_3.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 2 CE/HY/IY Semester 2 Odd &amp; Even Timetable (Version 1.3)</a>
 </p>
 <p><strong><u>Secondary 3</u></strong>
 </p>
