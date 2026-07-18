@@ -50,16 +50,8 @@ variant: tiptap
 </p>
 <p><strong><u>Secondary 4 and 5</u></strong>
 </p>
-<p><a href="/files/2026 Sem 2 Timetable/New/2026_MSS_SEM2_Timetable__4RT_4RY_5RE__v1_3.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4RT/4RY/5RE Semester 2 Odd &amp; Even Timetable (Version 1.3)</a>
+<p><a href="/files/2026_Sem_2_TT_4RT4RY5RE_V1_3_Sec_4_5_SRP.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4RT_4RY_5RE Semester 2 Odd &amp; Even Timetable (Version 1.3) - With SRP</a>
 </p>
-<p><a href="/files/2026 Sem 2 Timetable/New/2026_MSS_SEM2_Timetable__4RE_4GH_4RL_4IN__v1_3.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4GH/4RE/4RL/4IN Semester 2 Odd &amp; Even Timetable (Version 1.3)</a>
+<p><a href="/files/2026_Sem_2_TT_4RE4GH4RL4IN_V1_3_Sec_4_5_SRP.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4GH/4RE/4RL/4IN Semester 2 Odd &amp; Even Timetable (Version 1.3) - With SRP</a>
 </p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<h4></h4>
 <p></p>
