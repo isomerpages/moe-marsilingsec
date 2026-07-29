@@ -90,6 +90,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Juliana Jaafar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -157,7 +165,7 @@ variant: tiptap
 <p>YH Lower Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Suhadi</p>
+<p>Mrs Kalaivani D/O Kanagasundram</p>
 </td>
 </tr>
 <tr>
