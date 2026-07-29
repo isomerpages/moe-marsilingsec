@@ -2,6 +2,7 @@
 title: Admin & Support Staff
 permalink: /our-staff/admin-ss/
 description: ""
+variant: markdown
 ---
 ### Counselling
 
@@ -24,32 +25,25 @@ description: ""
 
 *   **Craft & Technology:** Mr Chua Guan Yong
 *   **Chinese Language:** Mr Teo Seng Lim 
-*   **Chinese Language:** Mdm Khoo Cheng Eng 
-*   **English Language:** Mdm Vasagi S Arumugam 
+*   **Chinese Language:** Mr Hoe Siang Ling
 *   **English Language:** Mr Sobri Bin Omar
-*   **English Language:** Ms Samihani Bte Ali
 *   **Malay Language:** Mr Abdul Razak Bin Patwi 
-*   **Mathematics:** Mdm Nicole Yao Baoji 
-*   **Mathematics:** M Thiruckumaran
+*   **Mathematics:** Ms Bay Chee Feng
+*   **Mathematics:** Ms Teo Lek Ong, Esther
 
-
-### Allied Educators (Teaching & Learning)
-
-*   **AED:** Mr Ahmad Bin Mohamed Moktar 
 
 ### Executive and Administrative Staff (EAS)
 
-*   **Administrative Manager:** Mr Vincent Tjong
+*   **Administrative Manager:** Mdm Anita Binte Bidin
 *   **Operational Manager:** Mr K Pethannasamy
-*   **ICT Manager:** Mdm Noor Ijah Binte Zainol
-*   **Administrative Executive:** Mdm Anita Binte Bidin
-*   **Adjunct Administrative Executive:** Mdm Nakia Binte Razalee
+*   **Operational Manager:** Mr Mazelan Bin Selamat
+*   **Administrative Executive:** Mdm Nakia Binte Razalee
 *   **Management Executive:** Ms Sivaranjini Mayakestan
 *   **Corporate Support Officer:** Mdm Noor Aisah Binte Ali
+*   **Corporate Support Officer:** Ms Seah Chiu Ping, Cindy
 *   **Operations Support Officer (Admin):** Mdm Toh Swan Choo
 *   **Operations Support Officer:** Mdm Malaiarasi d/o Kandan
-*    **Operations Support Officer:** Mdm Rajaletchimi
-*    **Operations Support Officer:** Mr Syed Ibrahim Shah
+*   **Operations Support Officer:** Mr Syed Ibrahim Shah
 *    **Operations Support Officer:** Mr Hasnuddin Bin Abdul Mailk
 *   **Technical Support Officer (D&T):** Mr Ho Seong Kong
 *   **Technical Support Officer (D&T):** Mdm Sumathi d/o S Dorai Samy
