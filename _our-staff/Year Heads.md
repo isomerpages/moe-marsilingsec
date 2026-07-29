@@ -45,7 +45,7 @@ policies in the school.</p>
 <p>Year Head/Lower Sec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd Suhadi</p>
+<p>Mrs Kalaivani D/O Kanagasundram</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ext. 1041</p>
