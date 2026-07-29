@@ -23,7 +23,7 @@ variant: tiptap
 <p><strong>Secondary 4/5 - </strong><a href="https://go.gov.sg/mss-s45hblccp" rel="noopener nofollow" target="_blank">https://go.gov.sg/mss-s45hblccp</a>
 </p>
 <p></p>
-<h4><strong>2026 Semester 2 Timetable</strong> <strong>(Updated on 2 July 2026)</strong></h4>
+<h4><strong>2026 Semester 2 Timetable</strong> <strong>(Updated on 17 July 2026)</strong></h4>
 <p><strong>With effect from Even Week, 7 July 2026 [6 July, Youth Day)</strong>
 </p>
 <p><strong>Note: Odd Week -29 June to 3 July 2026</strong>
@@ -32,26 +32,26 @@ variant: tiptap
 </p>
 <p><strong><u>Secondary 1</u></strong>
 </p>
-<p><a href="/files/2026 Sem 2 Timetable/New/2026_MSS_SEM2_Timetable__1RT_1RY_1RE__v1_3.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 1 RE/RT/RY Semester 2 Odd &amp; Even Timetable (Version 1.3)</a>
+<p><a href="/files/2026 Sem 2 Timetable/New/2026_MSS_SEM2_Timetable__1RT_1RY_1RE__v1_3_w_S4_5_SRP__17_July_.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 1 RE/RT/RY Semester 2 Odd &amp; Even Timetable (Version 1.3 with Sec 4&amp;5 SRP)</a>
 </p>
-<p><a href="/files/2026 Sem 2 Timetable/New/2026_MSS_SEM2_Timetable__1IY_1CE_1HY__v1_3.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 1 CE/HY/IY Semester 2 Odd &amp; Even Timetable (Version 1.3)</a>
+<p><a href="/files/2026 Sem 2 Timetable/New/2026_MSS_SEM2_Timetable__1IY_1CE_1HY__v1_3_w_S4_5_SRP__17_July_.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 1 CE/HY/IY Semester 2 Odd &amp; Even Timetable (Version 1.3 with Sec 4&amp;5 SRP)</a>
 </p>
 <p><strong><u>Secondary 2</u></strong>
 </p>
-<p><a href="/files/2026 Sem 2 Timetable/New/2026_MSS_SEM2_Timetable__2RT_2RY_2RE__v1_3.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 2 RE/RT/RY Semester 2 Odd &amp; Even Timetable (Version 1.3)</a>
+<p><a href="/files/2026 Sem 2 Timetable/New/2026_MSS_SEM2_Timetable__2RT_2RY_2RE__v1_3_w_S4_5_SRP__17_July_.pdf" rel="noopener nofollow" target="_blank"> 2026 Secondary 2 RE/RT/RY Semester 2 Odd &amp; Even Timetable (Version 1.3 with Sec 4&amp;5 SRP)</a>
 </p>
-<p><a href="/files/2026 Sem 2 Timetable/New/2026_MSS_SEM2_Timetable__2IY_2CE_2HY__v1_3.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 2 CE/HY/IY Semester 2 Odd &amp; Even Timetable (Version 1.3)</a>
+<p><a href="/files/2026 Sem 2 Timetable/New/2026_MSS_SEM2_Timetable__2IY_2CE_2HY__v1_3_w_S4_5_SRP__17_July_.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 2 CE/HY/IY Semester 2 Odd &amp; Even Timetable (Version 1.3 with Sec 4&amp;5 SRP)</a>
 </p>
 <p><strong><u>Secondary 3</u></strong>
 </p>
-<p><a href="/files/2026 Sem 2 Timetable/New/2026_MSS_SEM2_Timetable__3RT_3RY_3RE__v1_3.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 3 RE/RT/RY Semester 2 Odd &amp; Even Timetable (Version 1.3)</a>
+<p><a href="/files/2026 Sem 2 Timetable/New/2026_MSS_SEM2_Timetable__3RT_3RY_3RE__v1_3_w_S4_5_SRP__17_July_.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 3 RE/RT/RY Semester 2 Odd &amp; Even Timetable (Version 1.3 with Sec 4&amp;5 SRP)</a>
 </p>
-<p><a href="/files/2026 Sem 2 Timetable/New/2026_MSS_SEM2_Timetable__3IY_3CE_3HY__v1_3.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 3 CE/HY/IY Semester 2 Odd &amp; Even Timetable (Version 1.3)</a>
+<p><a href="/files/2026 Sem 2 Timetable/New/2026_MSS_SEM2_Timetable__3IY_3CE_3HY__v1_3_w_S4_5_SRP__17_July_.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 3 CE/HY/IY Semester 2 Odd &amp; Even Timetable (Version 1.3 with Sec 4&amp;5 SRP)</a>
 </p>
 <p><strong><u>Secondary 4 and 5</u></strong>
 </p>
-<p><a href="/files/2026_Sem_2_TT_4RT4RY5RE_V1_3_Sec_4_5_SRP.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4RT_4RY_5RE Semester 2 Odd &amp; Even Timetable (Version 1.3) - With SRP</a>
+<p><a href="/files/2026_Sem_2_TT_4RT4RY5RE_V1_3_Sec_4_5_SRP.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4RT_4RY_5RE Semester 2 Odd &amp; Even Timetable (Version 1.3 with Sec 4&amp;5 SRP) </a>
 </p>
-<p><a href="/files/2026_Sem_2_TT_4RE4GH4RL4IN_V1_3_Sec_4_5_SRP.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4GH/4RE/4RL/4IN Semester 2 Odd &amp; Even Timetable (Version 1.3) - With SRP</a>
+<p><a href="/files/2026 Sem 2 Timetable/New/2026_MSS_SEM2_Timetable__4RE_4GH_4RL_4IN__v1_3_w_S4_5_SRP__17_July_.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4GH/4RE/4RL/4IN Semester 2 Odd &amp; Even Timetable (Version 1.3 with Sec 4&amp;5 SRP)</a>
 </p>
 <p></p>
